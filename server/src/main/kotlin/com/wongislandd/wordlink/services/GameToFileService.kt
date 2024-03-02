@@ -1,5 +1,6 @@
-package com.wongislandd.wordlink
+package com.wongislandd.wordlink.services
 
+import com.wongislandd.wordlink.utils.BaseLogger
 import org.springframework.core.io.ResourceLoader
 import org.springframework.stereotype.Service
 import java.io.File
@@ -8,7 +9,7 @@ import java.io.File
  * Responsible for knowing the mapping of gameId <-> file
  */
 @Service
-class GameToFileService(private val resourceLoader: ResourceLoader) : Logger() {
+class GameToFileService(private val resourceLoader: ResourceLoader) : BaseLogger() {
 
     fun findFile(gameId: Long): File {
         val dir = resourceLoader.getResource(GAMES_RESOURCE_PATH).file

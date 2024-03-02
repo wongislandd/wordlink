@@ -1,5 +1,6 @@
-package com.wongislandd.wordlink
+package com.wongislandd.wordlink.resources
 
+import com.wongislandd.wordlink.services.ScoreService
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController

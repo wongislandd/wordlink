@@ -1,12 +1,16 @@
-package com.wongislandd.wordlink
+package com.wongislandd.wordlink.services
 
+import com.wongislandd.wordlink.utils.BaseLogger
+import com.wongislandd.wordlink.utils.Entry
+import com.wongislandd.wordlink.utils.FileUtils
+import com.wongislandd.wordlink.utils.WeirdCache
 import org.springframework.stereotype.Service
 
 /**
  * Takes in gameId -> gives results for the game.
  */
 @Service
-class GameReaderService(private val gameToFileService: GameToFileService): Logger() {
+class GameReaderService(private val gameToFileService: GameToFileService): BaseLogger() {
 
     // Slight caching optimization
     private val weirdCache: WeirdCache<Long, List<Entry>> = WeirdCache()

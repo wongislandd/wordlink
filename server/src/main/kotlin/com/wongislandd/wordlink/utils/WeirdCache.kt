@@ -1,4 +1,4 @@
-package com.wongislandd.wordlink
+package com.wongislandd.wordlink.utils
 
 /**
  * Caches a max of two values at any given time, gets rid of the oldest ones.

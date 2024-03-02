@@ -1,12 +1,14 @@
-package com.wongislandd.wordlink
+package com.wongislandd.wordlink.services
 
+import com.wongislandd.wordlink.utils.BaseLogger
+import com.wongislandd.wordlink.utils.Entry
 import org.springframework.stereotype.Service
 
 /**
  * Scores a guess on a game
  */
 @Service
-class ScoreService(private val gameReaderService: GameReaderService) : Logger() {
+class ScoreService(private val gameReaderService: GameReaderService) : BaseLogger() {
 
     fun identifyScore(word: String, gameId: Long): String {
         val entriesForGame = gameReaderService.getEntriesForGame(gameId)
