@@ -37,7 +37,7 @@ def clean(word) -> str:
 def nounify(word) -> str:
     return word
 
-# Sort the results alphabetically to optimize searching, each word should have the proper index
+# Sort the games alphabetically to optimize searching, each word should have the proper index
 def sort(wordAndScores):
     # Since we're sorting, should I still include the target word?
     # Sorting is good for finding the score of any provided string, but not for identifying the target
