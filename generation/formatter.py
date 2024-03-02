@@ -32,7 +32,7 @@ def expandWord(originalWord):
 # Enforce conventions (e.g no spaces, underscores, etc.)
 def clean(word) -> str:
     # For now, if the word has multiple words, take the first one. "crown_prince" -> "prince"
-    return nounify(word).split("_")[0]
+    return nounify(word).split("_")[0].lower()
 
 def nounify(word) -> str:
     return word
