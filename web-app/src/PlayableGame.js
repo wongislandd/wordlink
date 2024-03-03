@@ -5,7 +5,7 @@ import React, { useState } from 'react'
 import { GUESS_API_ROUTE } from './RouteConstants';
 
 // too much logic in here, can we extract to helper classes? ARE CLASSES EVEN REAL IN JAVASCRIPT?
-const PlayableGame = () => {
+const PlayableGame = ({gameId}) => {
     const [history, setHistory] = useState([]);
 
     const validateGuess = (guess) => {
@@ -24,7 +24,7 @@ const PlayableGame = () => {
     const checkScore = (guess) => {
         let bodyData = {
             word : guess,
-            gameId : 5
+            gameId : gameId
         }
         axios({
             method: "post",
@@ -43,7 +43,6 @@ const PlayableGame = () => {
     }
 
     const handleNewGuess = (guess) => {
-      console.log(guess)
       // Make the request
       if (validateGuess(guess)) {
         checkScore(guess)
@@ -52,7 +51,7 @@ const PlayableGame = () => {
   
     return (
       <div className='playableGame'>
-        <header className='header'>Take a guess</header>
+        <header className='header'>Take a guess (game {gameId})</header>
         <GuessInput onGuess={handleNewGuess} />
         <History history={history} />
       </div>

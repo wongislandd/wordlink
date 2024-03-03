@@ -2,13 +2,14 @@ import React, { useState } from 'react'
 import PlayableGame from './PlayableGame'
 import GameSelector from './GameSelector';
 
-
-// too much logic in here, can we extract to helper classes? ARE CLASSES EVEN REAL IN JAVASCRIPT?
 const Game = () => {
-    const [selectedGameId, setSelectedGameId] = useState(5);
+    const [ selectedGameId, setSelectedGameId] = useState(null);
+    const onSelectionChange = (newSelection) => {
+        setSelectedGameId(newSelection)
+    }
     return (
       <div className='game'>
-        {selectedGameId ? <PlayableGame/> : <GameSelector/>}
+        {selectedGameId ? <PlayableGame gameId={selectedGameId}/> : <GameSelector selectedGameId = {selectedGameId} onSelectionChange={onSelectionChange}/>}
       </div>
     );
   };

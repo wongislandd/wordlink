@@ -16,7 +16,7 @@ class GameToFileService(private val resourceLoader: ResourceLoader) : BaseLogger
 
         // Check if the directory path exists and is indeed a directory
         if (!dir.exists() || !dir.isDirectory) {
-            throw IllegalStateException("No file starting with $gameId found in the game directory.")
+            throw IllegalStateException("No games directory found.")
         }
 
         // Filter files in the directory that start with the specified number
@@ -31,6 +31,18 @@ class GameToFileService(private val resourceLoader: ResourceLoader) : BaseLogger
         } else {
             throw IllegalStateException("No file starting with $gameId found in the game directory.")
         }
+    }
+
+    fun countGames(): Int {
+        val dir = resourceLoader.getResource(GAMES_RESOURCE_PATH).file
+
+        // Check if the directory path exists and is indeed a directory
+        if (!dir.exists() || !dir.isDirectory) {
+            throw IllegalStateException("No games directory found.")
+        }
+
+        return dir.listFiles()?.size ?: 0
+
     }
 
     companion object {
