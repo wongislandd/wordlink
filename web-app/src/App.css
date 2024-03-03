@@ -79,8 +79,10 @@
 
 /* Applying the animation */
 .glowing {
+  border: 4px solid transparent;
   animation: glow-animation 2s infinite alternate;
 }
+
 .guessInput {
   width: 50vh;
 }
