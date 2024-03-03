@@ -1,12 +1,13 @@
 package com.wongislandd.wordlink.services
 
+import com.wongislandd.wordlink.client.DictionaryClient
 import org.springframework.stereotype.Service
 
 @Service
-class GuessValidationService {
+class GuessValidationService(private val dictionaryClient: DictionaryClient) {
 
     private fun isValidWord(word: String): Boolean {
-        return true
+        return dictionaryClient.checkDictionary(word)
     }
 
     fun consider(word: String): String? {
