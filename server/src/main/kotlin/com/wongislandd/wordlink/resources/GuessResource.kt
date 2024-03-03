@@ -28,7 +28,7 @@ class GuessResource(private val scoreService: ScoreService, private val guessVal
             val validWord = guessValidationService.consider(word)
             validWord?.let {
                 return scoreService.identifyScore(it, gameId)
-            } ?: throw ResponseStatusException(HttpStatus.BAD_REQUEST, "Invalid word!")
+            } ?: throw ResponseStatusException(HttpStatus.NOT_FOUND, "Invalid word!")
         } else {
             LOGGER.error("Found request with invalid input! Word: $word, GameId: $gameId")
             throw ResponseStatusException(

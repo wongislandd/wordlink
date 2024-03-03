@@ -2,9 +2,10 @@ import React, { useContext } from 'react'
 import PlayableGame from './PlayableGame'
 import GameSelector from './GameSelector';
 import GameStateContext from './GameStateContext';
+import { LinearProgress, Stack } from '@mui/material';
 
 const Game = () => {
-    const { gameState, setGameState } = useContext(GameStateContext)
+    const { gameState, setGameState, isLoading } = useContext(GameStateContext)
     const onSelectionChange = (newGameDetails) => {
       setGameState(({
         selectedGameDetails: newGameDetails,
@@ -12,9 +13,12 @@ const Game = () => {
       }))
     }
     return (
-      <div className='game'>
+      <Stack sx={{ width: '100%', color: 'black.500'}} spacing={2} className='game'>
+        <div className='loadingIndicator'> 
+          {isLoading ? <LinearProgress /> : ""}
+        </div>
         {gameState.selectedGameDetails ? <PlayableGame gameDetails={gameState.selectedGameDetails}/> : <GameSelector onSelectionChange={onSelectionChange}/>}
-      </div>
+      </Stack>
     );
   };
   

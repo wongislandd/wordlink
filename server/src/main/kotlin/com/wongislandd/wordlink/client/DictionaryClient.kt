@@ -5,13 +5,11 @@ import com.google.gson.reflect.TypeToken
 import com.wongislandd.wordlink.models.DictionaryEntry
 import org.springframework.boot.web.client.RestTemplateBuilder
 import org.springframework.stereotype.Service
-import org.springframework.web.client.RestTemplate
 import org.springframework.web.client.getForObject
 
 @Service
 class DictionaryClient {
-
-
+    
     private val gson = Gson()
 
     fun checkDictionary(word: String): Boolean {

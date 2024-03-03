@@ -8,8 +8,12 @@ const GameStateProvider = ({ children }) => {
     isCompleted: false
   });
 
+  const [isLoading, setLoading] = useState(false)
+
+  const [guessHistory, setGuessHistory] = useState([])
+
   return (
-    <GameStateContext.Provider value={{ gameState, setGameState }}>
+    <GameStateContext.Provider value={{ gameState, setGameState, isLoading, setLoading, guessHistory, setGuessHistory }}>
       {children}
     </GameStateContext.Provider>
   );

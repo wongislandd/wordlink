@@ -1,31 +1,22 @@
 import GuessInput from './GuessInput';
 import History from './History'
 import axios from 'axios'
-import React, { useState } from 'react'
+import React, { useState, useContext } from 'react'
 import { GUESS_API_ROUTE } from './RouteConstants';
+import GameStateContext from './GameStateContext';
+
+const INVALID_GUESS_STATUS_CODE = 404
 
 // too much logic in here, can we extract to helper classes? ARE CLASSES EVEN REAL IN JAVASCRIPT?
 const PlayableGame = ({gameDetails}) => {
-    const [history, setHistory] = useState([]);
+    const { setLoading, guessHistory, setGuessHistory } = useContext(GameStateContext)
 
-    const validateGuess = (guess) => {
-        if (!guess.trim()) {
-            alert("The guess cannot be empty.");
-            return false
-        }
-        // Check if the guess is already in the history
-        if (history.some(guessResults => guessResults.word === guess)) {
-            alert("You've already guessed that word. Try something new!");
-            return false
-        }
-        return true;
-    }
-
-    const checkScore = (guess) => {
+    const checkScore = (guess, onGuessHandledCallback) => {
         let bodyData = {
             word : guess,
             gameId : gameDetails.gameId
         }
+        setLoading(true)
         axios({
             method: "post",
             url: GUESS_API_ROUTE,
@@ -33,28 +24,30 @@ const PlayableGame = ({gameDetails}) => {
             headers: { "Content-Type": "multipart/form-data"}
         }).then((response) => {
             if (response.data != null) {
-              let updatedHistory = [...history, response.data]
+              let updatedHistory = [...guessHistory, response.data]
               updatedHistory.sort((a, b) => a.score - b.score);
-              setHistory(updatedHistory);
+              setGuessHistory(updatedHistory);
+              onGuessHandledCallback(true)
             }
         }).catch((exception) => {
             console.log(exception)
-            alert("Error scoring the guess!")
-        })
+            if (exception.response.status === INVALID_GUESS_STATUS_CODE) {
+              onGuessHandledCallback(false)
+            } else {
+              alert("Error scoring the guess!")
+            }
+        }).finally(() => setLoading(false))
     }
 
-    const handleNewGuess = (guess) => {
-      // Make the request
-      if (validateGuess(guess)) {
-        checkScore(guess)
-      }
+    const handleNewGuess = (guess, onGuessHandledCallback) => {
+       checkScore(guess, onGuessHandledCallback)
     };
   
     return (
       <div className='playableGame'>
         <header className='header'>Take a guess (game {gameDetails.gameId})</header>
         <GuessInput onGuess={handleNewGuess} />
-        <History history={history} gameDetails={gameDetails}/>
+        <History history={guessHistory} gameDetails={gameDetails}/>
       </div>
     );
   };
