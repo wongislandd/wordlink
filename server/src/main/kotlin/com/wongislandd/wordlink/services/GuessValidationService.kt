@@ -5,7 +5,11 @@ import org.springframework.stereotype.Service
 @Service
 class GuessValidationService {
 
-    fun isValidWord(word: String): Boolean {
+    private fun isValidWord(word: String): Boolean {
         return true
+    }
+
+    fun consider(word: String): String? {
+        return if (isValidWord(word)) word else null
     }
 }

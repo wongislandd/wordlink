@@ -1,6 +1,7 @@
 package com.wongislandd.wordlink.resources
 
 import com.wongislandd.wordlink.models.Score
+import com.wongislandd.wordlink.services.GuessValidationService
 import com.wongislandd.wordlink.services.ScoreService
 import com.wongislandd.wordlink.utils.BaseLogger
 import org.springframework.http.HttpStatus
@@ -15,7 +16,7 @@ import org.springframework.web.server.ResponseStatusException
  */
 @RestController
 @RequestMapping("/guess")
-class GuessResource(val scoreService: ScoreService): BaseLogger() {
+class GuessResource(private val scoreService: ScoreService, private val guessValidationService: GuessValidationService): BaseLogger() {
 
     /**
      * Allows a user to guess a word on a game.
@@ -24,7 +25,10 @@ class GuessResource(val scoreService: ScoreService): BaseLogger() {
     @CrossOrigin
     fun guess(word: String?, gameId: Long?): Score {
         if (word != null && gameId != null) {
-            return scoreService.identifyScore(word, gameId)
+            val validWord = guessValidationService.consider(word)
+            validWord?.let {
+                return scoreService.identifyScore(it, gameId)
+            } ?: throw ResponseStatusException(HttpStatus.BAD_REQUEST)
         } else {
             LOGGER.error("Found request with invalid input! Word: $word, GameId: $gameId")
             throw ResponseStatusException(
