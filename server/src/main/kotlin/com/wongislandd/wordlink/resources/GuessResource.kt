@@ -1,6 +1,7 @@
 package com.wongislandd.wordlink.resources
 
 import com.wongislandd.wordlink.services.ScoreService
+import org.springframework.web.bind.annotation.CrossOrigin
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController
@@ -12,8 +13,12 @@ import org.springframework.web.bind.annotation.RestController
 @RequestMapping("/guess")
 class GuessResource(val scoreService: ScoreService) {
 
+    /**
+     * Allows a user to guess a word on a game.
+     */
     @PostMapping
-    fun test(word: String?, gameId: Long?): String? {
+    @CrossOrigin
+    fun guess(word: String?, gameId: Long?): String? {
         return word?.let {
             return gameId?.let {
                 return scoreService.identifyScore(word, gameId)
