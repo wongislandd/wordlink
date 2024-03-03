@@ -8,14 +8,14 @@ const calculateColorCoverage = (number, emptyThreshold) => {
   return coverage;
 };
 
-const ColoredBox = ({ word, score, unrelated = false, baseColor = '#007bff', emptyThreshold = 10 }) => {
+const ColoredBox = ({ word, score, isAnswer, baseColor = '#007bff', emptyThreshold = 10 }) => {
   const colorCoverage = calculateColorCoverage(score, emptyThreshold);
   const backgroundColor = `linear-gradient(to right, ${baseColor} ${colorCoverage}%, white ${colorCoverage}%)`;
 
   return (
-    <div className="colored-box" style={{ background: backgroundColor }}>
+    <div className={`colored-box ${isAnswer ? 'glowing' : ''}`} style={{ background: backgroundColor }}>
       <span>{word}</span> {/* Text on the left */}
-      <span>{score}{unrelated ? "+" : ""}</span> {/* Number on the right */}
+      <span>{score}</span> {/* Number on the right */}
     </div>
   );
 }

@@ -2,7 +2,7 @@ package com.wongislandd.wordlink.services
 
 import com.wongislandd.wordlink.resources.Score
 import com.wongislandd.wordlink.utils.BaseLogger
-import com.wongislandd.wordlink.utils.Entry
+import com.wongislandd.wordlink.models.Entry
 import org.springframework.stereotype.Service
 
 /**

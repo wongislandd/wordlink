@@ -1,10 +1,10 @@
 import { Button, FormControl, InputLabel, MenuItem, Select } from '@mui/material';
 import React, { useEffect, useState } from 'react'
 import axios from 'axios'
-import { GET_GAME_IDS_ROUTE } from './RouteConstants';
+import { GET_GAME_IDS_ROUTE, GET_GAME_DETAILS_ROUTE } from './RouteConstants';
 
-const GameSelector = ({selectedGameId, onSelectionChange}) => {
-    const [ localSelection, setLocalSelection ] = useState(selectedGameId);
+const GameSelector = ({onSelectionChange}) => {
+    const [ localSelection, setLocalSelection ] = useState(null);
     const [ gameIdOptions, setGameIdOptions] = useState([]);
 
 
@@ -16,17 +16,31 @@ const GameSelector = ({selectedGameId, onSelectionChange}) => {
                 console.log(res.data)
                 setGameIdOptions(res.data)
             }
-          }).catch(error => console.log(error))
+          }).catch(error => {
+            console.log(error)
+            alert("Could not fetch game list")
+          })
       }, []
     )
+
+    const grabSelectedGameDetails= () => {
+      axios.get(GET_GAME_DETAILS_ROUTE, {
+        params: { gameId: localSelection }
+      }).then(res => {
+          if (res.data != null) {
+              console.log(res.data)
+              onSelectionChange(res.data)
+          }
+        }).catch(error => {
+            console.log(error)
+            alert("Could not fetch game details")
+        }
+        )
+    }
 
     const handleChange = (event) => {
         setLocalSelection(event.target.value);
     };
-
-    const lockInLocalSelection = () => {
-        onSelectionChange(localSelection)
-    }
 
     return (
     <div className='gameSelector'>
@@ -46,7 +60,7 @@ const GameSelector = ({selectedGameId, onSelectionChange}) => {
         </Select>
         </FormControl>
         <div className='paddingTop'>
-            <Button variant="contained" onClick={(e) => lockInLocalSelection()}>Start</Button>
+            <Button variant="contained" onClick={(e) => grabSelectedGameDetails()}>Start</Button>
         </div>
       </div>
     );

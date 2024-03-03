@@ -1,7 +1,7 @@
 package com.wongislandd.wordlink.services
 
 import com.wongislandd.wordlink.utils.BaseLogger
-import com.wongislandd.wordlink.utils.Entry
+import com.wongislandd.wordlink.models.Entry
 import com.wongislandd.wordlink.utils.FileUtils
 import com.wongislandd.wordlink.utils.WeirdCache
 import org.springframework.stereotype.Service

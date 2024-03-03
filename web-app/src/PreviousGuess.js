@@ -1,7 +1,13 @@
 import ColoredBox from './ColoredBox';
 
 
-export default function PreviousGuess({previousGuess}) {
+export default function PreviousGuess({guessResult, gameDetails}) {
+    function determineScoreText(guessResult) {
+      if(guessResult.score === 0) return ''
+      if(guessResult.unrelated) return guessResult.score + "+"
+      else return guessResult.score
+    }
+
     function determineColor(score, emptyThreshold) {
         // Special case for a score of 0, which gets gold
         if (score === 0) return 'gold';
@@ -27,10 +33,11 @@ export default function PreviousGuess({previousGuess}) {
         return color;
       }
       
-    let emptyThreshold = 5000
-    let color = determineColor(previousGuess.score, emptyThreshold)
+    let emptyThreshold = gameDetails.totalAssociations
+    let scoreText = determineScoreText(guessResult)
+    let color = determineColor(guessResult.score, emptyThreshold)
 
     return <div className="previousGuess">
-        <ColoredBox word={previousGuess.word} score={previousGuess.score} unrelated={previousGuess.unrelated} baseColor={color} emptyThreshold={5000}/>
+        <ColoredBox word={guessResult.word} score={scoreText} isAnswer={guessResult.score === 0} baseColor={color} emptyThreshold={emptyThreshold}/>
     </div>
 }

@@ -3,13 +3,13 @@ import PlayableGame from './PlayableGame'
 import GameSelector from './GameSelector';
 
 const Game = () => {
-    const [ selectedGameId, setSelectedGameId] = useState(null);
+    const [ selectedGameDetails, setSelectedGameDetails] = useState(null);
     const onSelectionChange = (newSelection) => {
-        setSelectedGameId(newSelection)
+      setSelectedGameDetails(newSelection)
     }
     return (
       <div className='game'>
-        {selectedGameId ? <PlayableGame gameId={selectedGameId}/> : <GameSelector selectedGameId = {selectedGameId} onSelectionChange={onSelectionChange}/>}
+        {selectedGameDetails ? <PlayableGame gameDetails={selectedGameDetails}/> : <GameSelector onSelectionChange={onSelectionChange}/>}
       </div>
     );
   };

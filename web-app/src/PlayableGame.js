@@ -5,7 +5,7 @@ import React, { useState } from 'react'
 import { GUESS_API_ROUTE } from './RouteConstants';
 
 // too much logic in here, can we extract to helper classes? ARE CLASSES EVEN REAL IN JAVASCRIPT?
-const PlayableGame = ({gameId}) => {
+const PlayableGame = ({gameDetails}) => {
     const [history, setHistory] = useState([]);
 
     const validateGuess = (guess) => {
@@ -14,7 +14,7 @@ const PlayableGame = ({gameId}) => {
             return false
         }
         // Check if the guess is already in the history
-        if (history.some(previousGuess => previousGuess.word == guess)) {
+        if (history.some(guessResults => guessResults.word === guess)) {
             alert("You've already guessed that word. Try something new!");
             return false
         }
@@ -24,7 +24,7 @@ const PlayableGame = ({gameId}) => {
     const checkScore = (guess) => {
         let bodyData = {
             word : guess,
-            gameId : gameId
+            gameId : gameDetails.gameId
         }
         axios({
             method: "post",
@@ -39,6 +39,7 @@ const PlayableGame = ({gameId}) => {
             }
         }).catch((exception) => {
             console.log(exception)
+            alert("Error scoring the guess!")
         })
     }
 
@@ -51,9 +52,9 @@ const PlayableGame = ({gameId}) => {
   
     return (
       <div className='playableGame'>
-        <header className='header'>Take a guess (game {gameId})</header>
+        <header className='header'>Take a guess (game {gameDetails.gameId})</header>
         <GuessInput onGuess={handleNewGuess} />
-        <History history={history} />
+        <History history={history} gameDetails={gameDetails}/>
       </div>
     );
   };

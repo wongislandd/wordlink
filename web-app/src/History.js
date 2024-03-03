@@ -1,9 +1,9 @@
 import PreviousGuess from "./PreviousGuess";
 
-export default function History({history}) {
+export default function History({history, gameDetails}) {
     return <div className="history">
-        {history.map(element => {
-            return <PreviousGuess key={element.word} previousGuess={element} />
+        {history.map(guessResult => {
+            return <PreviousGuess key={guessResult.word} guessResult={guessResult} gameDetails={gameDetails}/>
         })}
     </div>
 }
