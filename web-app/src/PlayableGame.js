@@ -1,7 +1,7 @@
 import GuessInput from './GuessInput';
 import History from './History'
 import axios from 'axios'
-import React, { useState, useContext } from 'react'
+import React, { useContext } from 'react'
 import { GUESS_API_ROUTE } from './RouteConstants';
 import GameStateContext from './GameStateContext';
 

@@ -132,6 +132,11 @@
   width: 50vh;
 }
 
+.list-container {
+  flex-grow: 1; /* Make the list container take up the remaining space */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
 @keyframes shake {
   0%, 100% {
     transform: translateX(0);
@@ -141,5 +146,28 @@
   }
   20%, 40%, 60%, 80% {
     transform: translateX(10px);
+  }
+}
+
+
+.wordlink-logo {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000; /* Ensures the logo stays on top of other content */
+}
+
+.wordlink-logo img {
+  width: 200px; /* Adjust based on your logo's size */
+  height: auto;
+}
+
+/* Keyframes for the shine effect */
+@keyframes shine {
+  0% {
+    background-position: top right;
+  }
+  100% {
+    background-position: top left;
   }
 }
