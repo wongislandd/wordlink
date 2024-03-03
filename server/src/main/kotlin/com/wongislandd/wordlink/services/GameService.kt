@@ -1,17 +1,34 @@
 package com.wongislandd.wordlink.services
 
 import com.wongislandd.wordlink.utils.BaseLogger
+import com.wongislandd.wordlink.models.Entry
+import com.wongislandd.wordlink.utils.FileUtils
+import com.wongislandd.wordlink.utils.WeirdCache
 import org.springframework.core.io.ResourceLoader
 import org.springframework.stereotype.Service
 import java.io.File
 
 /**
- * Responsible for knowing the mapping of gameId <-> file
+ * Takes in gameId -> gives results for the game.
  */
 @Service
-class GameToFileService(private val resourceLoader: ResourceLoader) : BaseLogger() {
+class GameService(private val resourceLoader: ResourceLoader): BaseLogger() {
 
-    fun findFile(gameId: Long): File {
+    // Slight caching optimization
+    private val weirdCache: WeirdCache<Long, List<Entry>> = WeirdCache()
+
+    fun getEntriesForGame(gameId: Long): List<Entry> {
+        // Check if we have this in the cache
+        val cachedResult = weirdCache.get(gameId)
+        if (cachedResult != null) {
+            return cachedResult
+        }
+        val associatedFile = findFile(gameId)
+        val results = FileUtils.parseFile(associatedFile)
+        return results
+    }
+
+    private fun findFile(gameId: Long): File {
         val dir = resourceLoader.getResource(GAMES_RESOURCE_PATH).file
 
         // Check if the directory path exists and is indeed a directory

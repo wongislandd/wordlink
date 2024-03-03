@@ -1,18 +1,18 @@
 package com.wongislandd.wordlink.services
 
-import com.wongislandd.wordlink.resources.Score
-import com.wongislandd.wordlink.utils.BaseLogger
 import com.wongislandd.wordlink.models.Entry
+import com.wongislandd.wordlink.models.Score
+import com.wongislandd.wordlink.utils.BaseLogger
 import org.springframework.stereotype.Service
 
 /**
  * Scores a guess on a game
  */
 @Service
-class ScoreService(private val gameReaderService: GameReaderService) : BaseLogger() {
+class ScoreService(private val gameService: GameService) : BaseLogger() {
 
     fun identifyScore(word: String, gameId: Long): Score {
-        val entriesForGame = gameReaderService.getEntriesForGame(gameId)
+        val entriesForGame = gameService.getEntriesForGame(gameId)
         val entryFound = binarySearch(entriesForGame, word)
         if (entryFound == null) {
             LOGGER.warn("Couldn't find an associated entry with the guess $word")

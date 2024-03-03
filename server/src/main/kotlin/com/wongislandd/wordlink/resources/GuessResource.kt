@@ -1,5 +1,6 @@
 package com.wongislandd.wordlink.resources
 
+import com.wongislandd.wordlink.models.Score
 import com.wongislandd.wordlink.services.ScoreService
 import com.wongislandd.wordlink.utils.BaseLogger
 import org.springframework.http.HttpStatus
@@ -8,8 +9,6 @@ import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController
 import org.springframework.web.server.ResponseStatusException
-
-data class Score(val word: String, val score: Long, val unrelated: Boolean = false)
 
 /**
  * External facing resource which takes in a guess on a game and provides a score
