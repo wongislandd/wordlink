@@ -38,13 +38,6 @@
   padding-top: 16px;
 }
 
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  padding-top: 50px; /* Adjust this value to position the content higher or lower */
-}
 
 .colored-box {
   font-family: 'Comic Sans MS', cursive, sans-serif; /* Maintaining the playful font */
@@ -149,14 +142,6 @@
   }
 }
 
-
-.wordlink-logo {
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1000; /* Ensures the logo stays on top of other content */
-}
-
 .wordlink-logo img {
   width: 200px; /* Adjust based on your logo's size */
   height: auto;
@@ -170,4 +155,76 @@
   100% {
     background-position: top left;
   }
+}
+
+.bottom-element {
+  position: absolute; /* Absolute positioning relative to the nearest positioned ancestor (the container) */
+  bottom: 0; /* Align to the bottom */
+  width: 100%; /* Optional: it depends on how you want the bottom element to fill the container */
+}
+
+.side-panel-container {
+  display: flex; /* Use Flexbox */
+  flex-direction: column; /* Stack children vertically */
+  justify-content: space-between; /* Space between items, pushing the last item to the bottom */
+  height: 100%; /* Takes up full height of its parent, adjust as necessary */
+  border: 1px solid #000; /* Just to show the container's boundary, optional */
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.side-panel {
+  width: 15%;
+  background-color: #77dd77; /* Example color */
+  /* Ensure the side panel fills the vertical space */
+  height: 100%;
+}
+
+.main-content {
+  /* Ensure the main content fills the remaining horizontal space */
+  background-color: #f8f8f7; /* Example color */
+  /* Add some padding if you want to ensure content doesn't touch the edges */
+  padding: 20px;
+  box-sizing: border-box; /* Include padding in the element's total width and height */
+}
+
+/* Directly style the centered content without additional containers */
+.centered-content {
+  /* No specific width; content width dictates size */
+  display: inline-block; /* Inline-block for the content itself */
+  /* Ensures text within the centered content is aligned */
+  text-align: left; 
+}
+
+/* This wrapper centers the .centered-content horizontally */
+.main-content-wrapper {
+  background-color: #f8f8f7; /* Example color */
+  text-align: center;
+  width: 100%;
+  /* Fill the vertical space, align content to start */
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.left-align {
+  display: inline-block; /* or 'block', depending on your layout needs */
+  text-align: left;
+  width: 100%; /* Ensure it's set to 100% or another specific width if using block or inline-block */
+}
+
+.side-padding {
+  padding-left: 20px;
+  padding-right: 20px;
 }

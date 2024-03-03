@@ -3,7 +3,6 @@ import PlayableGame from './PlayableGame'
 import GameSelector from './GameSelector';
 import GameStateContext from './GameStateContext';
 import { LinearProgress, Stack } from '@mui/material';
-import logo from './assets/wordlinkLogo-no-bg.webp'
 
 const Game = () => {
     const { gameState, setGameState, isLoading } = useContext(GameStateContext)
@@ -14,10 +13,7 @@ const Game = () => {
       }))
     }
     return (
-      <Stack sx={{ width: '100%', color: 'black.500'}} spacing={1} className='game'>
-        <div className='wordlink-logo'>
-          <img src={logo} alt="Logo"/>
-        </div>
+      <Stack sx={{ width: '100%', color: 'black.500'}} spacing={1} className='centered-element game'>
         <div className='loadingIndicator'> 
           {isLoading ? <LinearProgress /> : ""}
         </div>

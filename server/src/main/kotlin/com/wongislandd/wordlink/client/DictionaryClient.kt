@@ -9,7 +9,7 @@ import org.springframework.web.client.getForObject
 
 @Service
 class DictionaryClient {
-    
+
     private val gson = Gson()
 
     fun checkDictionary(word: String): Boolean {
