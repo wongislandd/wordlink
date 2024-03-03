@@ -1,15 +1,19 @@
-import React, { useState } from 'react'
+import React, { useContext } from 'react'
 import PlayableGame from './PlayableGame'
 import GameSelector from './GameSelector';
+import GameStateContext from './GameStateContext';
 
 const Game = () => {
-    const [ selectedGameDetails, setSelectedGameDetails] = useState(null);
-    const onSelectionChange = (newSelection) => {
-      setSelectedGameDetails(newSelection)
+    const { gameState, setGameState } = useContext(GameStateContext)
+    const onSelectionChange = (newGameDetails) => {
+      setGameState(({
+        selectedGameDetails: newGameDetails,
+        isCompleted: false
+      }))
     }
     return (
       <div className='game'>
-        {selectedGameDetails ? <PlayableGame gameDetails={selectedGameDetails}/> : <GameSelector onSelectionChange={onSelectionChange}/>}
+        {gameState.selectedGameDetails ? <PlayableGame gameDetails={gameState.selectedGameDetails}/> : <GameSelector onSelectionChange={onSelectionChange}/>}
       </div>
     );
   };
