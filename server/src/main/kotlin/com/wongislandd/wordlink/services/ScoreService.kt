@@ -1,5 +1,6 @@
 package com.wongislandd.wordlink.services
 
+import com.wongislandd.wordlink.resources.Score
 import com.wongislandd.wordlink.utils.BaseLogger
 import com.wongislandd.wordlink.utils.Entry
 import org.springframework.stereotype.Service
@@ -10,14 +11,21 @@ import org.springframework.stereotype.Service
 @Service
 class ScoreService(private val gameReaderService: GameReaderService) : BaseLogger() {
 
-    fun identifyScore(word: String, gameId: Long): String {
+    fun identifyScore(word: String, gameId: Long): Score {
         val entriesForGame = gameReaderService.getEntriesForGame(gameId)
         val entryFound = binarySearch(entriesForGame, word)
         if (entryFound == null) {
             LOGGER.warn("Couldn't find an associated entry with the guess $word")
-            return  "${entriesForGame.size}+"
+            return Score(
+                    word = word,
+                    score = entriesForGame.size.toLong(),
+                    unrelated = true
+            )
         }
-        return entryFound.score.toString()
+        return Score(
+                word = word,
+                score = entryFound.score
+        )
     }
 
     private fun binarySearch(entries: List<Entry>, target: String): Entry? {

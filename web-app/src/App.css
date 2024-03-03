@@ -24,8 +24,55 @@
   color: white;
 }
 
+.header {
+  font-family: 'Comic Sans MS', cursive, sans-serif; /* Maintaining the playful font */
+  color: #000000; /* Changing the color to black */
+  font-size: 32px; /* Increasing the font size for more emphasis */
+  padding: 15px 25px; /* Adjusting padding for the increased font size */
+  margin-bottom: 25px; /* Adjusting space below the header */
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh; /* Ensure it takes at least the full height of the viewport */
+  padding-top: 50px; /* Adjust this value to position the content higher or lower */
+}
+
+.colored-box {
+  font-family: 'Comic Sans MS', cursive, sans-serif; /* Maintaining the playful font */
+  font-weight: bold; /* Makes the text bold */
+  font-size: 1.2em; /* Sets the font size to medium. Adjust the value as needed */
+  color: black; /* Set text color to white for contrast; adjust as needed */
+  padding: 20px;
+  margin: 10px 0;
+  width: 50vh; /* Fixed width */
+  height: 2vh; /* Fixed height */
+  display: flex;
+  justify-content: space-between; /* Aligns children on opposite ends */
+  align-items: center;
+  overflow: hidden; /* Prevents text from overflowing */
+  text-overflow: 'ellipsis'; /* Adds an ellipsis if the text overflows */
+  white-space: nowrap; /* Keeps the text on a single line */
+  border-radius: 8px; /* Rounds the edges */
+  border: 4px solid black;
+}
+
 .guessInput {
   width: 50vh;
+}
+
+.game {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Center vertically */
+  align-items: center; /* Center horizontally for all content types */
+  text-align: center; /* Center text for inline/inline-block elements */
+  height: 100%; /* Adjust height as needed */
 }
 
 .App-link {

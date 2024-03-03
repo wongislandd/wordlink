@@ -1,14 +1,12 @@
 import './App.css';
-import GuessInput from './GuessInput';
-import History from './History'
+import Game from './Game';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <GuessInput/>
-        <History/>
-      </header>
+      <div className="container">
+        <Game/>
+      </div>
     </div>
   );
 }
