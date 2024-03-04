@@ -56,4 +56,4 @@ jobs:
           app-name: 'wordlink'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AF35CDBE63A1450C94DF4F49ECC595EE }}
-          package: '*.jar'
+          package: '*SNAPSHOT.jar'
