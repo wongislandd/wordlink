@@ -1,8 +1,8 @@
 // Adjust this if testing locally
 const USING_LOCAL_SERVER = process.env.NODE_ENV === "development"
-const USING_HTTP = false //process.env.NODE_ENV === "development"
+const USING_HTTP = process.env.NODE_ENV === "development"
 
-const REMOTE_BASE_URL = "20.115.73.149"
+const REMOTE_BASE_URL = "wordlink.azurewebsites.net"
 const LOCAL_BASE_URL = "localhost"
 const SCHEMA = USING_HTTP ? "http://" : "https://"
 const PORT = USING_HTTP ? ":8080" : ":8444"
