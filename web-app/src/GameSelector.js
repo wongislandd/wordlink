@@ -1,15 +1,18 @@
 import { Button, FormControl, InputLabel, MenuItem, Select } from '@mui/material';
-import React, { useEffect, useState } from 'react'
+import React, { useContext, useEffect, useState } from 'react'
 import axios from 'axios'
 import { GET_GAME_IDS_ROUTE, GET_GAME_DETAILS_ROUTE } from './RouteConstants';
+import GameStateContext from './GameStateContext';
 
 const GameSelector = ({onSelectionChange}) => {
     const [ localSelection, setLocalSelection ] = useState(null);
     const [ gameIdOptions, setGameIdOptions] = useState([]);
+    const { setLoading } = useContext(GameStateContext)
 
 
     // this is getting called twice
     useEffect(() => {
+        setLoading(true)
         axios.get(GET_GAME_IDS_ROUTE)
           .then(res => {
             if (res.data != null) {
@@ -19,11 +22,12 @@ const GameSelector = ({onSelectionChange}) => {
           }).catch(error => {
             console.log(error)
             alert("Could not fetch game list")
-          })
-      }, []
+          }).finally(() => setLoading(false))
+      }, [setLoading]
     )
 
     const grabSelectedGameDetails= () => {
+      setLoading(true)
       axios.get(GET_GAME_DETAILS_ROUTE, {
         params: { gameId: localSelection }
       }).then(res => {
@@ -35,7 +39,7 @@ const GameSelector = ({onSelectionChange}) => {
             console.log(error)
             alert("Could not fetch game details")
         }
-        )
+        ).finally(() => setLoading(false))
     }
 
     const handleChange = (event) => {
