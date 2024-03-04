@@ -75,6 +75,6 @@ class GameService(private val resourceLoader: ResourceLoader): BaseLogger() {
     }
 
     companion object {
-        private const val GAMES_RESOURCE_PATH = "classpath:games"
+        private const val GAMES_RESOURCE_PATH = "classpath*:games"
     }
 }
