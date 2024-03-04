@@ -5,8 +5,8 @@ import com.wongislandd.wordlink.models.GameFile
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import java.io.File
-import java.io.FileReader
 import java.io.IOException
+import java.io.InputStreamReader
 
 /**
  * Custom parsing helper
@@ -18,7 +18,7 @@ object FileUtils {
 
     fun parseFile(file: File): GameFile? {
         try {
-            val reader = FileReader(file)
+            val reader = InputStreamReader(file.inputStream())
             val gameFile = gson.fromJson(reader, GameFile::class.java)
             return gameFile
         } catch (e: IOException) {
