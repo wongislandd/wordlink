@@ -1,7 +1,7 @@
 // Adjust this if testing locally
 const USING_LOCAL_SERVER = process.env.NODE_ENV === "development"
 
-const SCHEMA = "http://"
+const SCHEMA = USING_LOCAL_SERVER ? "http://" : "https://"
 const REMOTE_BASE_URL = "20.115.73.149"
 const LOCAL_BASE_URL = "localhost"
 const USED_URL = USING_LOCAL_SERVER ? LOCAL_BASE_URL : REMOTE_BASE_URL
