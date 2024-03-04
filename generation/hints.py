@@ -1,6 +1,7 @@
 # Important libraries
 
 import os
+import json
 from dotenv import load_dotenv
 
 # Load secret .env file
@@ -17,8 +18,17 @@ def generate_hints(word):
         response_format={"type": "json_object"},
         messages=[
             {"role": "system",
-             "content": "You are a helpful assistant designed to output a JSON list of riddles for a given word."},
-            {"role": "user", "content": "Generate 5 riddles of medium difficulty for the word " + word}
+             "content": "You are a helpful assistant designed to output a JSON list of riddles for a given word."
+                        "You only provide one field 'riddles' in the response with only the question for the riddle" },
+            {"role": "user", "content": "Generate 3 riddles of medium difficulty for the word " + word}
         ]
     )
-    return response
+    try:
+        content = response.choices[0].message.content
+        jsonForm = json.loads(content)
+        return jsonForm['riddles']
+    except:
+        return []
+
+
+#print(generate_hints("tomato"))
