@@ -92,8 +92,6 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
-        with:
-         source-directory: ./web-app/build
+        uses: actions/deploy-pages@v4
         
     
