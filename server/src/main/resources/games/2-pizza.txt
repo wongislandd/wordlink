@@ -1,0 +1,15205 @@
+{
+"hints": [
+"What is round, cheesy, and a favorite food for many people?",
+"I have tomato sauce, cheese, and toppings, but I'm not a sandwich. What am I?",
+"I come in many different styles like Hawaiian and pepperoni. What am I?"
+],
+"associations": [
+{
+"word": "ab",
+"score": 3120
+},
+{
+"word": "ab",
+"score": 3121
+},
+{
+"word": "abattoir",
+"score": 2523
+},
+{
+"word": "abdomen",
+"score": 1913
+},
+{
+"word": "abdominal",
+"score": 3118
+},
+{
+"word": "abs",
+"score": 3117
+},
+{
+"word": "absolut",
+"score": 1594
+},
+{
+"word": "accent",
+"score": 3591
+},
+{
+"word": "accompaniment",
+"score": 2813
+},
+{
+"word": "accompaniments",
+"score": 2815
+},
+{
+"word": "acid",
+"score": 2798
+},
+{
+"word": "acme",
+"score": 1298
+},
+{
+"word": "acquaintance",
+"score": 1787
+},
+{
+"word": "acquaintances",
+"score": 3206
+},
+{
+"word": "acrylonitrile-butadiene-styrene",
+"score": 3119
+},
+{
+"word": "ad",
+"score": 3307
+},
+{
+"word": "addict",
+"score": 2742
+},
+{
+"word": "adieu",
+"score": 598
+},
+{
+"word": "administration",
+"score": 2002
+},
+{
+"word": "adolescent",
+"score": 1477
+},
+{
+"word": "adult",
+"score": 2007
+},
+{
+"word": "adventureland",
+"score": 2686
+},
+{
+"word": "advertising",
+"score": 3308
+},
+{
+"word": "afterschool",
+"score": 1924
+},
+{
+"word": "agustawestland",
+"score": 1686
+},
+{
+"word": "ahwatukee",
+"score": 3519
+},
+{
+"word": "airiness",
+"score": 376
+},
+{
+"word": "airplane",
+"score": 2332
+},
+{
+"word": "albacore",
+"score": 1896
+},
+{
+"word": "albanian",
+"score": 1687
+},
+{
+"word": "albanian",
+"score": 1688
+},
+{
+"word": "albanians",
+"score": 3515
+},
+{
+"word": "albertsons",
+"score": 2816
+},
+{
+"word": "aldi",
+"score": 1398
+},
+{
+"word": "aldo",
+"score": 3735
+},
+{
+"word": "ale",
+"score": 707
+},
+{
+"word": "ales",
+"score": 1210
+},
+{
+"word": "alfano",
+"score": 3230
+},
+{
+"word": "alfredo",
+"score": 3452
+},
+{
+"word": "alibi",
+"score": 3351
+},
+{
+"word": "ally",
+"score": 1786
+},
+{
+"word": "aloha",
+"score": 1185
+},
+{
+"word": "ambiance",
+"score": 2666
+},
+{
+"word": "ambrosia",
+"score": 935
+},
+{
+"word": "americana",
+"score": 1840
+},
+{
+"word": "americana",
+"score": 1841
+},
+{
+"word": "americanism",
+"score": 3648
+},
+{
+"word": "americanism",
+"score": 3649
+},
+{
+"word": "americanized",
+"score": 2416
+},
+{
+"word": "amore",
+"score": 2090
+},
+{
+"word": "amoroso",
+"score": 3124
+},
+{
+"word": "amusement",
+"score": 3607
+},
+{
+"word": "amusements",
+"score": 3640
+},
+{
+"word": "anchovies",
+"score": 893
+},
+{
+"word": "anchovy",
+"score": 894
+},
+{
+"word": "andiron",
+"score": 1055
+},
+{
+"word": "anello",
+"score": 2427
+},
+{
+"word": "angelo",
+"score": 1077
+},
+{
+"word": "anime",
+"score": 2807
+},
+{
+"word": "annex",
+"score": 1572
+},
+{
+"word": "annual",
+"score": 2039
+},
+{
+"word": "anthropologie",
+"score": 3532
+},
+{
+"word": "antic",
+"score": 1675
+},
+{
+"word": "anyplace",
+"score": 2184
+},
+{
+"word": "aperitif",
+"score": 1794
+},
+{
+"word": "apparel",
+"score": 3170
+},
+{
+"word": "appetite",
+"score": 3264
+},
+{
+"word": "appetites",
+"score": 3265
+},
+{
+"word": "appetizer",
+"score": 125
+},
+{
+"word": "appetizers",
+"score": 133
+},
+{
+"word": "appetizing",
+"score": 826
+},
+{
+"word": "apple",
+"score": 1147
+},
+{
+"word": "applebee",
+"score": 151
+},
+{
+"word": "apples",
+"score": 3045
+},
+{
+"word": "applesauce",
+"score": 524
+},
+{
+"word": "appliance",
+"score": 3349
+},
+{
+"word": "apricot",
+"score": 1085
+},
+{
+"word": "apricots",
+"score": 1084
+},
+{
+"word": "apron",
+"score": 3059
+},
+{
+"word": "aprons",
+"score": 3060
+},
+{
+"word": "aramark",
+"score": 676
+},
+{
+"word": "arby",
+"score": 164
+},
+{
+"word": "arcade",
+"score": 865
+},
+{
+"word": "arcades",
+"score": 3220
+},
+{
+"word": "arnie",
+"score": 2461
+},
+{
+"word": "aroma",
+"score": 1814
+},
+{
+"word": "artichoke",
+"score": 751
+},
+{
+"word": "artichokes",
+"score": 959
+},
+{
+"word": "articulation",
+"score": 3331
+},
+{
+"word": "artisan",
+"score": 2088
+},
+{
+"word": "artisanal",
+"score": 1133
+},
+{
+"word": "artprize",
+"score": 2305
+},
+{
+"word": "arugula",
+"score": 770
+},
+{
+"word": "ashtray",
+"score": 1425
+},
+{
+"word": "ashtrays",
+"score": 2415
+},
+{
+"word": "asparagus",
+"score": 522
+},
+{
+"word": "assassin",
+"score": 3510
+},
+{
+"word": "asshole",
+"score": 2322
+},
+{
+"word": "assortment",
+"score": 554
+},
+{
+"word": "asteroid",
+"score": 2547
+},
+{
+"word": "asteroids",
+"score": 2548
+},
+{
+"word": "ate",
+"score": 456
+},
+{
+"word": "ate",
+"score": 457
+},
+{
+"word": "atmosphere",
+"score": 2665
+},
+{
+"word": "attic",
+"score": 112
+},
+{
+"word": "augie",
+"score": 2463
+},
+{
+"word": "authentic",
+"score": 1490
+},
+{
+"word": "autograph",
+"score": 1483
+},
+{
+"word": "autographed",
+"score": 3123
+},
+{
+"word": "autographs",
+"score": 1778
+},
+{
+"word": "automaton",
+"score": 2188
+},
+{
+"word": "avant-garde",
+"score": 1493
+},
+{
+"word": "avanti",
+"score": 2219
+},
+{
+"word": "aviator",
+"score": 1466
+},
+{
+"word": "avocado",
+"score": 879
+},
+{
+"word": "avocados",
+"score": 878
+},
+{
+"word": "avondale",
+"score": 3142
+},
+{
+"word": "aww",
+"score": 2746
+},
+{
+"word": "baby",
+"score": 2284
+},
+{
+"word": "babysit",
+"score": 2414
+},
+{
+"word": "babysitter",
+"score": 1169
+},
+{
+"word": "babysitters",
+"score": 2395
+},
+{
+"word": "babysitting",
+"score": 786
+},
+{
+"word": "backbone",
+"score": 473
+},
+{
+"word": "backpack",
+"score": 2844
+},
+{
+"word": "backwoods",
+"score": 2697
+},
+{
+"word": "backyard",
+"score": 2896
+},
+{
+"word": "bacon",
+"score": 119
+},
+{
+"word": "bacon",
+"score": 120
+},
+{
+"word": "bagel",
+"score": 37
+},
+{
+"word": "bagels",
+"score": 36
+},
+{
+"word": "baggie",
+"score": 2421
+},
+{
+"word": "baggio",
+"score": 2880
+},
+{
+"word": "baguet",
+"score": 372
+},
+{
+"word": "baguette",
+"score": 373
+},
+{
+"word": "baguettes",
+"score": 383
+},
+{
+"word": "bailey",
+"score": 3238
+},
+{
+"word": "bailey",
+"score": 3240
+},
+{
+"word": "baileys",
+"score": 3239
+},
+{
+"word": "bake",
+"score": 444
+},
+{
+"word": "baked",
+"score": 308
+},
+{
+"word": "baker",
+"score": 347
+},
+{
+"word": "bakeries",
+"score": 421
+},
+{
+"word": "bakers",
+"score": 858
+},
+{
+"word": "bakery",
+"score": 85
+},
+{
+"word": "bakes",
+"score": 619
+},
+{
+"word": "baking",
+"score": 459
+},
+{
+"word": "baklava",
+"score": 111
+},
+{
+"word": "balducci",
+"score": 1449
+},
+{
+"word": "ball",
+"score": 1809
+},
+{
+"word": "ball",
+"score": 1810
+},
+{
+"word": "ballers",
+"score": 2514
+},
+{
+"word": "ballgame",
+"score": 3248
+},
+{
+"word": "balloon",
+"score": 3034
+},
+{
+"word": "balls",
+"score": 1811
+},
+{
+"word": "baloney",
+"score": 995
+},
+{
+"word": "balotelli",
+"score": 3797
+},
+{
+"word": "balzer",
+"score": 3149
+},
+{
+"word": "bambino",
+"score": 2382
+},
+{
+"word": "banana",
+"score": 1021
+},
+{
+"word": "bananas",
+"score": 1043
+},
+{
+"word": "bandana",
+"score": 2643
+},
+{
+"word": "bandanna",
+"score": 2642
+},
+{
+"word": "bandit",
+"score": 2432
+},
+{
+"word": "bang",
+"score": 2990
+},
+{
+"word": "banger",
+"score": 1017
+},
+{
+"word": "bangers",
+"score": 1018
+},
+{
+"word": "bangle",
+"score": 1393
+},
+{
+"word": "banquet",
+"score": 914
+},
+{
+"word": "banquets",
+"score": 3394
+},
+{
+"word": "bar",
+"score": 613
+},
+{
+"word": "barbecue",
+"score": 55
+},
+{
+"word": "barbecued",
+"score": 426
+},
+{
+"word": "barbecues",
+"score": 685
+},
+{
+"word": "barbecuing",
+"score": 723
+},
+{
+"word": "barbeque",
+"score": 128
+},
+{
+"word": "barbeques",
+"score": 900
+},
+{
+"word": "barber",
+"score": 1111
+},
+{
+"word": "barber",
+"score": 1112
+},
+{
+"word": "barbers",
+"score": 2263
+},
+{
+"word": "barbershop",
+"score": 397
+},
+{
+"word": "barbershops",
+"score": 1974
+},
+{
+"word": "barista",
+"score": 822
+},
+{
+"word": "baristas",
+"score": 2038
+},
+{
+"word": "barley",
+"score": 2937
+},
+{
+"word": "barman",
+"score": 1812
+},
+{
+"word": "barone",
+"score": 2977
+},
+{
+"word": "barracuda",
+"score": 2148
+},
+{
+"word": "barroom",
+"score": 609
+},
+{
+"word": "bars",
+"score": 1228
+},
+{
+"word": "bartender",
+"score": 415
+},
+{
+"word": "bartenders",
+"score": 857
+},
+{
+"word": "bartending",
+"score": 631
+},
+{
+"word": "barto",
+"score": 3223
+},
+{
+"word": "basciano",
+"score": 3309
+},
+{
+"word": "baseball",
+"score": 2279
+},
+{
+"word": "baseballs",
+"score": 2278
+},
+{
+"word": "basement",
+"score": 3437
+},
+{
+"word": "bash",
+"score": 3013
+},
+{
+"word": "bashas",
+"score": 1991
+},
+{
+"word": "basic",
+"score": 2026
+},
+{
+"word": "basil",
+"score": 715
+},
+{
+"word": "basil",
+"score": 716
+},
+{
+"word": "basketball",
+"score": 3286
+},
+{
+"word": "batch",
+"score": 1224
+},
+{
+"word": "bathrobe",
+"score": 3036
+},
+{
+"word": "bathrobes",
+"score": 3679
+},
+{
+"word": "bathroom",
+"score": 1636
+},
+{
+"word": "bathtub",
+"score": 1740
+},
+{
+"word": "batman",
+"score": 1772
+},
+{
+"word": "batmobile",
+"score": 2134
+},
+{
+"word": "batter",
+"score": 2012
+},
+{
+"word": "bayless",
+"score": 3165
+},
+{
+"word": "bbbs",
+"score": 1839
+},
+{
+"word": "bbq",
+"score": 75
+},
+{
+"word": "beachside",
+"score": 3296
+},
+{
+"word": "beak",
+"score": 479
+},
+{
+"word": "bean",
+"score": 533
+},
+{
+"word": "beanie",
+"score": 1929
+},
+{
+"word": "beans",
+"score": 756
+},
+{
+"word": "beard",
+"score": 3686
+},
+{
+"word": "beebread",
+"score": 936
+},
+{
+"word": "beef",
+"score": 965
+},
+{
+"word": "beefy",
+"score": 3755
+},
+{
+"word": "beer",
+"score": 116
+},
+{
+"word": "beers",
+"score": 272
+},
+{
+"word": "beet",
+"score": 1319
+},
+{
+"word": "beets",
+"score": 1320
+},
+{
+"word": "bell",
+"score": 3071
+},
+{
+"word": "bellagio",
+"score": 3561
+},
+{
+"word": "bellied",
+"score": 2162
+},
+{
+"word": "bellies",
+"score": 2371
+},
+{
+"word": "bellow",
+"score": 3402
+},
+{
+"word": "belltown",
+"score": 2051
+},
+{
+"word": "belly",
+"score": 1914
+},
+{
+"word": "beloved",
+"score": 3283
+},
+{
+"word": "bend",
+"score": 3476
+},
+{
+"word": "benihana",
+"score": 1102
+},
+{
+"word": "bennigan",
+"score": 333
+},
+{
+"word": "berardi",
+"score": 2738
+},
+{
+"word": "berries",
+"score": 1322
+},
+{
+"word": "berry",
+"score": 1323
+},
+{
+"word": "berry",
+"score": 1324
+},
+{
+"word": "bertucci",
+"score": 386
+},
+{
+"word": "berwyn",
+"score": 2137
+},
+{
+"word": "bet",
+"score": 2649
+},
+{
+"word": "beverage",
+"score": 223
+},
+{
+"word": "beverages",
+"score": 382
+},
+{
+"word": "bhangra",
+"score": 3140
+},
+{
+"word": "bianco",
+"score": 2707
+},
+{
+"word": "bicycle",
+"score": 1004
+},
+{
+"word": "bike",
+"score": 1444
+},
+{
+"word": "biker",
+"score": 2831
+},
+{
+"word": "bikes",
+"score": 3208
+},
+{
+"word": "bikini",
+"score": 2691
+},
+{
+"word": "bikini",
+"score": 2692
+},
+{
+"word": "billiards",
+"score": 2456
+},
+{
+"word": "bimbo",
+"score": 1453
+},
+{
+"word": "bingo",
+"score": 2235
+},
+{
+"word": "birdhouse",
+"score": 3675
+},
+{
+"word": "birdlime",
+"score": 890
+},
+{
+"word": "birthday",
+"score": 1762
+},
+{
+"word": "birthdays",
+"score": 2848
+},
+{
+"word": "biscotti",
+"score": 124
+},
+{
+"word": "biscuit",
+"score": 190
+},
+{
+"word": "biscuits",
+"score": 367
+},
+{
+"word": "bistro",
+"score": 312
+},
+{
+"word": "bistros",
+"score": 962
+},
+{
+"word": "bit",
+"score": 1805
+},
+{
+"word": "bite",
+"score": 47
+},
+{
+"word": "bites",
+"score": 1281
+},
+{
+"word": "bkc",
+"score": 3304
+},
+{
+"word": "blackboard",
+"score": 2185
+},
+{
+"word": "blackjack",
+"score": 2763
+},
+{
+"word": "blacktop",
+"score": 2794
+},
+{
+"word": "blame",
+"score": 1401
+},
+{
+"word": "bleacher",
+"score": 1283
+},
+{
+"word": "bleecker",
+"score": 3380
+},
+{
+"word": "blender",
+"score": 3737
+},
+{
+"word": "blimp",
+"score": 62
+},
+{
+"word": "block",
+"score": 3367
+},
+{
+"word": "blockbuster",
+"score": 1631
+},
+{
+"word": "blt",
+"score": 494
+},
+{
+"word": "blueberries",
+"score": 993
+},
+{
+"word": "blueberry",
+"score": 992
+},
+{
+"word": "bluefish",
+"score": 1713
+},
+{
+"word": "bluegrass",
+"score": 3305
+},
+{
+"word": "bluegrass",
+"score": 3306
+},
+{
+"word": "boardwalk",
+"score": 2383
+},
+{
+"word": "boathouse",
+"score": 1842
+},
+{
+"word": "boatload",
+"score": 1775
+},
+{
+"word": "bobblehead",
+"score": 3101
+},
+{
+"word": "bobbleheads",
+"score": 2832
+},
+{
+"word": "bocce",
+"score": 823
+},
+{
+"word": "bodega",
+"score": 523
+},
+{
+"word": "bogey",
+"score": 3460
+},
+{
+"word": "bogy",
+"score": 3459
+},
+{
+"word": "bojangles",
+"score": 634
+},
+{
+"word": "bologna",
+"score": 141
+},
+{
+"word": "bologna",
+"score": 142
+},
+{
+"word": "bomber",
+"score": 746
+},
+{
+"word": "bone",
+"score": 3581
+},
+{
+"word": "boneless",
+"score": 1268
+},
+{
+"word": "bones",
+"score": 3582
+},
+{
+"word": "bong",
+"score": 1626
+},
+{
+"word": "bongs",
+"score": 1625
+},
+{
+"word": "boo",
+"score": 3130
+},
+{
+"word": "boodle",
+"score": 156
+},
+{
+"word": "bookie",
+"score": 2425
+},
+{
+"word": "bookmaker",
+"score": 2424
+},
+{
+"word": "bookmaking",
+"score": 3023
+},
+{
+"word": "bookshop",
+"score": 976
+},
+{
+"word": "bookstore",
+"score": 975
+},
+{
+"word": "bookstores",
+"score": 3617
+},
+{
+"word": "boom",
+"score": 496
+},
+{
+"word": "boondocks",
+"score": 2698
+},
+{
+"word": "booster",
+"score": 2664
+},
+{
+"word": "booth",
+"score": 1029
+},
+{
+"word": "booty",
+"score": 2242
+},
+{
+"word": "booze",
+"score": 721
+},
+{
+"word": "boozing",
+"score": 2084
+},
+{
+"word": "borgata",
+"score": 3434
+},
+{
+"word": "borrelli",
+"score": 1781
+},
+{
+"word": "borriello",
+"score": 3552
+},
+{
+"word": "bossi",
+"score": 3496
+},
+{
+"word": "bottle",
+"score": 1643
+},
+{
+"word": "bottler",
+"score": 3079
+},
+{
+"word": "bottlers",
+"score": 3626
+},
+{
+"word": "bottom",
+"score": 3547
+},
+{
+"word": "bouncer",
+"score": 1246
+},
+{
+"word": "bouncers",
+"score": 1900
+},
+{
+"word": "bouquet",
+"score": 3431
+},
+{
+"word": "bouquets",
+"score": 3432
+},
+{
+"word": "bourbon",
+"score": 802
+},
+{
+"word": "bourbon",
+"score": 803
+},
+{
+"word": "bourbonnais",
+"score": 3746
+},
+{
+"word": "bourdain",
+"score": 998
+},
+{
+"word": "bova",
+"score": 1083
+},
+{
+"word": "bowery",
+"score": 3587
+},
+{
+"word": "bowery",
+"score": 3588
+},
+{
+"word": "bowl",
+"score": 1218
+},
+{
+"word": "bowler",
+"score": 2091
+},
+{
+"word": "bowlers",
+"score": 3107
+},
+{
+"word": "bowling",
+"score": 981
+},
+{
+"word": "bowls",
+"score": 1512
+},
+{
+"word": "box",
+"score": 2986
+},
+{
+"word": "boy",
+"score": 2900
+},
+{
+"word": "boys",
+"score": 3596
+},
+{
+"word": "brag",
+"score": 3174
+},
+{
+"word": "braised",
+"score": 1761
+},
+{
+"word": "branching",
+"score": 2558
+},
+{
+"word": "brandy",
+"score": 1661
+},
+{
+"word": "brasserie",
+"score": 849
+},
+{
+"word": "brat",
+"score": 791
+},
+{
+"word": "brats",
+"score": 461
+},
+{
+"word": "bratwurst",
+"score": 134
+},
+{
+"word": "bravo",
+"score": 3511
+},
+{
+"word": "brawl",
+"score": 3014
+},
+{
+"word": "brawler",
+"score": 2333
+},
+{
+"word": "bread",
+"score": 157
+},
+{
+"word": "breadcrumb",
+"score": 1821
+},
+{
+"word": "breadcrumbs",
+"score": 1822
+},
+{
+"word": "breaded",
+"score": 314
+},
+{
+"word": "breading",
+"score": 1235
+},
+{
+"word": "breads",
+"score": 226
+},
+{
+"word": "breakdancing",
+"score": 1918
+},
+{
+"word": "breakfast",
+"score": 95
+},
+{
+"word": "breakfasts",
+"score": 475
+},
+{
+"word": "breakwater",
+"score": 2508
+},
+{
+"word": "brenly",
+"score": 3438
+},
+{
+"word": "bresnan",
+"score": 2491
+},
+{
+"word": "brew",
+"score": 1175
+},
+{
+"word": "brewer",
+"score": 2846
+},
+{
+"word": "brewery",
+"score": 1596
+},
+{
+"word": "brewing",
+"score": 2733
+},
+{
+"word": "brewpub",
+"score": 662
+},
+{
+"word": "brews",
+"score": 1286
+},
+{
+"word": "bribe",
+"score": 2995
+},
+{
+"word": "brick",
+"score": 2586
+},
+{
+"word": "bricks",
+"score": 3359
+},
+{
+"word": "brie",
+"score": 626
+},
+{
+"word": "brie",
+"score": 627
+},
+{
+"word": "brinker",
+"score": 2955
+},
+{
+"word": "brisket",
+"score": 257
+},
+{
+"word": "brittle",
+"score": 832
+},
+{
+"word": "bro",
+"score": 2143
+},
+{
+"word": "broadmeadows",
+"score": 3536
+},
+{
+"word": "broccoli",
+"score": 259
+},
+{
+"word": "broil",
+"score": 696
+},
+{
+"word": "broiled",
+"score": 742
+},
+{
+"word": "broiling",
+"score": 1873
+},
+{
+"word": "brooklyn",
+"score": 1869
+},
+{
+"word": "brooklyn",
+"score": 1870
+},
+{
+"word": "broth",
+"score": 3661
+},
+{
+"word": "brownie",
+"score": 93
+},
+{
+"word": "brownie",
+"score": 94
+},
+{
+"word": "brownies",
+"score": 92
+},
+{
+"word": "brownstone",
+"score": 3429
+},
+{
+"word": "brunch",
+"score": 220
+},
+{
+"word": "brunches",
+"score": 366
+},
+{
+"word": "bruschetta",
+"score": 200
+},
+{
+"word": "bubblegum",
+"score": 1978
+},
+{
+"word": "bubbly",
+"score": 2907
+},
+{
+"word": "bucci",
+"score": 1790
+},
+{
+"word": "buck",
+"score": 3555
+},
+{
+"word": "buck",
+"score": 3556
+},
+{
+"word": "bucket",
+"score": 1597
+},
+{
+"word": "bucks",
+"score": 3557
+},
+{
+"word": "buddies",
+"score": 1599
+},
+{
+"word": "buddy",
+"score": 1174
+},
+{
+"word": "budweiser",
+"score": 1371
+},
+{
+"word": "buffet",
+"score": 108
+},
+{
+"word": "buffets",
+"score": 387
+},
+{
+"word": "bufflehead",
+"score": 1976
+},
+{
+"word": "buffoonery",
+"score": 3717
+},
+{
+"word": "bulge",
+"score": 3616
+},
+{
+"word": "bull",
+"score": 1648
+},
+{
+"word": "bulldog",
+"score": 3047
+},
+{
+"word": "bullshit",
+"score": 2117
+},
+{
+"word": "bun",
+"score": 178
+},
+{
+"word": "bungler",
+"score": 534
+},
+{
+"word": "bunker",
+"score": 2280
+},
+{
+"word": "bunny",
+"score": 2651
+},
+{
+"word": "buns",
+"score": 176
+},
+{
+"word": "burbs",
+"score": 1722
+},
+{
+"word": "burger",
+"score": 2
+},
+{
+"word": "burger",
+"score": 4
+},
+{
+"word": "burgers",
+"score": 9
+},
+{
+"word": "burglar",
+"score": 2637
+},
+{
+"word": "burglarize",
+"score": 3643
+},
+{
+"word": "burlesque",
+"score": 3267
+},
+{
+"word": "burnout",
+"score": 3274
+},
+{
+"word": "burnouts",
+"score": 3772
+},
+{
+"word": "burpee",
+"score": 2017
+},
+{
+"word": "burrito",
+"score": 6
+},
+{
+"word": "burritos",
+"score": 12
+},
+{
+"word": "bus",
+"score": 2021
+},
+{
+"word": "busbar",
+"score": 2022
+},
+{
+"word": "busboy",
+"score": 1126
+},
+{
+"word": "bushwick",
+"score": 3069
+},
+{
+"word": "bussing",
+"score": 1795
+},
+{
+"word": "butcher",
+"score": 535
+},
+{
+"word": "butchering",
+"score": 3271
+},
+{
+"word": "butchers",
+"score": 1765
+},
+{
+"word": "butchery",
+"score": 2524
+},
+{
+"word": "butt",
+"score": 3712
+},
+{
+"word": "butter",
+"score": 1653
+},
+{
+"word": "butterball",
+"score": 1975
+},
+{
+"word": "buttered",
+"score": 829
+},
+{
+"word": "buttermilk",
+"score": 958
+},
+{
+"word": "butterscotch",
+"score": 2633
+},
+{
+"word": "buttery",
+"score": 774
+},
+{
+"word": "buttocks",
+"score": 177
+},
+{
+"word": "byob",
+"score": 608
+},
+{
+"word": "byssus",
+"score": 3687
+},
+{
+"word": "cab",
+"score": 1254
+},
+{
+"word": "cabana",
+"score": 2110
+},
+{
+"word": "cabaret",
+"score": 3232
+},
+{
+"word": "cabbage",
+"score": 510
+},
+{
+"word": "cabbie",
+"score": 1132
+},
+{
+"word": "cabdriver",
+"score": 2145
+},
+{
+"word": "cabernet",
+"score": 2492
+},
+{
+"word": "cabernet",
+"score": 2493
+},
+{
+"word": "cad",
+"score": 1056
+},
+{
+"word": "caesar",
+"score": 1579
+},
+{
+"word": "caesar",
+"score": 1580
+},
+{
+"word": "caf",
+"score": 400
+},
+{
+"word": "cafe",
+"score": 390
+},
+{
+"word": "cafes",
+"score": 917
+},
+{
+"word": "cafeteria",
+"score": 323
+},
+{
+"word": "cafeterias",
+"score": 552
+},
+{
+"word": "caffeinated",
+"score": 2449
+},
+{
+"word": "caines",
+"score": 2482
+},
+{
+"word": "cajun",
+"score": 948
+},
+{
+"word": "cajun",
+"score": 949
+},
+{
+"word": "cake",
+"score": 175
+},
+{
+"word": "cakes",
+"score": 199
+},
+{
+"word": "cal",
+"score": 2087
+},
+{
+"word": "calabria",
+"score": 1955
+},
+{
+"word": "calabria",
+"score": 1956
+},
+{
+"word": "calabro",
+"score": 2628
+},
+{
+"word": "calamari",
+"score": 246
+},
+{
+"word": "calderone",
+"score": 3681
+},
+{
+"word": "caloric",
+"score": 1236
+},
+{
+"word": "calorie",
+"score": 778
+},
+{
+"word": "calorie",
+"score": 779
+},
+{
+"word": "calories",
+"score": 795
+},
+{
+"word": "camaraderie",
+"score": 3605
+},
+{
+"word": "camaro",
+"score": 1200
+},
+{
+"word": "campagna",
+"score": 2867
+},
+{
+"word": "campana",
+"score": 3072
+},
+{
+"word": "campania",
+"score": 2067
+},
+{
+"word": "campania",
+"score": 2068
+},
+{
+"word": "campanile",
+"score": 1142
+},
+{
+"word": "campari",
+"score": 1484
+},
+{
+"word": "camper",
+"score": 3585
+},
+{
+"word": "campfire",
+"score": 2847
+},
+{
+"word": "can",
+"score": 1349
+},
+{
+"word": "canape",
+"score": 1628
+},
+{
+"word": "canapes",
+"score": 1627
+},
+{
+"word": "candies",
+"score": 798
+},
+{
+"word": "candy",
+"score": 201
+},
+{
+"word": "canister",
+"score": 1828
+},
+{
+"word": "canned",
+"score": 1961
+},
+{
+"word": "cannibal",
+"score": 910
+},
+{
+"word": "canning",
+"score": 3342
+},
+{
+"word": "canoe",
+"score": 3277
+},
+{
+"word": "cans",
+"score": 1351
+},
+{
+"word": "cantaloup",
+"score": 403
+},
+{
+"word": "cantaloupe",
+"score": 402
+},
+{
+"word": "cantaloupes",
+"score": 2962
+},
+{
+"word": "cantalupo",
+"score": 1143
+},
+{
+"word": "canteen",
+"score": 391
+},
+{
+"word": "canteens",
+"score": 1139
+},
+{
+"word": "cantina",
+"score": 401
+},
+{
+"word": "cantonese",
+"score": 1928
+},
+{
+"word": "caper",
+"score": 1673
+},
+{
+"word": "capers",
+"score": 1676
+},
+{
+"word": "capone",
+"score": 1238
+},
+{
+"word": "capone",
+"score": 1250
+},
+{
+"word": "capozzi",
+"score": 3393
+},
+{
+"word": "cappuccino",
+"score": 115
+},
+{
+"word": "cappuccinos",
+"score": 234
+},
+{
+"word": "capsicum",
+"score": 688
+},
+{
+"word": "car",
+"score": 1608
+},
+{
+"word": "caramel",
+"score": 891
+},
+{
+"word": "caramelized",
+"score": 1374
+},
+{
+"word": "carb",
+"score": 1321
+},
+{
+"word": "carbonated",
+"score": 1751
+},
+{
+"word": "carbs",
+"score": 1160
+},
+{
+"word": "cardboard",
+"score": 642
+},
+{
+"word": "cardinal",
+"score": 664
+},
+{
+"word": "caribou",
+"score": 3425
+},
+{
+"word": "carjack",
+"score": 1718
+},
+{
+"word": "carlo",
+"score": 1658
+},
+{
+"word": "carload",
+"score": 1774
+},
+{
+"word": "carlucci",
+"score": 1733
+},
+{
+"word": "carmela",
+"score": 1788
+},
+{
+"word": "carmelo",
+"score": 1537
+},
+{
+"word": "carmine",
+"score": 665
+},
+{
+"word": "carnation",
+"score": 3777
+},
+{
+"word": "carnations",
+"score": 3776
+},
+{
+"word": "carnival",
+"score": 3156
+},
+{
+"word": "carnivore",
+"score": 1972
+},
+{
+"word": "caroling",
+"score": 2422
+},
+{
+"word": "carrabba",
+"score": 876
+},
+{
+"word": "carrot",
+"score": 1656
+},
+{
+"word": "carrots",
+"score": 1657
+},
+{
+"word": "carryout",
+"score": 140
+},
+{
+"word": "cart",
+"score": 1806
+},
+{
+"word": "carton",
+"score": 1078
+},
+{
+"word": "cartons",
+"score": 1671
+},
+{
+"word": "cartoon",
+"score": 3538
+},
+{
+"word": "cartooning",
+"score": 2404
+},
+{
+"word": "carvel",
+"score": 901
+},
+{
+"word": "carver",
+"score": 3376
+},
+{
+"word": "carver",
+"score": 3377
+},
+{
+"word": "carving",
+"score": 2871
+},
+{
+"word": "carwash",
+"score": 1605
+},
+{
+"word": "casa",
+"score": 2554
+},
+{
+"word": "case",
+"score": 2795
+},
+{
+"word": "caserta",
+"score": 2929
+},
+{
+"word": "cash",
+"score": 2398
+},
+{
+"word": "cash",
+"score": 2399
+},
+{
+"word": "cashew",
+"score": 1548
+},
+{
+"word": "cashews",
+"score": 1549
+},
+{
+"word": "cashier",
+"score": 781
+},
+{
+"word": "cashiers",
+"score": 1334
+},
+{
+"word": "casino",
+"score": 3410
+},
+{
+"word": "casserole",
+"score": 361
+},
+{
+"word": "casseroles",
+"score": 572
+},
+{
+"word": "castellini",
+"score": 1550
+},
+{
+"word": "casual",
+"score": 1820
+},
+{
+"word": "catalano",
+"score": 1824
+},
+{
+"word": "cataldo",
+"score": 1699
+},
+{
+"word": "catered",
+"score": 845
+},
+{
+"word": "caterer",
+"score": 792
+},
+{
+"word": "caterers",
+"score": 793
+},
+{
+"word": "catering",
+"score": 334
+},
+{
+"word": "catsup",
+"score": 118
+},
+{
+"word": "cauliflower",
+"score": 651
+},
+{
+"word": "cava",
+"score": 3611
+},
+{
+"word": "cavallaro",
+"score": 1650
+},
+{
+"word": "caveman",
+"score": 2150
+},
+{
+"word": "caviar",
+"score": 1141
+},
+{
+"word": "cayenne",
+"score": 487
+},
+{
+"word": "celebratory",
+"score": 2936
+},
+{
+"word": "celery",
+"score": 863
+},
+{
+"word": "cellar",
+"score": 3436
+},
+{
+"word": "cellphone",
+"score": 2945
+},
+{
+"word": "centerplate",
+"score": 1183
+},
+{
+"word": "cereal",
+"score": 357
+},
+{
+"word": "cereals",
+"score": 3282
+},
+{
+"word": "cerise",
+"score": 1072
+},
+{
+"word": "ceviche",
+"score": 256
+},
+{
+"word": "chai",
+"score": 602
+},
+{
+"word": "chain",
+"score": 1277
+},
+{
+"word": "chain",
+"score": 1278
+},
+{
+"word": "chains",
+"score": 1933
+},
+{
+"word": "chainsaw",
+"score": 3018
+},
+{
+"word": "chairlift",
+"score": 3483
+},
+{
+"word": "chalet",
+"score": 1159
+},
+{
+"word": "chalkboard",
+"score": 2186
+},
+{
+"word": "champagne",
+"score": 1052
+},
+{
+"word": "champagne",
+"score": 1053
+},
+{
+"word": "charcuterie",
+"score": 319
+},
+{
+"word": "chard",
+"score": 1659
+},
+{
+"word": "chardonnay",
+"score": 2126
+},
+{
+"word": "chardonnay",
+"score": 2127
+},
+{
+"word": "chauffeur",
+"score": 3133
+},
+{
+"word": "cheapskate",
+"score": 919
+},
+{
+"word": "check",
+"score": 1803
+},
+{
+"word": "checker",
+"score": 3081
+},
+{
+"word": "checkers",
+"score": 3082
+},
+{
+"word": "checkout",
+"score": 3042
+},
+{
+"word": "cheddar",
+"score": 393
+},
+{
+"word": "cheddar",
+"score": 394
+},
+{
+"word": "cheektowaga",
+"score": 2786
+},
+{
+"word": "cheep",
+"score": 819
+},
+{
+"word": "cheer",
+"score": 3441
+},
+{
+"word": "cheerfulness",
+"score": 3439
+},
+{
+"word": "cheerios",
+"score": 599
+},
+{
+"word": "cheerleader",
+"score": 2728
+},
+{
+"word": "cheerleaders",
+"score": 2729
+},
+{
+"word": "cheers",
+"score": 3440
+},
+{
+"word": "cheese",
+"score": 110
+},
+{
+"word": "cheeseburger",
+"score": 7
+},
+{
+"word": "cheeseburgers",
+"score": 44
+},
+{
+"word": "cheesecake",
+"score": 17
+},
+{
+"word": "cheesecakes",
+"score": 123
+},
+{
+"word": "cheeses",
+"score": 531
+},
+{
+"word": "cheesesteak",
+"score": 34
+},
+{
+"word": "cheesy",
+"score": 692
+},
+{
+"word": "cheetos",
+"score": 365
+},
+{
+"word": "chef",
+"score": 416
+},
+{
+"word": "chefs",
+"score": 726
+},
+{
+"word": "chelios",
+"score": 3603
+},
+{
+"word": "cherries",
+"score": 1070
+},
+{
+"word": "cherry",
+"score": 1071
+},
+{
+"word": "chess",
+"score": 3584
+},
+{
+"word": "chestnut",
+"score": 1287
+},
+{
+"word": "chevrolet",
+"score": 2821
+},
+{
+"word": "chevy",
+"score": 1379
+},
+{
+"word": "chevys",
+"score": 1506
+},
+{
+"word": "chew",
+"score": 1225
+},
+{
+"word": "chewy",
+"score": 537
+},
+{
+"word": "chez",
+"score": 1301
+},
+{
+"word": "chianti",
+"score": 880
+},
+{
+"word": "chianti",
+"score": 881
+},
+{
+"word": "chicagoans",
+"score": 3753
+},
+{
+"word": "chicagoland",
+"score": 3574
+},
+{
+"word": "chicken",
+"score": 331
+},
+{
+"word": "chickpea",
+"score": 2528
+},
+{
+"word": "chickpeas",
+"score": 2529
+},
+{
+"word": "chihuahua",
+"score": 2030
+},
+{
+"word": "chihuahua",
+"score": 2031
+},
+{
+"word": "child",
+"score": 30
+},
+{
+"word": "chile",
+"score": 2109
+},
+{
+"word": "chile",
+"score": 2654
+},
+{
+"word": "chiles",
+"score": 2108
+},
+{
+"word": "chili",
+"score": 46
+},
+{
+"word": "chilies",
+"score": 1249
+},
+{
+"word": "chill",
+"score": 1039
+},
+{
+"word": "chilled",
+"score": 1410
+},
+{
+"word": "chilli",
+"score": 1270
+},
+{
+"word": "chillies",
+"score": 2444
+},
+{
+"word": "chilly",
+"score": 2391
+},
+{
+"word": "chinatown",
+"score": 1022
+},
+{
+"word": "chinese",
+"score": 3719
+},
+{
+"word": "chinese",
+"score": 3720
+},
+{
+"word": "chiodo",
+"score": 3767
+},
+{
+"word": "chip",
+"score": 469
+},
+{
+"word": "chipotle",
+"score": 168
+},
+{
+"word": "chippy",
+"score": 2725
+},
+{
+"word": "chips",
+"score": 1804
+},
+{
+"word": "chitchat",
+"score": 2340
+},
+{
+"word": "chives",
+"score": 2218
+},
+{
+"word": "chocolate",
+"score": 155
+},
+{
+"word": "chocolates",
+"score": 351
+},
+{
+"word": "chocolatier",
+"score": 868
+},
+{
+"word": "cholesterol",
+"score": 3088
+},
+{
+"word": "chomped",
+"score": 1131
+},
+{
+"word": "chop",
+"score": 576
+},
+{
+"word": "chopper",
+"score": 1877
+},
+{
+"word": "choppers",
+"score": 1878
+},
+{
+"word": "chopstick",
+"score": 1458
+},
+{
+"word": "chopsticks",
+"score": 1459
+},
+{
+"word": "chorizo",
+"score": 485
+},
+{
+"word": "chow",
+"score": 148
+},
+{
+"word": "chowder",
+"score": 58
+},
+{
+"word": "christmas",
+"score": 2285
+},
+{
+"word": "christmastime",
+"score": 2286
+},
+{
+"word": "chubby",
+"score": 708
+},
+{
+"word": "chuck",
+"score": 2791
+},
+{
+"word": "chumminess",
+"score": 3604
+},
+{
+"word": "chump",
+"score": 1682
+},
+{
+"word": "chunk",
+"score": 2517
+},
+{
+"word": "chunks",
+"score": 2518
+},
+{
+"word": "chunky",
+"score": 2490
+},
+{
+"word": "chutney",
+"score": 991
+},
+{
+"word": "cianci",
+"score": 3493
+},
+{
+"word": "ciao",
+"score": 1184
+},
+{
+"word": "ciccarelli",
+"score": 1704
+},
+{
+"word": "cicero",
+"score": 1683
+},
+{
+"word": "cicero",
+"score": 1684
+},
+{
+"word": "cider",
+"score": 1113
+},
+{
+"word": "cigar",
+"score": 414
+},
+{
+"word": "cigarette",
+"score": 813
+},
+{
+"word": "cigarettes",
+"score": 812
+},
+{
+"word": "cigars",
+"score": 652
+},
+{
+"word": "cilantro",
+"score": 1290
+},
+{
+"word": "cimino",
+"score": 1993
+},
+{
+"word": "cinch",
+"score": 545
+},
+{
+"word": "cinema",
+"score": 1497
+},
+{
+"word": "cinemark",
+"score": 3253
+},
+{
+"word": "cineplex",
+"score": 3683
+},
+{
+"word": "cinnaminson",
+"score": 3341
+},
+{
+"word": "cinnamon",
+"score": 1823
+},
+{
+"word": "circular",
+"score": 1467
+},
+{
+"word": "circus",
+"score": 3155
+},
+{
+"word": "citgo",
+"score": 2011
+},
+{
+"word": "citysearch",
+"score": 3373
+},
+{
+"word": "cke",
+"score": 1695
+},
+{
+"word": "clam",
+"score": 1034
+},
+{
+"word": "clams",
+"score": 1035
+},
+{
+"word": "clang",
+"score": 3356
+},
+{
+"word": "clank",
+"score": 3355
+},
+{
+"word": "classmates",
+"score": 3708
+},
+{
+"word": "cleaver",
+"score": 1875
+},
+{
+"word": "clipper",
+"score": 3417
+},
+{
+"word": "clothes",
+"score": 3169
+},
+{
+"word": "clothing",
+"score": 3570
+},
+{
+"word": "clown",
+"score": 1504
+},
+{
+"word": "club",
+"score": 3783
+},
+{
+"word": "coaster",
+"score": 1630
+},
+{
+"word": "cob",
+"score": 701
+},
+{
+"word": "cobbler",
+"score": 633
+},
+{
+"word": "cocaine",
+"score": 2314
+},
+{
+"word": "cock",
+"score": 1568
+},
+{
+"word": "cockney",
+"score": 3383
+},
+{
+"word": "cockney",
+"score": 3384
+},
+{
+"word": "cockroach",
+"score": 2629
+},
+{
+"word": "cocktail",
+"score": 548
+},
+{
+"word": "cocktails",
+"score": 547
+},
+{
+"word": "cocoa",
+"score": 154
+},
+{
+"word": "coconut",
+"score": 2745
+},
+{
+"word": "coconuts",
+"score": 2744
+},
+{
+"word": "coffee",
+"score": 235
+},
+{
+"word": "coffeehouse",
+"score": 526
+},
+{
+"word": "coffeehouses",
+"score": 1859
+},
+{
+"word": "coffees",
+"score": 474
+},
+{
+"word": "cognac",
+"score": 2055
+},
+{
+"word": "cognac",
+"score": 2056
+},
+{
+"word": "coin",
+"score": 2777
+},
+{
+"word": "coins",
+"score": 2819
+},
+{
+"word": "coke",
+"score": 269
+},
+{
+"word": "cokes",
+"score": 270
+},
+{
+"word": "cola",
+"score": 639
+},
+{
+"word": "cola",
+"score": 640
+},
+{
+"word": "colas",
+"score": 3294
+},
+{
+"word": "cold",
+"score": 3627
+},
+{
+"word": "coldness",
+"score": 3628
+},
+{
+"word": "coleslaw",
+"score": 206
+},
+{
+"word": "coletta",
+"score": 3249
+},
+{
+"word": "cologne",
+"score": 1540
+},
+{
+"word": "cologne",
+"score": 1541
+},
+{
+"word": "colon",
+"score": 638
+},
+{
+"word": "colon",
+"score": 641
+},
+{
+"word": "colonie",
+"score": 3703
+},
+{
+"word": "colosimo",
+"score": 2946
+},
+{
+"word": "columbo",
+"score": 2419
+},
+{
+"word": "combo",
+"score": 2316
+},
+{
+"word": "combos",
+"score": 3041
+},
+{
+"word": "comedian",
+"score": 1208
+},
+{
+"word": "comedy",
+"score": 1801
+},
+{
+"word": "comestible",
+"score": 1107
+},
+{
+"word": "comic",
+"score": 3404
+},
+{
+"word": "comics",
+"score": 1207
+},
+{
+"word": "commissary",
+"score": 450
+},
+{
+"word": "commodity",
+"score": 3578
+},
+{
+"word": "como",
+"score": 3705
+},
+{
+"word": "complement",
+"score": 2814
+},
+{
+"word": "component",
+"score": 971
+},
+{
+"word": "conant",
+"score": 2833
+},
+{
+"word": "concession",
+"score": 1610
+},
+{
+"word": "concessions",
+"score": 1611
+},
+{
+"word": "concoction",
+"score": 2303
+},
+{
+"word": "concoctions",
+"score": 2344
+},
+{
+"word": "condiment",
+"score": 245
+},
+{
+"word": "condiments",
+"score": 244
+},
+{
+"word": "cone",
+"score": 1830
+},
+{
+"word": "cones",
+"score": 3514
+},
+{
+"word": "coney",
+"score": 842
+},
+{
+"word": "confection",
+"score": 562
+},
+{
+"word": "confectionary",
+"score": 310
+},
+{
+"word": "confectioner",
+"score": 850
+},
+{
+"word": "confectionery",
+"score": 309
+},
+{
+"word": "confections",
+"score": 561
+},
+{
+"word": "confederacy",
+"score": 2660
+},
+{
+"word": "connoisseur",
+"score": 3554
+},
+{
+"word": "constitution",
+"score": 1999
+},
+{
+"word": "convenience",
+"score": 3485
+},
+{
+"word": "convivial",
+"score": 3068
+},
+{
+"word": "cook",
+"score": 358
+},
+{
+"word": "cook",
+"score": 359
+},
+{
+"word": "cookbook",
+"score": 645
+},
+{
+"word": "cookbooks",
+"score": 1123
+},
+{
+"word": "cooked",
+"score": 409
+},
+{
+"word": "cooker",
+"score": 1909
+},
+{
+"word": "cookers",
+"score": 3610
+},
+{
+"word": "cookery",
+"score": 1038
+},
+{
+"word": "cookie",
+"score": 191
+},
+{
+"word": "cookies",
+"score": 299
+},
+{
+"word": "cooking",
+"score": 405
+},
+{
+"word": "cookout",
+"score": 429
+},
+{
+"word": "cookouts",
+"score": 532
+},
+{
+"word": "cooks",
+"score": 449
+},
+{
+"word": "cookware",
+"score": 1714
+},
+{
+"word": "coolest",
+"score": 2448
+},
+{
+"word": "coors",
+"score": 3329
+},
+{
+"word": "cops",
+"score": 1649
+},
+{
+"word": "coriander",
+"score": 1289
+},
+{
+"word": "corleone",
+"score": 2408
+},
+{
+"word": "corn",
+"score": 3020
+},
+{
+"word": "cornbread",
+"score": 163
+},
+{
+"word": "corner",
+"score": 2987
+},
+{
+"word": "cornflakes",
+"score": 1140
+},
+{
+"word": "cornmeal",
+"score": 835
+},
+{
+"word": "corny",
+"score": 2743
+},
+{
+"word": "corrado",
+"score": 1472
+},
+{
+"word": "corso",
+"score": 3112
+},
+{
+"word": "cortina",
+"score": 2933
+},
+{
+"word": "corvette",
+"score": 2010
+},
+{
+"word": "corvettes",
+"score": 3435
+},
+{
+"word": "cos",
+"score": 816
+},
+{
+"word": "cosentino",
+"score": 2367
+},
+{
+"word": "cosi",
+"score": 671
+},
+{
+"word": "cosmo",
+"score": 3676
+},
+{
+"word": "costantino",
+"score": 3551
+},
+{
+"word": "costanza",
+"score": 1817
+},
+{
+"word": "costco",
+"score": 1251
+},
+{
+"word": "costume",
+"score": 1629
+},
+{
+"word": "couch",
+"score": 2086
+},
+{
+"word": "couches",
+"score": 2085
+},
+{
+"word": "countenance",
+"score": 1681
+},
+{
+"word": "counterspy",
+"score": 2507
+},
+{
+"word": "countertop",
+"score": 1188
+},
+{
+"word": "coupon",
+"score": 677
+},
+{
+"word": "couponing",
+"score": 996
+},
+{
+"word": "coupons",
+"score": 678
+},
+{
+"word": "courier",
+"score": 1546
+},
+{
+"word": "couscous",
+"score": 675
+},
+{
+"word": "coworker",
+"score": 3213
+},
+{
+"word": "coworkers",
+"score": 3139
+},
+{
+"word": "crab",
+"score": 506
+},
+{
+"word": "crabby",
+"score": 1376
+},
+{
+"word": "crabmeat",
+"score": 505
+},
+{
+"word": "cracker",
+"score": 1313
+},
+{
+"word": "crackers",
+"score": 1311
+},
+{
+"word": "crackpot",
+"score": 364
+},
+{
+"word": "craftsman",
+"score": 2089
+},
+{
+"word": "craigslist",
+"score": 2009
+},
+{
+"word": "cranberries",
+"score": 3021
+},
+{
+"word": "cranberry",
+"score": 3022
+},
+{
+"word": "crank",
+"score": 3788
+},
+{
+"word": "crap",
+"score": 2115
+},
+{
+"word": "crape",
+"score": 255
+},
+{
+"word": "crappy",
+"score": 2428
+},
+{
+"word": "craps",
+"score": 2116
+},
+{
+"word": "crate",
+"score": 2852
+},
+{
+"word": "crave",
+"score": 2515
+},
+{
+"word": "craved",
+"score": 1770
+},
+{
+"word": "craves",
+"score": 2899
+},
+{
+"word": "craving",
+"score": 635
+},
+{
+"word": "cravings",
+"score": 895
+},
+{
+"word": "crawfish",
+"score": 852
+},
+{
+"word": "crayfish",
+"score": 851
+},
+{
+"word": "crayon",
+"score": 2199
+},
+{
+"word": "crayons",
+"score": 2198
+},
+{
+"word": "creamed",
+"score": 1243
+},
+{
+"word": "creamery",
+"score": 862
+},
+{
+"word": "creamy",
+"score": 979
+},
+{
+"word": "crepe",
+"score": 253
+},
+{
+"word": "crepes",
+"score": 254
+},
+{
+"word": "crisco",
+"score": 1284
+},
+{
+"word": "crisp",
+"score": 3227
+},
+{
+"word": "crisps",
+"score": 470
+},
+{
+"word": "crispy",
+"score": 278
+},
+{
+"word": "croissant",
+"score": 318
+},
+{
+"word": "croissants",
+"score": 315
+},
+{
+"word": "crossword",
+"score": 3113
+},
+{
+"word": "crosswords",
+"score": 2678
+},
+{
+"word": "crotch",
+"score": 2559
+},
+{
+"word": "crouton",
+"score": 343
+},
+{
+"word": "croutons",
+"score": 344
+},
+{
+"word": "crumb",
+"score": 2163
+},
+{
+"word": "crumbly",
+"score": 1557
+},
+{
+"word": "crumbs",
+"score": 2330
+},
+{
+"word": "crummy",
+"score": 2369
+},
+{
+"word": "crunchy",
+"score": 503
+},
+{
+"word": "crunk",
+"score": 1871
+},
+{
+"word": "crush",
+"score": 3188
+},
+{
+"word": "crust",
+"score": 325
+},
+{
+"word": "crustacean",
+"score": 1501
+},
+{
+"word": "crusts",
+"score": 324
+},
+{
+"word": "crusty",
+"score": 2265
+},
+{
+"word": "cry",
+"score": 1887
+},
+{
+"word": "cube",
+"score": 3366
+},
+{
+"word": "cubed",
+"score": 3565
+},
+{
+"word": "cucumber",
+"score": 736
+},
+{
+"word": "cucumbers",
+"score": 1129
+},
+{
+"word": "cuddle",
+"score": 2574
+},
+{
+"word": "cuisine",
+"score": 262
+},
+{
+"word": "cuisines",
+"score": 693
+},
+{
+"word": "culinary",
+"score": 504
+},
+{
+"word": "cunt",
+"score": 1847
+},
+{
+"word": "cup",
+"score": 2605
+},
+{
+"word": "cupcake",
+"score": 101
+},
+{
+"word": "cupcakes",
+"score": 100
+},
+{
+"word": "cuppa",
+"score": 923
+},
+{
+"word": "cups",
+"score": 2604
+},
+{
+"word": "cur",
+"score": 3289
+},
+{
+"word": "curbside",
+"score": 837
+},
+{
+"word": "curd",
+"score": 932
+},
+{
+"word": "curling",
+"score": 3692
+},
+{
+"word": "curries",
+"score": 538
+},
+{
+"word": "curry",
+"score": 275
+},
+{
+"word": "curvature",
+"score": 3474
+},
+{
+"word": "curve",
+"score": 3475
+},
+{
+"word": "curveball",
+"score": 2549
+},
+{
+"word": "curves",
+"score": 3473
+},
+{
+"word": "cussing",
+"score": 3236
+},
+{
+"word": "custard",
+"score": 170
+},
+{
+"word": "cut",
+"score": 498
+},
+{
+"word": "cutest",
+"score": 2147
+},
+{
+"word": "cutlery",
+"score": 1104
+},
+{
+"word": "cutlet",
+"score": 906
+},
+{
+"word": "cutter",
+"score": 1105
+},
+{
+"word": "dab",
+"score": 3202
+},
+{
+"word": "dachshund",
+"score": 2914
+},
+{
+"word": "dad",
+"score": 172
+},
+{
+"word": "daddy",
+"score": 3338
+},
+{
+"word": "dads",
+"score": 1858
+},
+{
+"word": "daffodil",
+"score": 3038
+},
+{
+"word": "daffodils",
+"score": 3039
+},
+{
+"word": "daintiness",
+"score": 379
+},
+{
+"word": "dainty",
+"score": 377
+},
+{
+"word": "dairy",
+"score": 3177
+},
+{
+"word": "dal",
+"score": 1964
+},
+{
+"word": "damn",
+"score": 2320
+},
+{
+"word": "dance",
+"score": 1944
+},
+{
+"word": "dancing",
+"score": 1945
+},
+{
+"word": "dandy",
+"score": 2246
+},
+{
+"word": "daniele",
+"score": 1930
+},
+{
+"word": "dante",
+"score": 1577
+},
+{
+"word": "dante",
+"score": 1578
+},
+{
+"word": "darling",
+"score": 1478
+},
+{
+"word": "dawg",
+"score": 3125
+},
+{
+"word": "daycare",
+"score": 2577
+},
+{
+"word": "daydreaming",
+"score": 2451
+},
+{
+"word": "daz",
+"score": 3403
+},
+{
+"word": "deadpan",
+"score": 2688
+},
+{
+"word": "deangelo",
+"score": 3706
+},
+{
+"word": "deano",
+"score": 2749
+},
+{
+"word": "dearborn",
+"score": 3622
+},
+{
+"word": "debris",
+"score": 807
+},
+{
+"word": "decadent",
+"score": 1815
+},
+{
+"word": "decaf",
+"score": 1381
+},
+{
+"word": "decapitating",
+"score": 3685
+},
+{
+"word": "decarlo",
+"score": 3658
+},
+{
+"word": "decor",
+"score": 2360
+},
+{
+"word": "decorate",
+"score": 2511
+},
+{
+"word": "decorating",
+"score": 2412
+},
+{
+"word": "decoration",
+"score": 2254
+},
+{
+"word": "decorations",
+"score": 3442
+},
+{
+"word": "decree",
+"score": 3663
+},
+{
+"word": "dedrick",
+"score": 1902
+},
+{
+"word": "deejay",
+"score": 2512
+},
+{
+"word": "deep-freeze",
+"score": 643
+},
+{
+"word": "defrost",
+"score": 2378
+},
+{
+"word": "degrassi",
+"score": 2631
+},
+{
+"word": "dekaliter",
+"score": 1963
+},
+{
+"word": "delectable",
+"score": 388
+},
+{
+"word": "deli",
+"score": 13
+},
+{
+"word": "delicacies",
+"score": 378
+},
+{
+"word": "delicacy",
+"score": 380
+},
+{
+"word": "delicatessen",
+"score": 14
+},
+{
+"word": "delicious",
+"score": 130
+},
+{
+"word": "delicious",
+"score": 131
+},
+{
+"word": "deliciously",
+"score": 2405
+},
+{
+"word": "delight",
+"score": 984
+},
+{
+"word": "delights",
+"score": 986
+},
+{
+"word": "delis",
+"score": 195
+},
+{
+"word": "deliveries",
+"score": 1867
+},
+{
+"word": "delivery",
+"score": 952
+},
+{
+"word": "deliveryman",
+"score": 276
+},
+{
+"word": "delmonico",
+"score": 1100
+},
+{
+"word": "delmont",
+"score": 2730
+},
+{
+"word": "deluca",
+"score": 466
+},
+{
+"word": "denim",
+"score": 2967
+},
+{
+"word": "denny",
+"score": 293
+},
+{
+"word": "denture",
+"score": 1061
+},
+{
+"word": "deodorant",
+"score": 1448
+},
+{
+"word": "depalma",
+"score": 912
+},
+{
+"word": "departer",
+"score": 3276
+},
+{
+"word": "depp",
+"score": 3369
+},
+{
+"word": "dessert",
+"score": 27
+},
+{
+"word": "desserts",
+"score": 90
+},
+{
+"word": "detail",
+"score": 3260
+},
+{
+"word": "devo",
+"score": 2612
+},
+{
+"word": "devour",
+"score": 1424
+},
+{
+"word": "devoured",
+"score": 1172
+},
+{
+"word": "devouring",
+"score": 3278
+},
+{
+"word": "devours",
+"score": 2290
+},
+{
+"word": "dialect",
+"score": 3589
+},
+{
+"word": "diaper",
+"score": 489
+},
+{
+"word": "dibenedetto",
+"score": 1481
+},
+{
+"word": "dice",
+"score": 1474
+},
+{
+"word": "diced",
+"score": 2238
+},
+{
+"word": "dicing",
+"score": 3344
+},
+{
+"word": "dick",
+"score": 1569
+},
+{
+"word": "diddy",
+"score": 3564
+},
+{
+"word": "die",
+"score": 1473
+},
+{
+"word": "diet",
+"score": 3672
+},
+{
+"word": "dieter",
+"score": 2657
+},
+{
+"word": "dietician",
+"score": 1329
+},
+{
+"word": "dieticians",
+"score": 3572
+},
+{
+"word": "dieting",
+"score": 3673
+},
+{
+"word": "dietitian",
+"score": 3642
+},
+{
+"word": "dietitians",
+"score": 1328
+},
+{
+"word": "digirolamo",
+"score": 3487
+},
+{
+"word": "dill",
+"score": 2388
+},
+{
+"word": "dimaggio",
+"score": 3178
+},
+{
+"word": "dimaggio",
+"score": 3179
+},
+{
+"word": "dime",
+"score": 1620
+},
+{
+"word": "dimes",
+"score": 1619
+},
+{
+"word": "dimwit",
+"score": 2582
+},
+{
+"word": "dine",
+"score": 258
+},
+{
+"word": "dined",
+"score": 1152
+},
+{
+"word": "diner",
+"score": 43
+},
+{
+"word": "diners",
+"score": 252
+},
+{
+"word": "dines",
+"score": 2160
+},
+{
+"word": "dining",
+"score": 404
+},
+{
+"word": "dinner",
+"score": 187
+},
+{
+"word": "dinners",
+"score": 197
+},
+{
+"word": "dinnertime",
+"score": 399
+},
+{
+"word": "dinnerware",
+"score": 2452
+},
+{
+"word": "dino",
+"score": 575
+},
+{
+"word": "directbuy",
+"score": 2550
+},
+{
+"word": "directtv",
+"score": 3415
+},
+{
+"word": "directv",
+"score": 2959
+},
+{
+"word": "dirt",
+"score": 1988
+},
+{
+"word": "disalvo",
+"score": 1874
+},
+{
+"word": "disco",
+"score": 1960
+},
+{
+"word": "disgusting",
+"score": 2647
+},
+{
+"word": "dish",
+"score": 294
+},
+{
+"word": "dishes",
+"score": 349
+},
+{
+"word": "dishwasher",
+"score": 922
+},
+{
+"word": "dishwashing",
+"score": 1763
+},
+{
+"word": "dismember",
+"score": 1904
+},
+{
+"word": "dismembered",
+"score": 2526
+},
+{
+"word": "dismembering",
+"score": 2136
+},
+{
+"word": "ditka",
+"score": 1380
+},
+{
+"word": "dixieland",
+"score": 2661
+},
+{
+"word": "dj",
+"score": 3747
+},
+{
+"word": "djs",
+"score": 3568
+},
+{
+"word": "dodgeball",
+"score": 724
+},
+{
+"word": "dog",
+"score": 1058
+},
+{
+"word": "doggerel",
+"score": 2053
+},
+{
+"word": "doggie",
+"score": 550
+},
+{
+"word": "doggy",
+"score": 839
+},
+{
+"word": "dogs",
+"score": 2239
+},
+{
+"word": "dolce",
+"score": 2049
+},
+{
+"word": "doll",
+"score": 3710
+},
+{
+"word": "dollar",
+"score": 1033
+},
+{
+"word": "dolly",
+"score": 3709
+},
+{
+"word": "dom",
+"score": 1528
+},
+{
+"word": "domenic",
+"score": 883
+},
+{
+"word": "domenico",
+"score": 1154
+},
+{
+"word": "dominick",
+"score": 728
+},
+{
+"word": "dominique",
+"score": 727
+},
+{
+"word": "domino",
+"score": 143
+},
+{
+"word": "domino",
+"score": 144
+},
+{
+"word": "donato",
+"score": 3492
+},
+{
+"word": "donut",
+"score": 24
+},
+{
+"word": "donuts",
+"score": 31
+},
+{
+"word": "doodad",
+"score": 3347
+},
+{
+"word": "doofus",
+"score": 2583
+},
+{
+"word": "door",
+"score": 3601
+},
+{
+"word": "doorbell",
+"score": 2174
+},
+{
+"word": "doorkeeper",
+"score": 1910
+},
+{
+"word": "doorman",
+"score": 1911
+},
+{
+"word": "doorsill",
+"score": 2950
+},
+{
+"word": "doorstep",
+"score": 2949
+},
+{
+"word": "doorway",
+"score": 3602
+},
+{
+"word": "doosra",
+"score": 2610
+},
+{
+"word": "dope",
+"score": 2760
+},
+{
+"word": "doritos",
+"score": 389
+},
+{
+"word": "dork",
+"score": 2133
+},
+{
+"word": "dorm",
+"score": 2486
+},
+{
+"word": "dormitory",
+"score": 2485
+},
+{
+"word": "dough",
+"score": 277
+},
+{
+"word": "doughnut",
+"score": 23
+},
+{
+"word": "doughy",
+"score": 412
+},
+{
+"word": "downstairs",
+"score": 2251
+},
+{
+"word": "downtown",
+"score": 2536
+},
+{
+"word": "dowry",
+"score": 2802
+},
+{
+"word": "dq",
+"score": 2879
+},
+{
+"word": "draft",
+"score": 2588
+},
+{
+"word": "drago",
+"score": 1758
+},
+{
+"word": "dreamland",
+"score": 2704
+},
+{
+"word": "dreamliners",
+"score": 1843
+},
+{
+"word": "dressing",
+"score": 3003
+},
+{
+"word": "dressings",
+"score": 3001
+},
+{
+"word": "drink",
+"score": 222
+},
+{
+"word": "drinking",
+"score": 3566
+},
+{
+"word": "drinks",
+"score": 225
+},
+{
+"word": "drivel",
+"score": 1939
+},
+{
+"word": "drizzled",
+"score": 3006
+},
+{
+"word": "droid",
+"score": 3484
+},
+{
+"word": "drollery",
+"score": 1802
+},
+{
+"word": "drudgery",
+"score": 1616
+},
+{
+"word": "drugstore",
+"score": 897
+},
+{
+"word": "drumstick",
+"score": 1339
+},
+{
+"word": "drumsticks",
+"score": 1338
+},
+{
+"word": "drunk",
+"score": 3379
+},
+{
+"word": "drunkard",
+"score": 3378
+},
+{
+"word": "drunken",
+"score": 2024
+},
+{
+"word": "drywall",
+"score": 3647
+},
+{
+"word": "dubstep",
+"score": 3736
+},
+{
+"word": "ducasse",
+"score": 2575
+},
+{
+"word": "duck",
+"score": 2453
+},
+{
+"word": "dude",
+"score": 2247
+},
+{
+"word": "dudes",
+"score": 2941
+},
+{
+"word": "dugout",
+"score": 2281
+},
+{
+"word": "dumbbell",
+"score": 2233
+},
+{
+"word": "dumpling",
+"score": 215
+},
+{
+"word": "dumplings",
+"score": 411
+},
+{
+"word": "dumpster",
+"score": 939
+},
+{
+"word": "dumpster",
+"score": 940
+},
+{
+"word": "dumpsters",
+"score": 1754
+},
+{
+"word": "dunce",
+"score": 2231
+},
+{
+"word": "dunkin",
+"score": 775
+},
+{
+"word": "dunking",
+"score": 1984
+},
+{
+"word": "dvds",
+"score": 3172
+},
+{
+"word": "earphone",
+"score": 3612
+},
+{
+"word": "eastside",
+"score": 2671
+},
+{
+"word": "eat",
+"score": 265
+},
+{
+"word": "eaten",
+"score": 649
+},
+{
+"word": "eater",
+"score": 564
+},
+{
+"word": "eateries",
+"score": 321
+},
+{
+"word": "eaters",
+"score": 565
+},
+{
+"word": "eatery",
+"score": 137
+},
+{
+"word": "eating",
+"score": 345
+},
+{
+"word": "eats",
+"score": 465
+},
+{
+"word": "eccentric",
+"score": 3638
+},
+{
+"word": "echostar",
+"score": 3422
+},
+{
+"word": "edible",
+"score": 2101
+},
+{
+"word": "edibles",
+"score": 1108
+},
+{
+"word": "edy",
+"score": 2458
+},
+{
+"word": "egg",
+"score": 1436
+},
+{
+"word": "eggnog",
+"score": 1091
+},
+{
+"word": "eggplant",
+"score": 794
+},
+{
+"word": "eggplants",
+"score": 1496
+},
+{
+"word": "eggs",
+"score": 1434
+},
+{
+"word": "eleven",
+"score": 1946
+},
+{
+"word": "elf",
+"score": 91
+},
+{
+"word": "elm",
+"score": 3542
+},
+{
+"word": "elmwood",
+"score": 3543
+},
+{
+"word": "elvis",
+"score": 2797
+},
+{
+"word": "em",
+"score": 3316
+},
+{
+"word": "emeril",
+"score": 750
+},
+{
+"word": "empanadas",
+"score": 274
+},
+{
+"word": "emphasis",
+"score": 3590
+},
+{
+"word": "emporium",
+"score": 1925
+},
+{
+"word": "en",
+"score": 2741
+},
+{
+"word": "enchilada",
+"score": 188
+},
+{
+"word": "enchiladas",
+"score": 189
+},
+{
+"word": "endowment",
+"score": 3010
+},
+{
+"word": "enjoy",
+"score": 3414
+},
+{
+"word": "enodis",
+"score": 969
+},
+{
+"word": "enrico",
+"score": 3531
+},
+{
+"word": "entertainment",
+"score": 2845
+},
+{
+"word": "enticement",
+"score": 2356
+},
+{
+"word": "entrance",
+"score": 83
+},
+{
+"word": "entree",
+"score": 82
+},
+{
+"word": "entrees",
+"score": 84
+},
+{
+"word": "envelope",
+"score": 3064
+},
+{
+"word": "envelopes",
+"score": 3063
+},
+{
+"word": "enzo",
+"score": 1986
+},
+{
+"word": "epicure",
+"score": 54
+},
+{
+"word": "ergen",
+"score": 2304
+},
+{
+"word": "erie",
+"score": 3520
+},
+{
+"word": "erie",
+"score": 3521
+},
+{
+"word": "errand",
+"score": 1489
+},
+{
+"word": "errands",
+"score": 2875
+},
+{
+"word": "escort",
+"score": 2812
+},
+{
+"word": "espresso",
+"score": 266
+},
+{
+"word": "establishment",
+"score": 2000
+},
+{
+"word": "establishments",
+"score": 1998
+},
+{
+"word": "euchre",
+"score": 3162
+},
+{
+"word": "exclusive",
+"score": 1003
+},
+{
+"word": "excuse",
+"score": 3350
+},
+{
+"word": "fabio",
+"score": 3545
+},
+{
+"word": "fable",
+"score": 2313
+},
+{
+"word": "fabrication",
+"score": 2312
+},
+{
+"word": "fabrizio",
+"score": 2158
+},
+{
+"word": "fabulous",
+"score": 2923
+},
+{
+"word": "facial",
+"score": 1727
+},
+{
+"word": "facials",
+"score": 1726
+},
+{
+"word": "fagot",
+"score": 3668
+},
+{
+"word": "fags",
+"score": 3667
+},
+{
+"word": "fairy",
+"score": 1024
+},
+{
+"word": "fajitas",
+"score": 35
+},
+{
+"word": "falafel",
+"score": 49
+},
+{
+"word": "falconer",
+"score": 2224
+},
+{
+"word": "famished",
+"score": 762
+},
+{
+"word": "famous",
+"score": 2669
+},
+{
+"word": "fancy",
+"score": 1798
+},
+{
+"word": "fandango",
+"score": 2829
+},
+{
+"word": "fanta",
+"score": 2940
+},
+{
+"word": "fare",
+"score": 926
+},
+{
+"word": "farmhouse",
+"score": 3273
+},
+{
+"word": "fast",
+"score": 3173
+},
+{
+"word": "fastball",
+"score": 580
+},
+{
+"word": "fastballs",
+"score": 2272
+},
+{
+"word": "fastener",
+"score": 594
+},
+{
+"word": "fat",
+"score": 1361
+},
+{
+"word": "fathead",
+"score": 1505
+},
+{
+"word": "fatness",
+"score": 1362
+},
+{
+"word": "fatso",
+"score": 1006
+},
+{
+"word": "fattest",
+"score": 2762
+},
+{
+"word": "fatty",
+"score": 1007
+},
+{
+"word": "fausto",
+"score": 2429
+},
+{
+"word": "fava",
+"score": 2459
+},
+{
+"word": "fave",
+"score": 1721
+},
+{
+"word": "faves",
+"score": 3310
+},
+{
+"word": "favorite",
+"score": 1480
+},
+{
+"word": "feast",
+"score": 913
+},
+{
+"word": "feasted",
+"score": 1533
+},
+{
+"word": "feasts",
+"score": 1244
+},
+{
+"word": "fedele",
+"score": 2443
+},
+{
+"word": "fedex",
+"score": 1942
+},
+{
+"word": "fellini",
+"score": 1581
+},
+{
+"word": "fellini",
+"score": 1582
+},
+{
+"word": "fellow",
+"score": 2248
+},
+{
+"word": "fender",
+"score": 1575
+},
+{
+"word": "fennel",
+"score": 1511
+},
+{
+"word": "ferrara",
+"score": 2346
+},
+{
+"word": "ferrara",
+"score": 2347
+},
+{
+"word": "fertilization",
+"score": 3002
+},
+{
+"word": "festivus",
+"score": 848
+},
+{
+"word": "feta",
+"score": 650
+},
+{
+"word": "fete",
+"score": 915
+},
+{
+"word": "fiat",
+"score": 3662
+},
+{
+"word": "fido",
+"score": 2954
+},
+{
+"word": "fiesta",
+"score": 3221
+},
+{
+"word": "fig",
+"score": 1317
+},
+{
+"word": "figs",
+"score": 1318
+},
+{
+"word": "figure",
+"score": 1316
+},
+{
+"word": "figured",
+"score": 3421
+},
+{
+"word": "figurine",
+"score": 2658
+},
+{
+"word": "filet",
+"score": 329
+},
+{
+"word": "filippo",
+"score": 1750
+},
+{
+"word": "fillet",
+"score": 328
+},
+{
+"word": "fillets",
+"score": 1507
+},
+{
+"word": "filling",
+"score": 1383
+},
+{
+"word": "fillings",
+"score": 1382
+},
+{
+"word": "film",
+"score": 1498
+},
+{
+"word": "finest",
+"score": 1708
+},
+{
+"word": "fink",
+"score": 1305
+},
+{
+"word": "finmeccanica",
+"score": 2271
+},
+{
+"word": "fios",
+"score": 1697
+},
+{
+"word": "firecracker",
+"score": 1016
+},
+{
+"word": "firehouse",
+"score": 942
+},
+{
+"word": "firehouses",
+"score": 3234
+},
+{
+"word": "fireman",
+"score": 3750
+},
+{
+"word": "fireplace",
+"score": 1520
+},
+{
+"word": "firetruck",
+"score": 1231
+},
+{
+"word": "firewood",
+"score": 2006
+},
+{
+"word": "fish",
+"score": 3462
+},
+{
+"word": "fishy",
+"score": 3252
+},
+{
+"word": "fist",
+"score": 3339
+},
+{
+"word": "fisted",
+"score": 2822
+},
+{
+"word": "fistfight",
+"score": 2258
+},
+{
+"word": "fistful",
+"score": 2139
+},
+{
+"word": "fit",
+"score": 3502
+},
+{
+"word": "fiver",
+"score": 1356
+},
+{
+"word": "fix",
+"score": 161
+},
+{
+"word": "fixation",
+"score": 592
+},
+{
+"word": "fixings",
+"score": 597
+},
+{
+"word": "flaky",
+"score": 1592
+},
+{
+"word": "flamethrower",
+"score": 3205
+},
+{
+"word": "flan",
+"score": 289
+},
+{
+"word": "flank",
+"score": 1571
+},
+{
+"word": "flatbed",
+"score": 1735
+},
+{
+"word": "flatbread",
+"score": 121
+},
+{
+"word": "flatbush",
+"score": 3481
+},
+{
+"word": "flatcar",
+"score": 1736
+},
+{
+"word": "flatiron",
+"score": 1897
+},
+{
+"word": "flatware",
+"score": 2130
+},
+{
+"word": "flav",
+"score": 1355
+},
+{
+"word": "flavor",
+"score": 672
+},
+{
+"word": "flavored",
+"score": 1862
+},
+{
+"word": "flavorer",
+"score": 731
+},
+{
+"word": "flavorful",
+"score": 374
+},
+{
+"word": "flavoring",
+"score": 3698
+},
+{
+"word": "flavorings",
+"score": 2956
+},
+{
+"word": "flavors",
+"score": 720
+},
+{
+"word": "flay",
+"score": 809
+},
+{
+"word": "fleshiness",
+"score": 2411
+},
+{
+"word": "flick",
+"score": 3336
+},
+{
+"word": "flicks",
+"score": 3335
+},
+{
+"word": "flier",
+"score": 1465
+},
+{
+"word": "fliers",
+"score": 1808
+},
+{
+"word": "flintstone",
+"score": 2058
+},
+{
+"word": "flintstones",
+"score": 2057
+},
+{
+"word": "flip",
+"score": 1357
+},
+{
+"word": "floral",
+"score": 3771
+},
+{
+"word": "florentine",
+"score": 1422
+},
+{
+"word": "florentine",
+"score": 1423
+},
+{
+"word": "florist",
+"score": 1199
+},
+{
+"word": "florists",
+"score": 1773
+},
+{
+"word": "flour",
+"score": 1846
+},
+{
+"word": "flower",
+"score": 2212
+},
+{
+"word": "flowers",
+"score": 2501
+},
+{
+"word": "fluffy",
+"score": 3697
+},
+{
+"word": "flunky",
+"score": 3713
+},
+{
+"word": "flyer",
+"score": 1543
+},
+{
+"word": "flyers",
+"score": 2111
+},
+{
+"word": "folderal",
+"score": 3108
+},
+{
+"word": "folderol",
+"score": 525
+},
+{
+"word": "folgers",
+"score": 1882
+},
+{
+"word": "folly",
+"score": 2016
+},
+{
+"word": "fondness",
+"score": 1797
+},
+{
+"word": "fondue",
+"score": 78
+},
+{
+"word": "food",
+"score": 152
+},
+{
+"word": "foodbank",
+"score": 3446
+},
+{
+"word": "foodie",
+"score": 443
+},
+{
+"word": "foodies",
+"score": 517
+},
+{
+"word": "foodland",
+"score": 1792
+},
+{
+"word": "foods",
+"score": 543
+},
+{
+"word": "foodservice",
+"score": 780
+},
+{
+"word": "foodstuff",
+"score": 2119
+},
+{
+"word": "foodstuffs",
+"score": 2120
+},
+{
+"word": "foosball",
+"score": 670
+},
+{
+"word": "football",
+"score": 2380
+},
+{
+"word": "footballs",
+"score": 2381
+},
+{
+"word": "footie",
+"score": 2245
+},
+{
+"word": "foreplay",
+"score": 3090
+},
+{
+"word": "fork",
+"score": 2560
+},
+{
+"word": "forks",
+"score": 3103
+},
+{
+"word": "formica",
+"score": 3418
+},
+{
+"word": "formica",
+"score": 3419
+},
+{
+"word": "forte",
+"score": 854
+},
+{
+"word": "fortunato",
+"score": 1958
+},
+{
+"word": "fortune",
+"score": 2803
+},
+{
+"word": "forwarding",
+"score": 3216
+},
+{
+"word": "forza",
+"score": 3490
+},
+{
+"word": "four",
+"score": 1729
+},
+{
+"word": "foursome",
+"score": 1730
+},
+{
+"word": "foursquare",
+"score": 1564
+},
+{
+"word": "fourth",
+"score": 3004
+},
+{
+"word": "fragility",
+"score": 375
+},
+{
+"word": "francesco",
+"score": 1907
+},
+{
+"word": "franchise",
+"score": 1536
+},
+{
+"word": "franchised",
+"score": 2129
+},
+{
+"word": "franchisee",
+"score": 1030
+},
+{
+"word": "franchisees",
+"score": 838
+},
+{
+"word": "franchiser",
+"score": 1186
+},
+{
+"word": "franchises",
+"score": 1535
+},
+{
+"word": "franchising",
+"score": 1442
+},
+{
+"word": "franchisor",
+"score": 1703
+},
+{
+"word": "frank",
+"score": 19
+},
+{
+"word": "frankie",
+"score": 1813
+},
+{
+"word": "frat",
+"score": 1051
+},
+{
+"word": "fratello",
+"score": 2216
+},
+{
+"word": "fraternity",
+"score": 1050
+},
+{
+"word": "freakin",
+"score": 3382
+},
+{
+"word": "freakonomics",
+"score": 2634
+},
+{
+"word": "freebie",
+"score": 1851
+},
+{
+"word": "freebies",
+"score": 2472
+},
+{
+"word": "freemason",
+"score": 2300
+},
+{
+"word": "freemasonry",
+"score": 2696
+},
+{
+"word": "freezer",
+"score": 644
+},
+{
+"word": "freezers",
+"score": 1229
+},
+{
+"word": "freighters",
+"score": 3548
+},
+{
+"word": "fresco",
+"score": 767
+},
+{
+"word": "freshest",
+"score": 1010
+},
+{
+"word": "freshly",
+"score": 1518
+},
+{
+"word": "freshness",
+"score": 2497
+},
+{
+"word": "fret",
+"score": 825
+},
+{
+"word": "frickin",
+"score": 2288
+},
+{
+"word": "fridge",
+"score": 507
+},
+{
+"word": "fried",
+"score": 337
+},
+{
+"word": "friend",
+"score": 1784
+},
+{
+"word": "friend",
+"score": 1785
+},
+{
+"word": "friends",
+"score": 1782
+},
+{
+"word": "fries",
+"score": 28
+},
+{
+"word": "frill",
+"score": 3109
+},
+{
+"word": "frills",
+"score": 3110
+},
+{
+"word": "frisbee",
+"score": 1189
+},
+{
+"word": "frisbee",
+"score": 1247
+},
+{
+"word": "frisbees",
+"score": 1190
+},
+{
+"word": "frisch",
+"score": 1135
+},
+{
+"word": "frisch",
+"score": 1136
+},
+{
+"word": "frisson",
+"score": 1040
+},
+{
+"word": "fritter",
+"score": 682
+},
+{
+"word": "fritters",
+"score": 683
+},
+{
+"word": "front-runner",
+"score": 1479
+},
+{
+"word": "frost",
+"score": 3489
+},
+{
+"word": "frosted",
+"score": 1901
+},
+{
+"word": "frosting",
+"score": 797
+},
+{
+"word": "frosty",
+"score": 744
+},
+{
+"word": "frozen",
+"score": 600
+},
+{
+"word": "fruit",
+"score": 738
+},
+{
+"word": "fruitcake",
+"score": 363
+},
+{
+"word": "fruits",
+"score": 2357
+},
+{
+"word": "fruity",
+"score": 1915
+},
+{
+"word": "frump",
+"score": 1054
+},
+{
+"word": "fry",
+"score": 29
+},
+{
+"word": "fry",
+"score": 740
+},
+{
+"word": "fryer",
+"score": 484
+},
+{
+"word": "frying",
+"score": 557
+},
+{
+"word": "fuck",
+"score": 2386
+},
+{
+"word": "fucked",
+"score": 2965
+},
+{
+"word": "fuckin",
+"score": 2225
+},
+{
+"word": "fucking",
+"score": 2638
+},
+{
+"word": "fudge",
+"score": 957
+},
+{
+"word": "fun",
+"score": 1342
+},
+{
+"word": "fundraiser",
+"score": 2122
+},
+{
+"word": "fundraisers",
+"score": 2123
+},
+{
+"word": "funky",
+"score": 1738
+},
+{
+"word": "funnest",
+"score": 2627
+},
+{
+"word": "funniest",
+"score": 2489
+},
+{
+"word": "furniture",
+"score": 2569
+},
+{
+"word": "futurama",
+"score": 2197
+},
+{
+"word": "fuzzy",
+"score": 3269
+},
+{
+"word": "gaeta",
+"score": 2711
+},
+{
+"word": "gaetano",
+"score": 1426
+},
+{
+"word": "galante",
+"score": 3406
+},
+{
+"word": "galardi",
+"score": 3229
+},
+{
+"word": "galley",
+"score": 2345
+},
+{
+"word": "gambino",
+"score": 1375
+},
+{
+"word": "gamboge",
+"score": 1333
+},
+{
+"word": "gameday",
+"score": 3215
+},
+{
+"word": "gamestop",
+"score": 1660
+},
+{
+"word": "gang",
+"score": 2308
+},
+{
+"word": "gangster",
+"score": 983
+},
+{
+"word": "garage",
+"score": 2471
+},
+{
+"word": "garbage",
+"score": 1938
+},
+{
+"word": "garibaldi",
+"score": 2266
+},
+{
+"word": "garibaldi",
+"score": 2267
+},
+{
+"word": "garlic",
+"score": 817
+},
+{
+"word": "garnish",
+"score": 873
+},
+{
+"word": "garnishes",
+"score": 874
+},
+{
+"word": "garson",
+"score": 2291
+},
+{
+"word": "gastronomic",
+"score": 709
+},
+{
+"word": "gastronomy",
+"score": 2601
+},
+{
+"word": "gatorade",
+"score": 1799
+},
+{
+"word": "gazebo",
+"score": 3782
+},
+{
+"word": "gelatin",
+"score": 1166
+},
+{
+"word": "gelato",
+"score": 45
+},
+{
+"word": "geno",
+"score": 776
+},
+{
+"word": "genovese",
+"score": 1947
+},
+{
+"word": "gentile",
+"score": 2904
+},
+{
+"word": "getaway",
+"score": 1310
+},
+{
+"word": "getaways",
+"score": 3128
+},
+{
+"word": "ghee",
+"score": 3671
+},
+{
+"word": "giambra",
+"score": 3024
+},
+{
+"word": "gianna",
+"score": 3761
+},
+{
+"word": "gianni",
+"score": 3666
+},
+{
+"word": "gift",
+"score": 3012
+},
+{
+"word": "gifts",
+"score": 3011
+},
+{
+"word": "giggle",
+"score": 3148
+},
+{
+"word": "gilly",
+"score": 3281
+},
+{
+"word": "gimme",
+"score": 1980
+},
+{
+"word": "ginger",
+"score": 1603
+},
+{
+"word": "gingerbread",
+"score": 368
+},
+{
+"word": "gingiva",
+"score": 1585
+},
+{
+"word": "gino",
+"score": 441
+},
+{
+"word": "giordano",
+"score": 2710
+},
+{
+"word": "giorgio",
+"score": 2032
+},
+{
+"word": "giovanni",
+"score": 1014
+},
+{
+"word": "girlfriend",
+"score": 2401
+},
+{
+"word": "girlfriends",
+"score": 3423
+},
+{
+"word": "giuseppe",
+"score": 1164
+},
+{
+"word": "giveaway",
+"score": 3699
+},
+{
+"word": "giveaways",
+"score": 3700
+},
+{
+"word": "giving",
+"score": 3009
+},
+{
+"word": "gizmo",
+"score": 3348
+},
+{
+"word": "gladly",
+"score": 3704
+},
+{
+"word": "glassware",
+"score": 2750
+},
+{
+"word": "glazed",
+"score": 2005
+},
+{
+"word": "glue",
+"score": 1583
+},
+{
+"word": "gluten",
+"score": 3718
+},
+{
+"word": "gluttonous",
+"score": 2092
+},
+{
+"word": "gluttony",
+"score": 2392
+},
+{
+"word": "gnocchi",
+"score": 232
+},
+{
+"word": "gnome",
+"score": 3664
+},
+{
+"word": "gobbled",
+"score": 3738
+},
+{
+"word": "goddamn",
+"score": 1992
+},
+{
+"word": "godfather",
+"score": 1746
+},
+{
+"word": "godiva",
+"score": 1468
+},
+{
+"word": "godiva",
+"score": 1469
+},
+{
+"word": "goers",
+"score": 3275
+},
+{
+"word": "going",
+"score": 2446
+},
+{
+"word": "golf",
+"score": 2789
+},
+{
+"word": "gondola",
+"score": 2659
+},
+{
+"word": "goner",
+"score": 541
+},
+{
+"word": "gonzo",
+"score": 3032
+},
+{
+"word": "good",
+"score": 1637
+},
+{
+"word": "goodfellas",
+"score": 267
+},
+{
+"word": "goodfellows",
+"score": 3756
+},
+{
+"word": "goodie",
+"score": 1530
+},
+{
+"word": "goodies",
+"score": 1090
+},
+{
+"word": "goodness",
+"score": 1638
+},
+{
+"word": "goods",
+"score": 3577
+},
+{
+"word": "gooey",
+"score": 866
+},
+{
+"word": "goofball",
+"score": 1503
+},
+{
+"word": "goofy",
+"score": 2260
+},
+{
+"word": "goofy",
+"score": 2261
+},
+{
+"word": "goonies",
+"score": 2546
+},
+{
+"word": "gordo",
+"score": 1691
+},
+{
+"word": "gorged",
+"score": 2433
+},
+{
+"word": "gorging",
+"score": 990
+},
+{
+"word": "gothamist",
+"score": 1402
+},
+{
+"word": "gotta",
+"score": 3748
+},
+{
+"word": "gourd",
+"score": 2898
+},
+{
+"word": "gourds",
+"score": 3413
+},
+{
+"word": "gourmet",
+"score": 53
+},
+{
+"word": "grace",
+"score": 1367
+},
+{
+"word": "grain",
+"score": 356
+},
+{
+"word": "grandfather",
+"score": 2153
+},
+{
+"word": "grandma",
+"score": 1138
+},
+{
+"word": "grandmas",
+"score": 1651
+},
+{
+"word": "grandmother",
+"score": 2764
+},
+{
+"word": "grandpa",
+"score": 2154
+},
+{
+"word": "granola",
+"score": 681
+},
+{
+"word": "grape",
+"score": 2912
+},
+{
+"word": "grapefruit",
+"score": 1595
+},
+{
+"word": "grapes",
+"score": 2913
+},
+{
+"word": "grapeshot",
+"score": 2911
+},
+{
+"word": "grate",
+"score": 3057
+},
+{
+"word": "grated",
+"score": 3168
+},
+{
+"word": "gratuities",
+"score": 2868
+},
+{
+"word": "gratuity",
+"score": 2751
+},
+{
+"word": "gravestone",
+"score": 2376
+},
+{
+"word": "gravy",
+"score": 495
+},
+{
+"word": "grease",
+"score": 1987
+},
+{
+"word": "greaser",
+"score": 11
+},
+{
+"word": "greasy",
+"score": 460
+},
+{
+"word": "greco",
+"score": 1441
+},
+{
+"word": "greektown",
+"score": 663
+},
+{
+"word": "green",
+"score": 2439
+},
+{
+"word": "green",
+"score": 2441
+},
+{
+"word": "greencore",
+"score": 3175
+},
+{
+"word": "greens",
+"score": 2438
+},
+{
+"word": "greeter",
+"score": 2930
+},
+{
+"word": "greeting",
+"score": 2951
+},
+{
+"word": "greggs",
+"score": 630
+},
+{
+"word": "griddle",
+"score": 369
+},
+{
+"word": "grill",
+"score": 87
+},
+{
+"word": "grille",
+"score": 239
+},
+{
+"word": "grilled",
+"score": 410
+},
+{
+"word": "grilling",
+"score": 695
+},
+{
+"word": "grillroom",
+"score": 86
+},
+{
+"word": "grills",
+"score": 844
+},
+{
+"word": "grimaldi",
+"score": 2721
+},
+{
+"word": "grind",
+"score": 1618
+},
+{
+"word": "grinder",
+"score": 3147
+},
+{
+"word": "grinders",
+"score": 3145
+},
+{
+"word": "grindhouse",
+"score": 1898
+},
+{
+"word": "grinned",
+"score": 3597
+},
+{
+"word": "grinning",
+"score": 2960
+},
+{
+"word": "gripe",
+"score": 966
+},
+{
+"word": "grit",
+"score": 472
+},
+{
+"word": "grits",
+"score": 471
+},
+{
+"word": "grocer",
+"score": 607
+},
+{
+"word": "groceries",
+"score": 392
+},
+{
+"word": "grocers",
+"score": 916
+},
+{
+"word": "grocery",
+"score": 271
+},
+{
+"word": "grog",
+"score": 1919
+},
+{
+"word": "groomsman",
+"score": 2470
+},
+{
+"word": "groomsmen",
+"score": 2469
+},
+{
+"word": "grotto",
+"score": 2232
+},
+{
+"word": "grouper",
+"score": 1719
+},
+{
+"word": "groupon",
+"score": 1118
+},
+{
+"word": "grove",
+"score": 2293
+},
+{
+"word": "grownup",
+"score": 2008
+},
+{
+"word": "grub",
+"score": 149
+},
+{
+"word": "grumpy",
+"score": 3372
+},
+{
+"word": "guacamole",
+"score": 231
+},
+{
+"word": "guava",
+"score": 2836
+},
+{
+"word": "guest",
+"score": 2699
+},
+{
+"word": "guest",
+"score": 2702
+},
+{
+"word": "guests",
+"score": 2700
+},
+{
+"word": "guitar",
+"score": 2618
+},
+{
+"word": "gulp",
+"score": 3550
+},
+{
+"word": "gum",
+"score": 1586
+},
+{
+"word": "gumbo",
+"score": 406
+},
+{
+"word": "gummy",
+"score": 1337
+},
+{
+"word": "gumwood",
+"score": 1584
+},
+{
+"word": "gunfight",
+"score": 3029
+},
+{
+"word": "gunman",
+"score": 2841
+},
+{
+"word": "gunplay",
+"score": 3030
+},
+{
+"word": "gunpoint",
+"score": 2684
+},
+{
+"word": "gurnee",
+"score": 3037
+},
+{
+"word": "guy",
+"score": 1981
+},
+{
+"word": "guy",
+"score": 1982
+},
+{
+"word": "gym",
+"score": 1513
+},
+{
+"word": "gymnasium",
+"score": 1514
+},
+{
+"word": "gyro",
+"score": 355
+},
+{
+"word": "gyros",
+"score": 436
+},
+{
+"word": "gyroscope",
+"score": 354
+},
+{
+"word": "hacksaw",
+"score": 2993
+},
+{
+"word": "haddock",
+"score": 1437
+},
+{
+"word": "haggerty",
+"score": 2703
+},
+{
+"word": "haggis",
+"score": 395
+},
+{
+"word": "haiku",
+"score": 3453
+},
+{
+"word": "haircut",
+"score": 846
+},
+{
+"word": "haircuts",
+"score": 1510
+},
+{
+"word": "hairdresser",
+"score": 2983
+},
+{
+"word": "hairdressing",
+"score": 3682
+},
+{
+"word": "hairstyling",
+"score": 2403
+},
+{
+"word": "halal",
+"score": 2599
+},
+{
+"word": "halibut",
+"score": 885
+},
+{
+"word": "halloween",
+"score": 920
+},
+{
+"word": "halloween",
+"score": 921
+},
+{
+"word": "ham",
+"score": 260
+},
+{
+"word": "ham",
+"score": 261
+},
+{
+"word": "hamburger",
+"score": 3
+},
+{
+"word": "hamburgers",
+"score": 20
+},
+{
+"word": "hams",
+"score": 1340
+},
+{
+"word": "hamster",
+"score": 2499
+},
+{
+"word": "hamtramck",
+"score": 2042
+},
+{
+"word": "hand",
+"score": 3656
+},
+{
+"word": "handcart",
+"score": 1807
+},
+{
+"word": "handcrafted",
+"score": 2731
+},
+{
+"word": "handful",
+"score": 2138
+},
+{
+"word": "handfuls",
+"score": 2467
+},
+{
+"word": "handmade",
+"score": 1609
+},
+{
+"word": "handshake",
+"score": 3299
+},
+{
+"word": "handyman",
+"score": 1749
+},
+{
+"word": "hangout",
+"score": 452
+},
+{
+"word": "hangouts",
+"score": 2029
+},
+{
+"word": "hankering",
+"score": 1261
+},
+{
+"word": "hardee",
+"score": 699
+},
+{
+"word": "harvester",
+"score": 3524
+},
+{
+"word": "hauling",
+"score": 3634
+},
+{
+"word": "haunt",
+"score": 451
+},
+{
+"word": "haute",
+"score": 1005
+},
+{
+"word": "hawker",
+"score": 2222
+},
+{
+"word": "hazelnut",
+"score": 700
+},
+{
+"word": "hazelnuts",
+"score": 2073
+},
+{
+"word": "healthful",
+"score": 864
+},
+{
+"word": "healthier",
+"score": 2336
+},
+{
+"word": "healthiest",
+"score": 2640
+},
+{
+"word": "heaping",
+"score": 2756
+},
+{
+"word": "hearth",
+"score": 1521
+},
+{
+"word": "hearty",
+"score": 577
+},
+{
+"word": "heathen",
+"score": 2903
+},
+{
+"word": "heating",
+"score": 3743
+},
+{
+"word": "heck",
+"score": 2754
+},
+{
+"word": "heckman",
+"score": 3464
+},
+{
+"word": "heineken",
+"score": 3050
+},
+{
+"word": "heinz",
+"score": 1197
+},
+{
+"word": "heinz",
+"score": 1198
+},
+{
+"word": "helicopter",
+"score": 1876
+},
+{
+"word": "hellmann",
+"score": 2190
+},
+{
+"word": "hello",
+"score": 2527
+},
+{
+"word": "helping",
+"score": 859
+},
+{
+"word": "helpings",
+"score": 1020
+},
+{
+"word": "herb",
+"score": 3714
+},
+{
+"word": "herbs",
+"score": 3715
+},
+{
+"word": "heroin",
+"score": 3397
+},
+{
+"word": "hershey",
+"score": 3652
+},
+{
+"word": "hershey",
+"score": 3653
+},
+{
+"word": "hey",
+"score": 1879
+},
+{
+"word": "hickory",
+"score": 2043
+},
+{
+"word": "hiphop",
+"score": 1948
+},
+{
+"word": "hippest",
+"score": 1558
+},
+{
+"word": "hippie",
+"score": 2861
+},
+{
+"word": "hipster",
+"score": 2862
+},
+{
+"word": "hipsters",
+"score": 3180
+},
+{
+"word": "hispanic",
+"score": 2958
+},
+{
+"word": "hoard",
+"score": 2623
+},
+{
+"word": "hobo",
+"score": 2932
+},
+{
+"word": "hoboken",
+"score": 3134
+},
+{
+"word": "hockey",
+"score": 3358
+},
+{
+"word": "hog",
+"score": 2713
+},
+{
+"word": "holler",
+"score": 3401
+},
+{
+"word": "hollow",
+"score": 3400
+},
+{
+"word": "homeboy",
+"score": 899
+},
+{
+"word": "homemade",
+"score": 281
+},
+{
+"word": "homeroom",
+"score": 808
+},
+{
+"word": "hometown",
+"score": 1935
+},
+{
+"word": "homewood",
+"score": 1951
+},
+{
+"word": "homework",
+"score": 2609
+},
+{
+"word": "homey",
+"score": 811
+},
+{
+"word": "homo",
+"score": 2479
+},
+{
+"word": "honey",
+"score": 3284
+},
+{
+"word": "hooch",
+"score": 1117
+},
+{
+"word": "hood",
+"score": 2594
+},
+{
+"word": "hoodie",
+"score": 1624
+},
+{
+"word": "hoodies",
+"score": 3246
+},
+{
+"word": "hookah",
+"score": 872
+},
+{
+"word": "hooters",
+"score": 477
+},
+{
+"word": "hormel",
+"score": 2264
+},
+{
+"word": "horseradish",
+"score": 924
+},
+{
+"word": "horseshoe",
+"score": 3586
+},
+{
+"word": "hostel",
+"score": 1678
+},
+{
+"word": "hostess",
+"score": 1457
+},
+{
+"word": "hot",
+"score": 1291
+},
+{
+"word": "hotcakes",
+"score": 2045
+},
+{
+"word": "hotdog",
+"score": 18
+},
+{
+"word": "hotdogs",
+"score": 80
+},
+{
+"word": "hotel",
+"score": 2969
+},
+{
+"word": "hottie",
+"score": 2752
+},
+{
+"word": "hotties",
+"score": 3099
+},
+{
+"word": "housemate",
+"score": 2897
+},
+{
+"word": "housing",
+"score": 3160
+},
+{
+"word": "hovel",
+"score": 702
+},
+{
+"word": "hovis",
+"score": 1353
+},
+{
+"word": "hubby",
+"score": 2859
+},
+{
+"word": "hubcap",
+"score": 2195
+},
+{
+"word": "hubcaps",
+"score": 2196
+},
+{
+"word": "huckleberry",
+"score": 1906
+},
+{
+"word": "huddle",
+"score": 1295
+},
+{
+"word": "hug",
+"score": 2462
+},
+{
+"word": "hugs",
+"score": 3251
+},
+{
+"word": "huitre",
+"score": 1893
+},
+{
+"word": "hummus",
+"score": 194
+},
+{
+"word": "hump",
+"score": 3615
+},
+{
+"word": "hunger",
+"score": 2720
+},
+{
+"word": "hungover",
+"score": 2413
+},
+{
+"word": "hungry",
+"score": 1395
+},
+{
+"word": "hunk",
+"score": 2081
+},
+{
+"word": "hunks",
+"score": 2082
+},
+{
+"word": "husband",
+"score": 2860
+},
+{
+"word": "hut",
+"score": 703
+},
+{
+"word": "hyrax",
+"score": 843
+},
+{
+"word": "ice",
+"score": 1214
+},
+{
+"word": "iceboat",
+"score": 2177
+},
+{
+"word": "icebreaker",
+"score": 2882
+},
+{
+"word": "icebreakers",
+"score": 2881
+},
+{
+"word": "iced",
+"score": 2166
+},
+{
+"word": "ices",
+"score": 1212
+},
+{
+"word": "icing",
+"score": 3488
+},
+{
+"word": "icy",
+"score": 3639
+},
+{
+"word": "iftar",
+"score": 1377
+},
+{
+"word": "iga",
+"score": 892
+},
+{
+"word": "igloo",
+"score": 2372
+},
+{
+"word": "iguana",
+"score": 1692
+},
+{
+"word": "ihop",
+"score": 385
+},
+{
+"word": "ikea",
+"score": 1347
+},
+{
+"word": "il",
+"score": 2552
+},
+{
+"word": "ilitch",
+"score": 2538
+},
+{
+"word": "illinois",
+"score": 2551
+},
+{
+"word": "illusion",
+"score": 1796
+},
+{
+"word": "immigrant",
+"score": 3754
+},
+{
+"word": "improv",
+"score": 886
+},
+{
+"word": "indie",
+"score": 3695
+},
+{
+"word": "indigestion",
+"score": 3056
+},
+{
+"word": "indulge",
+"score": 2617
+},
+{
+"word": "indulgence",
+"score": 2015
+},
+{
+"word": "indulgences",
+"score": 2400
+},
+{
+"word": "indulgent",
+"score": 2157
+},
+{
+"word": "inedible",
+"score": 1861
+},
+{
+"word": "inflatables",
+"score": 2014
+},
+{
+"word": "informer",
+"score": 2183
+},
+{
+"word": "ingredient",
+"score": 593
+},
+{
+"word": "ingredients",
+"score": 972
+},
+{
+"word": "inn",
+"score": 1677
+},
+{
+"word": "institution",
+"score": 2001
+},
+{
+"word": "ippolito",
+"score": 1644
+},
+{
+"word": "irons",
+"score": 1934
+},
+{
+"word": "italian",
+"score": 711
+},
+{
+"word": "italian",
+"score": 712
+},
+{
+"word": "italiano",
+"score": 1009
+},
+{
+"word": "italians",
+"score": 3466
+},
+{
+"word": "item",
+"score": 3259
+},
+{
+"word": "items",
+"score": 3261
+},
+{
+"word": "itouch",
+"score": 2675
+},
+{
+"word": "izzy",
+"score": 2061
+},
+{
+"word": "jack",
+"score": 2319
+},
+{
+"word": "jackass",
+"score": 3571
+},
+{
+"word": "jackhammer",
+"score": 3678
+},
+{
+"word": "jacuzzi",
+"score": 3694
+},
+{
+"word": "jail",
+"score": 2567
+},
+{
+"word": "jalapeno",
+"score": 488
+},
+{
+"word": "jalapenos",
+"score": 509
+},
+{
+"word": "jam",
+"score": 3187
+},
+{
+"word": "jamba",
+"score": 2323
+},
+{
+"word": "jambalaya",
+"score": 273
+},
+{
+"word": "jamming",
+"score": 3189
+},
+{
+"word": "jams",
+"score": 3190
+},
+{
+"word": "janitor",
+"score": 3721
+},
+{
+"word": "janitorial",
+"score": 1285
+},
+{
+"word": "jar",
+"score": 1241
+},
+{
+"word": "jars",
+"score": 2118
+},
+{
+"word": "java",
+"score": 433
+},
+{
+"word": "java",
+"score": 434
+},
+{
+"word": "jax",
+"score": 3203
+},
+{
+"word": "jazz",
+"score": 1487
+},
+{
+"word": "jazzercise",
+"score": 1220
+},
+{
+"word": "jean",
+"score": 2968
+},
+{
+"word": "jeans",
+"score": 3026
+},
+{
+"word": "jeep",
+"score": 1764
+},
+{
+"word": "jelly",
+"score": 1165
+},
+{
+"word": "jerk",
+"score": 2132
+},
+{
+"word": "jerky",
+"score": 1026
+},
+{
+"word": "jest",
+"score": 2191
+},
+{
+"word": "jetblue",
+"score": 3495
+},
+{
+"word": "jewelry",
+"score": 3513
+},
+{
+"word": "jimbo",
+"score": 2976
+},
+{
+"word": "jingle",
+"score": 2052
+},
+{
+"word": "joe",
+"score": 997
+},
+{
+"word": "joes",
+"score": 2296
+},
+{
+"word": "joint",
+"score": 3333
+},
+{
+"word": "joints",
+"score": 3332
+},
+{
+"word": "joke",
+"score": 2192
+},
+{
+"word": "joker",
+"score": 420
+},
+{
+"word": "jokes",
+"score": 2689
+},
+{
+"word": "jokester",
+"score": 3606
+},
+{
+"word": "jolly",
+"score": 3618
+},
+{
+"word": "jolt",
+"score": 1242
+},
+{
+"word": "joy",
+"score": 985
+},
+{
+"word": "jug",
+"score": 1903
+},
+{
+"word": "juggler",
+"score": 3522
+},
+{
+"word": "jugs",
+"score": 3066
+},
+{
+"word": "juice",
+"score": 754
+},
+{
+"word": "juices",
+"score": 1372
+},
+{
+"word": "juicier",
+"score": 1838
+},
+{
+"word": "juicy",
+"score": 1275
+},
+{
+"word": "jukebox",
+"score": 768
+},
+{
+"word": "jukeboxes",
+"score": 1670
+},
+{
+"word": "jumbo",
+"score": 2895
+},
+{
+"word": "junk",
+"score": 806
+},
+{
+"word": "junky",
+"score": 3497
+},
+{
+"word": "junkyard",
+"score": 2971
+},
+{
+"word": "k",
+"score": 2440
+},
+{
+"word": "kabob",
+"score": 60
+},
+{
+"word": "kale",
+"score": 931
+},
+{
+"word": "kalinowski",
+"score": 2510
+},
+{
+"word": "karaoke",
+"score": 637
+},
+{
+"word": "karate",
+"score": 2783
+},
+{
+"word": "karradah",
+"score": 3573
+},
+{
+"word": "kart",
+"score": 2593
+},
+{
+"word": "karts",
+"score": 2426
+},
+{
+"word": "kebab",
+"score": 59
+},
+{
+"word": "kebabs",
+"score": 153
+},
+{
+"word": "keepsake",
+"score": 1462
+},
+{
+"word": "keg",
+"score": 512
+},
+{
+"word": "kegs",
+"score": 733
+},
+{
+"word": "kellogg",
+"score": 1880
+},
+{
+"word": "kellogg",
+"score": 1881
+},
+{
+"word": "keno",
+"score": 3546
+},
+{
+"word": "kernel",
+"score": 305
+},
+{
+"word": "ketchup",
+"score": 117
+},
+{
+"word": "kettle",
+"score": 2334
+},
+{
+"word": "kettles",
+"score": 2885
+},
+{
+"word": "kfc",
+"score": 237
+},
+{
+"word": "kickball",
+"score": 830
+},
+{
+"word": "kid",
+"score": 1037
+},
+{
+"word": "kiddie",
+"score": 2348
+},
+{
+"word": "kiddies",
+"score": 2075
+},
+{
+"word": "kiddy",
+"score": 2076
+},
+{
+"word": "kids",
+"score": 1443
+},
+{
+"word": "kilt",
+"score": 3247
+},
+{
+"word": "kimchi",
+"score": 578
+},
+{
+"word": "kindling",
+"score": 2595
+},
+{
+"word": "kingsford",
+"score": 3684
+},
+{
+"word": "kink",
+"score": 2892
+},
+{
+"word": "kinko",
+"score": 2853
+},
+{
+"word": "kinky",
+"score": 3660
+},
+{
+"word": "kiosk",
+"score": 1028
+},
+{
+"word": "kiosks",
+"score": 3471
+},
+{
+"word": "kiss",
+"score": 2257
+},
+{
+"word": "kisses",
+"score": 2256
+},
+{
+"word": "kitchen",
+"score": 396
+},
+{
+"word": "kitchenette",
+"score": 1743
+},
+{
+"word": "kitchens",
+"score": 694
+},
+{
+"word": "kitchenware",
+"score": 3084
+},
+{
+"word": "kitsch",
+"score": 3787
+},
+{
+"word": "kitty",
+"score": 1848
+},
+{
+"word": "kiwanis",
+"score": 2662
+},
+{
+"word": "klondike",
+"score": 2220
+},
+{
+"word": "klondike",
+"score": 2221
+},
+{
+"word": "kmart",
+"score": 3469
+},
+{
+"word": "knickknack",
+"score": 2496
+},
+{
+"word": "knife",
+"score": 1756
+},
+{
+"word": "knifepoint",
+"score": 3017
+},
+{
+"word": "knock",
+"score": 529
+},
+{
+"word": "knorr",
+"score": 1414
+},
+{
+"word": "knucklehead",
+"score": 2230
+},
+{
+"word": "koreatown",
+"score": 2165
+},
+{
+"word": "korner",
+"score": 1757
+},
+{
+"word": "kosher",
+"score": 930
+},
+{
+"word": "koury",
+"score": 3472
+},
+{
+"word": "kraft",
+"score": 653
+},
+{
+"word": "kroc",
+"score": 3262
+},
+{
+"word": "kroger",
+"score": 1187
+},
+{
+"word": "krystal",
+"score": 1665
+},
+{
+"word": "kuby",
+"score": 2561
+},
+{
+"word": "kyd",
+"score": 1036
+},
+{
+"word": "laager",
+"score": 697
+},
+{
+"word": "ladle",
+"score": 1664
+},
+{
+"word": "lagasse",
+"score": 1230
+},
+{
+"word": "lager",
+"score": 698
+},
+{
+"word": "lagers",
+"score": 2683
+},
+{
+"word": "lakeview",
+"score": 2107
+},
+{
+"word": "lamb",
+"score": 999
+},
+{
+"word": "lamb",
+"score": 1000
+},
+{
+"word": "lambertville",
+"score": 3529
+},
+{
+"word": "lamborghini",
+"score": 1971
+},
+{
+"word": "lane",
+"score": 1523
+},
+{
+"word": "lanes",
+"score": 1524
+},
+{
+"word": "lard",
+"score": 586
+},
+{
+"word": "larimer",
+"score": 2709
+},
+{
+"word": "larosa",
+"score": 987
+},
+{
+"word": "lasagna",
+"score": 38
+},
+{
+"word": "lasko",
+"score": 1968
+},
+{
+"word": "latino",
+"score": 2924
+},
+{
+"word": "latino",
+"score": 2925
+},
+{
+"word": "latkes",
+"score": 264
+},
+{
+"word": "latte",
+"score": 290
+},
+{
+"word": "lattes",
+"score": 339
+},
+{
+"word": "launderette",
+"score": 621
+},
+{
+"word": "laundromat",
+"score": 622
+},
+{
+"word": "laundry",
+"score": 1522
+},
+{
+"word": "lawn",
+"score": 2597
+},
+{
+"word": "lawnmower",
+"score": 1854
+},
+{
+"word": "lawrenceville",
+"score": 3702
+},
+{
+"word": "lawry",
+"score": 1300
+},
+{
+"word": "lazzaro",
+"score": 1385
+},
+{
+"word": "lbs",
+"score": 3650
+},
+{
+"word": "leek",
+"score": 1330
+},
+{
+"word": "leeks",
+"score": 2205
+},
+{
+"word": "left-hander",
+"score": 2435
+},
+{
+"word": "leftover",
+"score": 555
+},
+{
+"word": "leftovers",
+"score": 556
+},
+{
+"word": "lefty",
+"score": 2434
+},
+{
+"word": "legend",
+"score": 2311
+},
+{
+"word": "lego",
+"score": 1150
+},
+{
+"word": "lego",
+"score": 1257
+},
+{
+"word": "legos",
+"score": 1151
+},
+{
+"word": "lemniscus",
+"score": 1508
+},
+{
+"word": "lemon",
+"score": 1332
+},
+{
+"word": "lemonade",
+"score": 228
+},
+{
+"word": "lemons",
+"score": 1559
+},
+{
+"word": "lenard",
+"score": 2141
+},
+{
+"word": "lenard",
+"score": 2142
+},
+{
+"word": "lenten",
+"score": 2226
+},
+{
+"word": "lentil",
+"score": 1097
+},
+{
+"word": "lentils",
+"score": 1215
+},
+{
+"word": "leonardi",
+"score": 2952
+},
+{
+"word": "leprechaun",
+"score": 1203
+},
+{
+"word": "letizia",
+"score": 2590
+},
+{
+"word": "lettuce",
+"score": 398
+},
+{
+"word": "lettuces",
+"score": 3579
+},
+{
+"word": "levitra",
+"score": 3328
+},
+{
+"word": "libation",
+"score": 514
+},
+{
+"word": "libations",
+"score": 513
+},
+{
+"word": "lick",
+"score": 3091
+},
+{
+"word": "licked",
+"score": 2598
+},
+{
+"word": "licks",
+"score": 3287
+},
+{
+"word": "licorice",
+"score": 1432
+},
+{
+"word": "lidia",
+"score": 1789
+},
+{
+"word": "lidl",
+"score": 2792
+},
+{
+"word": "liked",
+"score": 2779
+},
+{
+"word": "liking",
+"score": 3151
+},
+{
+"word": "lime",
+"score": 888
+},
+{
+"word": "limes",
+"score": 889
+},
+{
+"word": "limiter",
+"score": 3416
+},
+{
+"word": "limo",
+"score": 584
+},
+{
+"word": "limos",
+"score": 3019
+},
+{
+"word": "limousine",
+"score": 585
+},
+{
+"word": "linden",
+"score": 887
+},
+{
+"word": "lindt",
+"score": 2644
+},
+{
+"word": "lingerie",
+"score": 1336
+},
+{
+"word": "linguine",
+"score": 408
+},
+{
+"word": "liposuction",
+"score": 2926
+},
+{
+"word": "liqueur",
+"score": 1715
+},
+{
+"word": "liquor",
+"score": 722
+},
+{
+"word": "liquors",
+"score": 1134
+},
+{
+"word": "listeria",
+"score": 3405
+},
+{
+"word": "livingsocial",
+"score": 1654
+},
+{
+"word": "loaf",
+"score": 282
+},
+{
+"word": "loaves",
+"score": 458
+},
+{
+"word": "loblaws",
+"score": 3245
+},
+{
+"word": "lobster",
+"score": 492
+},
+{
+"word": "lobsters",
+"score": 2500
+},
+{
+"word": "local",
+"score": 3665
+},
+{
+"word": "locksmith",
+"score": 1013
+},
+{
+"word": "lodging",
+"score": 3158
+},
+{
+"word": "lodgment",
+"score": 3159
+},
+{
+"word": "loft",
+"score": 2975
+},
+{
+"word": "loin",
+"score": 2203
+},
+{
+"word": "lollipop",
+"score": 657
+},
+{
+"word": "lollipops",
+"score": 658
+},
+{
+"word": "lombardo",
+"score": 3620
+},
+{
+"word": "longboard",
+"score": 3152
+},
+{
+"word": "loot",
+"score": 1883
+},
+{
+"word": "looting",
+"score": 3135
+},
+{
+"word": "lorain",
+"score": 3321
+},
+{
+"word": "lotto",
+"score": 2234
+},
+{
+"word": "louie",
+"score": 2069
+},
+{
+"word": "lounge",
+"score": 1725
+},
+{
+"word": "lounges",
+"score": 3595
+},
+{
+"word": "love",
+"score": 3458
+},
+{
+"word": "loved",
+"score": 2613
+},
+{
+"word": "loves",
+"score": 3457
+},
+{
+"word": "lovin",
+"score": 1223
+},
+{
+"word": "lowbrow",
+"score": 2717
+},
+{
+"word": "luau",
+"score": 833
+},
+{
+"word": "lube",
+"score": 2828
+},
+{
+"word": "lubricant",
+"score": 2827
+},
+{
+"word": "luby",
+"score": 659
+},
+{
+"word": "lucarelli",
+"score": 2835
+},
+{
+"word": "lucca",
+"score": 2850
+},
+{
+"word": "luciano",
+"score": 1409
+},
+{
+"word": "luger",
+"score": 603
+},
+{
+"word": "luigi",
+"score": 1161
+},
+{
+"word": "lumberyard",
+"score": 1855
+},
+{
+"word": "lunch",
+"score": 63
+},
+{
+"word": "lunchbox",
+"score": 741
+},
+{
+"word": "lunchboxes",
+"score": 1962
+},
+{
+"word": "lunched",
+"score": 1696
+},
+{
+"word": "luncheon",
+"score": 1591
+},
+{
+"word": "luncheons",
+"score": 3226
+},
+{
+"word": "lunches",
+"score": 180
+},
+{
+"word": "lunching",
+"score": 2708
+},
+{
+"word": "lunchroom",
+"score": 628
+},
+{
+"word": "lunchtime",
+"score": 427
+},
+{
+"word": "lupo",
+"score": 1590
+},
+{
+"word": "luscious",
+"score": 2306
+},
+{
+"word": "ma",
+"score": 763
+},
+{
+"word": "mac",
+"score": 1744
+},
+{
+"word": "macaroni",
+"score": 99
+},
+{
+"word": "macgyver",
+"score": 3760
+},
+{
+"word": "machete",
+"score": 1941
+},
+{
+"word": "macintosh",
+"score": 1745
+},
+{
+"word": "mafia",
+"score": 2112
+},
+{
+"word": "mafia",
+"score": 2113
+},
+{
+"word": "maggi",
+"score": 1920
+},
+{
+"word": "maggio",
+"score": 2525
+},
+{
+"word": "mail",
+"score": 705
+},
+{
+"word": "mailbox",
+"score": 2591
+},
+{
+"word": "mailman",
+"score": 413
+},
+{
+"word": "mall",
+"score": 2430
+},
+{
+"word": "malt",
+"score": 1080
+},
+{
+"word": "malted",
+"score": 1081
+},
+{
+"word": "malts",
+"score": 1079
+},
+{
+"word": "mama",
+"score": 2645
+},
+{
+"word": "mama",
+"score": 2646
+},
+{
+"word": "mambo",
+"score": 2215
+},
+{
+"word": "mamma",
+"score": 1011
+},
+{
+"word": "man",
+"score": 2476
+},
+{
+"word": "man",
+"score": 2477
+},
+{
+"word": "mancuso",
+"score": 2363
+},
+{
+"word": "manfredi",
+"score": 3199
+},
+{
+"word": "mango",
+"score": 1048
+},
+{
+"word": "mangoes",
+"score": 2373
+},
+{
+"word": "mangos",
+"score": 1047
+},
+{
+"word": "manicure",
+"score": 1438
+},
+{
+"word": "manicures",
+"score": 1983
+},
+{
+"word": "manly",
+"score": 2338
+},
+{
+"word": "mannino",
+"score": 2636
+},
+{
+"word": "marble",
+"score": 3541
+},
+{
+"word": "marbles",
+"score": 3539
+},
+{
+"word": "marcello",
+"score": 1720
+},
+{
+"word": "marchetti",
+"score": 2050
+},
+{
+"word": "marcin",
+"score": 2780
+},
+{
+"word": "marco",
+"score": 2417
+},
+{
+"word": "margarine",
+"score": 1415
+},
+{
+"word": "margarita",
+"score": 138
+},
+{
+"word": "margaritas",
+"score": 211
+},
+{
+"word": "margaritaville",
+"score": 2289
+},
+{
+"word": "margherita",
+"score": 1560
+},
+{
+"word": "mariachi",
+"score": 2557
+},
+{
+"word": "marinade",
+"score": 2064
+},
+{
+"word": "marinades",
+"score": 2065
+},
+{
+"word": "marinara",
+"score": 233
+},
+{
+"word": "marinate",
+"score": 3053
+},
+{
+"word": "marinated",
+"score": 911
+},
+{
+"word": "marinating",
+"score": 1089
+},
+{
+"word": "mario",
+"score": 1544
+},
+{
+"word": "marjoram",
+"score": 1818
+},
+{
+"word": "marlboros",
+"score": 896
+},
+{
+"word": "marlton",
+"score": 3580
+},
+{
+"word": "marmalade",
+"score": 1440
+},
+{
+"word": "marmite",
+"score": 964
+},
+{
+"word": "marsala",
+"score": 1890
+},
+{
+"word": "marsala",
+"score": 1891
+},
+{
+"word": "marshmallow",
+"score": 326
+},
+{
+"word": "marshmallows",
+"score": 447
+},
+{
+"word": "martini",
+"score": 221
+},
+{
+"word": "martinis",
+"score": 346
+},
+{
+"word": "martone",
+"score": 2331
+},
+{
+"word": "marzano",
+"score": 1953
+},
+{
+"word": "masa",
+"score": 3631
+},
+{
+"word": "masa",
+"score": 3632
+},
+{
+"word": "masala",
+"score": 871
+},
+{
+"word": "maserati",
+"score": 3560
+},
+{
+"word": "mash",
+"score": 1601
+},
+{
+"word": "mashup",
+"score": 3315
+},
+{
+"word": "mason",
+"score": 2299
+},
+{
+"word": "mason",
+"score": 2302
+},
+{
+"word": "masonry",
+"score": 2695
+},
+{
+"word": "masons",
+"score": 2301
+},
+{
+"word": "massage",
+"score": 1492
+},
+{
+"word": "massages",
+"score": 1491
+},
+{
+"word": "massimo",
+"score": 1488
+},
+{
+"word": "massino",
+"score": 1889
+},
+{
+"word": "masterchef",
+"score": 2236
+},
+{
+"word": "mastroianni",
+"score": 3455
+},
+{
+"word": "matchbox",
+"score": 2294
+},
+{
+"word": "material",
+"score": 2928
+},
+{
+"word": "matteo",
+"score": 2149
+},
+{
+"word": "matzo",
+"score": 493
+},
+{
+"word": "mauro",
+"score": 2857
+},
+{
+"word": "mayo",
+"score": 448
+},
+{
+"word": "mayonnaise",
+"score": 350
+},
+{
+"word": "mazza",
+"score": 1454
+},
+{
+"word": "mccluskey",
+"score": 3126
+},
+{
+"word": "mcdonald",
+"score": 439
+},
+{
+"word": "mcdonalds",
+"score": 243
+},
+{
+"word": "mead",
+"score": 3370
+},
+{
+"word": "mead",
+"score": 3371
+},
+{
+"word": "meal",
+"score": 71
+},
+{
+"word": "meals",
+"score": 132
+},
+{
+"word": "mealtime",
+"score": 560
+},
+{
+"word": "mealtimes",
+"score": 1588
+},
+{
+"word": "measure",
+"score": 610
+},
+{
+"word": "meat",
+"score": 306
+},
+{
+"word": "meatball",
+"score": 33
+},
+{
+"word": "meatballs",
+"score": 52
+},
+{
+"word": "meatless",
+"score": 341
+},
+{
+"word": "meatloaf",
+"score": 56
+},
+{
+"word": "meats",
+"score": 307
+},
+{
+"word": "meaty",
+"score": 1252
+},
+{
+"word": "medallion",
+"score": 2253
+},
+{
+"word": "medallions",
+"score": 2252
+},
+{
+"word": "mediaset",
+"score": 2838
+},
+{
+"word": "meijer",
+"score": 1905
+},
+{
+"word": "meiwes",
+"score": 2830
+},
+{
+"word": "melon",
+"score": 583
+},
+{
+"word": "melons",
+"score": 1389
+},
+{
+"word": "melt",
+"score": 1032
+},
+{
+"word": "memento",
+"score": 1464
+},
+{
+"word": "memorabilia",
+"score": 2677
+},
+{
+"word": "memory",
+"score": 1421
+},
+{
+"word": "menu",
+"score": 304
+},
+{
+"word": "menus",
+"score": 520
+},
+{
+"word": "merch",
+"score": 3775
+},
+{
+"word": "merchandise",
+"score": 1979
+},
+{
+"word": "merengue",
+"score": 2208
+},
+{
+"word": "meringue",
+"score": 1060
+},
+{
+"word": "merlo",
+"score": 3320
+},
+{
+"word": "merlot",
+"score": 1768
+},
+{
+"word": "merlot",
+"score": 1769
+},
+{
+"word": "mesquite",
+"score": 2874
+},
+{
+"word": "messenger",
+"score": 1545
+},
+{
+"word": "metalworking",
+"score": 3389
+},
+{
+"word": "meth",
+"score": 2568
+},
+{
+"word": "methamphetamine",
+"score": 1213
+},
+{
+"word": "methamphetamines",
+"score": 2503
+},
+{
+"word": "metro",
+"score": 68
+},
+{
+"word": "mex",
+"score": 660
+},
+{
+"word": "mexican",
+"score": 2099
+},
+{
+"word": "mexican",
+"score": 2100
+},
+{
+"word": "michelangelo",
+"score": 1989
+},
+{
+"word": "michelangelo",
+"score": 1990
+},
+{
+"word": "microbreweries",
+"score": 1153
+},
+{
+"word": "microbrewery",
+"score": 974
+},
+{
+"word": "microbrews",
+"score": 442
+},
+{
+"word": "microwave",
+"score": 758
+},
+{
+"word": "microwaves",
+"score": 3445
+},
+{
+"word": "midnight",
+"score": 2502
+},
+{
+"word": "midtown",
+"score": 2074
+},
+{
+"word": "mikey",
+"score": 1943
+},
+{
+"word": "milan",
+"score": 2455
+},
+{
+"word": "milanese",
+"score": 1221
+},
+{
+"word": "milanese",
+"score": 1222
+},
+{
+"word": "milano",
+"score": 2454
+},
+{
+"word": "milk",
+"score": 1314
+},
+{
+"word": "milk",
+"score": 1315
+},
+{
+"word": "milkman",
+"score": 945
+},
+{
+"word": "milkshake",
+"score": 219
+},
+{
+"word": "milkshakes",
+"score": 218
+},
+{
+"word": "mill",
+"score": 3144
+},
+{
+"word": "millcreek",
+"score": 2690
+},
+{
+"word": "millercoors",
+"score": 3594
+},
+{
+"word": "mince",
+"score": 2037
+},
+{
+"word": "mincemeat",
+"score": 2778
+},
+{
+"word": "miniature",
+"score": 1864
+},
+{
+"word": "minis",
+"score": 3757
+},
+{
+"word": "miniskirt",
+"score": 3758
+},
+{
+"word": "minivan",
+"score": 1427
+},
+{
+"word": "minivans",
+"score": 3674
+},
+{
+"word": "minooka",
+"score": 3357
+},
+{
+"word": "mint",
+"score": 1326
+},
+{
+"word": "mints",
+"score": 1327
+},
+{
+"word": "miso",
+"score": 973
+},
+{
+"word": "mitt",
+"score": 3657
+},
+{
+"word": "mmm",
+"score": 834
+},
+{
+"word": "mob",
+"score": 2307
+},
+{
+"word": "mobster",
+"score": 982
+},
+{
+"word": "mobsters",
+"score": 2237
+},
+{
+"word": "mocha",
+"score": 749
+},
+{
+"word": "mockumentary",
+"score": 3774
+},
+{
+"word": "moe",
+"score": 1066
+},
+{
+"word": "mojito",
+"score": 313
+},
+{
+"word": "mojo",
+"score": 1985
+},
+{
+"word": "molar",
+"score": 3146
+},
+{
+"word": "moldy",
+"score": 3740
+},
+{
+"word": "mole",
+"score": 2506
+},
+{
+"word": "mom",
+"score": 764
+},
+{
+"word": "momma",
+"score": 1565
+},
+{
+"word": "mommy",
+"score": 2180
+},
+{
+"word": "moms",
+"score": 1995
+},
+{
+"word": "mondello",
+"score": 3065
+},
+{
+"word": "money",
+"score": 2389
+},
+{
+"word": "monopoly",
+"score": 1148
+},
+{
+"word": "monopoly",
+"score": 1149
+},
+{
+"word": "moonwalk",
+"score": 2020
+},
+{
+"word": "moosic",
+"score": 2942
+},
+{
+"word": "mopar",
+"score": 2858
+},
+{
+"word": "moped",
+"score": 3786
+},
+{
+"word": "morabito",
+"score": 2953
+},
+{
+"word": "moratti",
+"score": 3509
+},
+{
+"word": "morel",
+"score": 1068
+},
+{
+"word": "morelli",
+"score": 1926
+},
+{
+"word": "morels",
+"score": 1069
+},
+{
+"word": "morsel",
+"score": 1273
+},
+{
+"word": "morsels",
+"score": 1912
+},
+{
+"word": "motel",
+"score": 2641
+},
+{
+"word": "motorcycle",
+"score": 1445
+},
+{
+"word": "motorhome",
+"score": 3279
+},
+{
+"word": "mousse",
+"score": 1952
+},
+{
+"word": "mouthwatering",
+"score": 785
+},
+{
+"word": "mouton",
+"score": 2723
+},
+{
+"word": "movie",
+"score": 1598
+},
+{
+"word": "moviegoer",
+"score": 2670
+},
+{
+"word": "moviegoing",
+"score": 2269
+},
+{
+"word": "movies",
+"score": 1834
+},
+{
+"word": "moxie",
+"score": 2176
+},
+{
+"word": "mozzarella",
+"score": 198
+},
+{
+"word": "mre",
+"score": 3465
+},
+{
+"word": "mres",
+"score": 784
+},
+{
+"word": "mtv",
+"score": 3396
+},
+{
+"word": "muffin",
+"score": 165
+},
+{
+"word": "muffins",
+"score": 166
+},
+{
+"word": "mug",
+"score": 1680
+},
+{
+"word": "mugs",
+"score": 1679
+},
+{
+"word": "mulligan",
+"score": 2374
+},
+{
+"word": "mummy",
+"score": 2957
+},
+{
+"word": "munch",
+"score": 431
+},
+{
+"word": "munch",
+"score": 432
+},
+{
+"word": "munched",
+"score": 527
+},
+{
+"word": "munchies",
+"score": 105
+},
+{
+"word": "munching",
+"score": 1106
+},
+{
+"word": "muppets",
+"score": 3285
+},
+{
+"word": "mushroom",
+"score": 1095
+},
+{
+"word": "mushrooms",
+"score": 1094
+},
+{
+"word": "mushy",
+"score": 2866
+},
+{
+"word": "music",
+"score": 1791
+},
+{
+"word": "mussel",
+"score": 3364
+},
+{
+"word": "mussels",
+"score": 3363
+},
+{
+"word": "musso",
+"score": 2755
+},
+{
+"word": "mustache",
+"score": 1615
+},
+{
+"word": "mustard",
+"score": 3150
+},
+{
+"word": "mutt",
+"score": 3290
+},
+{
+"word": "mutton",
+"score": 2722
+},
+{
+"word": "mykonos",
+"score": 2028
+},
+{
+"word": "mythbusters",
+"score": 1748
+},
+{
+"word": "nab",
+"score": 3745
+},
+{
+"word": "nacho",
+"score": 25
+},
+{
+"word": "nachos",
+"score": 26
+},
+{
+"word": "namesake",
+"score": 3387
+},
+{
+"word": "nando",
+"score": 422
+},
+{
+"word": "nap",
+"score": 3093
+},
+{
+"word": "napkin",
+"score": 491
+},
+{
+"word": "napkins",
+"score": 490
+},
+{
+"word": "naples",
+"score": 3105
+},
+{
+"word": "napoleon",
+"score": 3096
+},
+{
+"word": "napoli",
+"score": 3106
+},
+{
+"word": "natale",
+"score": 1439
+},
+{
+"word": "neapolitan",
+"score": 437
+},
+{
+"word": "neapolitan",
+"score": 438
+},
+{
+"word": "necktie",
+"score": 3407
+},
+{
+"word": "negligee",
+"score": 1365
+},
+{
+"word": "neighborhood",
+"score": 2571
+},
+{
+"word": "nerd",
+"score": 3138
+},
+{
+"word": "nerf",
+"score": 1872
+},
+{
+"word": "nestle",
+"score": 2607
+},
+{
+"word": "netflix",
+"score": 2886
+},
+{
+"word": "neutering",
+"score": 595
+},
+{
+"word": "newcomer",
+"score": 3789
+},
+{
+"word": "newsagent",
+"score": 902
+},
+{
+"word": "newsagents",
+"score": 2214
+},
+{
+"word": "newspaper",
+"score": 2361
+},
+{
+"word": "newspapers",
+"score": 2362
+},
+{
+"word": "newsstand",
+"score": 1044
+},
+{
+"word": "nibble",
+"score": 590
+},
+{
+"word": "nibbled",
+"score": 2173
+},
+{
+"word": "nibbles",
+"score": 589
+},
+{
+"word": "nibbling",
+"score": 3593
+},
+{
+"word": "nicer",
+"score": 3630
+},
+{
+"word": "nickel",
+"score": 1500
+},
+{
+"word": "nickels",
+"score": 1499
+},
+{
+"word": "night",
+"score": 2773
+},
+{
+"word": "nightclub",
+"score": 3233
+},
+{
+"word": "nightlife",
+"score": 3426
+},
+{
+"word": "nights",
+"score": 2775
+},
+{
+"word": "niko",
+"score": 3693
+},
+{
+"word": "nincompoop",
+"score": 2759
+},
+{
+"word": "ninepin",
+"score": 761
+},
+{
+"word": "ninepins",
+"score": 759
+},
+{
+"word": "ninja",
+"score": 3194
+},
+{
+"word": "ninjas",
+"score": 3195
+},
+{
+"word": "nino",
+"score": 970
+},
+{
+"word": "nipple",
+"score": 3043
+},
+{
+"word": "nite",
+"score": 2806
+},
+{
+"word": "nobu",
+"score": 1245
+},
+{
+"word": "node",
+"score": 2701
+},
+{
+"word": "nonchalantly",
+"score": 3768
+},
+{
+"word": "noodle",
+"score": 113
+},
+{
+"word": "noodles",
+"score": 186
+},
+{
+"word": "nook",
+"score": 3317
+},
+{
+"word": "noontime",
+"score": 3237
+},
+{
+"word": "northside",
+"score": 3330
+},
+{
+"word": "nosh",
+"score": 136
+},
+{
+"word": "novelties",
+"score": 2495
+},
+{
+"word": "novelty",
+"score": 2494
+},
+{
+"word": "nox",
+"score": 2774
+},
+{
+"word": "nugget",
+"score": 3480
+},
+{
+"word": "nut",
+"score": 2739
+},
+{
+"word": "nut",
+"score": 2740
+},
+{
+"word": "nutella",
+"score": 680
+},
+{
+"word": "nutrisystem",
+"score": 2202
+},
+{
+"word": "nutritional",
+"score": 2537
+},
+{
+"word": "nutritionally",
+"score": 3270
+},
+{
+"word": "nutritious",
+"score": 787
+},
+{
+"word": "nybble",
+"score": 591
+},
+{
+"word": "nye",
+"score": 2457
+},
+{
+"word": "oat",
+"score": 2326
+},
+{
+"word": "oatmeal",
+"score": 287
+},
+{
+"word": "oats",
+"score": 2327
+},
+{
+"word": "obesity",
+"score": 2410
+},
+{
+"word": "oblong",
+"score": 2973
+},
+{
+"word": "ocado",
+"score": 3197
+},
+{
+"word": "octopus",
+"score": 2978
+},
+{
+"word": "oddball",
+"score": 3637
+},
+{
+"word": "officemax",
+"score": 2922
+},
+{
+"word": "okra",
+"score": 407
+},
+{
+"word": "oktoberfest",
+"score": 1460
+},
+{
+"word": "oktoberfest",
+"score": 1461
+},
+{
+"word": "oldsmobile",
+"score": 2964
+},
+{
+"word": "olive",
+"score": 772
+},
+{
+"word": "olives",
+"score": 771
+},
+{
+"word": "olivieri",
+"score": 2608
+},
+{
+"word": "omelet",
+"score": 127
+},
+{
+"word": "omelets",
+"score": 126
+},
+{
+"word": "omelette",
+"score": 317
+},
+{
+"word": "one-fourth",
+"score": 3005
+},
+{
+"word": "onion",
+"score": 646
+},
+{
+"word": "onions",
+"score": 647
+},
+{
+"word": "opentable",
+"score": 2488
+},
+{
+"word": "orchards",
+"score": 2292
+},
+{
+"word": "order",
+"score": 805
+},
+{
+"word": "ordering",
+"score": 804
+},
+{
+"word": "orderliness",
+"score": 3784
+},
+{
+"word": "orders",
+"score": 3785
+},
+{
+"word": "oregano",
+"score": 1819
+},
+{
+"word": "oreo",
+"score": 291
+},
+{
+"word": "oreos",
+"score": 292
+},
+{
+"word": "orgy",
+"score": 3535
+},
+{
+"word": "ounce",
+"score": 2394
+},
+{
+"word": "outpost",
+"score": 2059
+},
+{
+"word": "outstation",
+"score": 2060
+},
+{
+"word": "outta",
+"score": 2317
+},
+{
+"word": "oven",
+"score": 467
+},
+{
+"word": "ovens",
+"score": 827
+},
+{
+"word": "overcooked",
+"score": 1663
+},
+{
+"word": "overeat",
+"score": 2315
+},
+{
+"word": "overeating",
+"score": 2970
+},
+{
+"word": "overhear",
+"score": 2883
+},
+{
+"word": "overheard",
+"score": 3183
+},
+{
+"word": "overhearing",
+"score": 2131
+},
+{
+"word": "overnight",
+"score": 3739
+},
+{
+"word": "owl",
+"score": 478
+},
+{
+"word": "oyster",
+"score": 1892
+},
+{
+"word": "oysters",
+"score": 1894
+},
+{
+"word": "pacifico",
+"score": 1662
+},
+{
+"word": "pacino",
+"score": 2625
+},
+{
+"word": "paella",
+"score": 322
+},
+{
+"word": "paintball",
+"score": 2397
+},
+{
+"word": "pajama",
+"score": 847
+},
+{
+"word": "pal",
+"score": 3781
+},
+{
+"word": "palate",
+"score": 2680
+},
+{
+"word": "palates",
+"score": 2681
+},
+{
+"word": "palatine",
+"score": 3097
+},
+{
+"word": "palatine",
+"score": 3098
+},
+{
+"word": "palette",
+"score": 1826
+},
+{
+"word": "palladino",
+"score": 1895
+},
+{
+"word": "pallet",
+"score": 1825
+},
+{
+"word": "pallets",
+"score": 2387
+},
+{
+"word": "pals",
+"score": 3085
+},
+{
+"word": "pampering",
+"score": 2864
+},
+{
+"word": "pancake",
+"score": 51
+},
+{
+"word": "pancakes",
+"score": 50
+},
+{
+"word": "pancetta",
+"score": 629
+},
+{
+"word": "pancho",
+"score": 3428
+},
+{
+"word": "pandev",
+"score": 2563
+},
+{
+"word": "panera",
+"score": 288
+},
+{
+"word": "panhandler",
+"score": 1388
+},
+{
+"word": "panhandling",
+"score": 2521
+},
+{
+"word": "panini",
+"score": 65
+},
+{
+"word": "panini",
+"score": 66
+},
+{
+"word": "panos",
+"score": 2768
+},
+{
+"word": "pantie",
+"score": 2545
+},
+{
+"word": "pantries",
+"score": 2318
+},
+{
+"word": "pantry",
+"score": 773
+},
+{
+"word": "panty",
+"score": 2544
+},
+{
+"word": "pantyhose",
+"score": 3399
+},
+{
+"word": "paola",
+"score": 2908
+},
+{
+"word": "pap",
+"score": 3044
+},
+{
+"word": "papa",
+"score": 173
+},
+{
+"word": "papaya",
+"score": 3408
+},
+{
+"word": "pappas",
+"score": 1566
+},
+{
+"word": "pappu",
+"score": 3773
+},
+{
+"word": "pappy",
+"score": 1352
+},
+{
+"word": "paprika",
+"score": 3443
+},
+{
+"word": "paradiso",
+"score": 3210
+},
+{
+"word": "parcel",
+"score": 2804
+},
+{
+"word": "parisi",
+"score": 2228
+},
+{
+"word": "park",
+"score": 2437
+},
+{
+"word": "parking",
+"score": 3046
+},
+{
+"word": "parlor",
+"score": 2818
+},
+{
+"word": "parmalat",
+"score": 3690
+},
+{
+"word": "parmesan",
+"score": 453
+},
+{
+"word": "parmesan",
+"score": 454
+},
+{
+"word": "parody",
+"score": 3268
+},
+{
+"word": "parsley",
+"score": 1433
+},
+{
+"word": "parsnip",
+"score": 1232
+},
+{
+"word": "parsnips",
+"score": 1233
+},
+{
+"word": "part",
+"score": 2801
+},
+{
+"word": "partake",
+"score": 2982
+},
+{
+"word": "partiers",
+"score": 3204
+},
+{
+"word": "partook",
+"score": 2873
+},
+{
+"word": "pasquale",
+"score": 1354
+},
+{
+"word": "pass",
+"score": 1358
+},
+{
+"word": "passersby",
+"score": 3629
+},
+{
+"word": "passover",
+"score": 2193
+},
+{
+"word": "passover",
+"score": 2194
+},
+{
+"word": "pasta",
+"score": 16
+},
+{
+"word": "pastas",
+"score": 169
+},
+{
+"word": "pasties",
+"score": 753
+},
+{
+"word": "pastrami",
+"score": 109
+},
+{
+"word": "pastries",
+"score": 97
+},
+{
+"word": "pastry",
+"score": 96
+},
+{
+"word": "pasty",
+"score": 752
+},
+{
+"word": "pat",
+"score": 1400
+},
+{
+"word": "pate",
+"score": 1073
+},
+{
+"word": "pathmark",
+"score": 1940
+},
+{
+"word": "patio",
+"score": 725
+},
+{
+"word": "patron",
+"score": 1119
+},
+{
+"word": "patronize",
+"score": 2354
+},
+{
+"word": "patrons",
+"score": 1120
+},
+{
+"word": "patties",
+"score": 464
+},
+{
+"word": "patty",
+"score": 174
+},
+{
+"word": "paulie",
+"score": 925
+},
+{
+"word": "pauly",
+"score": 2947
+},
+{
+"word": "pawl",
+"score": 1057
+},
+{
+"word": "paycheck",
+"score": 2244
+},
+{
+"word": "paychecks",
+"score": 2243
+},
+{
+"word": "payoff",
+"score": 2997
+},
+{
+"word": "payphone",
+"score": 1776
+},
+{
+"word": "pazzini",
+"score": 2674
+},
+{
+"word": "pea",
+"score": 1431
+},
+{
+"word": "peach",
+"score": 566
+},
+{
+"word": "peaches",
+"score": 567
+},
+{
+"word": "peanut",
+"score": 1405
+},
+{
+"word": "peanuts",
+"score": 1404
+},
+{
+"word": "pear",
+"score": 1041
+},
+{
+"word": "pears",
+"score": 1042
+},
+{
+"word": "peas",
+"score": 1430
+},
+{
+"word": "peasant",
+"score": 3506
+},
+{
+"word": "pecan",
+"score": 1049
+},
+{
+"word": "pecans",
+"score": 1916
+},
+{
+"word": "peculiarity",
+"score": 853
+},
+{
+"word": "peddler",
+"score": 2223
+},
+{
+"word": "pedestrian",
+"score": 3733
+},
+{
+"word": "pedicure",
+"score": 1950
+},
+{
+"word": "pedicures",
+"score": 3080
+},
+{
+"word": "pee",
+"score": 3184
+},
+{
+"word": "peeing",
+"score": 3186
+},
+{
+"word": "peek",
+"score": 818
+},
+{
+"word": "peeps",
+"score": 820
+},
+{
+"word": "penis",
+"score": 3324
+},
+{
+"word": "pennant",
+"score": 2310
+},
+{
+"word": "pennies",
+"score": 1408
+},
+{
+"word": "penny",
+"score": 1407
+},
+{
+"word": "pep",
+"score": 1602
+},
+{
+"word": "pepper",
+"score": 686
+},
+{
+"word": "pepperoni",
+"score": 15
+},
+{
+"word": "peppers",
+"score": 687
+},
+{
+"word": "peppery",
+"score": 2826
+},
+{
+"word": "pepsi",
+"score": 1606
+},
+{
+"word": "pepsi",
+"score": 1607
+},
+{
+"word": "pepsiamericas",
+"score": 3680
+},
+{
+"word": "pepsico",
+"score": 2159
+},
+{
+"word": "perch",
+"score": 3087
+},
+{
+"word": "perishable",
+"score": 1922
+},
+{
+"word": "perishables",
+"score": 1923
+},
+{
+"word": "perk",
+"score": 2639
+},
+{
+"word": "perp",
+"score": 2584
+},
+{
+"word": "perri",
+"score": 3035
+},
+{
+"word": "perrigo",
+"score": 3691
+},
+{
+"word": "perrone",
+"score": 3345
+},
+{
+"word": "perrotta",
+"score": 2352
+},
+{
+"word": "person",
+"score": 2505
+},
+{
+"word": "perspirer",
+"score": 2616
+},
+{
+"word": "pesce",
+"score": 777
+},
+{
+"word": "pestle",
+"score": 3794
+},
+{
+"word": "pesto",
+"score": 300
+},
+{
+"word": "petey",
+"score": 1937
+},
+{
+"word": "petrillo",
+"score": 3600
+},
+{
+"word": "petrone",
+"score": 1567
+},
+{
+"word": "petrovic",
+"score": 2974
+},
+{
+"word": "petunia",
+"score": 3049
+},
+{
+"word": "petunias",
+"score": 3048
+},
+{
+"word": "pharmacy",
+"score": 2175
+},
+{
+"word": "philistine",
+"score": 2718
+},
+{
+"word": "philly",
+"score": 1908
+},
+{
+"word": "pho",
+"score": 263
+},
+{
+"word": "phone",
+"score": 3614
+},
+{
+"word": "photocopy",
+"score": 3272
+},
+{
+"word": "photocopying",
+"score": 2359
+},
+{
+"word": "pi",
+"score": 3523
+},
+{
+"word": "piazza",
+"score": 2170
+},
+{
+"word": "piccolo",
+"score": 2498
+},
+{
+"word": "pickle",
+"score": 159
+},
+{
+"word": "pickled",
+"score": 1397
+},
+{
+"word": "pickles",
+"score": 160
+},
+{
+"word": "pickling",
+"score": 1103
+},
+{
+"word": "pickup",
+"score": 1309
+},
+{
+"word": "picnic",
+"score": 546
+},
+{
+"word": "picnics",
+"score": 1360
+},
+{
+"word": "picture",
+"score": 3498
+},
+{
+"word": "pie",
+"score": 21
+},
+{
+"word": "piece",
+"score": 499
+},
+{
+"word": "pieplant",
+"score": 734
+},
+{
+"word": "piero",
+"score": 2992
+},
+{
+"word": "pies",
+"score": 22
+},
+{
+"word": "pietro",
+"score": 1239
+},
+{
+"word": "pig",
+"score": 2712
+},
+{
+"word": "pigeon",
+"score": 3211
+},
+{
+"word": "piglet",
+"score": 3182
+},
+{
+"word": "pigskin",
+"score": 2837
+},
+{
+"word": "pika",
+"score": 840
+},
+{
+"word": "pilchard",
+"score": 1178
+},
+{
+"word": "pile",
+"score": 3094
+},
+{
+"word": "pillow",
+"score": 3104
+},
+{
+"word": "pillowcase",
+"score": 2796
+},
+{
+"word": "pillsbury",
+"score": 980
+},
+{
+"word": "pilsen",
+"score": 2078
+},
+{
+"word": "pilsen",
+"score": 2079
+},
+{
+"word": "pinata",
+"score": 1622
+},
+{
+"word": "pinball",
+"score": 1685
+},
+{
+"word": "pineapple",
+"score": 755
+},
+{
+"word": "pineapples",
+"score": 2358
+},
+{
+"word": "pingpong",
+"score": 2262
+},
+{
+"word": "pinkberry",
+"score": 511
+},
+{
+"word": "pino",
+"score": 3727
+},
+{
+"word": "pinot",
+"score": 2102
+},
+{
+"word": "pinot",
+"score": 2103
+},
+{
+"word": "pint",
+"score": 508
+},
+{
+"word": "pints",
+"score": 1837
+},
+{
+"word": "pirlo",
+"score": 3477
+},
+{
+"word": "pisces",
+"score": 3463
+},
+{
+"word": "pita",
+"score": 181
+},
+{
+"word": "pitch",
+"score": 953
+},
+{
+"word": "pittston",
+"score": 3491
+},
+{
+"word": "pizza",
+"score": 0
+},
+{
+"word": "pizzeria",
+"score": 8
+},
+{
+"word": "pizzerias",
+"score": 40
+},
+{
+"word": "placemats",
+"score": 1294
+},
+{
+"word": "plantain",
+"score": 588
+},
+{
+"word": "plantains",
+"score": 587
+},
+{
+"word": "plate",
+"score": 1063
+},
+{
+"word": "plates",
+"score": 1062
+},
+{
+"word": "platforming",
+"score": 2614
+},
+{
+"word": "platter",
+"score": 446
+},
+{
+"word": "platters",
+"score": 445
+},
+{
+"word": "play",
+"score": 1674
+},
+{
+"word": "playfish",
+"score": 3360
+},
+{
+"word": "playfulness",
+"score": 1341
+},
+{
+"word": "playground",
+"score": 3033
+},
+{
+"word": "playland",
+"score": 2600
+},
+{
+"word": "playstation",
+"score": 2390
+},
+{
+"word": "plaything",
+"score": 1865
+},
+{
+"word": "playtime",
+"score": 2211
+},
+{
+"word": "plaza",
+"score": 2171
+},
+{
+"word": "plazas",
+"score": 3507
+},
+{
+"word": "pledge",
+"score": 540
+},
+{
+"word": "plop",
+"score": 3114
+},
+{
+"word": "plopped",
+"score": 2787
+},
+{
+"word": "plopping",
+"score": 2776
+},
+{
+"word": "plum",
+"score": 2579
+},
+{
+"word": "plumber",
+"score": 1370
+},
+{
+"word": "plumbers",
+"score": 3198
+},
+{
+"word": "plump",
+"score": 2687
+},
+{
+"word": "plums",
+"score": 2578
+},
+{
+"word": "point",
+"score": 2685
+},
+{
+"word": "poker",
+"score": 3430
+},
+{
+"word": "polenta",
+"score": 352
+},
+{
+"word": "polito",
+"score": 1716
+},
+{
+"word": "polka",
+"score": 941
+},
+{
+"word": "pollack",
+"score": 2533
+},
+{
+"word": "pollock",
+"score": 2534
+},
+{
+"word": "pollock",
+"score": 2535
+},
+{
+"word": "ponderosa",
+"score": 3100
+},
+{
+"word": "pontiac",
+"score": 3741
+},
+{
+"word": "pontiac",
+"score": 3742
+},
+{
+"word": "pooch",
+"score": 551
+},
+{
+"word": "poolside",
+"score": 3479
+},
+{
+"word": "poop",
+"score": 2757
+},
+{
+"word": "pop",
+"score": 145
+},
+{
+"word": "popcorn",
+"score": 98
+},
+{
+"word": "popeye",
+"score": 614
+},
+{
+"word": "popeyes",
+"score": 704
+},
+{
+"word": "popper",
+"score": 2273
+},
+{
+"word": "popper",
+"score": 2275
+},
+{
+"word": "poppers",
+"score": 2274
+},
+{
+"word": "porch",
+"score": 3015
+},
+{
+"word": "pork",
+"score": 710
+},
+{
+"word": "porky",
+"score": 632
+},
+{
+"word": "porn",
+"score": 2270
+},
+{
+"word": "porno",
+"score": 1046
+},
+{
+"word": "pornography",
+"score": 1045
+},
+{
+"word": "porridge",
+"score": 486
+},
+{
+"word": "portions",
+"score": 2800
+},
+{
+"word": "portly",
+"score": 1732
+},
+{
+"word": "posh",
+"score": 3209
+},
+{
+"word": "postage",
+"score": 2379
+},
+{
+"word": "postal",
+"score": 1532
+},
+{
+"word": "postbox",
+"score": 2592
+},
+{
+"word": "postcard",
+"score": 3028
+},
+{
+"word": "postcards",
+"score": 3398
+},
+{
+"word": "postgame",
+"score": 2204
+},
+{
+"word": "postman",
+"score": 1734
+},
+{
+"word": "pot",
+"score": 582
+},
+{
+"word": "potato",
+"score": 428
+},
+{
+"word": "potatoes",
+"score": 563
+},
+{
+"word": "potluck",
+"score": 636
+},
+{
+"word": "pottery",
+"score": 2719
+},
+{
+"word": "pound",
+"score": 3651
+},
+{
+"word": "pounder",
+"score": 3795
+},
+{
+"word": "pounders",
+"score": 3796
+},
+{
+"word": "powerade",
+"score": 1996
+},
+{
+"word": "poynt",
+"score": 2393
+},
+{
+"word": "prank",
+"score": 3716
+},
+{
+"word": "prawn",
+"score": 1087
+},
+{
+"word": "prawns",
+"score": 1088
+},
+{
+"word": "prefab",
+"score": 2635
+},
+{
+"word": "prefabricated",
+"score": 2018
+},
+{
+"word": "preference",
+"score": 480
+},
+{
+"word": "pregame",
+"score": 1635
+},
+{
+"word": "preheat",
+"score": 2277
+},
+{
+"word": "prep",
+"score": 3027
+},
+{
+"word": "prepackaged",
+"score": 1170
+},
+{
+"word": "preparer",
+"score": 3412
+},
+{
+"word": "preschooler",
+"score": 2727
+},
+{
+"word": "preservative",
+"score": 3793
+},
+{
+"word": "preservatives",
+"score": 3792
+},
+{
+"word": "presto",
+"score": 3054
+},
+{
+"word": "pretzel",
+"score": 209
+},
+{
+"word": "pretzels",
+"score": 210
+},
+{
+"word": "prevention",
+"score": 612
+},
+{
+"word": "primo",
+"score": 1099
+},
+{
+"word": "pringles",
+"score": 877
+},
+{
+"word": "printer",
+"score": 3478
+},
+{
+"word": "prize",
+"score": 1884
+},
+{
+"word": "prizes",
+"score": 1886
+},
+{
+"word": "produce",
+"score": 2283
+},
+{
+"word": "proletarian",
+"score": 2863
+},
+{
+"word": "prom",
+"score": 2626
+},
+{
+"word": "promenade",
+"score": 2431
+},
+{
+"word": "promo",
+"score": 3752
+},
+{
+"word": "promotion",
+"score": 3217
+},
+{
+"word": "promotions",
+"score": 3218
+},
+{
+"word": "pronto",
+"score": 1157
+},
+{
+"word": "propane",
+"score": 2003
+},
+{
+"word": "propositioned",
+"score": 2747
+},
+{
+"word": "proscenium",
+"score": 3058
+},
+{
+"word": "prosciutto",
+"score": 320
+},
+{
+"word": "prostitute",
+"score": 929
+},
+{
+"word": "provenzano",
+"score": 1700
+},
+{
+"word": "prowler",
+"score": 3291
+},
+{
+"word": "pub",
+"score": 661
+},
+{
+"word": "publix",
+"score": 1145
+},
+{
+"word": "pubs",
+"score": 2229
+},
+{
+"word": "puck",
+"score": 1292
+},
+{
+"word": "puck",
+"score": 1293
+},
+{
+"word": "pudding",
+"score": 501
+},
+{
+"word": "puddings",
+"score": 516
+},
+{
+"word": "pudgy",
+"score": 2672
+},
+{
+"word": "puffy",
+"score": 3762
+},
+{
+"word": "pug",
+"score": 3288
+},
+{
+"word": "pugliese",
+"score": 2824
+},
+{
+"word": "puglisi",
+"score": 1737
+},
+{
+"word": "puke",
+"score": 2556
+},
+{
+"word": "puking",
+"score": 3083
+},
+{
+"word": "pumpkin",
+"score": 335
+},
+{
+"word": "pumpkins",
+"score": 1137
+},
+{
+"word": "punch",
+"score": 3092
+},
+{
+"word": "pungency",
+"score": 1282
+},
+{
+"word": "punk",
+"score": 2596
+},
+{
+"word": "puppy",
+"score": 2259
+},
+{
+"word": "puree",
+"score": 3055
+},
+{
+"word": "pureed",
+"score": 3067
+},
+{
+"word": "pushup",
+"score": 2656
+},
+{
+"word": "pushups",
+"score": 2655
+},
+{
+"word": "pussy",
+"score": 1849
+},
+{
+"word": "qsr",
+"score": 542
+},
+{
+"word": "quart",
+"score": 2619
+},
+{
+"word": "quartet",
+"score": 1728
+},
+{
+"word": "quesadilla",
+"score": 76
+},
+{
+"word": "quesadillas",
+"score": 77
+},
+{
+"word": "quiche",
+"score": 106
+},
+{
+"word": "quiche",
+"score": 107
+},
+{
+"word": "quickie",
+"score": 1931
+},
+{
+"word": "quidditch",
+"score": 3670
+},
+{
+"word": "quiktrip",
+"score": 2624
+},
+{
+"word": "quince",
+"score": 1600
+},
+{
+"word": "quinoa",
+"score": 3433
+},
+{
+"word": "quintessential",
+"score": 2865
+},
+{
+"word": "quintessentially",
+"score": 3052
+},
+{
+"word": "quirky",
+"score": 3016
+},
+{
+"word": "quiznos",
+"score": 67
+},
+{
+"word": "quorn",
+"score": 1655
+},
+{
+"word": "rabbit",
+"score": 841
+},
+{
+"word": "racecar",
+"score": 2135
+},
+{
+"word": "racquetball",
+"score": 2152
+},
+{
+"word": "radish",
+"score": 623
+},
+{
+"word": "radishes",
+"score": 624
+},
+{
+"word": "raffaele",
+"score": 3219
+},
+{
+"word": "raffle",
+"score": 1634
+},
+{
+"word": "raffles",
+"score": 1632
+},
+{
+"word": "raffles",
+"score": 1633
+},
+{
+"word": "rago",
+"score": 3000
+},
+{
+"word": "ragweed",
+"score": 934
+},
+{
+"word": "raisin",
+"score": 875
+},
+{
+"word": "raisins",
+"score": 2487
+},
+{
+"word": "ralcorp",
+"score": 2255
+},
+{
+"word": "ralphie",
+"score": 2935
+},
+{
+"word": "ramada",
+"score": 3724
+},
+{
+"word": "ramen",
+"score": 104
+},
+{
+"word": "randazzo",
+"score": 1059
+},
+{
+"word": "range",
+"score": 1276
+},
+{
+"word": "rap",
+"score": 1399
+},
+{
+"word": "rapier",
+"score": 2989
+},
+{
+"word": "rapping",
+"score": 2653
+},
+{
+"word": "raspberries",
+"score": 3131
+},
+{
+"word": "raspberry",
+"score": 3132
+},
+{
+"word": "rastafarian",
+"score": 3061
+},
+{
+"word": "rastafarian",
+"score": 3062
+},
+{
+"word": "rat",
+"score": 2182
+},
+{
+"word": "ratatouille",
+"score": 1747
+},
+{
+"word": "rathbun",
+"score": 2999
+},
+{
+"word": "ration",
+"score": 2156
+},
+{
+"word": "rations",
+"score": 2155
+},
+{
+"word": "ravenous",
+"score": 1335
+},
+{
+"word": "ravioli",
+"score": 72
+},
+{
+"word": "razor",
+"score": 1717
+},
+{
+"word": "razr",
+"score": 2483
+},
+{
+"word": "rebar",
+"score": 3181
+},
+{
+"word": "recipe",
+"score": 668
+},
+{
+"word": "recipes",
+"score": 828
+},
+{
+"word": "recliner",
+"score": 1527
+},
+{
+"word": "recliners",
+"score": 1526
+},
+{
+"word": "redbox",
+"score": 1447
+},
+{
+"word": "redeye",
+"score": 1712
+},
+{
+"word": "redneck",
+"score": 1312
+},
+{
+"word": "refill",
+"score": 2207
+},
+{
+"word": "refills",
+"score": 2206
+},
+{
+"word": "refreshment",
+"score": 476
+},
+{
+"word": "refreshments",
+"score": 967
+},
+{
+"word": "refrigerate",
+"score": 989
+},
+{
+"word": "refrigerated",
+"score": 1101
+},
+{
+"word": "refrigeration",
+"score": 2509
+},
+{
+"word": "refrigerator",
+"score": 654
+},
+{
+"word": "reggae",
+"score": 1965
+},
+{
+"word": "region",
+"score": 2572
+},
+{
+"word": "regular",
+"score": 2240
+},
+{
+"word": "regulars",
+"score": 2241
+},
+{
+"word": "reheat",
+"score": 938
+},
+{
+"word": "reheated",
+"score": 706
+},
+{
+"word": "reindeer",
+"score": 3424
+},
+{
+"word": "reliever",
+"score": 3749
+},
+{
+"word": "relish",
+"score": 673
+},
+{
+"word": "rent",
+"score": 3636
+},
+{
+"word": "repair",
+"score": 596
+},
+{
+"word": "repairman",
+"score": 3763
+},
+{
+"word": "repletion",
+"score": 3448
+},
+{
+"word": "rescue",
+"score": 954
+},
+{
+"word": "restaurant",
+"score": 42
+},
+{
+"word": "restaurants",
+"score": 167
+},
+{
+"word": "restaurateur",
+"score": 370
+},
+{
+"word": "restaurateurs",
+"score": 618
+},
+{
+"word": "restivo",
+"score": 1576
+},
+{
+"word": "restroom",
+"score": 1966
+},
+{
+"word": "retro",
+"score": 2167
+},
+{
+"word": "return",
+"score": 2994
+},
+{
+"word": "reuben",
+"score": 3728
+},
+{
+"word": "reubens",
+"score": 3729
+},
+{
+"word": "reverie",
+"score": 2450
+},
+{
+"word": "rezko",
+"score": 1856
+},
+{
+"word": "rhubarb",
+"score": 735
+},
+{
+"word": "rib",
+"score": 250
+},
+{
+"word": "ribs",
+"score": 251
+},
+{
+"word": "rice",
+"score": 2869
+},
+{
+"word": "rice",
+"score": 2870
+},
+{
+"word": "ricotta",
+"score": 338
+},
+{
+"word": "riehle",
+"score": 2070
+},
+{
+"word": "riff",
+"score": 3526
+},
+{
+"word": "riff",
+"score": 3528
+},
+{
+"word": "riffs",
+"score": 3527
+},
+{
+"word": "rina",
+"score": 3314
+},
+{
+"word": "rind",
+"score": 3143
+},
+{
+"word": "ringtone",
+"score": 2353
+},
+{
+"word": "rioja",
+"score": 3623
+},
+{
+"word": "rioja",
+"score": 3624
+},
+{
+"word": "rip",
+"score": 3635
+},
+{
+"word": "risotto",
+"score": 360
+},
+{
+"word": "ristorante",
+"score": 179
+},
+{
+"word": "ritzy",
+"score": 2790
+},
+{
+"word": "rizzi",
+"score": 1645
+},
+{
+"word": "roadhouse",
+"score": 691
+},
+{
+"word": "roadside",
+"score": 3517
+},
+{
+"word": "roast",
+"score": 528
+},
+{
+"word": "roasted",
+"score": 656
+},
+{
+"word": "roaster",
+"score": 1831
+},
+{
+"word": "roasters",
+"score": 2161
+},
+{
+"word": "roasting",
+"score": 1163
+},
+{
+"word": "roasts",
+"score": 737
+},
+{
+"word": "rob",
+"score": 3340
+},
+{
+"word": "robbed",
+"score": 2793
+},
+{
+"word": "robber",
+"score": 1793
+},
+{
+"word": "robbery",
+"score": 3136
+},
+{
+"word": "robbing",
+"score": 2667
+},
+{
+"word": "robocop",
+"score": 2823
+},
+{
+"word": "robot",
+"score": 2187
+},
+{
+"word": "robotics",
+"score": 2944
+},
+{
+"word": "rocca",
+"score": 3031
+},
+{
+"word": "rocco",
+"score": 1082
+},
+{
+"word": "rockabilly",
+"score": 2516
+},
+{
+"word": "rocket",
+"score": 769
+},
+{
+"word": "rockin",
+"score": 2543
+},
+{
+"word": "rockstar",
+"score": 3166
+},
+{
+"word": "rodent",
+"score": 2630
+},
+{
+"word": "roll",
+"score": 1219
+},
+{
+"word": "romaine",
+"score": 815
+},
+{
+"word": "romanelli",
+"score": 3129
+},
+{
+"word": "romano",
+"score": 2080
+},
+{
+"word": "roommate",
+"score": 3654
+},
+{
+"word": "rorschach",
+"score": 3722
+},
+{
+"word": "rorschach",
+"score": 3723
+},
+{
+"word": "rosso",
+"score": 3343
+},
+{
+"word": "roti",
+"score": 213
+},
+{
+"word": "rotisserie",
+"score": 898
+},
+{
+"word": "rotter",
+"score": 2164
+},
+{
+"word": "rotund",
+"score": 2917
+},
+{
+"word": "rovio",
+"score": 3734
+},
+{
+"word": "rubbish",
+"score": 1561
+},
+{
+"word": "ruggles",
+"score": 1485
+},
+{
+"word": "ruhlman",
+"score": 2963
+},
+{
+"word": "rum",
+"score": 1065
+},
+{
+"word": "rummy",
+"score": 1064
+},
+{
+"word": "runt",
+"score": 1121
+},
+{
+"word": "russo",
+"score": 1641
+},
+{
+"word": "rustic",
+"score": 2172
+},
+{
+"word": "rye",
+"score": 1428
+},
+{
+"word": "sabatino",
+"score": 2520
+},
+{
+"word": "safeway",
+"score": 2209
+},
+{
+"word": "sal",
+"score": 1019
+},
+{
+"word": "salad",
+"score": 79
+},
+{
+"word": "salads",
+"score": 81
+},
+{
+"word": "salami",
+"score": 185
+},
+{
+"word": "salivate",
+"score": 3701
+},
+{
+"word": "salon",
+"score": 1258
+},
+{
+"word": "saloon",
+"score": 1551
+},
+{
+"word": "salsa",
+"score": 212
+},
+{
+"word": "salsas",
+"score": 463
+},
+{
+"word": "salt",
+"score": 2998
+},
+{
+"word": "salted",
+"score": 1470
+},
+{
+"word": "salting",
+"score": 3625
+},
+{
+"word": "salty",
+"score": 1446
+},
+{
+"word": "salvatore",
+"score": 1092
+},
+{
+"word": "sampler",
+"score": 1303
+},
+{
+"word": "sandro",
+"score": 3322
+},
+{
+"word": "sandwich",
+"score": 1
+},
+{
+"word": "sandwiches",
+"score": 5
+},
+{
+"word": "sangaree",
+"score": 284
+},
+{
+"word": "sangria",
+"score": 283
+},
+{
+"word": "santa",
+"score": 1176
+},
+{
+"word": "santino",
+"score": 1570
+},
+{
+"word": "sapienza",
+"score": 1667
+},
+{
+"word": "saranac",
+"score": 1977
+},
+{
+"word": "sard",
+"score": 1177
+},
+{
+"word": "sardine",
+"score": 1179
+},
+{
+"word": "sardines",
+"score": 3089
+},
+{
+"word": "sarno",
+"score": 2268
+},
+{
+"word": "sartori",
+"score": 2114
+},
+{
+"word": "sashimi",
+"score": 384
+},
+{
+"word": "sate",
+"score": 2370
+},
+{
+"word": "sated",
+"score": 3544
+},
+{
+"word": "satiety",
+"score": 3447
+},
+{
+"word": "sauce",
+"score": 241
+},
+{
+"word": "sauces",
+"score": 242
+},
+{
+"word": "saucy",
+"score": 2128
+},
+{
+"word": "sauerkraut",
+"score": 298
+},
+{
+"word": "sauna",
+"score": 1860
+},
+{
+"word": "saunterer",
+"score": 2464
+},
+{
+"word": "sausage",
+"score": 61
+},
+{
+"word": "sausages",
+"score": 114
+},
+{
+"word": "saute",
+"score": 2250
+},
+{
+"word": "sauteed",
+"score": 1647
+},
+{
+"word": "savino",
+"score": 3193
+},
+{
+"word": "savor",
+"score": 2676
+},
+{
+"word": "savored",
+"score": 2339
+},
+{
+"word": "savoring",
+"score": 3196
+},
+{
+"word": "savors",
+"score": 3214
+},
+{
+"word": "savory",
+"score": 227
+},
+{
+"word": "sawhorse",
+"score": 3558
+},
+{
+"word": "sax",
+"score": 2735
+},
+{
+"word": "saxophone",
+"score": 2736
+},
+{
+"word": "sbarro",
+"score": 669
+},
+{
+"word": "scab",
+"score": 2181
+},
+{
+"word": "scallions",
+"score": 1331
+},
+{
+"word": "scallop",
+"score": 905
+},
+{
+"word": "scallops",
+"score": 904
+},
+{
+"word": "scarface",
+"score": 1237
+},
+{
+"word": "scavo",
+"score": 3280
+},
+{
+"word": "scene",
+"score": 3501
+},
+{
+"word": "scenery",
+"score": 3499
+},
+{
+"word": "schererville",
+"score": 1288
+},
+{
+"word": "schlitz",
+"score": 1899
+},
+{
+"word": "schoolkids",
+"score": 2876
+},
+{
+"word": "schoolmate",
+"score": 3707
+},
+{
+"word": "schoolyard",
+"score": 3696
+},
+{
+"word": "schwan",
+"score": 1098
+},
+{
+"word": "schwinn",
+"score": 3207
+},
+{
+"word": "scone",
+"score": 425
+},
+{
+"word": "scones",
+"score": 424
+},
+{
+"word": "scooby",
+"score": 2210
+},
+{
+"word": "scoop",
+"score": 1002
+},
+{
+"word": "scoops",
+"score": 2981
+},
+{
+"word": "scooter",
+"score": 2179
+},
+{
+"word": "score",
+"score": 3313
+},
+{
+"word": "scotch",
+"score": 3311
+},
+{
+"word": "scotch",
+"score": 3312
+},
+{
+"word": "scoter",
+"score": 2178
+},
+{
+"word": "scotto",
+"score": 2531
+},
+{
+"word": "scotty",
+"score": 3411
+},
+{
+"word": "scranton",
+"score": 2771
+},
+{
+"word": "scranton",
+"score": 2772
+},
+{
+"word": "scream",
+"score": 2035
+},
+{
+"word": "screech",
+"score": 2036
+},
+{
+"word": "screwdriver",
+"score": 2888
+},
+{
+"word": "screwdrivers",
+"score": 2887
+},
+{
+"word": "scrumptious",
+"score": 182
+},
+{
+"word": "sculptor",
+"score": 3374
+},
+{
+"word": "sculpture",
+"score": 2872
+},
+{
+"word": "seafood",
+"score": 483
+},
+{
+"word": "seared",
+"score": 2368
+},
+{
+"word": "seasoning",
+"score": 729
+},
+{
+"word": "seasonings",
+"score": 730
+},
+{
+"word": "seating",
+"score": 1182
+},
+{
+"word": "seatings",
+"score": 1181
+},
+{
+"word": "secor",
+"score": 2513
+},
+{
+"word": "sedan",
+"score": 1552
+},
+{
+"word": "seder",
+"score": 1705
+},
+{
+"word": "seder",
+"score": 1706
+},
+{
+"word": "seinfeld",
+"score": 1672
+},
+{
+"word": "serendipity",
+"score": 2890
+},
+{
+"word": "serve",
+"score": 2673
+},
+{
+"word": "service",
+"score": 860
+},
+{
+"word": "serviceman",
+"score": 2478
+},
+{
+"word": "servings",
+"score": 861
+},
+{
+"word": "sesame",
+"score": 1234
+},
+{
+"word": "setting",
+"score": 3503
+},
+{
+"word": "shabbat",
+"score": 2948
+},
+{
+"word": "shabu",
+"score": 2436
+},
+{
+"word": "shack",
+"score": 2726
+},
+{
+"word": "shag",
+"score": 2564
+},
+{
+"word": "shaggy",
+"score": 3122
+},
+{
+"word": "shakes",
+"score": 3298
+},
+{
+"word": "shamrock",
+"score": 2542
+},
+{
+"word": "share",
+"score": 2805
+},
+{
+"word": "shaved",
+"score": 3368
+},
+{
+"word": "sheetrock",
+"score": 1835
+},
+{
+"word": "sheetrock",
+"score": 1836
+},
+{
+"word": "sheetz",
+"score": 1075
+},
+{
+"word": "shingle",
+"score": 3301
+},
+{
+"word": "shirt",
+"score": 3388
+},
+{
+"word": "shirtless",
+"score": 2817
+},
+{
+"word": "shirts",
+"score": 3486
+},
+{
+"word": "shit",
+"score": 2321
+},
+{
+"word": "shitty",
+"score": 2442
+},
+{
+"word": "shoney",
+"score": 1547
+},
+{
+"word": "shooter",
+"score": 2843
+},
+{
+"word": "shooters",
+"score": 2842
+},
+{
+"word": "shop",
+"score": 946
+},
+{
+"word": "shopfront",
+"score": 1452
+},
+{
+"word": "shopkeeper",
+"score": 2632
+},
+{
+"word": "shoplift",
+"score": 1180
+},
+{
+"word": "shoplifted",
+"score": 2420
+},
+{
+"word": "shoplifter",
+"score": 2663
+},
+{
+"word": "shoplifting",
+"score": 3231
+},
+{
+"word": "shoppe",
+"score": 2530
+},
+{
+"word": "shoprite",
+"score": 714
+},
+{
+"word": "shortbread",
+"score": 684
+},
+{
+"word": "shorty",
+"score": 1936
+},
+{
+"word": "shot",
+"score": 2839
+},
+{
+"word": "shoveled",
+"score": 3025
+},
+{
+"word": "shoveling",
+"score": 3533
+},
+{
+"word": "shrimp",
+"score": 1122
+},
+{
+"word": "shuffleboard",
+"score": 3641
+},
+{
+"word": "sicilian",
+"score": 666
+},
+{
+"word": "sicilian",
+"score": 667
+},
+{
+"word": "sicily",
+"score": 2324
+},
+{
+"word": "sicily",
+"score": 2325
+},
+{
+"word": "sideburn",
+"score": 3318
+},
+{
+"word": "sideburns",
+"score": 3319
+},
+{
+"word": "sidewalk",
+"score": 1413
+},
+{
+"word": "silvio",
+"score": 3141
+},
+{
+"word": "simpson",
+"score": 1116
+},
+{
+"word": "simpsons",
+"score": 1115
+},
+{
+"word": "sip",
+"score": 2905
+},
+{
+"word": "sirloin",
+"score": 316
+},
+{
+"word": "sitter",
+"score": 3385
+},
+{
+"word": "sitter",
+"score": 3386
+},
+{
+"word": "sizzle",
+"score": 2351
+},
+{
+"word": "sizzler",
+"score": 371
+},
+{
+"word": "sizzling",
+"score": 2328
+},
+{
+"word": "ska",
+"score": 2096
+},
+{
+"word": "skate",
+"score": 2144
+},
+{
+"word": "skateboard",
+"score": 789
+},
+{
+"word": "skateboarder",
+"score": 3326
+},
+{
+"word": "skateboarders",
+"score": 3325
+},
+{
+"word": "skateboarding",
+"score": 1114
+},
+{
+"word": "skateboards",
+"score": 1515
+},
+{
+"word": "skatepark",
+"score": 3779
+},
+{
+"word": "skates",
+"score": 2337
+},
+{
+"word": "sketch",
+"score": 3537
+},
+{
+"word": "skewer",
+"score": 1702
+},
+{
+"word": "skewered",
+"score": 2276
+},
+{
+"word": "skewers",
+"score": 1701
+},
+{
+"word": "ski",
+"score": 1917
+},
+{
+"word": "skidder",
+"score": 605
+},
+{
+"word": "skied",
+"score": 3608
+},
+{
+"word": "skiing",
+"score": 3778
+},
+{
+"word": "skillet",
+"score": 732
+},
+{
+"word": "skinny",
+"score": 1406
+},
+{
+"word": "skis",
+"score": 2044
+},
+{
+"word": "skittles",
+"score": 760
+},
+{
+"word": "slab",
+"score": 1844
+},
+{
+"word": "slacker",
+"score": 1994
+},
+{
+"word": "slammer",
+"score": 2566
+},
+{
+"word": "slammers",
+"score": 2565
+},
+{
+"word": "slang",
+"score": 2849
+},
+{
+"word": "slasher",
+"score": 1516
+},
+{
+"word": "slate",
+"score": 1613
+},
+{
+"word": "slaughter",
+"score": 2522
+},
+{
+"word": "slaw",
+"score": 279
+},
+{
+"word": "sled",
+"score": 2820
+},
+{
+"word": "sledding",
+"score": 2445
+},
+{
+"word": "sleds",
+"score": 3677
+},
+{
+"word": "sleep",
+"score": 3095
+},
+{
+"word": "sleepover",
+"score": 1167
+},
+{
+"word": "sleepovers",
+"score": 3257
+},
+{
+"word": "slice",
+"score": 500
+},
+{
+"word": "sliced",
+"score": 1206
+},
+{
+"word": "slices",
+"score": 497
+},
+{
+"word": "slicing",
+"score": 2168
+},
+{
+"word": "slider",
+"score": 606
+},
+{
+"word": "sliders",
+"score": 604
+},
+{
+"word": "slingbox",
+"score": 3669
+},
+{
+"word": "slinging",
+"score": 3569
+},
+{
+"word": "slingshot",
+"score": 2693
+},
+{
+"word": "slob",
+"score": 2714
+},
+{
+"word": "slop",
+"score": 2979
+},
+{
+"word": "slurp",
+"score": 2095
+},
+{
+"word": "slurpee",
+"score": 440
+},
+{
+"word": "slurping",
+"score": 1623
+},
+{
+"word": "slushy",
+"score": 1455
+},
+{
+"word": "smackdown",
+"score": 3621
+},
+{
+"word": "smashburger",
+"score": 208
+},
+{
+"word": "smasher",
+"score": 295
+},
+{
+"word": "smile",
+"score": 2961
+},
+{
+"word": "smiley",
+"score": 3759
+},
+{
+"word": "smitty",
+"score": 1759
+},
+{
+"word": "smoke",
+"score": 579
+},
+{
+"word": "smoked",
+"score": 796
+},
+{
+"word": "smokehouse",
+"score": 311
+},
+{
+"word": "smoker",
+"score": 2217
+},
+{
+"word": "smokes",
+"score": 581
+},
+{
+"word": "smokey",
+"score": 1529
+},
+{
+"word": "smokin",
+"score": 1248
+},
+{
+"word": "smoking",
+"score": 2418
+},
+{
+"word": "smoky",
+"score": 1604
+},
+{
+"word": "smoothie",
+"score": 135
+},
+{
+"word": "smoothies",
+"score": 193
+},
+{
+"word": "smorgasbord",
+"score": 553
+},
+{
+"word": "smucker",
+"score": 1970
+},
+{
+"word": "snack",
+"score": 48
+},
+{
+"word": "snacked",
+"score": 620
+},
+{
+"word": "snacking",
+"score": 423
+},
+{
+"word": "snacks",
+"score": 162
+},
+{
+"word": "snapple",
+"score": 568
+},
+{
+"word": "sneak",
+"score": 3292
+},
+{
+"word": "sneaker",
+"score": 1306
+},
+{
+"word": "sneakers",
+"score": 1621
+},
+{
+"word": "snicker",
+"score": 956
+},
+{
+"word": "snickers",
+"score": 955
+},
+{
+"word": "snitch",
+"score": 2033
+},
+{
+"word": "snitching",
+"score": 2013
+},
+{
+"word": "snooki",
+"score": 1008
+},
+{
+"word": "snoopy",
+"score": 3224
+},
+{
+"word": "snoopy",
+"score": 3225
+},
+{
+"word": "snowball",
+"score": 1110
+},
+{
+"word": "snowballs",
+"score": 1109
+},
+{
+"word": "snowblower",
+"score": 3323
+},
+{
+"word": "snowboard",
+"score": 988
+},
+{
+"word": "snowboarding",
+"score": 2083
+},
+{
+"word": "snowman",
+"score": 549
+},
+{
+"word": "snowmen",
+"score": 2782
+},
+{
+"word": "snowmobile",
+"score": 2652
+},
+{
+"word": "snowplow",
+"score": 2385
+},
+{
+"word": "snowshoe",
+"score": 1269
+},
+{
+"word": "snowshoeing",
+"score": 1973
+},
+{
+"word": "snowy",
+"score": 3353
+},
+{
+"word": "snuggie",
+"score": 1240
+},
+{
+"word": "soap",
+"score": 1001
+},
+{
+"word": "soapsuds",
+"score": 615
+},
+{
+"word": "sobe",
+"score": 2004
+},
+{
+"word": "sobeys",
+"score": 1771
+},
+{
+"word": "sociable",
+"score": 2715
+},
+{
+"word": "socialization",
+"score": 3075
+},
+{
+"word": "socializing",
+"score": 3074
+},
+{
+"word": "socials",
+"score": 2716
+},
+{
+"word": "soda",
+"score": 146
+},
+{
+"word": "sodas",
+"score": 236
+},
+{
+"word": "sodexho",
+"score": 814
+},
+{
+"word": "sodexo",
+"score": 748
+},
+{
+"word": "sofa",
+"score": 1724
+},
+{
+"word": "softball",
+"score": 3244
+},
+{
+"word": "softballs",
+"score": 3243
+},
+{
+"word": "sokolowski",
+"score": 2894
+},
+{
+"word": "solicitation",
+"score": 1266
+},
+{
+"word": "solicitations",
+"score": 1265
+},
+{
+"word": "sombrero",
+"score": 2297
+},
+{
+"word": "sombrero",
+"score": 2298
+},
+{
+"word": "someone",
+"score": 3263
+},
+{
+"word": "someplace",
+"score": 2851
+},
+{
+"word": "sommelier",
+"score": 2781
+},
+{
+"word": "son",
+"score": 2901
+},
+{
+"word": "sonic",
+"score": 1194
+},
+{
+"word": "sonoran",
+"score": 2603
+},
+{
+"word": "soprano",
+"score": 1155
+},
+{
+"word": "sopranos",
+"score": 1156
+},
+{
+"word": "sorbet",
+"score": 530
+},
+{
+"word": "sorrentino",
+"score": 2287
+},
+{
+"word": "souffle",
+"score": 1130
+},
+{
+"word": "soul",
+"score": 2504
+},
+{
+"word": "soup",
+"score": 64
+},
+{
+"word": "soups",
+"score": 340
+},
+{
+"word": "sourdough",
+"score": 192
+},
+{
+"word": "southside",
+"score": 2734
+},
+{
+"word": "souvenir",
+"score": 1553
+},
+{
+"word": "souvenirs",
+"score": 1463
+},
+{
+"word": "spa",
+"score": 2200
+},
+{
+"word": "spaghetti",
+"score": 122
+},
+{
+"word": "spam",
+"score": 1538
+},
+{
+"word": "spam",
+"score": 1539
+},
+{
+"word": "spanky",
+"score": 1669
+},
+{
+"word": "spar",
+"score": 3255
+},
+{
+"word": "spatter",
+"score": 3200
+},
+{
+"word": "spatula",
+"score": 1711
+},
+{
+"word": "speakeasy",
+"score": 1173
+},
+{
+"word": "special",
+"score": 690
+},
+{
+"word": "specialization",
+"score": 855
+},
+{
+"word": "specials",
+"score": 689
+},
+{
+"word": "specialties",
+"score": 856
+},
+{
+"word": "spice",
+"score": 1417
+},
+{
+"word": "spiced",
+"score": 3167
+},
+{
+"word": "spices",
+"score": 1416
+},
+{
+"word": "spiciness",
+"score": 1418
+},
+{
+"word": "spicing",
+"score": 2409
+},
+{
+"word": "spicy",
+"score": 240
+},
+{
+"word": "spiderman",
+"score": 3303
+},
+{
+"word": "spin",
+"score": 2891
+},
+{
+"word": "spinach",
+"score": 757
+},
+{
+"word": "spinelli",
+"score": 2151
+},
+{
+"word": "spirit",
+"score": 674
+},
+{
+"word": "splatter",
+"score": 3201
+},
+{
+"word": "splenda",
+"score": 2934
+},
+{
+"word": "splice",
+"score": 3562
+},
+{
+"word": "splurge",
+"score": 3534
+},
+{
+"word": "spongebob",
+"score": 968
+},
+{
+"word": "spoon",
+"score": 810
+},
+{
+"word": "spooned",
+"score": 1668
+},
+{
+"word": "spoons",
+"score": 2098
+},
+{
+"word": "sportscenter",
+"score": 1642
+},
+{
+"word": "sprite",
+"score": 1025
+},
+{
+"word": "sprout",
+"score": 1307
+},
+{
+"word": "sprouts",
+"score": 1308
+},
+{
+"word": "spud",
+"score": 1195
+},
+{
+"word": "spuds",
+"score": 1196
+},
+{
+"word": "spurlock",
+"score": 1997
+},
+{
+"word": "square",
+"score": 1563
+},
+{
+"word": "squash",
+"score": 2576
+},
+{
+"word": "squeegee",
+"score": 2705
+},
+{
+"word": "squid",
+"score": 247
+},
+{
+"word": "stadium",
+"score": 1217
+},
+{
+"word": "stainless",
+"score": 2788
+},
+{
+"word": "stake",
+"score": 2648
+},
+{
+"word": "stale",
+"score": 2748
+},
+{
+"word": "staple",
+"score": 2027
+},
+{
+"word": "stapler",
+"score": 1949
+},
+{
+"word": "staples",
+"score": 2694
+},
+{
+"word": "starbuck",
+"score": 3391
+},
+{
+"word": "starbucks",
+"score": 867
+},
+{
+"word": "starch",
+"score": 3362
+},
+{
+"word": "starches",
+"score": 3361
+},
+{
+"word": "starchy",
+"score": 3444
+},
+{
+"word": "starter",
+"score": 3790
+},
+{
+"word": "starters",
+"score": 3791
+},
+{
+"word": "starvation",
+"score": 2104
+},
+{
+"word": "starving",
+"score": 2105
+},
+{
+"word": "starz",
+"score": 3176
+},
+{
+"word": "stash",
+"score": 2622
+},
+{
+"word": "stationery",
+"score": 3073
+},
+{
+"word": "statler",
+"score": 3007
+},
+{
+"word": "stavros",
+"score": 3212
+},
+{
+"word": "steak",
+"score": 41
+},
+{
+"word": "steakhouse",
+"score": 158
+},
+{
+"word": "steakhouses",
+"score": 285
+},
+{
+"word": "steaks",
+"score": 147
+},
+{
+"word": "steamed",
+"score": 1253
+},
+{
+"word": "steamer",
+"score": 1296
+},
+{
+"word": "steamers",
+"score": 1297
+},
+{
+"word": "steaming",
+"score": 1128
+},
+{
+"word": "steamy",
+"score": 3352
+},
+{
+"word": "steelmaking",
+"score": 2447
+},
+{
+"word": "stefano",
+"score": 2213
+},
+{
+"word": "stelios",
+"score": 3242
+},
+{
+"word": "stern",
+"score": 2758
+},
+{
+"word": "stew",
+"score": 824
+},
+{
+"word": "stewardess",
+"score": 1456
+},
+{
+"word": "stewed",
+"score": 3337
+},
+{
+"word": "stewie",
+"score": 2916
+},
+{
+"word": "stews",
+"score": 1589
+},
+{
+"word": "stiffed",
+"score": 3157
+},
+{
+"word": "stiffler",
+"score": 2468
+},
+{
+"word": "sting",
+"score": 1280
+},
+{
+"word": "stinky",
+"score": 2602
+},
+{
+"word": "stix",
+"score": 1554
+},
+{
+"word": "stoker",
+"score": 3751
+},
+{
+"word": "stomach",
+"score": 2621
+},
+{
+"word": "stoner",
+"score": 1074
+},
+{
+"word": "stoneware",
+"score": 2811
+},
+{
+"word": "stooges",
+"score": 3711
+},
+{
+"word": "store",
+"score": 1419
+},
+{
+"word": "storefront",
+"score": 1451
+},
+{
+"word": "storehouse",
+"score": 1420
+},
+{
+"word": "stouffer",
+"score": 1587
+},
+{
+"word": "stove",
+"score": 1345
+},
+{
+"word": "stovetop",
+"score": 963
+},
+{
+"word": "stranger",
+"score": 2856
+},
+{
+"word": "strangers",
+"score": 2855
+},
+{
+"word": "strawberries",
+"score": 574
+},
+{
+"word": "strawberry",
+"score": 573
+},
+{
+"word": "street",
+"score": 3494
+},
+{
+"word": "streetcar",
+"score": 1853
+},
+{
+"word": "stress",
+"score": 3592
+},
+{
+"word": "strip",
+"score": 1391
+},
+{
+"word": "stripe",
+"score": 611
+},
+{
+"word": "stripper",
+"score": 1392
+},
+{
+"word": "striptease",
+"score": 1390
+},
+{
+"word": "stroller",
+"score": 2465
+},
+{
+"word": "stuff",
+"score": 2927
+},
+{
+"word": "stuffed",
+"score": 1386
+},
+{
+"word": "stuffing",
+"score": 2539
+},
+{
+"word": "stumped",
+"score": 2585
+},
+{
+"word": "stunk",
+"score": 2765
+},
+{
+"word": "styrofoam",
+"score": 1343
+},
+{
+"word": "styrofoam",
+"score": 1344
+},
+{
+"word": "submarine",
+"score": 747
+},
+{
+"word": "subs",
+"score": 745
+},
+{
+"word": "suburban",
+"score": 3086
+},
+{
+"word": "subway",
+"score": 70
+},
+{
+"word": "subways",
+"score": 2054
+},
+{
+"word": "succulent",
+"score": 790
+},
+{
+"word": "sudoku",
+"score": 1967
+},
+{
+"word": "suds",
+"score": 616
+},
+{
+"word": "sugary",
+"score": 1067
+},
+{
+"word": "summer",
+"score": 2093
+},
+{
+"word": "summertime",
+"score": 2094
+},
+{
+"word": "sundae",
+"score": 139
+},
+{
+"word": "superbad",
+"score": 2295
+},
+{
+"word": "superbowl",
+"score": 1146
+},
+{
+"word": "supercenters",
+"score": 3583
+},
+{
+"word": "superhero",
+"score": 3111
+},
+{
+"word": "superheroes",
+"score": 3659
+},
+{
+"word": "supermarket",
+"score": 381
+},
+{
+"word": "supermarkets",
+"score": 1690
+},
+{
+"word": "supernanny",
+"score": 2902
+},
+{
+"word": "supersize",
+"score": 1202
+},
+{
+"word": "supersized",
+"score": 2784
+},
+{
+"word": "supervalu",
+"score": 1639
+},
+{
+"word": "supper",
+"score": 268
+},
+{
+"word": "suppers",
+"score": 544
+},
+{
+"word": "supporter",
+"score": 1783
+},
+{
+"word": "surfboard",
+"score": 2825
+},
+{
+"word": "sushi",
+"score": 39
+},
+{
+"word": "suv",
+"score": 2201
+},
+{
+"word": "swag",
+"score": 2808
+},
+{
+"word": "swallow",
+"score": 224
+},
+{
+"word": "swanky",
+"score": 2553
+},
+{
+"word": "sweater",
+"score": 2615
+},
+{
+"word": "sweatpants",
+"score": 1127
+},
+{
+"word": "sweatshirt",
+"score": 1096
+},
+{
+"word": "sweatshirts",
+"score": 1201
+},
+{
+"word": "sweet",
+"score": 204
+},
+{
+"word": "sweet",
+"score": 205
+},
+{
+"word": "sweetest",
+"score": 3008
+},
+{
+"word": "sweetheart",
+"score": 951
+},
+{
+"word": "sweethearts",
+"score": 3266
+},
+{
+"word": "sweetie",
+"score": 950
+},
+{
+"word": "sweetness",
+"score": 202
+},
+{
+"word": "sweets",
+"score": 203
+},
+{
+"word": "swig",
+"score": 3549
+},
+{
+"word": "swinger",
+"score": 2769
+},
+{
+"word": "swingers",
+"score": 2770
+},
+{
+"word": "swirl",
+"score": 2364
+},
+{
+"word": "swish",
+"score": 1267
+},
+{
+"word": "swordfish",
+"score": 1125
+},
+{
+"word": "swot",
+"score": 1617
+},
+{
+"word": "sylar",
+"score": 2169
+},
+{
+"word": "symon",
+"score": 1262
+},
+{
+"word": "syndicate",
+"score": 2309
+},
+{
+"word": "syrup",
+"score": 1168
+},
+{
+"word": "syrups",
+"score": 2966
+},
+{
+"word": "sysco",
+"score": 766
+},
+{
+"word": "systemwide",
+"score": 2884
+},
+{
+"word": "tablecloth",
+"score": 1502
+},
+{
+"word": "tablecloths",
+"score": 2375
+},
+{
+"word": "tableware",
+"score": 1868
+},
+{
+"word": "taco",
+"score": 10
+},
+{
+"word": "tacos",
+"score": 32
+},
+{
+"word": "taenia",
+"score": 1509
+},
+{
+"word": "taffy",
+"score": 765
+},
+{
+"word": "tag",
+"score": 1612
+},
+{
+"word": "tailgate",
+"score": 521
+},
+{
+"word": "tailgater",
+"score": 1779
+},
+{
+"word": "tailgaters",
+"score": 1780
+},
+{
+"word": "tailgates",
+"score": 908
+},
+{
+"word": "tailgating",
+"score": 907
+},
+{
+"word": "takeaway",
+"score": 280
+},
+{
+"word": "takeaways",
+"score": 1171
+},
+{
+"word": "takeout",
+"score": 57
+},
+{
+"word": "tamale",
+"score": 102
+},
+{
+"word": "tamale",
+"score": 103
+},
+{
+"word": "tamales",
+"score": 171
+},
+{
+"word": "tamarind",
+"score": 2484
+},
+{
+"word": "tangy",
+"score": 713
+},
+{
+"word": "tanning",
+"score": 3192
+},
+{
+"word": "tantalizing",
+"score": 3256
+},
+{
+"word": "tapa",
+"score": 217
+},
+{
+"word": "tapas",
+"score": 216
+},
+{
+"word": "tapioca",
+"score": 1158
+},
+{
+"word": "tarantino",
+"score": 960
+},
+{
+"word": "tarantino",
+"score": 961
+},
+{
+"word": "tarantula",
+"score": 1932
+},
+{
+"word": "tarragon",
+"score": 2097
+},
+{
+"word": "tart",
+"score": 927
+},
+{
+"word": "tarts",
+"score": 928
+},
+{
+"word": "taste",
+"score": 481
+},
+{
+"word": "tastebud",
+"score": 1260
+},
+{
+"word": "tastebuds",
+"score": 1259
+},
+{
+"word": "tasted",
+"score": 1211
+},
+{
+"word": "tasteless",
+"score": 2329
+},
+{
+"word": "taster",
+"score": 1302
+},
+{
+"word": "tasters",
+"score": 1739
+},
+{
+"word": "tastes",
+"score": 870
+},
+{
+"word": "tastier",
+"score": 601
+},
+{
+"word": "tastiest",
+"score": 353
+},
+{
+"word": "tasting",
+"score": 788
+},
+{
+"word": "tastings",
+"score": 1857
+},
+{
+"word": "tasty",
+"score": 150
+},
+{
+"word": "tatar",
+"score": 1411
+},
+{
+"word": "tatar",
+"score": 1412
+},
+{
+"word": "tattoo",
+"score": 3516
+},
+{
+"word": "tavern",
+"score": 435
+},
+{
+"word": "taverns",
+"score": 1373
+},
+{
+"word": "taw",
+"score": 2840
+},
+{
+"word": "taxi",
+"score": 1279
+},
+{
+"word": "taxicab",
+"score": 2423
+},
+{
+"word": "taxidriver",
+"score": 2146
+},
+{
+"word": "tea",
+"score": 1760
+},
+{
+"word": "teamster",
+"score": 1710
+},
+{
+"word": "teamsters",
+"score": 3116
+},
+{
+"word": "teas",
+"score": 2915
+},
+{
+"word": "technomic",
+"score": 617
+},
+{
+"word": "teen",
+"score": 1476
+},
+{
+"word": "teenage",
+"score": 2106
+},
+{
+"word": "teenager",
+"score": 3354
+},
+{
+"word": "teenagers",
+"score": 2570
+},
+{
+"word": "teens",
+"score": 2343
+},
+{
+"word": "telephone",
+"score": 3613
+},
+{
+"word": "television",
+"score": 2071
+},
+{
+"word": "teller",
+"score": 782
+},
+{
+"word": "telly",
+"score": 1555
+},
+{
+"word": "temptation",
+"score": 2355
+},
+{
+"word": "tempting",
+"score": 3456
+},
+{
+"word": "tempura",
+"score": 248
+},
+{
+"word": "ten",
+"score": 1264
+},
+{
+"word": "tenderloin",
+"score": 362
+},
+{
+"word": "tenner",
+"score": 1263
+},
+{
+"word": "tequila",
+"score": 679
+},
+{
+"word": "terrific",
+"score": 3078
+},
+{
+"word": "terror",
+"score": 462
+},
+{
+"word": "testicle",
+"score": 2682
+},
+{
+"word": "testicles",
+"score": 3467
+},
+{
+"word": "testis",
+"score": 1435
+},
+{
+"word": "texted",
+"score": 1816
+},
+{
+"word": "texting",
+"score": 3295
+},
+{
+"word": "tgif",
+"score": 1666
+},
+{
+"word": "thanksgiving",
+"score": 1368
+},
+{
+"word": "thanksgiving",
+"score": 1369
+},
+{
+"word": "thaw",
+"score": 1031
+},
+{
+"word": "themed",
+"score": 2121
+},
+{
+"word": "thermometer",
+"score": 3040
+},
+{
+"word": "thermos",
+"score": 3115
+},
+{
+"word": "thirsty",
+"score": 3576
+},
+{
+"word": "thon",
+"score": 2972
+},
+{
+"word": "thornton",
+"score": 1694
+},
+{
+"word": "thorntons",
+"score": 1693
+},
+{
+"word": "thrill",
+"score": 2991
+},
+{
+"word": "throop",
+"score": 2918
+},
+{
+"word": "throw",
+"score": 2384
+},
+{
+"word": "thug",
+"score": 3235
+},
+{
+"word": "ticket",
+"score": 1614
+},
+{
+"word": "tickets",
+"score": 2854
+},
+{
+"word": "tilapia",
+"score": 2580
+},
+{
+"word": "tilapia",
+"score": 2581
+},
+{
+"word": "tillie",
+"score": 3163
+},
+{
+"word": "tin",
+"score": 1829
+},
+{
+"word": "tino",
+"score": 3346
+},
+{
+"word": "tins",
+"score": 1827
+},
+{
+"word": "tipple",
+"score": 2589
+},
+{
+"word": "tiramisu",
+"score": 129
+},
+{
+"word": "tivo",
+"score": 2282
+},
+{
+"word": "tix",
+"score": 2562
+},
+{
+"word": "toast",
+"score": 539
+},
+{
+"word": "toasted",
+"score": 1124
+},
+{
+"word": "toaster",
+"score": 933
+},
+{
+"word": "toasting",
+"score": 1450
+},
+{
+"word": "toasts",
+"score": 1227
+},
+{
+"word": "toasty",
+"score": 1767
+},
+{
+"word": "toboggan",
+"score": 1519
+},
+{
+"word": "toddler",
+"score": 1957
+},
+{
+"word": "toffee",
+"score": 831
+},
+{
+"word": "tofu",
+"score": 327
+},
+{
+"word": "toga",
+"score": 2023
+},
+{
+"word": "toilet",
+"score": 1350
+},
+{
+"word": "token",
+"score": 3258
+},
+{
+"word": "tolzien",
+"score": 2810
+},
+{
+"word": "tomasso",
+"score": 3051
+},
+{
+"word": "tomato",
+"score": 417
+},
+{
+"word": "tomatoes",
+"score": 468
+},
+{
+"word": "tombstone",
+"score": 2377
+},
+{
+"word": "tongue",
+"score": 1755
+},
+{
+"word": "tony",
+"score": 3689
+},
+{
+"word": "tooling",
+"score": 3780
+},
+{
+"word": "toothpick",
+"score": 1204
+},
+{
+"word": "toothpicks",
+"score": 1205
+},
+{
+"word": "topping",
+"score": 74
+},
+{
+"word": "toppings",
+"score": 73
+},
+{
+"word": "tortilla",
+"score": 183
+},
+{
+"word": "tortillas",
+"score": 184
+},
+{
+"word": "toss",
+"score": 1359
+},
+{
+"word": "tossed",
+"score": 1325
+},
+{
+"word": "touristy",
+"score": 1954
+},
+{
+"word": "towel",
+"score": 2919
+},
+{
+"word": "towels",
+"score": 2920
+},
+{
+"word": "townhouse",
+"score": 2767
+},
+{
+"word": "toy",
+"score": 1863
+},
+{
+"word": "trager",
+"score": 2227
+},
+{
+"word": "tramp",
+"score": 2931
+},
+{
+"word": "trash",
+"score": 1562
+},
+{
+"word": "trattoria",
+"score": 207
+},
+{
+"word": "tray",
+"score": 884
+},
+{
+"word": "trays",
+"score": 937
+},
+{
+"word": "treacle",
+"score": 2980
+},
+{
+"word": "treat",
+"score": 718
+},
+{
+"word": "treats",
+"score": 719
+},
+{
+"word": "treehouse",
+"score": 2724
+},
+{
+"word": "tremble",
+"score": 3302
+},
+{
+"word": "tremont",
+"score": 2985
+},
+{
+"word": "trendiest",
+"score": 2077
+},
+{
+"word": "trendy",
+"score": 1475
+},
+{
+"word": "trentonian",
+"score": 2943
+},
+{
+"word": "triarc",
+"score": 1689
+},
+{
+"word": "trib",
+"score": 2921
+},
+{
+"word": "tribeca",
+"score": 3250
+},
+{
+"word": "tricycle",
+"score": 1640
+},
+{
+"word": "trike",
+"score": 3420
+},
+{
+"word": "trill",
+"score": 3297
+},
+{
+"word": "trim",
+"score": 2046
+},
+{
+"word": "trimming",
+"score": 2047
+},
+{
+"word": "trimmings",
+"score": 2048
+},
+{
+"word": "trinket",
+"score": 1394
+},
+{
+"word": "tripe",
+"score": 1216
+},
+{
+"word": "trivia",
+"score": 1191
+},
+{
+"word": "triviality",
+"score": 1192
+},
+{
+"word": "trivium",
+"score": 1193
+},
+{
+"word": "trolley",
+"score": 1852
+},
+{
+"word": "trophy",
+"score": 1885
+},
+{
+"word": "truck",
+"score": 943
+},
+{
+"word": "trucker",
+"score": 1709
+},
+{
+"word": "trucking",
+"score": 3633
+},
+{
+"word": "truckload",
+"score": 909
+},
+{
+"word": "trucks",
+"score": 2062
+},
+{
+"word": "truffle",
+"score": 558
+},
+{
+"word": "truffles",
+"score": 559
+},
+{
+"word": "tub",
+"score": 1741
+},
+{
+"word": "tuba",
+"score": 3102
+},
+{
+"word": "tubs",
+"score": 2396
+},
+{
+"word": "tuck",
+"score": 2988
+},
+{
+"word": "tucking",
+"score": 1742
+},
+{
+"word": "tummies",
+"score": 2620
+},
+{
+"word": "tummy",
+"score": 3744
+},
+{
+"word": "tuna",
+"score": 1076
+},
+{
+"word": "tupperware",
+"score": 1534
+},
+{
+"word": "turd",
+"score": 3254
+},
+{
+"word": "turkey",
+"score": 418
+},
+{
+"word": "turkey",
+"score": 419
+},
+{
+"word": "turkeys",
+"score": 1707
+},
+{
+"word": "turnip",
+"score": 2350
+},
+{
+"word": "turnips",
+"score": 2349
+},
+{
+"word": "turtleneck",
+"score": 3512
+},
+{
+"word": "tuscan",
+"score": 977
+},
+{
+"word": "tuscan",
+"score": 978
+},
+{
+"word": "tuscany",
+"score": 2473
+},
+{
+"word": "tuscany",
+"score": 2474
+},
+{
+"word": "tutoring",
+"score": 2889
+},
+{
+"word": "tux",
+"score": 1027
+},
+{
+"word": "tuxedo",
+"score": 869
+},
+{
+"word": "tuxedos",
+"score": 1531
+},
+{
+"word": "tv",
+"score": 2072
+},
+{
+"word": "tweens",
+"score": 3619
+},
+{
+"word": "twilight",
+"score": 3409
+},
+{
+"word": "twinkie",
+"score": 297
+},
+{
+"word": "twinkie",
+"score": 332
+},
+{
+"word": "twinkies",
+"score": 296
+},
+{
+"word": "twirl",
+"score": 2893
+},
+{
+"word": "tyke",
+"score": 3504
+},
+{
+"word": "tyke",
+"score": 3505
+},
+{
+"word": "uds",
+"score": 1777
+},
+{
+"word": "ugh",
+"score": 3525
+},
+{
+"word": "ukrop",
+"score": 3293
+},
+{
+"word": "umbria",
+"score": 1255
+},
+{
+"word": "umbria",
+"score": 1256
+},
+{
+"word": "unabomber",
+"score": 3454
+},
+{
+"word": "unappetizing",
+"score": 994
+},
+{
+"word": "uncle",
+"score": 2732
+},
+{
+"word": "uncooked",
+"score": 801
+},
+{
+"word": "underaged",
+"score": 3599
+},
+{
+"word": "undercooked",
+"score": 1593
+},
+{
+"word": "underpass",
+"score": 69
+},
+{
+"word": "underwear",
+"score": 1304
+},
+{
+"word": "undies",
+"score": 3161
+},
+{
+"word": "unhealthy",
+"score": 3241
+},
+{
+"word": "unicycle",
+"score": 1723
+},
+{
+"word": "uno",
+"score": 1542
+},
+{
+"word": "unpretentious",
+"score": 2034
+},
+{
+"word": "unwrapped",
+"score": 3482
+},
+{
+"word": "unwrapping",
+"score": 1850
+},
+{
+"word": "upscale",
+"score": 1403
+},
+{
+"word": "uptown",
+"score": 2140
+},
+{
+"word": "urinal",
+"score": 1969
+},
+{
+"word": "urinated",
+"score": 3655
+},
+{
+"word": "urine",
+"score": 3185
+},
+{
+"word": "utensil",
+"score": 783
+},
+{
+"word": "utica",
+"score": 2406
+},
+{
+"word": "utica",
+"score": 2407
+},
+{
+"word": "utz",
+"score": 2753
+},
+{
+"word": "vacation",
+"score": 3164
+},
+{
+"word": "vacations",
+"score": 3764
+},
+{
+"word": "vaccaro",
+"score": 2066
+},
+{
+"word": "valassis",
+"score": 1471
+},
+{
+"word": "valentine",
+"score": 570
+},
+{
+"word": "valentine",
+"score": 571
+},
+{
+"word": "valentines",
+"score": 569
+},
+{
+"word": "valerio",
+"score": 2366
+},
+{
+"word": "valet",
+"score": 2019
+},
+{
+"word": "vampire",
+"score": 3470
+},
+{
+"word": "van",
+"score": 1494
+},
+{
+"word": "vanguard",
+"score": 1495
+},
+{
+"word": "vans",
+"score": 2460
+},
+{
+"word": "vardenafil",
+"score": 3327
+},
+{
+"word": "varsity",
+"score": 3798
+},
+{
+"word": "vat",
+"score": 3725
+},
+{
+"word": "vat",
+"score": 3726
+},
+{
+"word": "veal",
+"score": 1023
+},
+{
+"word": "veg",
+"score": 799
+},
+{
+"word": "vegan",
+"score": 655
+},
+{
+"word": "vegans",
+"score": 3076
+},
+{
+"word": "vegemite",
+"score": 1482
+},
+{
+"word": "vegetable",
+"score": 230
+},
+{
+"word": "vegetables",
+"score": 648
+},
+{
+"word": "vegetarian",
+"score": 625
+},
+{
+"word": "vegetarians",
+"score": 1845
+},
+{
+"word": "veggie",
+"score": 229
+},
+{
+"word": "veggies",
+"score": 336
+},
+{
+"word": "vending",
+"score": 430
+},
+{
+"word": "venison",
+"score": 1556
+},
+{
+"word": "vertex",
+"score": 1299
+},
+{
+"word": "vespa",
+"score": 1271
+},
+{
+"word": "vespa",
+"score": 1272
+},
+{
+"word": "vfw",
+"score": 1800
+},
+{
+"word": "vicinity",
+"score": 2573
+},
+{
+"word": "vicodin",
+"score": 3077
+},
+{
+"word": "video",
+"score": 3530
+},
+{
+"word": "videodisk",
+"score": 3171
+},
+{
+"word": "videogame",
+"score": 1959
+},
+{
+"word": "videogames",
+"score": 1652
+},
+{
+"word": "viennese",
+"score": 2906
+},
+{
+"word": "view",
+"score": 3500
+},
+{
+"word": "vin",
+"score": 3563
+},
+{
+"word": "vinaigrette",
+"score": 1866
+},
+{
+"word": "vincenzo",
+"score": 944
+},
+{
+"word": "vinnie",
+"score": 1015
+},
+{
+"word": "vinny",
+"score": 743
+},
+{
+"word": "vino",
+"score": 519
+},
+{
+"word": "vitale",
+"score": 2466
+},
+{
+"word": "vito",
+"score": 1162
+},
+{
+"word": "vittorio",
+"score": 2668
+},
+{
+"word": "vod",
+"score": 2834
+},
+{
+"word": "vodka",
+"score": 536
+},
+{
+"word": "vodkas",
+"score": 2249
+},
+{
+"word": "voila",
+"score": 1348
+},
+{
+"word": "volante",
+"score": 2766
+},
+{
+"word": "vomit",
+"score": 2555
+},
+{
+"word": "vons",
+"score": 1731
+},
+{
+"word": "wad",
+"score": 1226
+},
+{
+"word": "waffle",
+"score": 88
+},
+{
+"word": "waffles",
+"score": 89
+},
+{
+"word": "wag",
+"score": 3300
+},
+{
+"word": "wager",
+"score": 2650
+},
+{
+"word": "wages",
+"score": 2996
+},
+{
+"word": "wahoo",
+"score": 2606
+},
+{
+"word": "waist",
+"score": 2342
+},
+{
+"word": "waistline",
+"score": 2341
+},
+{
+"word": "waistlines",
+"score": 3688
+},
+{
+"word": "waiter",
+"score": 301
+},
+{
+"word": "waiters",
+"score": 482
+},
+{
+"word": "waitress",
+"score": 348
+},
+{
+"word": "waitresses",
+"score": 455
+},
+{
+"word": "waitressing",
+"score": 800
+},
+{
+"word": "walgreens",
+"score": 2799
+},
+{
+"word": "walken",
+"score": 2737
+},
+{
+"word": "walker",
+"score": 3730
+},
+{
+"word": "walker",
+"score": 3732
+},
+{
+"word": "walkers",
+"score": 3731
+},
+{
+"word": "walkoff",
+"score": 3575
+},
+{
+"word": "wallboard",
+"score": 3646
+},
+{
+"word": "wallet",
+"score": 1209
+},
+{
+"word": "walleye",
+"score": 2587
+},
+{
+"word": "walmart",
+"score": 1378
+},
+{
+"word": "walnut",
+"score": 3127
+},
+{
+"word": "walnuts",
+"score": 3390
+},
+{
+"word": "ware",
+"score": 3645
+},
+{
+"word": "warehouse",
+"score": 2402
+},
+{
+"word": "wares",
+"score": 3644
+},
+{
+"word": "wasabi",
+"score": 821
+},
+{
+"word": "watercress",
+"score": 2063
+},
+{
+"word": "watermelon",
+"score": 286
+},
+{
+"word": "watermelons",
+"score": 1698
+},
+{
+"word": "waterpark",
+"score": 3609
+},
+{
+"word": "wawa",
+"score": 1093
+},
+{
+"word": "wayside",
+"score": 3518
+},
+{
+"word": "weakling",
+"score": 2910
+},
+{
+"word": "webkinz",
+"score": 3222
+},
+{
+"word": "weekend",
+"score": 2938
+},
+{
+"word": "weekends",
+"score": 2939
+},
+{
+"word": "weeknight",
+"score": 1144
+},
+{
+"word": "weeknights",
+"score": 3381
+},
+{
+"word": "weezy",
+"score": 2984
+},
+{
+"word": "wegman",
+"score": 3468
+},
+{
+"word": "wegmans",
+"score": 515
+},
+{
+"word": "weirton",
+"score": 3395
+},
+{
+"word": "wendy",
+"score": 1346
+},
+{
+"word": "werewolf",
+"score": 2611
+},
+{
+"word": "western",
+"score": 3450
+},
+{
+"word": "western",
+"score": 3451
+},
+{
+"word": "westerns",
+"score": 3449
+},
+{
+"word": "westside",
+"score": 2679
+},
+{
+"word": "wetherspoon",
+"score": 3137
+},
+{
+"word": "wfan",
+"score": 3427
+},
+{
+"word": "whacker",
+"score": 303
+},
+{
+"word": "whataburger",
+"score": 249
+},
+{
+"word": "wheaties",
+"score": 1387
+},
+{
+"word": "wheelie",
+"score": 3553
+},
+{
+"word": "whey",
+"score": 3567
+},
+{
+"word": "whipping",
+"score": 3191
+},
+{
+"word": "whirl",
+"score": 2365
+},
+{
+"word": "whiskey",
+"score": 1012
+},
+{
+"word": "whitefish",
+"score": 1086
+},
+{
+"word": "whitey",
+"score": 1766
+},
+{
+"word": "who",
+"score": 3765
+},
+{
+"word": "wholesome",
+"score": 2025
+},
+{
+"word": "whopper",
+"score": 302
+},
+{
+"word": "wicket",
+"score": 238
+},
+{
+"word": "wifi",
+"score": 3334
+},
+{
+"word": "wimp",
+"score": 330
+},
+{
+"word": "wind",
+"score": 1486
+},
+{
+"word": "wine",
+"score": 518
+},
+{
+"word": "wines",
+"score": 2475
+},
+{
+"word": "wing",
+"score": 1573
+},
+{
+"word": "wings",
+"score": 1574
+},
+{
+"word": "winning",
+"score": 2878
+},
+{
+"word": "winnings",
+"score": 2877
+},
+{
+"word": "winterfest",
+"score": 1525
+},
+{
+"word": "wisecrack",
+"score": 2481
+},
+{
+"word": "wits",
+"score": 3540
+},
+{
+"word": "wok",
+"score": 502
+},
+{
+"word": "wolfman",
+"score": 3461
+},
+{
+"word": "woodcarver",
+"score": 3375
+},
+{
+"word": "woof",
+"score": 1384
+},
+{
+"word": "woolworth",
+"score": 3153
+},
+{
+"word": "woolworth",
+"score": 3154
+},
+{
+"word": "workshop",
+"score": 947
+},
+{
+"word": "world",
+"score": 2480
+},
+{
+"word": "wrap",
+"score": 1366
+},
+{
+"word": "wrapper",
+"score": 1364
+},
+{
+"word": "wrappers",
+"score": 1517
+},
+{
+"word": "wrapping",
+"score": 1363
+},
+{
+"word": "wraps",
+"score": 3559
+},
+{
+"word": "wrightwood",
+"score": 3766
+},
+{
+"word": "wrigley",
+"score": 2761
+},
+{
+"word": "wrigleyville",
+"score": 882
+},
+{
+"word": "wuss",
+"score": 2909
+},
+{
+"word": "yam",
+"score": 1753
+},
+{
+"word": "yams",
+"score": 1752
+},
+{
+"word": "yearbook",
+"score": 2041
+},
+{
+"word": "yearbooks",
+"score": 2040
+},
+{
+"word": "yell",
+"score": 1888
+},
+{
+"word": "yellowtail",
+"score": 2706
+},
+{
+"word": "yelp",
+"score": 1832
+},
+{
+"word": "yield",
+"score": 739
+},
+{
+"word": "yip",
+"score": 1833
+},
+{
+"word": "ymca",
+"score": 3365
+},
+{
+"word": "yo",
+"score": 2809
+},
+{
+"word": "yoghurt",
+"score": 903
+},
+{
+"word": "yogurt",
+"score": 196
+},
+{
+"word": "yogurts",
+"score": 836
+},
+{
+"word": "yonge",
+"score": 3070
+},
+{
+"word": "yoplait",
+"score": 3228
+},
+{
+"word": "yorker",
+"score": 3508
+},
+{
+"word": "yorkie",
+"score": 1396
+},
+{
+"word": "youngstown",
+"score": 3769
+},
+{
+"word": "youngstown",
+"score": 3770
+},
+{
+"word": "yuck",
+"score": 1274
+},
+{
+"word": "yucky",
+"score": 2335
+},
+{
+"word": "yue",
+"score": 1927
+},
+{
+"word": "yum",
+"score": 1646
+},
+{
+"word": "yummy",
+"score": 214
+},
+{
+"word": "yuppie",
+"score": 2189
+},
+{
+"word": "zagat",
+"score": 918
+},
+{
+"word": "zamboni",
+"score": 2540
+},
+{
+"word": "zamboni",
+"score": 2541
+},
+{
+"word": "zellers",
+"score": 3598
+},
+{
+"word": "zesty",
+"score": 717
+},
+{
+"word": "ziggy",
+"score": 2785
+},
+{
+"word": "zine",
+"score": 1429
+},
+{
+"word": "zinfandel",
+"score": 2124
+},
+{
+"word": "zinfandel",
+"score": 2125
+},
+{
+"word": "zinger",
+"score": 2532
+},
+{
+"word": "zippy",
+"score": 1921
+},
+{
+"word": "zucchini",
+"score": 342
+},
+{
+"word": "zumba",
+"score": 3392
+},
+{
+"word": "zydeco",
+"score": 2519
+}
+]
+}

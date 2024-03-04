@@ -1,0 +1,17233 @@
+{
+"hints": [
+"What has six strings but can't be played like a violin?",
+"What is often strummed but isn't a banjo?",
+"What instrument is commonly used in rock bands and folk music alike?"
+],
+"associations": [
+{
+"word": "aaj",
+"score": 806
+},
+{
+"word": "ab",
+"score": 3091
+},
+{
+"word": "ab",
+"score": 3092
+},
+{
+"word": "abba",
+"score": 1441
+},
+{
+"word": "abdominal",
+"score": 3089
+},
+{
+"word": "aberration",
+"score": 1728
+},
+{
+"word": "abrasive",
+"score": 3796
+},
+{
+"word": "abs",
+"score": 3088
+},
+{
+"word": "accelerator",
+"score": 1926
+},
+{
+"word": "accent",
+"score": 2704
+},
+{
+"word": "accented",
+"score": 2518
+},
+{
+"word": "accents",
+"score": 2820
+},
+{
+"word": "accident",
+"score": 645
+},
+{
+"word": "accompaniment",
+"score": 576
+},
+{
+"word": "accompaniments",
+"score": 823
+},
+{
+"word": "accompanist",
+"score": 306
+},
+{
+"word": "accordion",
+"score": 67
+},
+{
+"word": "accordionist",
+"score": 106
+},
+{
+"word": "accountant",
+"score": 3441
+},
+{
+"word": "ace",
+"score": 206
+},
+{
+"word": "acetate",
+"score": 3262
+},
+{
+"word": "acid",
+"score": 640
+},
+{
+"word": "acolyte",
+"score": 3606
+},
+{
+"word": "acoustic",
+"score": 88
+},
+{
+"word": "acoustical",
+"score": 1369
+},
+{
+"word": "acoustically",
+"score": 335
+},
+{
+"word": "acoustics",
+"score": 706
+},
+{
+"word": "acquaintance",
+"score": 3407
+},
+{
+"word": "acrobatics",
+"score": 2361
+},
+{
+"word": "acrylic",
+"score": 1047
+},
+{
+"word": "acrylics",
+"score": 1046
+},
+{
+"word": "acrylonitrile-butadiene-styrene",
+"score": 3090
+},
+{
+"word": "actor",
+"score": 1224
+},
+{
+"word": "addicted",
+"score": 4090
+},
+{
+"word": "addicting",
+"score": 3610
+},
+{
+"word": "adele",
+"score": 1261
+},
+{
+"word": "administration",
+"score": 751
+},
+{
+"word": "adorable",
+"score": 2696
+},
+{
+"word": "adores",
+"score": 3433
+},
+{
+"word": "adventuring",
+"score": 2572
+},
+{
+"word": "aerobatics",
+"score": 2362
+},
+{
+"word": "aerosmith",
+"score": 458
+},
+{
+"word": "affectation",
+"score": 1491
+},
+{
+"word": "affray",
+"score": 690
+},
+{
+"word": "afro",
+"score": 971
+},
+{
+"word": "afro",
+"score": 972
+},
+{
+"word": "afrobeat",
+"score": 488
+},
+{
+"word": "aiden",
+"score": 2358
+},
+{
+"word": "air",
+"score": 1854
+},
+{
+"word": "airboat",
+"score": 2633
+},
+{
+"word": "airbrush",
+"score": 3466
+},
+{
+"word": "airplane",
+"score": 3764
+},
+{
+"word": "airplanes",
+"score": 3924
+},
+{
+"word": "airwaves",
+"score": 1855
+},
+{
+"word": "akon",
+"score": 2857
+},
+{
+"word": "albarn",
+"score": 662
+},
+{
+"word": "album",
+"score": 227
+},
+{
+"word": "albums",
+"score": 322
+},
+{
+"word": "alchemy",
+"score": 3526
+},
+{
+"word": "alcoholic",
+"score": 2791
+},
+{
+"word": "aliadiere",
+"score": 4212
+},
+{
+"word": "allegro",
+"score": 1811
+},
+{
+"word": "allman",
+"score": 3905
+},
+{
+"word": "alloy",
+"score": 549
+},
+{
+"word": "allstars",
+"score": 1016
+},
+{
+"word": "ally",
+"score": 3406
+},
+{
+"word": "alright",
+"score": 2001
+},
+{
+"word": "alt",
+"score": 657
+},
+{
+"word": "altamont",
+"score": 2922
+},
+{
+"word": "alto",
+"score": 91
+},
+{
+"word": "ambiance",
+"score": 3340
+},
+{
+"word": "ambience",
+"score": 3910
+},
+{
+"word": "ambient",
+"score": 832
+},
+{
+"word": "americana",
+"score": 393
+},
+{
+"word": "americana",
+"score": 394
+},
+{
+"word": "ammo",
+"score": 3799
+},
+{
+"word": "ammunition",
+"score": 3800
+},
+{
+"word": "amor",
+"score": 3985
+},
+{
+"word": "amp",
+"score": 219
+},
+{
+"word": "ampere",
+"score": 218
+},
+{
+"word": "amphitheater",
+"score": 3859
+},
+{
+"word": "amphitheatre",
+"score": 3860
+},
+{
+"word": "amplification",
+"score": 996
+},
+{
+"word": "amplified",
+"score": 3555
+},
+{
+"word": "amplifier",
+"score": 652
+},
+{
+"word": "amplifiers",
+"score": 651
+},
+{
+"word": "amplifying",
+"score": 4002
+},
+{
+"word": "amps",
+"score": 253
+},
+{
+"word": "anadigics",
+"score": 3541
+},
+{
+"word": "analog",
+"score": 3772
+},
+{
+"word": "analogue",
+"score": 3773
+},
+{
+"word": "anastasio",
+"score": 1394
+},
+{
+"word": "anatomy",
+"score": 4119
+},
+{
+"word": "ancestor",
+"score": 1589
+},
+{
+"word": "ancic",
+"score": 4142
+},
+{
+"word": "androgynous",
+"score": 1065
+},
+{
+"word": "anecdotist",
+"score": 400
+},
+{
+"word": "angelic",
+"score": 1171
+},
+{
+"word": "angular",
+"score": 1464
+},
+{
+"word": "animalistic",
+"score": 2378
+},
+{
+"word": "animator",
+"score": 3482
+},
+{
+"word": "anime",
+"score": 2937
+},
+{
+"word": "annoyingly",
+"score": 2744
+},
+{
+"word": "anselmo",
+"score": 4122
+},
+{
+"word": "anthem",
+"score": 704
+},
+{
+"word": "anthemic",
+"score": 317
+},
+{
+"word": "anthems",
+"score": 705
+},
+{
+"word": "anthologies",
+"score": 4235
+},
+{
+"word": "anthology",
+"score": 1935
+},
+{
+"word": "anthrax",
+"score": 1711
+},
+{
+"word": "antic",
+"score": 3936
+},
+{
+"word": "antique",
+"score": 1503
+},
+{
+"word": "antiques",
+"score": 4300
+},
+{
+"word": "antler",
+"score": 1527
+},
+{
+"word": "antlers",
+"score": 1526
+},
+{
+"word": "antone",
+"score": 1952
+},
+{
+"word": "apery",
+"score": 2146
+},
+{
+"word": "aping",
+"score": 4042
+},
+{
+"word": "apparel",
+"score": 3920
+},
+{
+"word": "appetizer",
+"score": 3070
+},
+{
+"word": "appetizers",
+"score": 3071
+},
+{
+"word": "applause",
+"score": 956
+},
+{
+"word": "appliance",
+"score": 2188
+},
+{
+"word": "aprilia",
+"score": 3989
+},
+{
+"word": "arc",
+"score": 2849
+},
+{
+"word": "arcade",
+"score": 2103
+},
+{
+"word": "arcs",
+"score": 2850
+},
+{
+"word": "are",
+"score": 3495
+},
+{
+"word": "aretha",
+"score": 2391
+},
+{
+"word": "argon",
+"score": 3493
+},
+{
+"word": "aria",
+"score": 1622
+},
+{
+"word": "arias",
+"score": 1633
+},
+{
+"word": "arkansas",
+"score": 3496
+},
+{
+"word": "arlen",
+"score": 3085
+},
+{
+"word": "arlo",
+"score": 1810
+},
+{
+"word": "armful",
+"score": 3743
+},
+{
+"word": "armoire",
+"score": 3334
+},
+{
+"word": "armrest",
+"score": 4101
+},
+{
+"word": "armrests",
+"score": 4100
+},
+{
+"word": "arrangement",
+"score": 903
+},
+{
+"word": "arranger",
+"score": 800
+},
+{
+"word": "arrowhead",
+"score": 2616
+},
+{
+"word": "arrowheads",
+"score": 2615
+},
+{
+"word": "ars",
+"score": 3494
+},
+{
+"word": "arsenic",
+"score": 2913
+},
+{
+"word": "art",
+"score": 1229
+},
+{
+"word": "arteta",
+"score": 3744
+},
+{
+"word": "articulation",
+"score": 2684
+},
+{
+"word": "artie",
+"score": 2221
+},
+{
+"word": "artillery",
+"score": 1930
+},
+{
+"word": "artilleryman",
+"score": 1675
+},
+{
+"word": "artisan",
+"score": 1481
+},
+{
+"word": "artist",
+"score": 590
+},
+{
+"word": "artiste",
+"score": 1460
+},
+{
+"word": "artistically",
+"score": 2236
+},
+{
+"word": "artistry",
+"score": 1230
+},
+{
+"word": "artists",
+"score": 1732
+},
+{
+"word": "artsy",
+"score": 3287
+},
+{
+"word": "artwork",
+"score": 787
+},
+{
+"word": "arty",
+"score": 2220
+},
+{
+"word": "ashtray",
+"score": 2758
+},
+{
+"word": "asleep",
+"score": 1651
+},
+{
+"word": "ass",
+"score": 2914
+},
+{
+"word": "asshole",
+"score": 1110
+},
+{
+"word": "astrophysics",
+"score": 3698
+},
+{
+"word": "athlete",
+"score": 2389
+},
+{
+"word": "atmosphere",
+"score": 3339
+},
+{
+"word": "atmospheric",
+"score": 2426
+},
+{
+"word": "atmospherics",
+"score": 1148
+},
+{
+"word": "atom",
+"score": 1636
+},
+{
+"word": "audibly",
+"score": 3532
+},
+{
+"word": "audio",
+"score": 539
+},
+{
+"word": "audiobook",
+"score": 3954
+},
+{
+"word": "audiobooks",
+"score": 2102
+},
+{
+"word": "audiologist",
+"score": 2043
+},
+{
+"word": "audiophile",
+"score": 467
+},
+{
+"word": "audiophiles",
+"score": 1155
+},
+{
+"word": "audioslave",
+"score": 491
+},
+{
+"word": "audiotape",
+"score": 3325
+},
+{
+"word": "audiotapes",
+"score": 3326
+},
+{
+"word": "auditory",
+"score": 2507
+},
+{
+"word": "aura",
+"score": 3359
+},
+{
+"word": "aural",
+"score": 509
+},
+{
+"word": "auricle",
+"score": 1548
+},
+{
+"word": "auteur",
+"score": 2082
+},
+{
+"word": "authentic",
+"score": 3535
+},
+{
+"word": "authentically",
+"score": 4066
+},
+{
+"word": "autobiographical",
+"score": 1607
+},
+{
+"word": "autograph",
+"score": 4110
+},
+{
+"word": "autographed",
+"score": 4298
+},
+{
+"word": "automaton",
+"score": 2855
+},
+{
+"word": "avatar",
+"score": 2741
+},
+{
+"word": "aviator",
+"score": 3086
+},
+{
+"word": "avocation",
+"score": 1191
+},
+{
+"word": "avril",
+"score": 2508
+},
+{
+"word": "awesome",
+"score": 2596
+},
+{
+"word": "awesomely",
+"score": 1351
+},
+{
+"word": "aww",
+"score": 4096
+},
+{
+"word": "ax",
+"score": 2833
+},
+{
+"word": "axes",
+"score": 2986
+},
+{
+"word": "axis",
+"score": 2985
+},
+{
+"word": "axis",
+"score": 2987
+},
+{
+"word": "axl",
+"score": 373
+},
+{
+"word": "babyshambles",
+"score": 884
+},
+{
+"word": "bach",
+"score": 1466
+},
+{
+"word": "bach",
+"score": 1467
+},
+{
+"word": "bacharach",
+"score": 2354
+},
+{
+"word": "backboard",
+"score": 2170
+},
+{
+"word": "backboards",
+"score": 2171
+},
+{
+"word": "backgammon",
+"score": 2595
+},
+{
+"word": "backhoe",
+"score": 2528
+},
+{
+"word": "backpack",
+"score": 2486
+},
+{
+"word": "backstage",
+"score": 2089
+},
+{
+"word": "backstory",
+"score": 1733
+},
+{
+"word": "badass",
+"score": 659
+},
+{
+"word": "bag",
+"score": 4020
+},
+{
+"word": "bagpipe",
+"score": 135
+},
+{
+"word": "bagpiper",
+"score": 367
+},
+{
+"word": "bagpipers",
+"score": 1362
+},
+{
+"word": "bagpipes",
+"score": 136
+},
+{
+"word": "bait",
+"score": 1835
+},
+{
+"word": "ball",
+"score": 1054
+},
+{
+"word": "ballad",
+"score": 175
+},
+{
+"word": "balladeer",
+"score": 220
+},
+{
+"word": "ballads",
+"score": 176
+},
+{
+"word": "ballerina",
+"score": 4205
+},
+{
+"word": "ballet",
+"score": 2807
+},
+{
+"word": "ballhandling",
+"score": 4139
+},
+{
+"word": "ballsy",
+"score": 1813
+},
+{
+"word": "baloney",
+"score": 3120
+},
+{
+"word": "bam",
+"score": 3461
+},
+{
+"word": "bam",
+"score": 3462
+},
+{
+"word": "bamboo",
+"score": 4285
+},
+{
+"word": "band",
+"score": 64
+},
+{
+"word": "bandana",
+"score": 1238
+},
+{
+"word": "bandanna",
+"score": 869
+},
+{
+"word": "bandannas",
+"score": 4085
+},
+{
+"word": "bandleader",
+"score": 107
+},
+{
+"word": "bandmate",
+"score": 133
+},
+{
+"word": "bandmates",
+"score": 117
+},
+{
+"word": "bands",
+"score": 157
+},
+{
+"word": "bandstand",
+"score": 571
+},
+{
+"word": "bang",
+"score": 603
+},
+{
+"word": "banger",
+"score": 1759
+},
+{
+"word": "bangers",
+"score": 2478
+},
+{
+"word": "banging",
+"score": 2140
+},
+{
+"word": "bangle",
+"score": 2189
+},
+{
+"word": "bangles",
+"score": 2190
+},
+{
+"word": "bangs",
+"score": 1411
+},
+{
+"word": "banjo",
+"score": 5
+},
+{
+"word": "barat",
+"score": 3534
+},
+{
+"word": "barbecue",
+"score": 2456
+},
+{
+"word": "barber",
+"score": 1805
+},
+{
+"word": "barber",
+"score": 1806
+},
+{
+"word": "barbershop",
+"score": 2025
+},
+{
+"word": "barbies",
+"score": 2747
+},
+{
+"word": "bard",
+"score": 3533
+},
+{
+"word": "bardem",
+"score": 4126
+},
+{
+"word": "bareback",
+"score": 1877
+},
+{
+"word": "barge",
+"score": 1573
+},
+{
+"word": "barista",
+"score": 2451
+},
+{
+"word": "baritone",
+"score": 212
+},
+{
+"word": "bark",
+"score": 3917
+},
+{
+"word": "barks",
+"score": 3918
+},
+{
+"word": "barman",
+"score": 3613
+},
+{
+"word": "baroque",
+"score": 683
+},
+{
+"word": "baroque",
+"score": 684
+},
+{
+"word": "barrel",
+"score": 24
+},
+{
+"word": "barroom",
+"score": 997
+},
+{
+"word": "barrow",
+"score": 3819
+},
+{
+"word": "bartender",
+"score": 1850
+},
+{
+"word": "bartending",
+"score": 1785
+},
+{
+"word": "bartok",
+"score": 794
+},
+{
+"word": "bartok",
+"score": 795
+},
+{
+"word": "baseball",
+"score": 3380
+},
+{
+"word": "baseballs",
+"score": 3379
+},
+{
+"word": "basketball",
+"score": 2311
+},
+{
+"word": "basketballs",
+"score": 2312
+},
+{
+"word": "bass",
+"score": 40
+},
+{
+"word": "basses",
+"score": 39
+},
+{
+"word": "bassinet",
+"score": 2175
+},
+{
+"word": "bassist",
+"score": 18
+},
+{
+"word": "bassoon",
+"score": 86
+},
+{
+"word": "bastard",
+"score": 3614
+},
+{
+"word": "bat",
+"score": 2539
+},
+{
+"word": "batch",
+"score": 1725
+},
+{
+"word": "batmobile",
+"score": 4132
+},
+{
+"word": "baton",
+"score": 1780
+},
+{
+"word": "bats",
+"score": 2538
+},
+{
+"word": "battering",
+"score": 2141
+},
+{
+"word": "bauhaus",
+"score": 1973
+},
+{
+"word": "bauhaus",
+"score": 1974
+},
+{
+"word": "bayonetta",
+"score": 2762
+},
+{
+"word": "bazan",
+"score": 3802
+},
+{
+"word": "bbq",
+"score": 2250
+},
+{
+"word": "bead",
+"score": 1516
+},
+{
+"word": "beaded",
+"score": 2623
+},
+{
+"word": "beading",
+"score": 1518
+},
+{
+"word": "beads",
+"score": 1517
+},
+{
+"word": "beadwork",
+"score": 1986
+},
+{
+"word": "beam",
+"score": 3455
+},
+{
+"word": "beams",
+"score": 3454
+},
+{
+"word": "beatle",
+"score": 497
+},
+{
+"word": "beatlemania",
+"score": 1074
+},
+{
+"word": "beatles",
+"score": 361
+},
+{
+"word": "beatles",
+"score": 362
+},
+{
+"word": "beautifully",
+"score": 3850
+},
+{
+"word": "bebop",
+"score": 160
+},
+{
+"word": "bedroom",
+"score": 3106
+},
+{
+"word": "beehive",
+"score": 530
+},
+{
+"word": "beep",
+"score": 1403
+},
+{
+"word": "beeping",
+"score": 4297
+},
+{
+"word": "beeps",
+"score": 3703
+},
+{
+"word": "beer",
+"score": 3547
+},
+{
+"word": "beers",
+"score": 3546
+},
+{
+"word": "beethoven",
+"score": 649
+},
+{
+"word": "beethoven",
+"score": 650
+},
+{
+"word": "beginner",
+"score": 1688
+},
+{
+"word": "beginning",
+"score": 1587
+},
+{
+"word": "beguiling",
+"score": 4083
+},
+{
+"word": "believably",
+"score": 2476
+},
+{
+"word": "believer",
+"score": 3215
+},
+{
+"word": "bell",
+"score": 1906
+},
+{
+"word": "bell",
+"score": 1908
+},
+{
+"word": "bellow",
+"score": 1120
+},
+{
+"word": "bellow",
+"score": 1122
+},
+{
+"word": "bellows",
+"score": 1121
+},
+{
+"word": "bells",
+"score": 1909
+},
+{
+"word": "belted",
+"score": 2760
+},
+{
+"word": "belter",
+"score": 2021
+},
+{
+"word": "belting",
+"score": 1802
+},
+{
+"word": "benediction",
+"score": 2846
+},
+{
+"word": "benjani",
+"score": 4225
+},
+{
+"word": "benji",
+"score": 2185
+},
+{
+"word": "benny",
+"score": 3709
+},
+{
+"word": "benny",
+"score": 3710
+},
+{
+"word": "beret",
+"score": 2714
+},
+{
+"word": "berklee",
+"score": 328
+},
+{
+"word": "berlioz",
+"score": 2991
+},
+{
+"word": "berlioz",
+"score": 2992
+},
+{
+"word": "bessie",
+"score": 4178
+},
+{
+"word": "beto",
+"score": 3025
+},
+{
+"word": "beyonce",
+"score": 2415
+},
+{
+"word": "bfg",
+"score": 3328
+},
+{
+"word": "bhangra",
+"score": 1132
+},
+{
+"word": "bible",
+"score": 4279
+},
+{
+"word": "bicycle",
+"score": 861
+},
+{
+"word": "bicycles",
+"score": 1689
+},
+{
+"word": "bieber",
+"score": 1961
+},
+{
+"word": "bike",
+"score": 859
+},
+{
+"word": "biker",
+"score": 2078
+},
+{
+"word": "bikes",
+"score": 870
+},
+{
+"word": "billboard",
+"score": 1387
+},
+{
+"word": "billiards",
+"score": 4056
+},
+{
+"word": "billie",
+"score": 4273
+},
+{
+"word": "billy",
+"score": 3432
+},
+{
+"word": "bioshock",
+"score": 3261
+},
+{
+"word": "biplane",
+"score": 3729
+},
+{
+"word": "birdcall",
+"score": 111
+},
+{
+"word": "birder",
+"score": 3741
+},
+{
+"word": "birdhouse",
+"score": 916
+},
+{
+"word": "birdhouses",
+"score": 2013
+},
+{
+"word": "birdland",
+"score": 3994
+},
+{
+"word": "birdman",
+"score": 3251
+},
+{
+"word": "biscotti",
+"score": 2708
+},
+{
+"word": "bitch",
+"score": 3540
+},
+{
+"word": "bitchy",
+"score": 4183
+},
+{
+"word": "bix",
+"score": 3243
+},
+{
+"word": "bjj",
+"score": 2884
+},
+{
+"word": "bjork",
+"score": 1682
+},
+{
+"word": "bjorn",
+"score": 3327
+},
+{
+"word": "blackbird",
+"score": 2442
+},
+{
+"word": "blackboard",
+"score": 2592
+},
+{
+"word": "blackjack",
+"score": 1545
+},
+{
+"word": "blacksmith",
+"score": 867
+},
+{
+"word": "blacksmithing",
+"score": 839
+},
+{
+"word": "blacksmiths",
+"score": 2238
+},
+{
+"word": "blacktop",
+"score": 1857
+},
+{
+"word": "blame",
+"score": 969
+},
+{
+"word": "blare",
+"score": 3958
+},
+{
+"word": "blaster",
+"score": 1172
+},
+{
+"word": "bleed",
+"score": 2435
+},
+{
+"word": "bleeps",
+"score": 1402
+},
+{
+"word": "blender",
+"score": 3769
+},
+{
+"word": "blessing",
+"score": 2847
+},
+{
+"word": "blige",
+"score": 2521
+},
+{
+"word": "blizzcon",
+"score": 2484
+},
+{
+"word": "bloc",
+"score": 2984
+},
+{
+"word": "blondie",
+"score": 895
+},
+{
+"word": "bloomers",
+"score": 3855
+},
+{
+"word": "blower",
+"score": 1400
+},
+{
+"word": "blowfish",
+"score": 2412
+},
+{
+"word": "blowin",
+"score": 4037
+},
+{
+"word": "blue",
+"score": 149
+},
+{
+"word": "bluegrass",
+"score": 120
+},
+{
+"word": "bluegrass",
+"score": 121
+},
+{
+"word": "blues",
+"score": 151
+},
+{
+"word": "bluesman",
+"score": 122
+},
+{
+"word": "bluesy",
+"score": 38
+},
+{
+"word": "bluing",
+"score": 150
+},
+{
+"word": "blur",
+"score": 453
+},
+{
+"word": "bmx",
+"score": 1022
+},
+{
+"word": "bob",
+"score": 1736
+},
+{
+"word": "bobber",
+"score": 1737
+},
+{
+"word": "bobbin",
+"score": 3438
+},
+{
+"word": "bobs",
+"score": 3401
+},
+{
+"word": "bobsled",
+"score": 3402
+},
+{
+"word": "bobtail",
+"score": 3403
+},
+{
+"word": "bodied",
+"score": 3150
+},
+{
+"word": "boldness",
+"score": 750
+},
+{
+"word": "bolide",
+"score": 2622
+},
+{
+"word": "bombast",
+"score": 1292
+},
+{
+"word": "bombastic",
+"score": 1083
+},
+{
+"word": "bomber",
+"score": 1306
+},
+{
+"word": "bon",
+"score": 3417
+},
+{
+"word": "bonding",
+"score": 2059
+},
+{
+"word": "bone",
+"score": 155
+},
+{
+"word": "bones",
+"score": 2639
+},
+{
+"word": "bong",
+"score": 4170
+},
+{
+"word": "bongo",
+"score": 61
+},
+{
+"word": "bongos",
+"score": 62
+},
+{
+"word": "bongs",
+"score": 4169
+},
+{
+"word": "bonham",
+"score": 954
+},
+{
+"word": "bonnaroo",
+"score": 910
+},
+{
+"word": "bono",
+"score": 3550
+},
+{
+"word": "bonsai",
+"score": 2047
+},
+{
+"word": "boo",
+"score": 2869
+},
+{
+"word": "boogie",
+"score": 364
+},
+{
+"word": "bookcase",
+"score": 2142
+},
+{
+"word": "bookcases",
+"score": 2143
+},
+{
+"word": "bookshelf",
+"score": 1990
+},
+{
+"word": "boom",
+"score": 2838
+},
+{
+"word": "boombox",
+"score": 207
+},
+{
+"word": "boot",
+"score": 4105
+},
+{
+"word": "bootleg",
+"score": 755
+},
+{
+"word": "bootlegs",
+"score": 753
+},
+{
+"word": "boots",
+"score": 4107
+},
+{
+"word": "bop",
+"score": 159
+},
+{
+"word": "bopping",
+"score": 1007
+},
+{
+"word": "borderland",
+"score": 2813
+},
+{
+"word": "borderlands",
+"score": 2814
+},
+{
+"word": "borderline",
+"score": 1585
+},
+{
+"word": "bouncy",
+"score": 883
+},
+{
+"word": "bourbon",
+"score": 2279
+},
+{
+"word": "bourbon",
+"score": 2280
+},
+{
+"word": "bow",
+"score": 2851
+},
+{
+"word": "bowler",
+"score": 3516
+},
+{
+"word": "boyband",
+"score": 1051
+},
+{
+"word": "boyfriend",
+"score": 3024
+},
+{
+"word": "boyhood",
+"score": 3559
+},
+{
+"word": "boyish",
+"score": 2983
+},
+{
+"word": "boyzone",
+"score": 2288
+},
+{
+"word": "bozak",
+"score": 3464
+},
+{
+"word": "bpm",
+"score": 3170
+},
+{
+"word": "brace",
+"score": 3146
+},
+{
+"word": "bracelet",
+"score": 1819
+},
+{
+"word": "bracelets",
+"score": 2763
+},
+{
+"word": "bracken",
+"score": 3511
+},
+{
+"word": "brahms",
+"score": 939
+},
+{
+"word": "brahms",
+"score": 940
+},
+{
+"word": "braid",
+"score": 3391
+},
+{
+"word": "braille",
+"score": 3621
+},
+{
+"word": "braille",
+"score": 3622
+},
+{
+"word": "brake",
+"score": 3512
+},
+{
+"word": "brakes",
+"score": 3510
+},
+{
+"word": "bramhall",
+"score": 3517
+},
+{
+"word": "brando",
+"score": 3888
+},
+{
+"word": "brass",
+"score": 752
+},
+{
+"word": "brassy",
+"score": 1195
+},
+{
+"word": "brat",
+"score": 2972
+},
+{
+"word": "bratty",
+"score": 2267
+},
+{
+"word": "bratwurst",
+"score": 2970
+},
+{
+"word": "bravery",
+"score": 1281
+},
+{
+"word": "bravura",
+"score": 3015
+},
+{
+"word": "break",
+"score": 4061
+},
+{
+"word": "breakdancing",
+"score": 1221
+},
+{
+"word": "breathe",
+"score": 1605
+},
+{
+"word": "breathy",
+"score": 390
+},
+{
+"word": "bric-a-brac",
+"score": 4039
+},
+{
+"word": "bricklayer",
+"score": 3058
+},
+{
+"word": "bridwell",
+"score": 3530
+},
+{
+"word": "briefcase",
+"score": 3778
+},
+{
+"word": "brim",
+"score": 1009
+},
+{
+"word": "brisket",
+"score": 3411
+},
+{
+"word": "britpop",
+"score": 641
+},
+{
+"word": "britta",
+"score": 2767
+},
+{
+"word": "bro",
+"score": 1542
+},
+{
+"word": "brolin",
+"score": 3636
+},
+{
+"word": "bromberg",
+"score": 2017
+},
+{
+"word": "bron",
+"score": 1864
+},
+{
+"word": "brooch",
+"score": 3641
+},
+{
+"word": "brooding",
+"score": 942
+},
+{
+"word": "broom",
+"score": 1408
+},
+{
+"word": "brooms",
+"score": 3491
+},
+{
+"word": "broomstick",
+"score": 1669
+},
+{
+"word": "bros",
+"score": 3331
+},
+{
+"word": "brother",
+"score": 2875
+},
+{
+"word": "brother",
+"score": 2876
+},
+{
+"word": "brothers",
+"score": 2877
+},
+{
+"word": "brubeck",
+"score": 472
+},
+{
+"word": "bruschetta",
+"score": 1798
+},
+{
+"word": "brushstrokes",
+"score": 1858
+},
+{
+"word": "bub",
+"score": 2306
+},
+{
+"word": "bubblegum",
+"score": 631
+},
+{
+"word": "buble",
+"score": 848
+},
+{
+"word": "buckle",
+"score": 3941
+},
+{
+"word": "buckles",
+"score": 3942
+},
+{
+"word": "buddies",
+"score": 4084
+},
+{
+"word": "buddy",
+"score": 1825
+},
+{
+"word": "buffer",
+"score": 126
+},
+{
+"word": "buffoonery",
+"score": 1678
+},
+{
+"word": "buggy",
+"score": 2421
+},
+{
+"word": "bugle",
+"score": 348
+},
+{
+"word": "bugler",
+"score": 471
+},
+{
+"word": "bull",
+"score": 450
+},
+{
+"word": "bulletstorm",
+"score": 3897
+},
+{
+"word": "bullhorn",
+"score": 2398
+},
+{
+"word": "bullshit",
+"score": 1106
+},
+{
+"word": "bum",
+"score": 4176
+},
+{
+"word": "bumblebee",
+"score": 730
+},
+{
+"word": "bunco",
+"score": 1830
+},
+{
+"word": "burdensomeness",
+"score": 1020
+},
+{
+"word": "burlesque",
+"score": 3642
+},
+{
+"word": "burnout",
+"score": 1743
+},
+{
+"word": "burrito",
+"score": 2954
+},
+{
+"word": "burritos",
+"score": 2955
+},
+{
+"word": "busboy",
+"score": 3922
+},
+{
+"word": "busker",
+"score": 2003
+},
+{
+"word": "buskers",
+"score": 2002
+},
+{
+"word": "busking",
+"score": 507
+},
+{
+"word": "bustle",
+"score": 2736
+},
+{
+"word": "busyness",
+"score": 1630
+},
+{
+"word": "butt",
+"score": 350
+},
+{
+"word": "butterscotch",
+"score": 4233
+},
+{
+"word": "buttery",
+"score": 1601
+},
+{
+"word": "buttocks",
+"score": 2912
+},
+{
+"word": "button",
+"score": 2666
+},
+{
+"word": "buttons",
+"score": 2668
+},
+{
+"word": "buzzcocks",
+"score": 545
+},
+{
+"word": "buzzer",
+"score": 2676
+},
+{
+"word": "buzzers",
+"score": 2677
+},
+{
+"word": "bydgoszcz",
+"score": 2016
+},
+{
+"word": "byrd",
+"score": 386
+},
+{
+"word": "byrds",
+"score": 385
+},
+{
+"word": "cabaret",
+"score": 1435
+},
+{
+"word": "cabbie",
+"score": 3393
+},
+{
+"word": "cabinetmaking",
+"score": 1969
+},
+{
+"word": "cabinetry",
+"score": 1580
+},
+{
+"word": "cabinetwork",
+"score": 1579
+},
+{
+"word": "cacophonous",
+"score": 3378
+},
+{
+"word": "cacophony",
+"score": 3957
+},
+{
+"word": "caddied",
+"score": 1393
+},
+{
+"word": "caddy",
+"score": 2307
+},
+{
+"word": "caddying",
+"score": 3255
+},
+{
+"word": "cadence",
+"score": 772
+},
+{
+"word": "cadences",
+"score": 774
+},
+{
+"word": "cadillacs",
+"score": 3224
+},
+{
+"word": "cadmium",
+"score": 339
+},
+{
+"word": "cafe",
+"score": 1898
+},
+{
+"word": "cage",
+"score": 1569
+},
+{
+"word": "cage",
+"score": 1570
+},
+{
+"word": "cajun",
+"score": 2753
+},
+{
+"word": "cajun",
+"score": 2754
+},
+{
+"word": "cale",
+"score": 1602
+},
+{
+"word": "caleb",
+"score": 3834
+},
+{
+"word": "calexico",
+"score": 1200
+},
+{
+"word": "californication",
+"score": 2527
+},
+{
+"word": "calligraphy",
+"score": 1502
+},
+{
+"word": "calypso",
+"score": 664
+},
+{
+"word": "calypso",
+"score": 665
+},
+{
+"word": "camcorder",
+"score": 2011
+},
+{
+"word": "cameraman",
+"score": 1619
+},
+{
+"word": "camerawork",
+"score": 1163
+},
+{
+"word": "camper",
+"score": 3520
+},
+{
+"word": "campfire",
+"score": 3733
+},
+{
+"word": "campy",
+"score": 2990
+},
+{
+"word": "can",
+"score": 2285
+},
+{
+"word": "candle",
+"score": 340
+},
+{
+"word": "candlelight",
+"score": 3198
+},
+{
+"word": "candlestick",
+"score": 3549
+},
+{
+"word": "candlesticks",
+"score": 3548
+},
+{
+"word": "candor",
+"score": 2718
+},
+{
+"word": "cane",
+"score": 2111
+},
+{
+"word": "canes",
+"score": 2728
+},
+{
+"word": "canister",
+"score": 2286
+},
+{
+"word": "cannon",
+"score": 3884
+},
+{
+"word": "cannonball",
+"score": 2822
+},
+{
+"word": "canoe",
+"score": 2903
+},
+{
+"word": "canoeist",
+"score": 3732
+},
+{
+"word": "cantata",
+"score": 1418
+},
+{
+"word": "cantina",
+"score": 3274
+},
+{
+"word": "cantor",
+"score": 1707
+},
+{
+"word": "canvas",
+"score": 1245
+},
+{
+"word": "canvases",
+"score": 1244
+},
+{
+"word": "capaldi",
+"score": 3624
+},
+{
+"word": "cape",
+"score": 1624
+},
+{
+"word": "capella",
+"score": 536
+},
+{
+"word": "capella",
+"score": 538
+},
+{
+"word": "capes",
+"score": 2326
+},
+{
+"word": "capo",
+"score": 2580
+},
+{
+"word": "capone",
+"score": 3592
+},
+{
+"word": "cappella",
+"score": 425
+},
+{
+"word": "cappuccino",
+"score": 3293
+},
+{
+"word": "carbine",
+"score": 1608
+},
+{
+"word": "carburetor",
+"score": 4187
+},
+{
+"word": "cardboard",
+"score": 2650
+},
+{
+"word": "career",
+"score": 2981
+},
+{
+"word": "caress",
+"score": 1241
+},
+{
+"word": "caressed",
+"score": 1412
+},
+{
+"word": "caressing",
+"score": 918
+},
+{
+"word": "caricature",
+"score": 2689
+},
+{
+"word": "carol",
+"score": 851
+},
+{
+"word": "caroler",
+"score": 3235
+},
+{
+"word": "carolers",
+"score": 3236
+},
+{
+"word": "carols",
+"score": 852
+},
+{
+"word": "carom",
+"score": 3736
+},
+{
+"word": "caroms",
+"score": 3735
+},
+{
+"word": "carouse",
+"score": 1278
+},
+{
+"word": "carpenter",
+"score": 707
+},
+{
+"word": "carpenters",
+"score": 1722
+},
+{
+"word": "carpentry",
+"score": 565
+},
+{
+"word": "carrabba",
+"score": 1417
+},
+{
+"word": "cartoon",
+"score": 3672
+},
+{
+"word": "cartooning",
+"score": 1015
+},
+{
+"word": "cartoony",
+"score": 2798
+},
+{
+"word": "cartridge",
+"score": 3599
+},
+{
+"word": "carver",
+"score": 1165
+},
+{
+"word": "carver",
+"score": 1166
+},
+{
+"word": "carvers",
+"score": 2161
+},
+{
+"word": "carving",
+"score": 2805
+},
+{
+"word": "carvings",
+"score": 2804
+},
+{
+"word": "casbah",
+"score": 1038
+},
+{
+"word": "case",
+"score": 3738
+},
+{
+"word": "casio",
+"score": 3061
+},
+{
+"word": "cassette",
+"score": 238
+},
+{
+"word": "cassettes",
+"score": 1295
+},
+{
+"word": "castlevania",
+"score": 1763
+},
+{
+"word": "catchy",
+"score": 741
+},
+{
+"word": "cathartic",
+"score": 2942
+},
+{
+"word": "cavern",
+"score": 1340
+},
+{
+"word": "cbgb",
+"score": 2038
+},
+{
+"word": "cd",
+"score": 338
+},
+{
+"word": "cds",
+"score": 758
+},
+{
+"word": "cedar",
+"score": 2174
+},
+{
+"word": "cellist",
+"score": 139
+},
+{
+"word": "cello",
+"score": 12
+},
+{
+"word": "cellos",
+"score": 100
+},
+{
+"word": "cena",
+"score": 2909
+},
+{
+"word": "centerfield",
+"score": 3140
+},
+{
+"word": "cera",
+"score": 2382
+},
+{
+"word": "cesc",
+"score": 3932
+},
+{
+"word": "cetacean",
+"score": 1401
+},
+{
+"word": "chain",
+"score": 190
+},
+{
+"word": "chain",
+"score": 2946
+},
+{
+"word": "chains",
+"score": 2947
+},
+{
+"word": "chainsaw",
+"score": 667
+},
+{
+"word": "chainsaws",
+"score": 960
+},
+{
+"word": "chalkboard",
+"score": 2593
+},
+{
+"word": "chamillionaire",
+"score": 3037
+},
+{
+"word": "chandelier",
+"score": 2446
+},
+{
+"word": "chant",
+"score": 4004
+},
+{
+"word": "chanteuse",
+"score": 749
+},
+{
+"word": "chantey",
+"score": 2786
+},
+{
+"word": "chaos",
+"score": 2641
+},
+{
+"word": "chaos",
+"score": 2642
+},
+{
+"word": "chap",
+"score": 1914
+},
+{
+"word": "character",
+"score": 2314
+},
+{
+"word": "chardonnay",
+"score": 4137
+},
+{
+"word": "chardonnay",
+"score": 4138
+},
+{
+"word": "charger",
+"score": 2757
+},
+{
+"word": "charisma",
+"score": 2112
+},
+{
+"word": "charly",
+"score": 2121
+},
+{
+"word": "charmer",
+"score": 2555
+},
+{
+"word": "charming",
+"score": 3270
+},
+{
+"word": "charmingly",
+"score": 1289
+},
+{
+"word": "chas",
+"score": 1883
+},
+{
+"word": "checker",
+"score": 2780
+},
+{
+"word": "checkers",
+"score": 2781
+},
+{
+"word": "cheddar",
+"score": 3589
+},
+{
+"word": "cheddar",
+"score": 3590
+},
+{
+"word": "cheesy",
+"score": 1388
+},
+{
+"word": "chef",
+"score": 3529
+},
+{
+"word": "chemise",
+"score": 2604
+},
+{
+"word": "chemistry",
+"score": 3525
+},
+{
+"word": "cher",
+"score": 3348
+},
+{
+"word": "cherish",
+"score": 2579
+},
+{
+"word": "chesney",
+"score": 2573
+},
+{
+"word": "chess",
+"score": 2958
+},
+{
+"word": "chevelle",
+"score": 628
+},
+{
+"word": "chevy",
+"score": 1804
+},
+{
+"word": "chewbacca",
+"score": 3093
+},
+{
+"word": "child",
+"score": 1440
+},
+{
+"word": "childlike",
+"score": 1823
+},
+{
+"word": "chile",
+"score": 3130
+},
+{
+"word": "chiles",
+"score": 3129
+},
+{
+"word": "chili",
+"score": 3131
+},
+{
+"word": "chime",
+"score": 1033
+},
+{
+"word": "chimes",
+"score": 1034
+},
+{
+"word": "chiming",
+"score": 2651
+},
+{
+"word": "chink",
+"score": 2915
+},
+{
+"word": "chippendale",
+"score": 2569
+},
+{
+"word": "chippendale",
+"score": 2570
+},
+{
+"word": "chisel",
+"score": 1437
+},
+{
+"word": "choir",
+"score": 501
+},
+{
+"word": "choirmaster",
+"score": 1706
+},
+{
+"word": "choirs",
+"score": 1169
+},
+{
+"word": "chop",
+"score": 959
+},
+{
+"word": "chopin",
+"score": 855
+},
+{
+"word": "chopin",
+"score": 856
+},
+{
+"word": "chops",
+"score": 958
+},
+{
+"word": "chopstick",
+"score": 1192
+},
+{
+"word": "chopsticks",
+"score": 1193
+},
+{
+"word": "choral",
+"score": 582
+},
+{
+"word": "chorale",
+"score": 429
+},
+{
+"word": "chord",
+"score": 33
+},
+{
+"word": "chords",
+"score": 34
+},
+{
+"word": "choreographer",
+"score": 2867
+},
+{
+"word": "choreographic",
+"score": 2304
+},
+{
+"word": "choreography",
+"score": 897
+},
+{
+"word": "chortle",
+"score": 3447
+},
+{
+"word": "chorus",
+"score": 216
+},
+{
+"word": "choruses",
+"score": 217
+},
+{
+"word": "chow",
+"score": 4072
+},
+{
+"word": "chrome",
+"score": 3188
+},
+{
+"word": "chuckles",
+"score": 3448
+},
+{
+"word": "chutney",
+"score": 2290
+},
+{
+"word": "cigar",
+"score": 2392
+},
+{
+"word": "cinematic",
+"score": 2656
+},
+{
+"word": "cinematographer",
+"score": 1618
+},
+{
+"word": "cinematography",
+"score": 1695
+},
+{
+"word": "circumstance",
+"score": 3595
+},
+{
+"word": "civ",
+"score": 3242
+},
+{
+"word": "clack",
+"score": 601
+},
+{
+"word": "clang",
+"score": 3213
+},
+{
+"word": "clanging",
+"score": 3164
+},
+{
+"word": "clank",
+"score": 3662
+},
+{
+"word": "clanking",
+"score": 3124
+},
+{
+"word": "clap",
+"score": 865
+},
+{
+"word": "clapping",
+"score": 955
+},
+{
+"word": "claps",
+"score": 602
+},
+{
+"word": "clapton",
+"score": 148
+},
+{
+"word": "clarinet",
+"score": 20
+},
+{
+"word": "clarinetist",
+"score": 128
+},
+{
+"word": "clasp",
+"score": 1724
+},
+{
+"word": "classic",
+"score": 1081
+},
+{
+"word": "classical",
+"score": 495
+},
+{
+"word": "classics",
+"score": 1080
+},
+{
+"word": "clatter",
+"score": 2554
+},
+{
+"word": "clattering",
+"score": 2201
+},
+{
+"word": "cleat",
+"score": 1329
+},
+{
+"word": "cleats",
+"score": 1328
+},
+{
+"word": "clergyman",
+"score": 3019
+},
+{
+"word": "cliburn",
+"score": 3435
+},
+{
+"word": "clicker",
+"score": 2431
+},
+{
+"word": "clickers",
+"score": 4059
+},
+{
+"word": "clink",
+"score": 2916
+},
+{
+"word": "clipboard",
+"score": 2225
+},
+{
+"word": "clipper",
+"score": 1365
+},
+{
+"word": "clippers",
+"score": 1364
+},
+{
+"word": "clitoris",
+"score": 2667
+},
+{
+"word": "clothes",
+"score": 3919
+},
+{
+"word": "clown",
+"score": 1455
+},
+{
+"word": "clowning",
+"score": 1679
+},
+{
+"word": "clubman",
+"score": 4202
+},
+{
+"word": "clutch",
+"score": 1726
+},
+{
+"word": "cmj",
+"score": 1115
+},
+{
+"word": "coachable",
+"score": 4058
+},
+{
+"word": "coachella",
+"score": 1506
+},
+{
+"word": "cob",
+"score": 3290
+},
+{
+"word": "cobain",
+"score": 433
+},
+{
+"word": "cock",
+"score": 994
+},
+{
+"word": "cocker",
+"score": 1371
+},
+{
+"word": "cockney",
+"score": 1652
+},
+{
+"word": "cockney",
+"score": 1653
+},
+{
+"word": "cocky",
+"score": 4115
+},
+{
+"word": "coda",
+"score": 1142
+},
+{
+"word": "coevals",
+"score": 4240
+},
+{
+"word": "coffeehouse",
+"score": 1897
+},
+{
+"word": "coil",
+"score": 2258
+},
+{
+"word": "coils",
+"score": 2257
+},
+{
+"word": "cola",
+"score": 2943
+},
+{
+"word": "coldplay",
+"score": 382
+},
+{
+"word": "collaborator",
+"score": 2910
+},
+{
+"word": "collage",
+"score": 1179
+},
+{
+"word": "collages",
+"score": 1220
+},
+{
+"word": "coltrane",
+"score": 248
+},
+{
+"word": "columba",
+"score": 3758
+},
+{
+"word": "comb",
+"score": 3846
+},
+{
+"word": "combo",
+"score": 1766
+},
+{
+"word": "combos",
+"score": 911
+},
+{
+"word": "combs",
+"score": 3845
+},
+{
+"word": "comedian",
+"score": 1658
+},
+{
+"word": "comedic",
+"score": 2090
+},
+{
+"word": "comforter",
+"score": 3345
+},
+{
+"word": "comic",
+"score": 1659
+},
+{
+"word": "comics",
+"score": 2331
+},
+{
+"word": "comin",
+"score": 1856
+},
+{
+"word": "commented",
+"score": 1257
+},
+{
+"word": "commiseration",
+"score": 1375
+},
+{
+"word": "compaction",
+"score": 3682
+},
+{
+"word": "company",
+"score": 3332
+},
+{
+"word": "compellingly",
+"score": 3869
+},
+{
+"word": "compere",
+"score": 1396
+},
+{
+"word": "compilation",
+"score": 2138
+},
+{
+"word": "compilations",
+"score": 2137
+},
+{
+"word": "complement",
+"score": 577
+},
+{
+"word": "completion",
+"score": 1741
+},
+{
+"word": "composer",
+"score": 352
+},
+{
+"word": "composers",
+"score": 1105
+},
+{
+"word": "composes",
+"score": 825
+},
+{
+"word": "composing",
+"score": 202
+},
+{
+"word": "composition",
+"score": 203
+},
+{
+"word": "compositional",
+"score": 334
+},
+{
+"word": "compositions",
+"score": 200
+},
+{
+"word": "compression",
+"score": 3681
+},
+{
+"word": "compressions",
+"score": 3683
+},
+{
+"word": "conan",
+"score": 3230
+},
+{
+"word": "concert",
+"score": 666
+},
+{
+"word": "concertgoers",
+"score": 1382
+},
+{
+"word": "concertmaster",
+"score": 500
+},
+{
+"word": "concerto",
+"score": 324
+},
+{
+"word": "concertos",
+"score": 354
+},
+{
+"word": "concerts",
+"score": 1129
+},
+{
+"word": "conch",
+"score": 2750
+},
+{
+"word": "conchords",
+"score": 2721
+},
+{
+"word": "conciliator",
+"score": 3346
+},
+{
+"word": "condition",
+"score": 2099
+},
+{
+"word": "conductor",
+"score": 1066
+},
+{
+"word": "confederacy",
+"score": 567
+},
+{
+"word": "confederate",
+"score": 2911
+},
+{
+"word": "confesses",
+"score": 2575
+},
+{
+"word": "confidant",
+"score": 4055
+},
+{
+"word": "confides",
+"score": 3197
+},
+{
+"word": "congregation",
+"score": 843
+},
+{
+"word": "conservatory",
+"score": 2158
+},
+{
+"word": "consonant",
+"score": 2951
+},
+{
+"word": "consonants",
+"score": 2950
+},
+{
+"word": "consort",
+"score": 2825
+},
+{
+"word": "constitution",
+"score": 201
+},
+{
+"word": "contemplation",
+"score": 1513
+},
+{
+"word": "contemplative",
+"score": 900
+},
+{
+"word": "contemporaries",
+"score": 4241
+},
+{
+"word": "contemporary",
+"score": 3584
+},
+{
+"word": "context",
+"score": 3594
+},
+{
+"word": "contra",
+"score": 1796
+},
+{
+"word": "contra",
+"score": 1797
+},
+{
+"word": "contralto",
+"score": 93
+},
+{
+"word": "contraption",
+"score": 4086
+},
+{
+"word": "contraptions",
+"score": 3167
+},
+{
+"word": "control",
+"score": 3440
+},
+{
+"word": "controller",
+"score": 3442
+},
+{
+"word": "converge",
+"score": 1634
+},
+{
+"word": "conversational",
+"score": 1283
+},
+{
+"word": "coo",
+"score": 927
+},
+{
+"word": "cooing",
+"score": 3122
+},
+{
+"word": "cookware",
+"score": 4103
+},
+{
+"word": "coolest",
+"score": 3914
+},
+{
+"word": "coos",
+"score": 928
+},
+{
+"word": "copland",
+"score": 3319
+},
+{
+"word": "copland",
+"score": 3320
+},
+{
+"word": "copyist",
+"score": 2681
+},
+{
+"word": "coquette",
+"score": 383
+},
+{
+"word": "cord",
+"score": 2152
+},
+{
+"word": "cordless",
+"score": 2525
+},
+{
+"word": "cords",
+"score": 2151
+},
+{
+"word": "corduroy",
+"score": 3740
+},
+{
+"word": "corea",
+"score": 1316
+},
+{
+"word": "corgan",
+"score": 610
+},
+{
+"word": "corkscrew",
+"score": 2515
+},
+{
+"word": "corluka",
+"score": 4000
+},
+{
+"word": "cornet",
+"score": 47
+},
+{
+"word": "corny",
+"score": 2026
+},
+{
+"word": "correspondent",
+"score": 3302
+},
+{
+"word": "corset",
+"score": 4157
+},
+{
+"word": "corsets",
+"score": 4158
+},
+{
+"word": "corvette",
+"score": 2303
+},
+{
+"word": "corvettes",
+"score": 4036
+},
+{
+"word": "cosmic",
+"score": 3123
+},
+{
+"word": "costume",
+"score": 3367
+},
+{
+"word": "costumes",
+"score": 3368
+},
+{
+"word": "costuming",
+"score": 2402
+},
+{
+"word": "cot",
+"score": 3797
+},
+{
+"word": "couch",
+"score": 3225
+},
+{
+"word": "cougar",
+"score": 1197
+},
+{
+"word": "counterpoint",
+"score": 3881
+},
+{
+"word": "countertenor",
+"score": 92
+},
+{
+"word": "countertop",
+"score": 2427
+},
+{
+"word": "couple",
+"score": 245
+},
+{
+"word": "courage",
+"score": 1282
+},
+{
+"word": "coverdale",
+"score": 1186
+},
+{
+"word": "cowbell",
+"score": 165
+},
+{
+"word": "cowbells",
+"score": 2733
+},
+{
+"word": "cowboy",
+"score": 1554
+},
+{
+"word": "cowgirl",
+"score": 1555
+},
+{
+"word": "crackle",
+"score": 2347
+},
+{
+"word": "crackles",
+"score": 3479
+},
+{
+"word": "crackling",
+"score": 2346
+},
+{
+"word": "crackpot",
+"score": 4208
+},
+{
+"word": "craft",
+"score": 975
+},
+{
+"word": "craftsman",
+"score": 345
+},
+{
+"word": "craftsmanship",
+"score": 976
+},
+{
+"word": "craftsmen",
+"score": 2826
+},
+{
+"word": "craggy",
+"score": 2162
+},
+{
+"word": "cranberries",
+"score": 2007
+},
+{
+"word": "cranberry",
+"score": 2008
+},
+{
+"word": "crank",
+"score": 4209
+},
+{
+"word": "crap",
+"score": 1108
+},
+{
+"word": "craps",
+"score": 2397
+},
+{
+"word": "crawl",
+"score": 4260
+},
+{
+"word": "crayon",
+"score": 1301
+},
+{
+"word": "crayons",
+"score": 2576
+},
+{
+"word": "crazy",
+"score": 1348
+},
+{
+"word": "creation",
+"score": 3009
+},
+{
+"word": "creation",
+"score": 3012
+},
+{
+"word": "creations",
+"score": 3013
+},
+{
+"word": "creature",
+"score": 621
+},
+{
+"word": "creed",
+"score": 2602
+},
+{
+"word": "creep",
+"score": 1347
+},
+{
+"word": "creepy",
+"score": 1987
+},
+{
+"word": "crib",
+"score": 1233
+},
+{
+"word": "cribbage",
+"score": 1235
+},
+{
+"word": "cribs",
+"score": 1232
+},
+{
+"word": "crick",
+"score": 555
+},
+{
+"word": "cricket",
+"score": 1023
+},
+{
+"word": "crickets",
+"score": 1024
+},
+{
+"word": "criminal",
+"score": 4292
+},
+{
+"word": "crimping",
+"score": 4242
+},
+{
+"word": "cringle",
+"score": 880
+},
+{
+"word": "crochet",
+"score": 885
+},
+{
+"word": "crocheted",
+"score": 3784
+},
+{
+"word": "crocheting",
+"score": 1757
+},
+{
+"word": "croon",
+"score": 282
+},
+{
+"word": "crooned",
+"score": 791
+},
+{
+"word": "crooner",
+"score": 221
+},
+{
+"word": "crooners",
+"score": 882
+},
+{
+"word": "crooning",
+"score": 214
+},
+{
+"word": "croons",
+"score": 208
+},
+{
+"word": "croquet",
+"score": 2229
+},
+{
+"word": "crosswords",
+"score": 3947
+},
+{
+"word": "crotch",
+"score": 4048
+},
+{
+"word": "crowbar",
+"score": 1606
+},
+{
+"word": "cru",
+"score": 3450
+},
+{
+"word": "cruiser",
+"score": 3891
+},
+{
+"word": "cruisers",
+"score": 3890
+},
+{
+"word": "cruller",
+"score": 4274
+},
+{
+"word": "crumb",
+"score": 1683
+},
+{
+"word": "crunchy",
+"score": 1094
+},
+{
+"word": "crunk",
+"score": 1297
+},
+{
+"word": "crush",
+"score": 559
+},
+{
+"word": "crusher",
+"score": 2906
+},
+{
+"word": "cry",
+"score": 1868
+},
+{
+"word": "crysis",
+"score": 3749
+},
+{
+"word": "cub",
+"score": 1913
+},
+{
+"word": "cued",
+"score": 4174
+},
+{
+"word": "cuff",
+"score": 2293
+},
+{
+"word": "cuffs",
+"score": 2292
+},
+{
+"word": "cullum",
+"score": 2117
+},
+{
+"word": "cult",
+"score": 3712
+},
+{
+"word": "cultivator",
+"score": 4094
+},
+{
+"word": "cunego",
+"score": 3723
+},
+{
+"word": "cunt",
+"score": 3538
+},
+{
+"word": "cupid",
+"score": 3986
+},
+{
+"word": "curate",
+"score": 4217
+},
+{
+"word": "curio",
+"score": 2897
+},
+{
+"word": "curler",
+"score": 3266
+},
+{
+"word": "curly",
+"score": 2401
+},
+{
+"word": "curmudgeon",
+"score": 2872
+},
+{
+"word": "cursive",
+"score": 3620
+},
+{
+"word": "curtain",
+"score": 3383
+},
+{
+"word": "cut",
+"score": 380
+},
+{
+"word": "cutaway",
+"score": 2533
+},
+{
+"word": "cutlery",
+"score": 1386
+},
+{
+"word": "cutscenes",
+"score": 3036
+},
+{
+"word": "cutter",
+"score": 1167
+},
+{
+"word": "cuz",
+"score": 2735
+},
+{
+"word": "cycle",
+"score": 330
+},
+{
+"word": "cycles",
+"score": 1769
+},
+{
+"word": "cyclist",
+"score": 2709
+},
+{
+"word": "cylinder",
+"score": 4125
+},
+{
+"word": "cymbal",
+"score": 50
+},
+{
+"word": "cymbals",
+"score": 94
+},
+{
+"word": "d",
+"score": 3553
+},
+{
+"word": "dad",
+"score": 935
+},
+{
+"word": "daddy",
+"score": 2184
+},
+{
+"word": "dagger",
+"score": 3998
+},
+{
+"word": "daggers",
+"score": 3997
+},
+{
+"word": "dallier",
+"score": 4245
+},
+{
+"word": "daltrey",
+"score": 544
+},
+{
+"word": "dame",
+"score": 2722
+},
+{
+"word": "damn",
+"score": 1107
+},
+{
+"word": "damper",
+"score": 1330
+},
+{
+"word": "dance",
+"score": 1125
+},
+{
+"word": "danceable",
+"score": 280
+},
+{
+"word": "dancefloor",
+"score": 615
+},
+{
+"word": "dancehall",
+"score": 726
+},
+{
+"word": "dancer",
+"score": 1209
+},
+{
+"word": "dancers",
+"score": 2169
+},
+{
+"word": "dances",
+"score": 1886
+},
+{
+"word": "dancin",
+"score": 1840
+},
+{
+"word": "dancing",
+"score": 1126
+},
+{
+"word": "dando",
+"score": 2635
+},
+{
+"word": "dandy",
+"score": 708
+},
+{
+"word": "danko",
+"score": 1429
+},
+{
+"word": "dano",
+"score": 4262
+},
+{
+"word": "dark",
+"score": 2254
+},
+{
+"word": "darkness",
+"score": 2255
+},
+{
+"word": "darkroom",
+"score": 1751
+},
+{
+"word": "darmstadtium",
+"score": 3554
+},
+{
+"word": "dart",
+"score": 2110
+},
+{
+"word": "darts",
+"score": 2108
+},
+{
+"word": "dash",
+"score": 2828
+},
+{
+"word": "daughtry",
+"score": 921
+},
+{
+"word": "dawdler",
+"score": 4221
+},
+{
+"word": "daydream",
+"score": 4079
+},
+{
+"word": "dazed",
+"score": 2643
+},
+{
+"word": "deacon",
+"score": 3609
+},
+{
+"word": "deadpan",
+"score": 1211
+},
+{
+"word": "deadpool",
+"score": 3338
+},
+{
+"word": "deanna",
+"score": 2372
+},
+{
+"word": "debonair",
+"score": 2610
+},
+{
+"word": "debris",
+"score": 3259
+},
+{
+"word": "debussy",
+"score": 888
+},
+{
+"word": "debussy",
+"score": 889
+},
+{
+"word": "decca",
+"score": 2761
+},
+{
+"word": "decemberists",
+"score": 466
+},
+{
+"word": "deconstructed",
+"score": 3644
+},
+{
+"word": "decoration",
+"score": 2953
+},
+{
+"word": "deejay",
+"score": 256
+},
+{
+"word": "deejays",
+"score": 1360
+},
+{
+"word": "deflection",
+"score": 3810
+},
+{
+"word": "deftones",
+"score": 424
+},
+{
+"word": "degrassi",
+"score": 2698
+},
+{
+"word": "deity",
+"score": 3871
+},
+{
+"word": "delay",
+"score": 2115
+},
+{
+"word": "delicate",
+"score": 2537
+},
+{
+"word": "deliciously",
+"score": 3152
+},
+{
+"word": "delightfully",
+"score": 2233
+},
+{
+"word": "delilah",
+"score": 2463
+},
+{
+"word": "delilah",
+"score": 2465
+},
+{
+"word": "delirious",
+"score": 1942
+},
+{
+"word": "delp",
+"score": 3576
+},
+{
+"word": "demarcus",
+"score": 2057
+},
+{
+"word": "demented",
+"score": 1846
+},
+{
+"word": "demo",
+"score": 1655
+},
+{
+"word": "demoed",
+"score": 4214
+},
+{
+"word": "demonic",
+"score": 1955
+},
+{
+"word": "demonstration",
+"score": 1285
+},
+{
+"word": "demos",
+"score": 1286
+},
+{
+"word": "denim",
+"score": 1888
+},
+{
+"word": "densmore",
+"score": 3724
+},
+{
+"word": "dentition",
+"score": 4180
+},
+{
+"word": "denture",
+"score": 3848
+},
+{
+"word": "dentures",
+"score": 3847
+},
+{
+"word": "depp",
+"score": 2327
+},
+{
+"word": "deschanel",
+"score": 988
+},
+{
+"word": "destroyer",
+"score": 1765
+},
+{
+"word": "detection",
+"score": 4172
+},
+{
+"word": "detour",
+"score": 2037
+},
+{
+"word": "detours",
+"score": 2036
+},
+{
+"word": "detroit",
+"score": 1077
+},
+{
+"word": "devil",
+"score": 3078
+},
+{
+"word": "devilish",
+"score": 3637
+},
+{
+"word": "devilishly",
+"score": 3003
+},
+{
+"word": "devo",
+"score": 616
+},
+{
+"word": "devotional",
+"score": 1339
+},
+{
+"word": "dexterity",
+"score": 2366
+},
+{
+"word": "dexterous",
+"score": 1153
+},
+{
+"word": "diablo",
+"score": 2351
+},
+{
+"word": "diablos",
+"score": 4179
+},
+{
+"word": "dialect",
+"score": 2702
+},
+{
+"word": "diaphragm",
+"score": 1936
+},
+{
+"word": "diazepam",
+"score": 2344
+},
+{
+"word": "dice",
+"score": 4015
+},
+{
+"word": "dick",
+"score": 995
+},
+{
+"word": "dickov",
+"score": 3977
+},
+{
+"word": "diction",
+"score": 1482
+},
+{
+"word": "didactic",
+"score": 2929
+},
+{
+"word": "diddley",
+"score": 747
+},
+{
+"word": "didgeridoo",
+"score": 132
+},
+{
+"word": "dido",
+"score": 1949
+},
+{
+"word": "dido",
+"score": 1950
+},
+{
+"word": "die",
+"score": 4014
+},
+{
+"word": "difranco",
+"score": 837
+},
+{
+"word": "dingers",
+"score": 3663
+},
+{
+"word": "dio",
+"score": 291
+},
+{
+"word": "diploma",
+"score": 4148
+},
+{
+"word": "directness",
+"score": 2717
+},
+{
+"word": "directorial",
+"score": 3900
+},
+{
+"word": "dirge",
+"score": 295
+},
+{
+"word": "dirt",
+"score": 441
+},
+{
+"word": "disagreement",
+"score": 796
+},
+{
+"word": "disarmingly",
+"score": 2731
+},
+{
+"word": "disc",
+"score": 822
+},
+{
+"word": "discharge",
+"score": 2848
+},
+{
+"word": "disciple",
+"score": 3273
+},
+{
+"word": "disco",
+"score": 909
+},
+{
+"word": "discography",
+"score": 271
+},
+{
+"word": "discordant",
+"score": 1370
+},
+{
+"word": "discs",
+"score": 1496
+},
+{
+"word": "disembodied",
+"score": 1118
+},
+{
+"word": "disk",
+"score": 821
+},
+{
+"word": "dissonance",
+"score": 797
+},
+{
+"word": "dissonant",
+"score": 274
+},
+{
+"word": "distillery",
+"score": 1985
+},
+{
+"word": "distin",
+"score": 2871
+},
+{
+"word": "distinctive",
+"score": 4141
+},
+{
+"word": "distortion",
+"score": 1727
+},
+{
+"word": "disturbed",
+"score": 1144
+},
+{
+"word": "ditties",
+"score": 420
+},
+{
+"word": "ditty",
+"score": 421
+},
+{
+"word": "diver",
+"score": 3072
+},
+{
+"word": "divertimento",
+"score": 1043
+},
+{
+"word": "dixieland",
+"score": 568
+},
+{
+"word": "diy",
+"score": 3153
+},
+{
+"word": "dizzy",
+"score": 844
+},
+{
+"word": "dj",
+"score": 680
+},
+{
+"word": "django",
+"score": 642
+},
+{
+"word": "djing",
+"score": 270
+},
+{
+"word": "djs",
+"score": 655
+},
+{
+"word": "dmb",
+"score": 1264
+},
+{
+"word": "doc",
+"score": 2965
+},
+{
+"word": "doctor",
+"score": 2966
+},
+{
+"word": "doctrine",
+"score": 4128
+},
+{
+"word": "documentarian",
+"score": 3171
+},
+{
+"word": "dodgeball",
+"score": 3623
+},
+{
+"word": "doggerel",
+"score": 1500
+},
+{
+"word": "dojo",
+"score": 3948
+},
+{
+"word": "doll",
+"score": 1945
+},
+{
+"word": "dollhouse",
+"score": 1598
+},
+{
+"word": "dolls",
+"score": 2723
+},
+{
+"word": "dolly",
+"score": 1944
+},
+{
+"word": "don",
+"score": 2504
+},
+{
+"word": "dongle",
+"score": 3453
+},
+{
+"word": "doodad",
+"score": 2186
+},
+{
+"word": "doodling",
+"score": 1862
+},
+{
+"word": "doom",
+"score": 2074
+},
+{
+"word": "door",
+"score": 3678
+},
+{
+"word": "doorbell",
+"score": 1907
+},
+{
+"word": "doorknob",
+"score": 1490
+},
+{
+"word": "doors",
+"score": 3679
+},
+{
+"word": "doorway",
+"score": 3677
+},
+{
+"word": "dope",
+"score": 2944
+},
+{
+"word": "dork",
+"score": 965
+},
+{
+"word": "dorky",
+"score": 1397
+},
+{
+"word": "doted",
+"score": 3708
+},
+{
+"word": "dottie",
+"score": 2960
+},
+{
+"word": "douchebag",
+"score": 4064
+},
+{
+"word": "doughnut",
+"score": 3544
+},
+{
+"word": "dove",
+"score": 3760
+},
+{
+"word": "doves",
+"score": 3759
+},
+{
+"word": "downstairs",
+"score": 3562
+},
+{
+"word": "draft",
+"score": 4236
+},
+{
+"word": "draftsman",
+"score": 2553
+},
+{
+"word": "drapery",
+"score": 3384
+},
+{
+"word": "drawing",
+"score": 4237
+},
+{
+"word": "drawings",
+"score": 4239
+},
+{
+"word": "drawl",
+"score": 1123
+},
+{
+"word": "drawstring",
+"score": 188
+},
+{
+"word": "dre",
+"score": 1941
+},
+{
+"word": "dreadlock",
+"score": 2957
+},
+{
+"word": "dreadlocks",
+"score": 2956
+},
+{
+"word": "dreamcast",
+"score": 2461
+},
+{
+"word": "dreamer",
+"score": 3065
+},
+{
+"word": "dreamy",
+"score": 681
+},
+{
+"word": "dresser",
+"score": 1498
+},
+{
+"word": "dribble",
+"score": 3782
+},
+{
+"word": "dribbling",
+"score": 3781
+},
+{
+"word": "drifter",
+"score": 2449
+},
+{
+"word": "drifters",
+"score": 3172
+},
+{
+"word": "driftwood",
+"score": 1710
+},
+{
+"word": "droll",
+"score": 2809
+},
+{
+"word": "drollery",
+"score": 1680
+},
+{
+"word": "drone",
+"score": 4220
+},
+{
+"word": "droning",
+"score": 638
+},
+{
+"word": "drop",
+"score": 1515
+},
+{
+"word": "drum",
+"score": 22
+},
+{
+"word": "drumbeat",
+"score": 430
+},
+{
+"word": "drumbeats",
+"score": 431
+},
+{
+"word": "drummer",
+"score": 10
+},
+{
+"word": "drummers",
+"score": 60
+},
+{
+"word": "drumming",
+"score": 134
+},
+{
+"word": "drums",
+"score": 23
+},
+{
+"word": "drumstick",
+"score": 76
+},
+{
+"word": "drumsticks",
+"score": 75
+},
+{
+"word": "drunkard",
+"score": 3748
+},
+{
+"word": "drywall",
+"score": 3221
+},
+{
+"word": "ds",
+"score": 3552
+},
+{
+"word": "dsi",
+"score": 3139
+},
+{
+"word": "dub",
+"score": 2471
+},
+{
+"word": "dubstep",
+"score": 363
+},
+{
+"word": "ducati",
+"score": 3882
+},
+{
+"word": "dudamel",
+"score": 2559
+},
+{
+"word": "dude",
+"score": 709
+},
+{
+"word": "dudes",
+"score": 735
+},
+{
+"word": "duet",
+"score": 244
+},
+{
+"word": "duets",
+"score": 247
+},
+{
+"word": "dulcimer",
+"score": 35
+},
+{
+"word": "dumbbell",
+"score": 2475
+},
+{
+"word": "dumbbells",
+"score": 3240
+},
+{
+"word": "dunk",
+"score": 4030
+},
+{
+"word": "dunst",
+"score": 3842
+},
+{
+"word": "duo",
+"score": 1256
+},
+{
+"word": "durability",
+"score": 2749
+},
+{
+"word": "dusk",
+"score": 4195
+},
+{
+"word": "dusky",
+"score": 3996
+},
+{
+"word": "dust",
+"score": 3258
+},
+{
+"word": "duster",
+"score": 3502
+},
+{
+"word": "dusty",
+"score": 3518
+},
+{
+"word": "dvd",
+"score": 3952
+},
+{
+"word": "dylan",
+"score": 653
+},
+{
+"word": "dylan",
+"score": 654
+},
+{
+"word": "dynamite",
+"score": 3489
+},
+{
+"word": "ear",
+"score": 1549
+},
+{
+"word": "earbuds",
+"score": 687
+},
+{
+"word": "eardrum",
+"score": 1368
+},
+{
+"word": "eardrums",
+"score": 1367
+},
+{
+"word": "earnestness",
+"score": 2180
+},
+{
+"word": "earphone",
+"score": 493
+},
+{
+"word": "earphones",
+"score": 826
+},
+{
+"word": "earpiece",
+"score": 3486
+},
+{
+"word": "earplug",
+"score": 1095
+},
+{
+"word": "earplugs",
+"score": 1096
+},
+{
+"word": "earring",
+"score": 1786
+},
+{
+"word": "earrings",
+"score": 3059
+},
+{
+"word": "ears",
+"score": 2817
+},
+{
+"word": "earthworm",
+"score": 4016
+},
+{
+"word": "earthy",
+"score": 743
+},
+{
+"word": "easel",
+"score": 2118
+},
+{
+"word": "easels",
+"score": 2547
+},
+{
+"word": "easygoing",
+"score": 2574
+},
+{
+"word": "ebony",
+"score": 1103
+},
+{
+"word": "eccentric",
+"score": 2562
+},
+{
+"word": "echo",
+"score": 863
+},
+{
+"word": "echo",
+"score": 864
+},
+{
+"word": "echoes",
+"score": 862
+},
+{
+"word": "eclectic",
+"score": 981
+},
+{
+"word": "eden",
+"score": 461
+},
+{
+"word": "education",
+"score": 1982
+},
+{
+"word": "eerie",
+"score": 1546
+},
+{
+"word": "effeminate",
+"score": 3604
+},
+{
+"word": "effervescent",
+"score": 4267
+},
+{
+"word": "effortlessly",
+"score": 2740
+},
+{
+"word": "elaborateness",
+"score": 2660
+},
+{
+"word": "elbow",
+"score": 3374
+},
+{
+"word": "eldest",
+"score": 4227
+},
+{
+"word": "electrician",
+"score": 2191
+},
+{
+"word": "electro",
+"score": 398
+},
+{
+"word": "electronica",
+"score": 195
+},
+{
+"word": "electronics",
+"score": 3593
+},
+{
+"word": "elegiac",
+"score": 917
+},
+{
+"word": "elektra",
+"score": 3381
+},
+{
+"word": "elemental",
+"score": 1790
+},
+{
+"word": "elevation",
+"score": 656
+},
+{
+"word": "elf",
+"score": 265
+},
+{
+"word": "elgar",
+"score": 3611
+},
+{
+"word": "elgar",
+"score": 3612
+},
+{
+"word": "ellington",
+"score": 3906
+},
+{
+"word": "ellington",
+"score": 3907
+},
+{
+"word": "elmo",
+"score": 4160
+},
+{
+"word": "elo",
+"score": 1064
+},
+{
+"word": "eloquence",
+"score": 3162
+},
+{
+"word": "elvis",
+"score": 639
+},
+{
+"word": "em",
+"score": 4099
+},
+{
+"word": "embellishment",
+"score": 1842
+},
+{
+"word": "embellishments",
+"score": 1844
+},
+{
+"word": "embodiment",
+"score": 2742
+},
+{
+"word": "emcee",
+"score": 1069
+},
+{
+"word": "emcees",
+"score": 1971
+},
+{
+"word": "emmitt",
+"score": 2933
+},
+{
+"word": "emo",
+"score": 314
+},
+{
+"word": "emote",
+"score": 2219
+},
+{
+"word": "emotive",
+"score": 2581
+},
+{
+"word": "emphasis",
+"score": 2703
+},
+{
+"word": "emusic",
+"score": 2157
+},
+{
+"word": "enactment",
+"score": 2466
+},
+{
+"word": "enchantment",
+"score": 763
+},
+{
+"word": "enchantress",
+"score": 2464
+},
+{
+"word": "enchilada",
+"score": 3165
+},
+{
+"word": "enchiladas",
+"score": 3166
+},
+{
+"word": "encomium",
+"score": 3569
+},
+{
+"word": "encore",
+"score": 388
+},
+{
+"word": "encores",
+"score": 387
+},
+{
+"word": "endearing",
+"score": 3422
+},
+{
+"word": "endearingly",
+"score": 1511
+},
+{
+"word": "enduro",
+"score": 2597
+},
+{
+"word": "energizer",
+"score": 3481
+},
+{
+"word": "engraving",
+"score": 1486
+},
+{
+"word": "eno",
+"score": 723
+},
+{
+"word": "enraptured",
+"score": 3880
+},
+{
+"word": "ensemble",
+"score": 294
+},
+{
+"word": "ensembles",
+"score": 408
+},
+{
+"word": "entertainer",
+"score": 1729
+},
+{
+"word": "enthuses",
+"score": 1485
+},
+{
+"word": "enticement",
+"score": 1050
+},
+{
+"word": "entranced",
+"score": 3795
+},
+{
+"word": "entrancing",
+"score": 606
+},
+{
+"word": "enunciation",
+"score": 1483
+},
+{
+"word": "ep",
+"score": 1260
+},
+{
+"word": "ephemera",
+"score": 3169
+},
+{
+"word": "ephemeron",
+"score": 3168
+},
+{
+"word": "epics",
+"score": 3026
+},
+{
+"word": "epigram",
+"score": 2841
+},
+{
+"word": "epileptic",
+"score": 3264
+},
+{
+"word": "eps",
+"score": 892
+},
+{
+"word": "eq",
+"score": 1029
+},
+{
+"word": "equivalent",
+"score": 1028
+},
+{
+"word": "eraser",
+"score": 3654
+},
+{
+"word": "erasers",
+"score": 3653
+},
+{
+"word": "erna",
+"score": 2766
+},
+{
+"word": "escapist",
+"score": 3066
+},
+{
+"word": "escort",
+"score": 575
+},
+{
+"word": "esque",
+"score": 3588
+},
+{
+"word": "etching",
+"score": 1488
+},
+{
+"word": "etchings",
+"score": 1487
+},
+{
+"word": "eternity",
+"score": 2384
+},
+{
+"word": "ethereal",
+"score": 428
+},
+{
+"word": "etsy",
+"score": 4200
+},
+{
+"word": "etta",
+"score": 2432
+},
+{
+"word": "etymon",
+"score": 1588
+},
+{
+"word": "eulogy",
+"score": 3568
+},
+{
+"word": "eurogamer",
+"score": 4269
+},
+{
+"word": "evanescence",
+"score": 326
+},
+{
+"word": "everquest",
+"score": 3354
+},
+{
+"word": "everyman",
+"score": 3664
+},
+{
+"word": "evie",
+"score": 3316
+},
+{
+"word": "evocative",
+"score": 1300
+},
+{
+"word": "example",
+"score": 4166
+},
+{
+"word": "exclaims",
+"score": 1740
+},
+{
+"word": "exemplification",
+"score": 4167
+},
+{
+"word": "expressive",
+"score": 1595
+},
+{
+"word": "expressiveness",
+"score": 1025
+},
+{
+"word": "exquisite",
+"score": 2765
+},
+{
+"word": "extemporization",
+"score": 233
+},
+{
+"word": "extrovert",
+"score": 4294
+},
+{
+"word": "eyeball",
+"score": 1053
+},
+{
+"word": "eyeliner",
+"score": 1251
+},
+{
+"word": "ezio",
+"score": 4266
+},
+{
+"word": "fable",
+"score": 1979
+},
+{
+"word": "fables",
+"score": 4057
+},
+{
+"word": "fabrication",
+"score": 1978
+},
+{
+"word": "faceplate",
+"score": 2173
+},
+{
+"word": "fad",
+"score": 3713
+},
+{
+"word": "fader",
+"score": 3110
+},
+{
+"word": "fagen",
+"score": 1604
+},
+{
+"word": "faint",
+"score": 1141
+},
+{
+"word": "fairy",
+"score": 3223
+},
+{
+"word": "fajitas",
+"score": 1783
+},
+{
+"word": "falsetto",
+"score": 115
+},
+{
+"word": "family",
+"score": 378
+},
+{
+"word": "fanfare",
+"score": 3976
+},
+{
+"word": "farrier",
+"score": 2033
+},
+{
+"word": "fart",
+"score": 3849
+},
+{
+"word": "fathead",
+"score": 1456
+},
+{
+"word": "father",
+"score": 2503
+},
+{
+"word": "father",
+"score": 2506
+},
+{
+"word": "fatigue",
+"score": 3229
+},
+{
+"word": "fatigues",
+"score": 3228
+},
+{
+"word": "faves",
+"score": 3984
+},
+{
+"word": "fearlessness",
+"score": 1280
+},
+{
+"word": "fedora",
+"score": 1296
+},
+{
+"word": "feist",
+"score": 3050
+},
+{
+"word": "fella",
+"score": 3413
+},
+{
+"word": "fellow",
+"score": 710
+},
+{
+"word": "femme",
+"score": 1959
+},
+{
+"word": "fender",
+"score": 125
+},
+{
+"word": "fez",
+"score": 4282
+},
+{
+"word": "fez",
+"score": 4283
+},
+{
+"word": "fiddle",
+"score": 164
+},
+{
+"word": "fiddler",
+"score": 72
+},
+{
+"word": "fiddlers",
+"score": 316
+},
+{
+"word": "fiddles",
+"score": 228
+},
+{
+"word": "fiddling",
+"score": 2800
+},
+{
+"word": "fidgety",
+"score": 2629
+},
+{
+"word": "figurine",
+"score": 3178
+},
+{
+"word": "fillmore",
+"score": 3775
+},
+{
+"word": "fillmore",
+"score": 3776
+},
+{
+"word": "filming",
+"score": 1696
+},
+{
+"word": "filmmaking",
+"score": 3315
+},
+{
+"word": "finale",
+"score": 1143
+},
+{
+"word": "finger",
+"score": 2337
+},
+{
+"word": "fingered",
+"score": 3210
+},
+{
+"word": "fingering",
+"score": 526
+},
+{
+"word": "fingermark",
+"score": 2860
+},
+{
+"word": "fingerprint",
+"score": 2859
+},
+{
+"word": "fingerprints",
+"score": 2861
+},
+{
+"word": "fingers",
+"score": 2338
+},
+{
+"word": "fingerstall",
+"score": 3798
+},
+{
+"word": "fink",
+"score": 1664
+},
+{
+"word": "firearm",
+"score": 2489
+},
+{
+"word": "fireball",
+"score": 2620
+},
+{
+"word": "firecracker",
+"score": 1758
+},
+{
+"word": "fireman",
+"score": 3634
+},
+{
+"word": "fireside",
+"score": 3467
+},
+{
+"word": "firetruck",
+"score": 2713
+},
+{
+"word": "firewire",
+"score": 3128
+},
+{
+"word": "firework",
+"score": 3304
+},
+{
+"word": "firstborn",
+"score": 4228
+},
+{
+"word": "fist",
+"score": 1880
+},
+{
+"word": "fisted",
+"score": 3158
+},
+{
+"word": "fists",
+"score": 1881
+},
+{
+"word": "five",
+"score": 172
+},
+{
+"word": "fix",
+"score": 560
+},
+{
+"word": "flair",
+"score": 3297
+},
+{
+"word": "flamenco",
+"score": 296
+},
+{
+"word": "flamethrower",
+"score": 3233
+},
+{
+"word": "flange",
+"score": 1946
+},
+{
+"word": "flannel",
+"score": 1112
+},
+{
+"word": "flare",
+"score": 3298
+},
+{
+"word": "flashiness",
+"score": 3668
+},
+{
+"word": "flashlight",
+"score": 1931
+},
+{
+"word": "flashlights",
+"score": 2485
+},
+{
+"word": "flatbread",
+"score": 2959
+},
+{
+"word": "flatmate",
+"score": 3439
+},
+{
+"word": "flatulence",
+"score": 3838
+},
+{
+"word": "flatware",
+"score": 1731
+},
+{
+"word": "flea",
+"score": 1117
+},
+{
+"word": "fleisher",
+"score": 2600
+},
+{
+"word": "flightiness",
+"score": 3790
+},
+{
+"word": "flint",
+"score": 1637
+},
+{
+"word": "flint",
+"score": 1638
+},
+{
+"word": "flit",
+"score": 2109
+},
+{
+"word": "flock",
+"score": 842
+},
+{
+"word": "floorboard",
+"score": 3176
+},
+{
+"word": "flourish",
+"score": 2567
+},
+{
+"word": "flourishes",
+"score": 2566
+},
+{
+"word": "flunky",
+"score": 351
+},
+{
+"word": "flute",
+"score": 17
+},
+{
+"word": "flutes",
+"score": 145
+},
+{
+"word": "flutist",
+"score": 210
+},
+{
+"word": "fmx",
+"score": 2429
+},
+{
+"word": "fogerty",
+"score": 333
+},
+{
+"word": "fold",
+"score": 840
+},
+{
+"word": "folds",
+"score": 841
+},
+{
+"word": "folk",
+"score": 376
+},
+{
+"word": "folksy",
+"score": 1449
+},
+{
+"word": "folky",
+"score": 142
+},
+{
+"word": "fondue",
+"score": 3306
+},
+{
+"word": "fonz",
+"score": 3867
+},
+{
+"word": "foos",
+"score": 2218
+},
+{
+"word": "foosball",
+"score": 695
+},
+{
+"word": "footie",
+"score": 3336
+},
+{
+"word": "footloose",
+"score": 2433
+},
+{
+"word": "footwork",
+"score": 2789
+},
+{
+"word": "forearm",
+"score": 3232
+},
+{
+"word": "forearms",
+"score": 3231
+},
+{
+"word": "forefather",
+"score": 2505
+},
+{
+"word": "forehand",
+"score": 4303
+},
+{
+"word": "forehands",
+"score": 4302
+},
+{
+"word": "foreigner",
+"score": 535
+},
+{
+"word": "foreman",
+"score": 3627
+},
+{
+"word": "forest",
+"score": 1445
+},
+{
+"word": "fork",
+"score": 4049
+},
+{
+"word": "form",
+"score": 2100
+},
+{
+"word": "forza",
+"score": 3886
+},
+{
+"word": "founder",
+"score": 1687
+},
+{
+"word": "four",
+"score": 757
+},
+{
+"word": "foursome",
+"score": 1625
+},
+{
+"word": "frame",
+"score": 873
+},
+{
+"word": "frames",
+"score": 874
+},
+{
+"word": "frampton",
+"score": 2000
+},
+{
+"word": "frankie",
+"score": 3412
+},
+{
+"word": "fray",
+"score": 691
+},
+{
+"word": "freaky",
+"score": 2665
+},
+{
+"word": "freddy",
+"score": 3199
+},
+{
+"word": "freemason",
+"score": 1420
+},
+{
+"word": "freemasonry",
+"score": 1700
+},
+{
+"word": "frequencies",
+"score": 2882
+},
+{
+"word": "frequency",
+"score": 2883
+},
+{
+"word": "fret",
+"score": 696
+},
+{
+"word": "frets",
+"score": 697
+},
+{
+"word": "fried",
+"score": 3252
+},
+{
+"word": "friend",
+"score": 3404
+},
+{
+"word": "friend",
+"score": 3405
+},
+{
+"word": "frilly",
+"score": 2962
+},
+{
+"word": "frisbee",
+"score": 1450
+},
+{
+"word": "frisbee",
+"score": 1451
+},
+{
+"word": "frisbees",
+"score": 3751
+},
+{
+"word": "frontman",
+"score": 146
+},
+{
+"word": "frontmen",
+"score": 607
+},
+{
+"word": "frontstretch",
+"score": 3694
+},
+{
+"word": "frontwoman",
+"score": 598
+},
+{
+"word": "frost",
+"score": 2035
+},
+{
+"word": "fuck",
+"score": 808
+},
+{
+"word": "fucked",
+"score": 1910
+},
+{
+"word": "fuckin",
+"score": 563
+},
+{
+"word": "fucking",
+"score": 809
+},
+{
+"word": "fugees",
+"score": 2874
+},
+{
+"word": "fugitive",
+"score": 1777
+},
+{
+"word": "fun",
+"score": 1761
+},
+{
+"word": "funereal",
+"score": 3263
+},
+{
+"word": "funk",
+"score": 719
+},
+{
+"word": "funk",
+"score": 720
+},
+{
+"word": "funky",
+"score": 359
+},
+{
+"word": "fuse",
+"score": 2371
+},
+{
+"word": "futon",
+"score": 1916
+},
+{
+"word": "fuzz",
+"score": 452
+},
+{
+"word": "gadget",
+"score": 2618
+},
+{
+"word": "gaffer",
+"score": 3628
+},
+{
+"word": "gaga",
+"score": 2462
+},
+{
+"word": "gahan",
+"score": 978
+},
+{
+"word": "gaiety",
+"score": 1762
+},
+{
+"word": "gaiman",
+"score": 2548
+},
+{
+"word": "galactic",
+"score": 4024
+},
+{
+"word": "gallinago",
+"score": 537
+},
+{
+"word": "gallows",
+"score": 3508
+},
+{
+"word": "gamecube",
+"score": 2106
+},
+{
+"word": "gameplay",
+"score": 2340
+},
+{
+"word": "gamepro",
+"score": 4234
+},
+{
+"word": "gamer",
+"score": 1939
+},
+{
+"word": "gamers",
+"score": 3200
+},
+{
+"word": "gametap",
+"score": 3893
+},
+{
+"word": "garage",
+"score": 1836
+},
+{
+"word": "garageband",
+"score": 312
+},
+{
+"word": "gardnerville",
+"score": 3497
+},
+{
+"word": "garfunkel",
+"score": 1442
+},
+{
+"word": "gas",
+"score": 3836
+},
+{
+"word": "gasoline",
+"score": 3835
+},
+{
+"word": "gasp",
+"score": 3854
+},
+{
+"word": "gass",
+"score": 3837
+},
+{
+"word": "gat",
+"score": 1480
+},
+{
+"word": "gaudery",
+"score": 4229
+},
+{
+"word": "gavel",
+"score": 1319
+},
+{
+"word": "gazebo",
+"score": 2178
+},
+{
+"word": "gearshift",
+"score": 2632
+},
+{
+"word": "ged",
+"score": 3490
+},
+{
+"word": "geek",
+"score": 2563
+},
+{
+"word": "geeky",
+"score": 1954
+},
+{
+"word": "geezer",
+"score": 3707
+},
+{
+"word": "gem",
+"score": 519
+},
+{
+"word": "genitalia",
+"score": 4047
+},
+{
+"word": "genre",
+"score": 890
+},
+{
+"word": "genres",
+"score": 1338
+},
+{
+"word": "gentlemanly",
+"score": 4197
+},
+{
+"word": "gently",
+"score": 3801
+},
+{
+"word": "germ",
+"score": 3043
+},
+{
+"word": "germs",
+"score": 3041
+},
+{
+"word": "gershwin",
+"score": 857
+},
+{
+"word": "gershwin",
+"score": 858
+},
+{
+"word": "gesturing",
+"score": 4250
+},
+{
+"word": "gettin",
+"score": 3382
+},
+{
+"word": "ghost",
+"score": 3398
+},
+{
+"word": "ghostface",
+"score": 1750
+},
+{
+"word": "ghostly",
+"score": 2015
+},
+{
+"word": "ghostwriter",
+"score": 3399
+},
+{
+"word": "gibson",
+"score": 2888
+},
+{
+"word": "gibsons",
+"score": 2889
+},
+{
+"word": "gig",
+"score": 288
+},
+{
+"word": "gigging",
+"score": 237
+},
+{
+"word": "giggling",
+"score": 4012
+},
+{
+"word": "gigs",
+"score": 289
+},
+{
+"word": "gilmour",
+"score": 1989
+},
+{
+"word": "gimme",
+"score": 3312
+},
+{
+"word": "girlfriend",
+"score": 3175
+},
+{
+"word": "girlish",
+"score": 2568
+},
+{
+"word": "girly",
+"score": 4114
+},
+{
+"word": "gizmo",
+"score": 2187
+},
+{
+"word": "glam",
+"score": 1656
+},
+{
+"word": "glastonbury",
+"score": 3157
+},
+{
+"word": "glaswegian",
+"score": 3505
+},
+{
+"word": "glaswegian",
+"score": 3506
+},
+{
+"word": "glaze",
+"score": 2546
+},
+{
+"word": "glazes",
+"score": 2545
+},
+{
+"word": "glee",
+"score": 3247
+},
+{
+"word": "glennie",
+"score": 3981
+},
+{
+"word": "glider",
+"score": 1770
+},
+{
+"word": "gliders",
+"score": 1771
+},
+{
+"word": "glinda",
+"score": 4087
+},
+{
+"word": "glittery",
+"score": 3889
+},
+{
+"word": "gloat",
+"score": 3246
+},
+{
+"word": "gloriously",
+"score": 3631
+},
+{
+"word": "glove",
+"score": 3375
+},
+{
+"word": "gnarled",
+"score": 2697
+},
+{
+"word": "gnarly",
+"score": 1082
+},
+{
+"word": "gnocchi",
+"score": 3656
+},
+{
+"word": "gnr",
+"score": 1349
+},
+{
+"word": "goatee",
+"score": 3965
+},
+{
+"word": "goblin",
+"score": 2349
+},
+{
+"word": "god",
+"score": 3944
+},
+{
+"word": "god",
+"score": 3945
+},
+{
+"word": "goddamn",
+"score": 3693
+},
+{
+"word": "godson",
+"score": 4156
+},
+{
+"word": "goldeneye",
+"score": 4111
+},
+{
+"word": "golf",
+"score": 2079
+},
+{
+"word": "gondry",
+"score": 1236
+},
+{
+"word": "gong",
+"score": 2068
+},
+{
+"word": "gongs",
+"score": 2743
+},
+{
+"word": "gonna",
+"score": 2032
+},
+{
+"word": "gonorrhea",
+"score": 604
+},
+{
+"word": "gonzo",
+"score": 2501
+},
+{
+"word": "goofball",
+"score": 1454
+},
+{
+"word": "goofy",
+"score": 2796
+},
+{
+"word": "goofy",
+"score": 2797
+},
+{
+"word": "gordie",
+"score": 3133
+},
+{
+"word": "gorgeous",
+"score": 3615
+},
+{
+"word": "gorgeously",
+"score": 1571
+},
+{
+"word": "gorillaz",
+"score": 945
+},
+{
+"word": "gospel",
+"score": 700
+},
+{
+"word": "gospel",
+"score": 701
+},
+{
+"word": "goth",
+"score": 714
+},
+{
+"word": "goth",
+"score": 715
+},
+{
+"word": "gothic",
+"score": 979
+},
+{
+"word": "gothic",
+"score": 980
+},
+{
+"word": "gourd",
+"score": 731
+},
+{
+"word": "gourds",
+"score": 732
+},
+{
+"word": "grammy",
+"score": 780
+},
+{
+"word": "grammys",
+"score": 1067
+},
+{
+"word": "grandad",
+"score": 1381
+},
+{
+"word": "granddad",
+"score": 1405
+},
+{
+"word": "grandfather",
+"score": 936
+},
+{
+"word": "grandfathers",
+"score": 3425
+},
+{
+"word": "grandiosity",
+"score": 3931
+},
+{
+"word": "grandkids",
+"score": 4281
+},
+{
+"word": "grandma",
+"score": 2617
+},
+{
+"word": "grandmother",
+"score": 3001
+},
+{
+"word": "grandpa",
+"score": 937
+},
+{
+"word": "grandson",
+"score": 2591
+},
+{
+"word": "grandsons",
+"score": 2590
+},
+{
+"word": "graphite",
+"score": 3364
+},
+{
+"word": "grate",
+"score": 2716
+},
+{
+"word": "grating",
+"score": 2715
+},
+{
+"word": "gravelly",
+"score": 427
+},
+{
+"word": "gravestone",
+"score": 2270
+},
+{
+"word": "grease-gun",
+"score": 1927
+},
+{
+"word": "greaser",
+"score": 4098
+},
+{
+"word": "greaves",
+"score": 2348
+},
+{
+"word": "griddle",
+"score": 4199
+},
+{
+"word": "grief",
+"score": 4117
+},
+{
+"word": "grime",
+"score": 2019
+},
+{
+"word": "grimy",
+"score": 2561
+},
+{
+"word": "grinder",
+"score": 3686
+},
+{
+"word": "grip",
+"score": 4019
+},
+{
+"word": "gripe",
+"score": 3539
+},
+{
+"word": "grizzled",
+"score": 3616
+},
+{
+"word": "groan",
+"score": 1425
+},
+{
+"word": "groban",
+"score": 617
+},
+{
+"word": "grohl",
+"score": 147
+},
+{
+"word": "groomsman",
+"score": 2438
+},
+{
+"word": "groomsmen",
+"score": 2437
+},
+{
+"word": "groove",
+"score": 242
+},
+{
+"word": "grooved",
+"score": 1223
+},
+{
+"word": "grooves",
+"score": 243
+},
+{
+"word": "grooving",
+"score": 499
+},
+{
+"word": "groovy",
+"score": 368
+},
+{
+"word": "grouch",
+"score": 4206
+},
+{
+"word": "groundstrokes",
+"score": 3596
+},
+{
+"word": "groupie",
+"score": 2350
+},
+{
+"word": "growl",
+"score": 435
+},
+{
+"word": "growling",
+"score": 1247
+},
+{
+"word": "growls",
+"score": 434
+},
+{
+"word": "grub",
+"score": 4073
+},
+{
+"word": "gruff",
+"score": 2072
+},
+{
+"word": "grunge",
+"score": 440
+},
+{
+"word": "grungy",
+"score": 776
+},
+{
+"word": "grunting",
+"score": 3343
+},
+{
+"word": "guitar",
+"score": 0
+},
+{
+"word": "gumbo",
+"score": 2479
+},
+{
+"word": "gun",
+"score": 1925
+},
+{
+"word": "gunfight",
+"score": 1564
+},
+{
+"word": "gunman",
+"score": 1929
+},
+{
+"word": "gunner",
+"score": 1676
+},
+{
+"word": "gunplay",
+"score": 1565
+},
+{
+"word": "guns",
+"score": 1928
+},
+{
+"word": "gurgling",
+"score": 1265
+},
+{
+"word": "gurney",
+"score": 3121
+},
+{
+"word": "guster",
+"score": 738
+},
+{
+"word": "guttural",
+"score": 510
+},
+{
+"word": "guy",
+"score": 3470
+},
+{
+"word": "guy",
+"score": 3471
+},
+{
+"word": "gwyneth",
+"score": 1953
+},
+{
+"word": "gypsy",
+"score": 1060
+},
+{
+"word": "gypsy",
+"score": 1063
+},
+{
+"word": "gyrated",
+"score": 3811
+},
+{
+"word": "hacksaw",
+"score": 2519
+},
+{
+"word": "hagar",
+"score": 2353
+},
+{
+"word": "haggis",
+"score": 4131
+},
+{
+"word": "haiku",
+"score": 3832
+},
+{
+"word": "hair",
+"score": 451
+},
+{
+"word": "hairbrush",
+"score": 457
+},
+{
+"word": "hairdresser",
+"score": 4133
+},
+{
+"word": "hairdryer",
+"score": 2611
+},
+{
+"word": "hairspray",
+"score": 1312
+},
+{
+"word": "hairstylist",
+"score": 4261
+},
+{
+"word": "halford",
+"score": 3830
+},
+{
+"word": "halfpipe",
+"score": 3908
+},
+{
+"word": "hallelujah",
+"score": 2550
+},
+{
+"word": "hallucinatory",
+"score": 2582
+},
+{
+"word": "halo",
+"score": 3360
+},
+{
+"word": "halos",
+"score": 3361
+},
+{
+"word": "halter",
+"score": 3826
+},
+{
+"word": "hammer",
+"score": 1134
+},
+{
+"word": "hammers",
+"score": 1135
+},
+{
+"word": "hammock",
+"score": 1477
+},
+{
+"word": "hammy",
+"score": 3004
+},
+{
+"word": "hand",
+"score": 1182
+},
+{
+"word": "handbrake",
+"score": 4190
+},
+{
+"word": "handcrafted",
+"score": 1219
+},
+{
+"word": "handcuff",
+"score": 2294
+},
+{
+"word": "handkerchief",
+"score": 2795
+},
+{
+"word": "handle",
+"score": 4021
+},
+{
+"word": "handlebar",
+"score": 893
+},
+{
+"word": "handlebars",
+"score": 1208
+},
+{
+"word": "handmade",
+"score": 712
+},
+{
+"word": "handwriting",
+"score": 2208
+},
+{
+"word": "handyman",
+"score": 1972
+},
+{
+"word": "hangman",
+"score": 3792
+},
+{
+"word": "hank",
+"score": 3956
+},
+{
+"word": "hansard",
+"score": 3099
+},
+{
+"word": "hansard",
+"score": 3100
+},
+{
+"word": "hardcore",
+"score": 1621
+},
+{
+"word": "harkat-ul-mujahidin",
+"score": 1632
+},
+{
+"word": "harleys",
+"score": 1255
+},
+{
+"word": "harmonic",
+"score": 321
+},
+{
+"word": "harmonica",
+"score": 2
+},
+{
+"word": "harmonics",
+"score": 320
+},
+{
+"word": "harmonies",
+"score": 80
+},
+{
+"word": "harmonium",
+"score": 395
+},
+{
+"word": "harmonix",
+"score": 771
+},
+{
+"word": "harmonizing",
+"score": 1701
+},
+{
+"word": "harmony",
+"score": 81
+},
+{
+"word": "harp",
+"score": 98
+},
+{
+"word": "harpist",
+"score": 229
+},
+{
+"word": "harps",
+"score": 346
+},
+{
+"word": "harpsichord",
+"score": 83
+},
+{
+"word": "harvester",
+"score": 3283
+},
+{
+"word": "hasselbaink",
+"score": 3474
+},
+{
+"word": "haunting",
+"score": 951
+},
+{
+"word": "hauntingly",
+"score": 1248
+},
+{
+"word": "haven",
+"score": 1240
+},
+{
+"word": "havoc",
+"score": 2836
+},
+{
+"word": "havok",
+"score": 1629
+},
+{
+"word": "haydn",
+"score": 2444
+},
+{
+"word": "haydn",
+"score": 2445
+},
+{
+"word": "hayride",
+"score": 2993
+},
+{
+"word": "hazelnut",
+"score": 3289
+},
+{
+"word": "hbk",
+"score": 3248
+},
+{
+"word": "headband",
+"score": 2571
+},
+{
+"word": "headboard",
+"score": 1853
+},
+{
+"word": "headliner",
+"score": 1395
+},
+{
+"word": "headliners",
+"score": 2560
+},
+{
+"word": "headlining",
+"score": 1841
+},
+{
+"word": "headphone",
+"score": 1274
+},
+{
+"word": "headphones",
+"score": 492
+},
+{
+"word": "headset",
+"score": 1650
+},
+{
+"word": "headstone",
+"score": 2271
+},
+{
+"word": "healer",
+"score": 2994
+},
+{
+"word": "hearer",
+"score": 443
+},
+{
+"word": "heart",
+"score": 1746
+},
+{
+"word": "heartbreaker",
+"score": 446
+},
+{
+"word": "heartbreakers",
+"score": 445
+},
+{
+"word": "heartfelt",
+"score": 3180
+},
+{
+"word": "hearth",
+"score": 3468
+},
+{
+"word": "heartstrings",
+"score": 2577
+},
+{
+"word": "heartthrob",
+"score": 3675
+},
+{
+"word": "heat",
+"score": 2777
+},
+{
+"word": "heather",
+"score": 1407
+},
+{
+"word": "heaviness",
+"score": 1021
+},
+{
+"word": "hedwig",
+"score": 2892
+},
+{
+"word": "hellboy",
+"score": 2858
+},
+{
+"word": "hellion",
+"score": 3077
+},
+{
+"word": "helmet",
+"score": 3386
+},
+{
+"word": "hendrix",
+"score": 698
+},
+{
+"word": "hendrix",
+"score": 699
+},
+{
+"word": "herald",
+"score": 102
+},
+{
+"word": "hertz",
+"score": 1768
+},
+{
+"word": "heskey",
+"score": 3571
+},
+{
+"word": "hex",
+"score": 2739
+},
+{
+"word": "hiatt",
+"score": 2658
+},
+{
+"word": "hick",
+"score": 3787
+},
+{
+"word": "hickory",
+"score": 1154
+},
+{
+"word": "hideaway",
+"score": 4288
+},
+{
+"word": "hideout",
+"score": 4287
+},
+{
+"word": "hilariously",
+"score": 1703
+},
+{
+"word": "hilarity",
+"score": 3245
+},
+{
+"word": "hillbilly",
+"score": 827
+},
+{
+"word": "hiphop",
+"score": 1128
+},
+{
+"word": "hippie",
+"score": 920
+},
+{
+"word": "hippies",
+"score": 3499
+},
+{
+"word": "hippy",
+"score": 970
+},
+{
+"word": "hipster",
+"score": 1317
+},
+{
+"word": "hipsters",
+"score": 2269
+},
+{
+"word": "hiro",
+"score": 2073
+},
+{
+"word": "hiss",
+"score": 2870
+},
+{
+"word": "hisses",
+"score": 3321
+},
+{
+"word": "histrionic",
+"score": 1302
+},
+{
+"word": "hit",
+"score": 1410
+},
+{
+"word": "hitchhiker",
+"score": 2977
+},
+{
+"word": "hitmaker",
+"score": 3174
+},
+{
+"word": "hitmakers",
+"score": 1151
+},
+{
+"word": "hive",
+"score": 532
+},
+{
+"word": "hives",
+"score": 531
+},
+{
+"word": "hobby",
+"score": 1190
+},
+{
+"word": "hobbyist",
+"score": 2675
+},
+{
+"word": "hobo",
+"score": 2936
+},
+{
+"word": "hoe",
+"score": 3478
+},
+{
+"word": "hokey",
+"score": 2177
+},
+{
+"word": "holeshot",
+"score": 2644
+},
+{
+"word": "hollers",
+"score": 1735
+},
+{
+"word": "hollies",
+"score": 1533
+},
+{
+"word": "hollow",
+"score": 1734
+},
+{
+"word": "holly",
+"score": 1531
+},
+{
+"word": "holly",
+"score": 1532
+},
+{
+"word": "homeboy",
+"score": 4028
+},
+{
+"word": "homebuilding",
+"score": 4251
+},
+{
+"word": "homemade",
+"score": 1820
+},
+{
+"word": "homeruns",
+"score": 4063
+},
+{
+"word": "homme",
+"score": 672
+},
+{
+"word": "honed",
+"score": 2183
+},
+{
+"word": "honing",
+"score": 4013
+},
+{
+"word": "hood",
+"score": 230
+},
+{
+"word": "hook",
+"score": 1833
+},
+{
+"word": "hooked",
+"score": 3737
+},
+{
+"word": "hooks",
+"score": 1834
+},
+{
+"word": "hooky",
+"score": 523
+},
+{
+"word": "hopscotch",
+"score": 2156
+},
+{
+"word": "horn",
+"score": 252
+},
+{
+"word": "horns",
+"score": 671
+},
+{
+"word": "horseman",
+"score": 2259
+},
+{
+"word": "horsemanship",
+"score": 2014
+},
+{
+"word": "horseshoe",
+"score": 3329
+},
+{
+"word": "hovel",
+"score": 2785
+},
+{
+"word": "hovercraft",
+"score": 2222
+},
+{
+"word": "howl",
+"score": 3716
+},
+{
+"word": "hubcap",
+"score": 1213
+},
+{
+"word": "hubcaps",
+"score": 1214
+},
+{
+"word": "hug",
+"score": 3746
+},
+{
+"word": "hula",
+"score": 1161
+},
+{
+"word": "hum",
+"score": 1631
+},
+{
+"word": "humidifier",
+"score": 1399
+},
+{
+"word": "hummed",
+"score": 3522
+},
+{
+"word": "humorous",
+"score": 3904
+},
+{
+"word": "hums",
+"score": 1809
+},
+{
+"word": "humvee",
+"score": 4154
+},
+{
+"word": "humvee",
+"score": 4155
+},
+{
+"word": "hunched",
+"score": 3144
+},
+{
+"word": "hush",
+"score": 1583
+},
+{
+"word": "hushed",
+"score": 3844
+},
+{
+"word": "husky",
+"score": 1298
+},
+{
+"word": "hustle",
+"score": 2737
+},
+{
+"word": "hymn",
+"score": 487
+},
+{
+"word": "hymns",
+"score": 486
+},
+{
+"word": "hyperactive",
+"score": 3115
+},
+{
+"word": "hypnotic",
+"score": 480
+},
+{
+"word": "hypocrite",
+"score": 595
+},
+{
+"word": "ibaka",
+"score": 3959
+},
+{
+"word": "ibanez",
+"score": 1702
+},
+{
+"word": "ibiza",
+"score": 3291
+},
+{
+"word": "ibook",
+"score": 2231
+},
+{
+"word": "iceboat",
+"score": 1100
+},
+{
+"word": "iconoclast",
+"score": 2084
+},
+{
+"word": "iconoclastic",
+"score": 2144
+},
+{
+"word": "idealist",
+"score": 3064
+},
+{
+"word": "idiom",
+"score": 3107
+},
+{
+"word": "idiosyncrasy",
+"score": 1492
+},
+{
+"word": "idiosyncratic",
+"score": 1473
+},
+{
+"word": "idler",
+"score": 4175
+},
+{
+"word": "idlewild",
+"score": 2905
+},
+{
+"word": "idm",
+"score": 2179
+},
+{
+"word": "idol",
+"score": 2552
+},
+{
+"word": "idolized",
+"score": 4204
+},
+{
+"word": "idols",
+"score": 2788
+},
+{
+"word": "iggy",
+"score": 2061
+},
+{
+"word": "igniter",
+"score": 1575
+},
+{
+"word": "illustration",
+"score": 4165
+},
+{
+"word": "illustrations",
+"score": 4164
+},
+{
+"word": "illustrator",
+"score": 3719
+},
+{
+"word": "imac",
+"score": 2434
+},
+{
+"word": "imacs",
+"score": 3967
+},
+{
+"word": "imbues",
+"score": 3408
+},
+{
+"word": "imitate",
+"score": 3237
+},
+{
+"word": "imitation",
+"score": 3660
+},
+{
+"word": "imitations",
+"score": 3661
+},
+{
+"word": "immortal",
+"score": 3870
+},
+{
+"word": "imp",
+"score": 1344
+},
+{
+"word": "impersonation",
+"score": 2690
+},
+{
+"word": "impersonations",
+"score": 2688
+},
+{
+"word": "impersonator",
+"score": 2165
+},
+{
+"word": "impish",
+"score": 1975
+},
+{
+"word": "imposter",
+"score": 594
+},
+{
+"word": "imposture",
+"score": 2687
+},
+{
+"word": "impressionist",
+"score": 2695
+},
+{
+"word": "impressionistic",
+"score": 933
+},
+{
+"word": "impressionists",
+"score": 3714
+},
+{
+"word": "improv",
+"score": 375
+},
+{
+"word": "improvisation",
+"score": 235
+},
+{
+"word": "improvisational",
+"score": 355
+},
+{
+"word": "improvisations",
+"score": 234
+},
+{
+"word": "improvise",
+"score": 1876
+},
+{
+"word": "improvised",
+"score": 926
+},
+{
+"word": "improvising",
+"score": 419
+},
+{
+"word": "incense",
+"score": 3309
+},
+{
+"word": "incompleteness",
+"score": 1357
+},
+{
+"word": "incubus",
+"score": 250
+},
+{
+"word": "indie",
+"score": 1097
+},
+{
+"word": "indistinct",
+"score": 3690
+},
+{
+"word": "inexperience",
+"score": 1356
+},
+{
+"word": "inez",
+"score": 4171
+},
+{
+"word": "infectious",
+"score": 3209
+},
+{
+"word": "inflected",
+"score": 1391
+},
+{
+"word": "inflection",
+"score": 992
+},
+{
+"word": "inflections",
+"score": 989
+},
+{
+"word": "ingenue",
+"score": 3519
+},
+{
+"word": "inhalation",
+"score": 3578
+},
+{
+"word": "inimitable",
+"score": 1039
+},
+{
+"word": "iniquity",
+"score": 2253
+},
+{
+"word": "initiation",
+"score": 3010
+},
+{
+"word": "inlay",
+"score": 1415
+},
+{
+"word": "inlays",
+"score": 1559
+},
+{
+"word": "inning",
+"score": 872
+},
+{
+"word": "insistent",
+"score": 3978
+},
+{
+"word": "insomniac",
+"score": 3116
+},
+{
+"word": "inspiration",
+"score": 3579
+},
+{
+"word": "inspirations",
+"score": 3580
+},
+{
+"word": "instructor",
+"score": 3029
+},
+{
+"word": "instrument",
+"score": 167
+},
+{
+"word": "instrumental",
+"score": 767
+},
+{
+"word": "instrumentalist",
+"score": 105
+},
+{
+"word": "instrumentalists",
+"score": 141
+},
+{
+"word": "instrumentality",
+"score": 482
+},
+{
+"word": "instrumentals",
+"score": 31
+},
+{
+"word": "instrumentation",
+"score": 481
+},
+{
+"word": "instruments",
+"score": 286
+},
+{
+"word": "interlude",
+"score": 762
+},
+{
+"word": "interludes",
+"score": 761
+},
+{
+"word": "interplay",
+"score": 3551
+},
+{
+"word": "interpretation",
+"score": 876
+},
+{
+"word": "intimate",
+"score": 4054
+},
+{
+"word": "intonation",
+"score": 325
+},
+{
+"word": "intones",
+"score": 1900
+},
+{
+"word": "intoxicating",
+"score": 2674
+},
+{
+"word": "intricacy",
+"score": 2661
+},
+{
+"word": "intro",
+"score": 269
+},
+{
+"word": "intros",
+"score": 1551
+},
+{
+"word": "introspective",
+"score": 923
+},
+{
+"word": "introverted",
+"score": 3969
+},
+{
+"word": "intuition",
+"score": 3504
+},
+{
+"word": "inxs",
+"score": 503
+},
+{
+"word": "ipad",
+"score": 2531
+},
+{
+"word": "iphone",
+"score": 3617
+},
+{
+"word": "ipod",
+"score": 739
+},
+{
+"word": "ipod",
+"score": 740
+},
+{
+"word": "ipods",
+"score": 1469
+},
+{
+"word": "iridescent",
+"score": 3705
+},
+{
+"word": "irons",
+"score": 2948
+},
+{
+"word": "isaak",
+"score": 1968
+},
+{
+"word": "isms",
+"score": 4129
+},
+{
+"word": "isthmus",
+"score": 66
+},
+{
+"word": "iteration",
+"score": 878
+},
+{
+"word": "itinerant",
+"score": 1061
+},
+{
+"word": "itouch",
+"score": 2502
+},
+{
+"word": "itunes",
+"score": 3205
+},
+{
+"word": "ivories",
+"score": 153
+},
+{
+"word": "ivory",
+"score": 154
+},
+{
+"word": "jack",
+"score": 748
+},
+{
+"word": "jackfruit",
+"score": 2119
+},
+{
+"word": "jackhammer",
+"score": 790
+},
+{
+"word": "jackhammers",
+"score": 1794
+},
+{
+"word": "jacks",
+"score": 2373
+},
+{
+"word": "jagged",
+"score": 1547
+},
+{
+"word": "jagger",
+"score": 1070
+},
+{
+"word": "jagger",
+"score": 1071
+},
+{
+"word": "jah",
+"score": 1318
+},
+{
+"word": "jail",
+"score": 2917
+},
+{
+"word": "jailbreak",
+"score": 4060
+},
+{
+"word": "jaish-i-mohammed",
+"score": 1557
+},
+{
+"word": "jak",
+"score": 2120
+},
+{
+"word": "jam",
+"score": 558
+},
+{
+"word": "jamey",
+"score": 3521
+},
+{
+"word": "jammer",
+"score": 1335
+},
+{
+"word": "jammers",
+"score": 1685
+},
+{
+"word": "jammin",
+"score": 952
+},
+{
+"word": "jamming",
+"score": 557
+},
+{
+"word": "jams",
+"score": 836
+},
+{
+"word": "janitor",
+"score": 2530
+},
+{
+"word": "jar",
+"score": 3806
+},
+{
+"word": "jars",
+"score": 3909
+},
+{
+"word": "jaunty",
+"score": 736
+},
+{
+"word": "jaxon",
+"score": 3973
+},
+{
+"word": "jaxx",
+"score": 1361
+},
+{
+"word": "jazz",
+"score": 113
+},
+{
+"word": "jazzy",
+"score": 166
+},
+{
+"word": "jean",
+"score": 1890
+},
+{
+"word": "jeans",
+"score": 1889
+},
+{
+"word": "jeep",
+"score": 3426
+},
+{
+"word": "jeezy",
+"score": 1956
+},
+{
+"word": "jem",
+"score": 1556
+},
+{
+"word": "jerk",
+"score": 964
+},
+{
+"word": "jerky",
+"score": 1414
+},
+{
+"word": "jessee",
+"score": 4109
+},
+{
+"word": "jessi",
+"score": 3808
+},
+{
+"word": "jessy",
+"score": 1662
+},
+{
+"word": "jester",
+"score": 2428
+},
+{
+"word": "jethawks",
+"score": 3509
+},
+{
+"word": "jez",
+"score": 2500
+},
+{
+"word": "jib",
+"score": 2549
+},
+{
+"word": "jig",
+"score": 1303
+},
+{
+"word": "jigs",
+"score": 1304
+},
+{
+"word": "jimi",
+"score": 225
+},
+{
+"word": "jingle",
+"score": 1499
+},
+{
+"word": "jingles",
+"score": 1501
+},
+{
+"word": "jive",
+"score": 2514
+},
+{
+"word": "jock",
+"score": 2388
+},
+{
+"word": "jocular",
+"score": 3234
+},
+{
+"word": "johnny",
+"score": 2907
+},
+{
+"word": "joiner",
+"score": 4243
+},
+{
+"word": "joinery",
+"score": 1970
+},
+{
+"word": "joint",
+"score": 2685
+},
+{
+"word": "jojo",
+"score": 1059
+},
+{
+"word": "joke",
+"score": 1892
+},
+{
+"word": "joker",
+"score": 1681
+},
+{
+"word": "jolene",
+"score": 2802
+},
+{
+"word": "jolt",
+"score": 3807
+},
+{
+"word": "jonny",
+"score": 3702
+},
+{
+"word": "jordin",
+"score": 2291
+},
+{
+"word": "jordy",
+"score": 4051
+},
+{
+"word": "joss",
+"score": 3652
+},
+{
+"word": "joystick",
+"score": 1157
+},
+{
+"word": "joysticks",
+"score": 1156
+},
+{
+"word": "juanes",
+"score": 2425
+},
+{
+"word": "jug",
+"score": 896
+},
+{
+"word": "juggler",
+"score": 1562
+},
+{
+"word": "juilliard",
+"score": 1149
+},
+{
+"word": "juju",
+"score": 1544
+},
+{
+"word": "juke",
+"score": 3271
+},
+{
+"word": "jukebox",
+"score": 343
+},
+{
+"word": "jukeboxes",
+"score": 1058
+},
+{
+"word": "jules",
+"score": 3201
+},
+{
+"word": "jumpsuit",
+"score": 3582
+},
+{
+"word": "junkyard",
+"score": 2724
+},
+{
+"word": "juno",
+"score": 4123
+},
+{
+"word": "juno",
+"score": 4124
+},
+{
+"word": "junos",
+"score": 4192
+},
+{
+"word": "kaboul",
+"score": 1787
+},
+{
+"word": "kaleidoscope",
+"score": 2624
+},
+{
+"word": "kaleidoscopic",
+"score": 2039
+},
+{
+"word": "kanye",
+"score": 1380
+},
+{
+"word": "karaoke",
+"score": 572
+},
+{
+"word": "karate",
+"score": 1178
+},
+{
+"word": "kart",
+"score": 1124
+},
+{
+"word": "karting",
+"score": 3868
+},
+{
+"word": "karts",
+"score": 977
+},
+{
+"word": "kasabian",
+"score": 648
+},
+{
+"word": "kasbah",
+"score": 1037
+},
+{
+"word": "kat",
+"score": 3030
+},
+{
+"word": "kata",
+"score": 2536
+},
+{
+"word": "kawasaki",
+"score": 2558
+},
+{
+"word": "kayak",
+"score": 1674
+},
+{
+"word": "kayaking",
+"score": 3191
+},
+{
+"word": "kayaks",
+"score": 2664
+},
+{
+"word": "kazoo",
+"score": 186
+},
+{
+"word": "kcrw",
+"score": 1671
+},
+{
+"word": "keanu",
+"score": 3452
+},
+{
+"word": "keely",
+"score": 3523
+},
+{
+"word": "keifer",
+"score": 3817
+},
+{
+"word": "keithley",
+"score": 3779
+},
+{
+"word": "kerouac",
+"score": 1462
+},
+{
+"word": "kerouac",
+"score": 1463
+},
+{
+"word": "kerrang",
+"score": 490
+},
+{
+"word": "kev",
+"score": 3081
+},
+{
+"word": "key",
+"score": 2126
+},
+{
+"word": "key",
+"score": 2130
+},
+{
+"word": "keyboard",
+"score": 41
+},
+{
+"word": "keyboardist",
+"score": 13
+},
+{
+"word": "keyboards",
+"score": 42
+},
+{
+"word": "keychain",
+"score": 2803
+},
+{
+"word": "keypad",
+"score": 3537
+},
+{
+"word": "keys",
+"score": 2128
+},
+{
+"word": "keystone",
+"score": 2125
+},
+{
+"word": "kick",
+"score": 4106
+},
+{
+"word": "kickball",
+"score": 3783
+},
+{
+"word": "kid",
+"score": 2055
+},
+{
+"word": "kilby",
+"score": 3955
+},
+{
+"word": "killer",
+"score": 273
+},
+{
+"word": "killers",
+"score": 1073
+},
+{
+"word": "kilt",
+"score": 1133
+},
+{
+"word": "kilts",
+"score": 4074
+},
+{
+"word": "kinda",
+"score": 1957
+},
+{
+"word": "kindling",
+"score": 231
+},
+{
+"word": "kinetic",
+"score": 2265
+},
+{
+"word": "kingsmen",
+"score": 3396
+},
+{
+"word": "kink",
+"score": 553
+},
+{
+"word": "kinks",
+"score": 554
+},
+{
+"word": "kinky",
+"score": 3067
+},
+{
+"word": "kirchen",
+"score": 1150
+},
+{
+"word": "kiss",
+"score": 718
+},
+{
+"word": "kitchen",
+"score": 4305
+},
+{
+"word": "kite",
+"score": 1553
+},
+{
+"word": "kites",
+"score": 1552
+},
+{
+"word": "kitschy",
+"score": 3202
+},
+{
+"word": "kitten",
+"score": 3727
+},
+{
+"word": "kitty",
+"score": 3726
+},
+{
+"word": "klaxon",
+"score": 849
+},
+{
+"word": "klaxons",
+"score": 850
+},
+{
+"word": "klezmer",
+"score": 276
+},
+{
+"word": "knapsack",
+"score": 2487
+},
+{
+"word": "knickknack",
+"score": 4040
+},
+{
+"word": "knickknacks",
+"score": 4038
+},
+{
+"word": "knife",
+"score": 1991
+},
+{
+"word": "knighthawks",
+"score": 3734
+},
+{
+"word": "knit",
+"score": 1672
+},
+{
+"word": "knitting",
+"score": 1673
+},
+{
+"word": "knives",
+"score": 1993
+},
+{
+"word": "knob",
+"score": 448
+},
+{
+"word": "knobs",
+"score": 449
+},
+{
+"word": "knock",
+"score": 967
+},
+{
+"word": "knocker",
+"score": 3126
+},
+{
+"word": "knoll",
+"score": 1476
+},
+{
+"word": "knuckle",
+"score": 2080
+},
+{
+"word": "knuckleball",
+"score": 3561
+},
+{
+"word": "knuckles",
+"score": 2081
+},
+{
+"word": "korn",
+"score": 2289
+},
+{
+"word": "kraftwerk",
+"score": 514
+},
+{
+"word": "krall",
+"score": 1311
+},
+{
+"word": "kratos",
+"score": 3755
+},
+{
+"word": "krauss",
+"score": 2050
+},
+{
+"word": "kristan",
+"score": 3206
+},
+{
+"word": "kristofferson",
+"score": 599
+},
+{
+"word": "ktm",
+"score": 1648
+},
+{
+"word": "kuszczak",
+"score": 3720
+},
+{
+"word": "kyd",
+"score": 2054
+},
+{
+"word": "kylie",
+"score": 4076
+},
+{
+"word": "laborer",
+"score": 2374
+},
+{
+"word": "laboriously",
+"score": 4159
+},
+{
+"word": "labyrinth",
+"score": 4081
+},
+{
+"word": "laconic",
+"score": 1847
+},
+{
+"word": "lacquer",
+"score": 2240
+},
+{
+"word": "lad",
+"score": 1915
+},
+{
+"word": "laidback",
+"score": 1566
+},
+{
+"word": "lament",
+"score": 277
+},
+{
+"word": "landreth",
+"score": 2738
+},
+{
+"word": "lang",
+"score": 3449
+},
+{
+"word": "languid",
+"score": 2318
+},
+{
+"word": "lantern",
+"score": 2734
+},
+{
+"word": "lanyard",
+"score": 3572
+},
+{
+"word": "laptop",
+"score": 1341
+},
+{
+"word": "laryngitis",
+"score": 4062
+},
+{
+"word": "larynx",
+"score": 1620
+},
+{
+"word": "lasagna",
+"score": 2989
+},
+{
+"word": "lastingness",
+"score": 2748
+},
+{
+"word": "lathe",
+"score": 579
+},
+{
+"word": "laugh",
+"score": 1893
+},
+{
+"word": "laughs",
+"score": 1894
+},
+{
+"word": "lauper",
+"score": 596
+},
+{
+"word": "lawnmower",
+"score": 1130
+},
+{
+"word": "layering",
+"score": 3638
+},
+{
+"word": "layla",
+"score": 2088
+},
+{
+"word": "lead",
+"score": 1538
+},
+{
+"word": "leather",
+"score": 1327
+},
+{
+"word": "leathers",
+"score": 1326
+},
+{
+"word": "leathery",
+"score": 4032
+},
+{
+"word": "leavell",
+"score": 3314
+},
+{
+"word": "lectern",
+"score": 2771
+},
+{
+"word": "ledley",
+"score": 2443
+},
+{
+"word": "leetch",
+"score": 2720
+},
+{
+"word": "left-hander",
+"score": 3219
+},
+{
+"word": "leftfield",
+"score": 1521
+},
+{
+"word": "lefthanded",
+"score": 3927
+},
+{
+"word": "lefty",
+"score": 3218
+},
+{
+"word": "legend",
+"score": 1977
+},
+{
+"word": "lego",
+"score": 623
+},
+{
+"word": "lego",
+"score": 1308
+},
+{
+"word": "legos",
+"score": 624
+},
+{
+"word": "lemar",
+"score": 3851
+},
+{
+"word": "lemmy",
+"score": 389
+},
+{
+"word": "lennie",
+"score": 4018
+},
+{
+"word": "lennon",
+"score": 2646
+},
+{
+"word": "lennon",
+"score": 2647
+},
+{
+"word": "leotard",
+"score": 2024
+},
+{
+"word": "leotards",
+"score": 2023
+},
+{
+"word": "les",
+"score": 1789
+},
+{
+"word": "lesh",
+"score": 1754
+},
+{
+"word": "liar",
+"score": 2029
+},
+{
+"word": "liars",
+"score": 2028
+},
+{
+"word": "liberace",
+"score": 2522
+},
+{
+"word": "libertine",
+"score": 835
+},
+{
+"word": "libertines",
+"score": 834
+},
+{
+"word": "lick",
+"score": 162
+},
+{
+"word": "licks",
+"score": 161
+},
+{
+"word": "lighter",
+"score": 1574
+},
+{
+"word": "lighters",
+"score": 1576
+},
+{
+"word": "lightsaber",
+"score": 455
+},
+{
+"word": "lil",
+"score": 2544
+},
+{
+"word": "lilith",
+"score": 2768
+},
+{
+"word": "lilith",
+"score": 2769
+},
+{
+"word": "lillee",
+"score": 4043
+},
+{
+"word": "lilt",
+"score": 584
+},
+{
+"word": "lilting",
+"score": 224
+},
+{
+"word": "limber",
+"score": 2707
+},
+{
+"word": "limiter",
+"score": 1363
+},
+{
+"word": "linebacking",
+"score": 4162
+},
+{
+"word": "linemate",
+"score": 2357
+},
+{
+"word": "linemates",
+"score": 2886
+},
+{
+"word": "linoleum",
+"score": 1661
+},
+{
+"word": "lip",
+"score": 1011
+},
+{
+"word": "lips",
+"score": 1008
+},
+{
+"word": "listen",
+"score": 2086
+},
+{
+"word": "listener",
+"score": 444
+},
+{
+"word": "listeners",
+"score": 1782
+},
+{
+"word": "listening",
+"score": 1325
+},
+{
+"word": "liszt",
+"score": 468
+},
+{
+"word": "liszt",
+"score": 469
+},
+{
+"word": "lita",
+"score": 1866
+},
+{
+"word": "lithe",
+"score": 2087
+},
+{
+"word": "lithograph",
+"score": 3420
+},
+{
+"word": "lithographs",
+"score": 3419
+},
+{
+"word": "littlebigplanet",
+"score": 2578
+},
+{
+"word": "liverpudlian",
+"score": 2040
+},
+{
+"word": "liverpudlian",
+"score": 2041
+},
+{
+"word": "livin",
+"score": 1530
+},
+{
+"word": "loader",
+"score": 3351
+},
+{
+"word": "loggins",
+"score": 1140
+},
+{
+"word": "logic",
+"score": 4249
+},
+{
+"word": "lollapalooza",
+"score": 1267
+},
+{
+"word": "lonely",
+"score": 1816
+},
+{
+"word": "loner",
+"score": 3895
+},
+{
+"word": "lonesome",
+"score": 1072
+},
+{
+"word": "lonestar",
+"score": 3049
+},
+{
+"word": "longboard",
+"score": 1114
+},
+{
+"word": "longhand",
+"score": 2124
+},
+{
+"word": "loop",
+"score": 881
+},
+{
+"word": "looped",
+"score": 2729
+},
+{
+"word": "looping",
+"score": 1350
+},
+{
+"word": "loops",
+"score": 879
+},
+{
+"word": "lorelei",
+"score": 3475
+},
+{
+"word": "lorelei",
+"score": 3476
+},
+{
+"word": "lottery",
+"score": 4238
+},
+{
+"word": "loud",
+"score": 2512
+},
+{
+"word": "louder",
+"score": 2921
+},
+{
+"word": "loudness",
+"score": 3667
+},
+{
+"word": "loudspeaker",
+"score": 2408
+},
+{
+"word": "loudspeakers",
+"score": 3052
+},
+{
+"word": "lounge",
+"score": 3335
+},
+{
+"word": "love",
+"score": 2774
+},
+{
+"word": "loved",
+"score": 3488
+},
+{
+"word": "loveless",
+"score": 3756
+},
+{
+"word": "lovelorn",
+"score": 1524
+},
+{
+"word": "lovely",
+"score": 4161
+},
+{
+"word": "lovemaking",
+"score": 1795
+},
+{
+"word": "lovenkrands",
+"score": 3695
+},
+{
+"word": "lovering",
+"score": 2192
+},
+{
+"word": "lovesick",
+"score": 1717
+},
+{
+"word": "lp",
+"score": 629
+},
+{
+"word": "lps",
+"score": 630
+},
+{
+"word": "lualua",
+"score": 3949
+},
+{
+"word": "lucille",
+"score": 1398
+},
+{
+"word": "luddite",
+"score": 4135
+},
+{
+"word": "luddite",
+"score": 4136
+},
+{
+"word": "lug",
+"score": 1919
+},
+{
+"word": "lug",
+"score": 1921
+},
+{
+"word": "lugs",
+"score": 1920
+},
+{
+"word": "lugsail",
+"score": 1917
+},
+{
+"word": "lugworm",
+"score": 1918
+},
+{
+"word": "lullabies",
+"score": 494
+},
+{
+"word": "lullaby",
+"score": 279
+},
+{
+"word": "lumber",
+"score": 3082
+},
+{
+"word": "lumberjack",
+"score": 3840
+},
+{
+"word": "lumberman",
+"score": 3841
+},
+{
+"word": "lumberyard",
+"score": 3416
+},
+{
+"word": "lunatic",
+"score": 1642
+},
+{
+"word": "lunchbox",
+"score": 3765
+},
+{
+"word": "lung",
+"score": 2636
+},
+{
+"word": "lungs",
+"score": 2637
+},
+{
+"word": "lupe",
+"score": 3542
+},
+{
+"word": "luscious",
+"score": 3754
+},
+{
+"word": "lush",
+"score": 2792
+},
+{
+"word": "lute",
+"score": 79
+},
+{
+"word": "lyric",
+"score": 196
+},
+{
+"word": "lyrical",
+"score": 236
+},
+{
+"word": "lyricality",
+"score": 301
+},
+{
+"word": "lyrically",
+"score": 353
+},
+{
+"word": "lyricism",
+"score": 300
+},
+{
+"word": "lyricist",
+"score": 402
+},
+{
+"word": "lyricists",
+"score": 2887
+},
+{
+"word": "lyrics",
+"score": 204
+},
+{
+"word": "ma",
+"score": 2132
+},
+{
+"word": "macabre",
+"score": 4022
+},
+{
+"word": "macbook",
+"score": 775
+},
+{
+"word": "macbooks",
+"score": 2367
+},
+{
+"word": "macca",
+"score": 2010
+},
+{
+"word": "machete",
+"score": 1911
+},
+{
+"word": "machinist",
+"score": 853
+},
+{
+"word": "macworld",
+"score": 3991
+},
+{
+"word": "madge",
+"score": 3887
+},
+{
+"word": "madman",
+"score": 1643
+},
+{
+"word": "maestro",
+"score": 998
+},
+{
+"word": "maestros",
+"score": 999
+},
+{
+"word": "magician",
+"score": 1774
+},
+{
+"word": "magnetism",
+"score": 3676
+},
+{
+"word": "mahogany",
+"score": 3241
+},
+{
+"word": "maine",
+"score": 3528
+},
+{
+"word": "maines",
+"score": 3527
+},
+{
+"word": "mainstage",
+"score": 2865
+},
+{
+"word": "maisie",
+"score": 4277
+},
+{
+"word": "makelele",
+"score": 4046
+},
+{
+"word": "maker",
+"score": 3928
+},
+{
+"word": "malaika",
+"score": 3831
+},
+{
+"word": "malbranque",
+"score": 2310
+},
+{
+"word": "mallet",
+"score": 319
+},
+{
+"word": "malleus",
+"score": 1136
+},
+{
+"word": "mama",
+"score": 2131
+},
+{
+"word": "mama",
+"score": 2133
+},
+{
+"word": "mamas",
+"score": 2193
+},
+{
+"word": "mambo",
+"score": 614
+},
+{
+"word": "man",
+"score": 2492
+},
+{
+"word": "manassero",
+"score": 2902
+},
+{
+"word": "mandala",
+"score": 3498
+},
+{
+"word": "mandolin",
+"score": 1
+},
+{
+"word": "mania",
+"score": 2776
+},
+{
+"word": "maniac",
+"score": 3570
+},
+{
+"word": "maniacal",
+"score": 3194
+},
+{
+"word": "manic",
+"score": 2812
+},
+{
+"word": "manicure",
+"score": 4113
+},
+{
+"word": "manilow",
+"score": 2101
+},
+{
+"word": "mannequin",
+"score": 2608
+},
+{
+"word": "manner",
+"score": 2829
+},
+{
+"word": "mannerisms",
+"score": 1493
+},
+{
+"word": "mantel",
+"score": 4143
+},
+{
+"word": "mantis",
+"score": 3300
+},
+{
+"word": "maple",
+"score": 2423
+},
+{
+"word": "margarita",
+"score": 2135
+},
+{
+"word": "margaritas",
+"score": 3983
+},
+{
+"word": "mariachi",
+"score": 226
+},
+{
+"word": "mariah",
+"score": 4258
+},
+{
+"word": "marimba",
+"score": 59
+},
+{
+"word": "mariner",
+"score": 2375
+},
+{
+"word": "marionette",
+"score": 2790
+},
+{
+"word": "marionettes",
+"score": 2904
+},
+{
+"word": "marsalis",
+"score": 668
+},
+{
+"word": "martini",
+"score": 3673
+},
+{
+"word": "martinis",
+"score": 4259
+},
+{
+"word": "mashburn",
+"score": 3275
+},
+{
+"word": "mason",
+"score": 1421
+},
+{
+"word": "mason",
+"score": 1422
+},
+{
+"word": "masonry",
+"score": 1699
+},
+{
+"word": "masquerade",
+"score": 1099
+},
+{
+"word": "master",
+"score": 403
+},
+{
+"word": "masterfully",
+"score": 2360
+},
+{
+"word": "mastering",
+"score": 3377
+},
+{
+"word": "masterpiece",
+"score": 2211
+},
+{
+"word": "masterpieces",
+"score": 2212
+},
+{
+"word": "masterwork",
+"score": 2529
+},
+{
+"word": "masterworks",
+"score": 3581
+},
+{
+"word": "mastodon",
+"score": 703
+},
+{
+"word": "masturbate",
+"score": 3603
+},
+{
+"word": "mat",
+"score": 3645
+},
+{
+"word": "matchbox",
+"score": 1584
+},
+{
+"word": "material",
+"score": 2154
+},
+{
+"word": "matisyahu",
+"score": 818
+},
+{
+"word": "matter",
+"score": 2930
+},
+{
+"word": "matting",
+"score": 3646
+},
+{
+"word": "matty",
+"score": 4003
+},
+{
+"word": "maudlin",
+"score": 1940
+},
+{
+"word": "mayhem",
+"score": 2835
+},
+{
+"word": "maze",
+"score": 4080
+},
+{
+"word": "mc",
+"score": 2730
+},
+{
+"word": "mccartney",
+"score": 3104
+},
+{
+"word": "mccartney",
+"score": 3105
+},
+{
+"word": "mcentire",
+"score": 1098
+},
+{
+"word": "mcferrin",
+"score": 3048
+},
+{
+"word": "mcfly",
+"score": 689
+},
+{
+"word": "mcguinn",
+"score": 1599
+},
+{
+"word": "mcmurtry",
+"score": 3896
+},
+{
+"word": "mcs",
+"score": 1528
+},
+{
+"word": "meatloaf",
+"score": 938
+},
+{
+"word": "mechanic",
+"score": 854
+},
+{
+"word": "medic",
+"score": 2383
+},
+{
+"word": "meditation",
+"score": 1863
+},
+{
+"word": "meditations",
+"score": 2252
+},
+{
+"word": "meditative",
+"score": 578
+},
+{
+"word": "medley",
+"score": 2243
+},
+{
+"word": "meg",
+"score": 3268
+},
+{
+"word": "megadeth",
+"score": 187
+},
+{
+"word": "megahertz",
+"score": 1529
+},
+{
+"word": "megaphone",
+"score": 1287
+},
+{
+"word": "meireles",
+"score": 3925
+},
+{
+"word": "melancholic",
+"score": 470
+},
+{
+"word": "melancholy",
+"score": 504
+},
+{
+"word": "mellencamp",
+"score": 583
+},
+{
+"word": "mellow",
+"score": 255
+},
+{
+"word": "mellowed",
+"score": 4290
+},
+{
+"word": "melodic",
+"score": 53
+},
+{
+"word": "melodies",
+"score": 78
+},
+{
+"word": "melodious",
+"score": 426
+},
+{
+"word": "melodramatic",
+"score": 2890
+},
+{
+"word": "melody",
+"score": 49
+},
+{
+"word": "meloy",
+"score": 2673
+},
+{
+"word": "memorized",
+"score": 3349
+},
+{
+"word": "memorizing",
+"score": 2628
+},
+{
+"word": "mendelssohn",
+"score": 1026
+},
+{
+"word": "mendelssohn",
+"score": 1027
+},
+{
+"word": "merch",
+"score": 1057
+},
+{
+"word": "mercury",
+"score": 2249
+},
+{
+"word": "merengue",
+"score": 685
+},
+{
+"word": "merle",
+"score": 2441
+},
+{
+"word": "mesmerizing",
+"score": 1168
+},
+{
+"word": "metal",
+"score": 550
+},
+{
+"word": "metallers",
+"score": 950
+},
+{
+"word": "metallic",
+"score": 1852
+},
+{
+"word": "metallica",
+"score": 178
+},
+{
+"word": "metalwork",
+"score": 1428
+},
+{
+"word": "metalworking",
+"score": 1427
+},
+{
+"word": "metaphysics",
+"score": 3151
+},
+{
+"word": "meter",
+"score": 773
+},
+{
+"word": "methamphetamine",
+"score": 4207
+},
+{
+"word": "metheny",
+"score": 632
+},
+{
+"word": "metric",
+"score": 1822
+},
+{
+"word": "metroid",
+"score": 3974
+},
+{
+"word": "metronome",
+"score": 525
+},
+{
+"word": "mezzo",
+"score": 1508
+},
+{
+"word": "mezzo-soprano",
+"score": 1507
+},
+{
+"word": "mgmt",
+"score": 660
+},
+{
+"word": "mic",
+"score": 257
+},
+{
+"word": "micheel",
+"score": 3926
+},
+{
+"word": "micky",
+"score": 4108
+},
+{
+"word": "microbe",
+"score": 3044
+},
+{
+"word": "microbrews",
+"score": 2524
+},
+{
+"word": "microphone",
+"score": 465
+},
+{
+"word": "microphones",
+"score": 1313
+},
+{
+"word": "mics",
+"score": 299
+},
+{
+"word": "midfield",
+"score": 3862
+},
+{
+"word": "midi",
+"score": 473
+},
+{
+"word": "midi",
+"score": 474
+},
+{
+"word": "mifi",
+"score": 2967
+},
+{
+"word": "mike",
+"score": 515
+},
+{
+"word": "mikes",
+"score": 810
+},
+{
+"word": "mikey",
+"score": 2436
+},
+{
+"word": "mill",
+"score": 3685
+},
+{
+"word": "millie",
+"score": 3575
+},
+{
+"word": "million",
+"score": 3269
+},
+{
+"word": "mime",
+"score": 759
+},
+{
+"word": "mimicry",
+"score": 2145
+},
+{
+"word": "miming",
+"score": 688
+},
+{
+"word": "minaj",
+"score": 3750
+},
+{
+"word": "mingus",
+"score": 799
+},
+{
+"word": "miniature",
+"score": 1188
+},
+{
+"word": "miniatures",
+"score": 1189
+},
+{
+"word": "minibike",
+"score": 1494
+},
+{
+"word": "minigames",
+"score": 1870
+},
+{
+"word": "minimalism",
+"score": 1004
+},
+{
+"word": "minimalist",
+"score": 833
+},
+{
+"word": "ministering",
+"score": 3216
+},
+{
+"word": "minstrel",
+"score": 661
+},
+{
+"word": "misfit",
+"score": 1005
+},
+{
+"word": "misfits",
+"score": 1006
+},
+{
+"word": "mitt",
+"score": 1183
+},
+{
+"word": "mixer",
+"score": 1597
+},
+{
+"word": "mixers",
+"score": 2237
+},
+{
+"word": "mixtape",
+"score": 1924
+},
+{
+"word": "mixtapes",
+"score": 1180
+},
+{
+"word": "miz",
+"score": 2594
+},
+{
+"word": "mj",
+"score": 3007
+},
+{
+"word": "mladin",
+"score": 3988
+},
+{
+"word": "mmos",
+"score": 3421
+},
+{
+"word": "moans",
+"score": 1426
+},
+{
+"word": "moby",
+"score": 1031
+},
+{
+"word": "mocha",
+"score": 3640
+},
+{
+"word": "mod",
+"score": 957
+},
+{
+"word": "modal",
+"score": 1293
+},
+{
+"word": "modernism",
+"score": 3659
+},
+{
+"word": "modernist",
+"score": 3763
+},
+{
+"word": "modernity",
+"score": 3658
+},
+{
+"word": "modified",
+"score": 4301
+},
+{
+"word": "modifieds",
+"score": 3173
+},
+{
+"word": "modric",
+"score": 2756
+},
+{
+"word": "mods",
+"score": 2071
+},
+{
+"word": "modulation",
+"score": 991
+},
+{
+"word": "mohawk",
+"score": 2301
+},
+{
+"word": "mohawk",
+"score": 2302
+},
+{
+"word": "molar",
+"score": 3684
+},
+{
+"word": "molten",
+"score": 4070
+},
+{
+"word": "mom",
+"score": 3990
+},
+{
+"word": "mommy",
+"score": 3780
+},
+{
+"word": "monkees",
+"score": 673
+},
+{
+"word": "monkey",
+"score": 2900
+},
+{
+"word": "monkeys",
+"score": 2899
+},
+{
+"word": "monochromatic",
+"score": 3706
+},
+{
+"word": "monologue",
+"score": 2844
+},
+{
+"word": "monologues",
+"score": 2843
+},
+{
+"word": "monotone",
+"score": 637
+},
+{
+"word": "monster",
+"score": 3076
+},
+{
+"word": "montages",
+"score": 4256
+},
+{
+"word": "montreux",
+"score": 2352
+},
+{
+"word": "moody",
+"score": 778
+},
+{
+"word": "moody",
+"score": 779
+},
+{
+"word": "moog",
+"score": 1002
+},
+{
+"word": "moonshine",
+"score": 754
+},
+{
+"word": "moonwalk",
+"score": 2457
+},
+{
+"word": "mope",
+"score": 4244
+},
+{
+"word": "moped",
+"score": 2481
+},
+{
+"word": "morello",
+"score": 2964
+},
+{
+"word": "mortician",
+"score": 3394
+},
+{
+"word": "motif",
+"score": 2584
+},
+{
+"word": "motifs",
+"score": 2585
+},
+{
+"word": "motionlessness",
+"score": 1582
+},
+{
+"word": "moto",
+"score": 792
+},
+{
+"word": "motocross",
+"score": 737
+},
+{
+"word": "motorbike",
+"score": 1495
+},
+{
+"word": "motorbikes",
+"score": 3463
+},
+{
+"word": "motorcycle",
+"score": 860
+},
+{
+"word": "motorcycles",
+"score": 2413
+},
+{
+"word": "motorhead",
+"score": 179
+},
+{
+"word": "motos",
+"score": 1824
+},
+{
+"word": "motown",
+"score": 1078
+},
+{
+"word": "mournful",
+"score": 770
+},
+{
+"word": "mower",
+"score": 1815
+},
+{
+"word": "mowers",
+"score": 3299
+},
+{
+"word": "mozart",
+"score": 1086
+},
+{
+"word": "mozart",
+"score": 1087
+},
+{
+"word": "mraz",
+"score": 1000
+},
+{
+"word": "muchmusic",
+"score": 2821
+},
+{
+"word": "mudbugs",
+"score": 3993
+},
+{
+"word": "muddy",
+"score": 3829
+},
+{
+"word": "muffled",
+"score": 3861
+},
+{
+"word": "muffler",
+"score": 1332
+},
+{
+"word": "mufflers",
+"score": 2588
+},
+{
+"word": "mullet",
+"score": 4005
+},
+{
+"word": "multihit",
+"score": 3021
+},
+{
+"word": "multiplatinum",
+"score": 1988
+},
+{
+"word": "multiplayer",
+"score": 1730
+},
+{
+"word": "mumble",
+"score": 3423
+},
+{
+"word": "mumbled",
+"score": 3395
+},
+{
+"word": "mumbles",
+"score": 3424
+},
+{
+"word": "mumbling",
+"score": 2324
+},
+{
+"word": "muppet",
+"score": 2815
+},
+{
+"word": "muppets",
+"score": 4296
+},
+{
+"word": "murph",
+"score": 2932
+},
+{
+"word": "mus",
+"score": 1204
+},
+{
+"word": "muse",
+"score": 1205
+},
+{
+"word": "muse",
+"score": 1206
+},
+{
+"word": "muses",
+"score": 1203
+},
+{
+"word": "music",
+"score": 103
+},
+{
+"word": "musica",
+"score": 1252
+},
+{
+"word": "musical",
+"score": 185
+},
+{
+"word": "musicality",
+"score": 168
+},
+{
+"word": "musically",
+"score": 131
+},
+{
+"word": "musicals",
+"score": 2901
+},
+{
+"word": "musician",
+"score": 45
+},
+{
+"word": "musicians",
+"score": 143
+},
+{
+"word": "musicianship",
+"score": 82
+},
+{
+"word": "musicologist",
+"score": 677
+},
+{
+"word": "musket",
+"score": 1932
+},
+{
+"word": "mute",
+"score": 1201
+},
+{
+"word": "muzak",
+"score": 3913
+},
+{
+"word": "myspace",
+"score": 1269
+},
+{
+"word": "myst",
+"score": 1366
+},
+{
+"word": "mysterio",
+"score": 3669
+},
+{
+"word": "mystic",
+"score": 1509
+},
+{
+"word": "mystical",
+"score": 2693
+},
+{
+"word": "mysticism",
+"score": 2634
+},
+{
+"word": "mystics",
+"score": 2653
+},
+{
+"word": "nacho",
+"score": 2810
+},
+{
+"word": "nachos",
+"score": 2811
+},
+{
+"word": "nail",
+"score": 3155
+},
+{
+"word": "nails",
+"score": 3156
+},
+{
+"word": "namm",
+"score": 678
+},
+{
+"word": "nano",
+"score": 3184
+},
+{
+"word": "narration",
+"score": 627
+},
+{
+"word": "narrative",
+"score": 3721
+},
+{
+"word": "narrator",
+"score": 463
+},
+{
+"word": "narrators",
+"score": 1461
+},
+{
+"word": "nasal",
+"score": 2216
+},
+{
+"word": "nat",
+"score": 3803
+},
+{
+"word": "naturalistic",
+"score": 3035
+},
+{
+"word": "necklace",
+"score": 1784
+},
+{
+"word": "necklaces",
+"score": 2759
+},
+{
+"word": "necktie",
+"score": 2772
+},
+{
+"word": "needlepoint",
+"score": 1119
+},
+{
+"word": "needlework",
+"score": 2589
+},
+{
+"word": "neon",
+"score": 1962
+},
+{
+"word": "nephew",
+"score": 4252
+},
+{
+"word": "nephews",
+"score": 4253
+},
+{
+"word": "neptune",
+"score": 2247
+},
+{
+"word": "neptunes",
+"score": 2246
+},
+{
+"word": "nerd",
+"score": 2196
+},
+{
+"word": "nerdy",
+"score": 1413
+},
+{
+"word": "nerve",
+"score": 1744
+},
+{
+"word": "nerves",
+"score": 1747
+},
+{
+"word": "nervousness",
+"score": 1745
+},
+{
+"word": "nevaeh",
+"score": 3451
+},
+{
+"word": "newspaperman",
+"score": 3301
+},
+{
+"word": "nickelback",
+"score": 534
+},
+{
+"word": "nieve",
+"score": 1272
+},
+{
+"word": "nigger",
+"score": 2053
+},
+{
+"word": "nightcrawlers",
+"score": 4017
+},
+{
+"word": "nightmare",
+"score": 251
+},
+{
+"word": "nihilistic",
+"score": 4224
+},
+{
+"word": "nike",
+"score": 2356
+},
+{
+"word": "nikes",
+"score": 2355
+},
+{
+"word": "nin",
+"score": 365
+},
+{
+"word": "ninja",
+"score": 1468
+},
+{
+"word": "nirvana",
+"score": 460
+},
+{
+"word": "nme",
+"score": 898
+},
+{
+"word": "node",
+"score": 447
+},
+{
+"word": "noir",
+"score": 1250
+},
+{
+"word": "noise",
+"score": 798
+},
+{
+"word": "noodling",
+"score": 259
+},
+{
+"word": "norah",
+"score": 3818
+},
+{
+"word": "nostalgia",
+"score": 2773
+},
+{
+"word": "note",
+"score": 1093
+},
+{
+"word": "notepad",
+"score": 3655
+},
+{
+"word": "nothin",
+"score": 3805
+},
+{
+"word": "notion",
+"score": 3789
+},
+{
+"word": "novel",
+"score": 4145
+},
+{
+"word": "novelist",
+"score": 4068
+},
+{
+"word": "novels",
+"score": 4144
+},
+{
+"word": "novice",
+"score": 1686
+},
+{
+"word": "nu",
+"score": 3101
+},
+{
+"word": "nuance",
+"score": 2649
+},
+{
+"word": "nuff",
+"score": 2018
+},
+{
+"word": "nunchuk",
+"score": 676
+},
+{
+"word": "nylon",
+"score": 3324
+},
+{
+"word": "oak",
+"score": 2214
+},
+{
+"word": "oar",
+"score": 1821
+},
+{
+"word": "oars",
+"score": 4153
+},
+{
+"word": "oasis",
+"score": 1239
+},
+{
+"word": "obeche",
+"score": 1832
+},
+{
+"word": "oberst",
+"score": 485
+},
+{
+"word": "oblivion",
+"score": 947
+},
+{
+"word": "obliviousness",
+"score": 946
+},
+{
+"word": "oboe",
+"score": 114
+},
+{
+"word": "ocarina",
+"score": 2873
+},
+{
+"word": "occult",
+"score": 3912
+},
+{
+"word": "octave",
+"score": 327
+},
+{
+"word": "octaves",
+"score": 454
+},
+{
+"word": "ocz",
+"score": 4008
+},
+{
+"word": "ode",
+"score": 1966
+},
+{
+"word": "odes",
+"score": 1965
+},
+{
+"word": "oeuvre",
+"score": 1609
+},
+{
+"word": "offspring",
+"score": 2273
+},
+{
+"word": "offstage",
+"score": 746
+},
+{
+"word": "okra",
+"score": 2480
+},
+{
+"word": "ol",
+"score": 2949
+},
+{
+"word": "old-timer",
+"score": 1504
+},
+{
+"word": "oldie",
+"score": 729
+},
+{
+"word": "oldies",
+"score": 728
+},
+{
+"word": "oldman",
+"score": 4077
+},
+{
+"word": "omelet",
+"score": 3318
+},
+{
+"word": "omelets",
+"score": 3317
+},
+{
+"word": "omen",
+"score": 2376
+},
+{
+"word": "one",
+"score": 1994
+},
+{
+"word": "ono",
+"score": 2234
+},
+{
+"word": "ono",
+"score": 2235
+},
+{
+"word": "onscreen",
+"score": 3459
+},
+{
+"word": "onstage",
+"score": 261
+},
+{
+"word": "opener",
+"score": 2297
+},
+{
+"word": "openers",
+"score": 2295
+},
+{
+"word": "openside",
+"score": 3915
+},
+{
+"word": "operatic",
+"score": 804
+},
+{
+"word": "operetta",
+"score": 3147
+},
+{
+"word": "opry",
+"score": 1626
+},
+{
+"word": "opus",
+"score": 929
+},
+{
+"word": "orakpo",
+"score": 3821
+},
+{
+"word": "orator",
+"score": 4268
+},
+{
+"word": "oratorio",
+"score": 1419
+},
+{
+"word": "oratory",
+"score": 3135
+},
+{
+"word": "orb",
+"score": 1055
+},
+{
+"word": "orbs",
+"score": 3484
+},
+{
+"word": "orchestra",
+"score": 284
+},
+{
+"word": "orchestral",
+"score": 180
+},
+{
+"word": "orchestras",
+"score": 586
+},
+{
+"word": "orchestration",
+"score": 422
+},
+{
+"word": "orchestrations",
+"score": 423
+},
+{
+"word": "organ",
+"score": 396
+},
+{
+"word": "organist",
+"score": 213
+},
+{
+"word": "organizer",
+"score": 801
+},
+{
+"word": "organs",
+"score": 4222
+},
+{
+"word": "origami",
+"score": 1933
+},
+{
+"word": "original",
+"score": 405
+},
+{
+"word": "originality",
+"score": 4029
+},
+{
+"word": "originals",
+"score": 404
+},
+{
+"word": "ornament",
+"score": 2952
+},
+{
+"word": "ornamentation",
+"score": 1843
+},
+{
+"word": "orpheum",
+"score": 3307
+},
+{
+"word": "orpheus",
+"score": 3556
+},
+{
+"word": "orpheus",
+"score": 3557
+},
+{
+"word": "osbourne",
+"score": 1887
+},
+{
+"word": "oscillation",
+"score": 2925
+},
+{
+"word": "oscillator",
+"score": 3160
+},
+{
+"word": "oscillators",
+"score": 3159
+},
+{
+"word": "oskar",
+"score": 1951
+},
+{
+"word": "ostentation",
+"score": 3975
+},
+{
+"word": "otherworldly",
+"score": 1162
+},
+{
+"word": "oud",
+"score": 119
+},
+{
+"word": "outdoorsman",
+"score": 2764
+},
+{
+"word": "outfield",
+"score": 3006
+},
+{
+"word": "outkast",
+"score": 3211
+},
+{
+"word": "outlandishness",
+"score": 2516
+},
+{
+"word": "outlaws",
+"score": 4291
+},
+{
+"word": "outtake",
+"score": 2284
+},
+{
+"word": "outtakes",
+"score": 2283
+},
+{
+"word": "overdrive",
+"score": 919
+},
+{
+"word": "overlord",
+"score": 3980
+},
+{
+"word": "ozzfest",
+"score": 777
+},
+{
+"word": "ozzy",
+"score": 436
+},
+{
+"word": "pacifier",
+"score": 3347
+},
+{
+"word": "paddle",
+"score": 788
+},
+{
+"word": "paddler",
+"score": 3731
+},
+{
+"word": "paddles",
+"score": 789
+},
+{
+"word": "paella",
+"score": 4193
+},
+{
+"word": "paintball",
+"score": 3096
+},
+{
+"word": "paintbrush",
+"score": 285
+},
+{
+"word": "painted",
+"score": 4198
+},
+{
+"word": "painter",
+"score": 1196
+},
+{
+"word": "painterly",
+"score": 1884
+},
+{
+"word": "painting",
+"score": 2164
+},
+{
+"word": "paintings",
+"score": 2520
+},
+{
+"word": "pal",
+"score": 3047
+},
+{
+"word": "pala",
+"score": 3771
+},
+{
+"word": "palette",
+"score": 2049
+},
+{
+"word": "palettes",
+"score": 3863
+},
+{
+"word": "pallette",
+"score": 2048
+},
+{
+"word": "paltrow",
+"score": 4027
+},
+{
+"word": "pan",
+"score": 3457
+},
+{
+"word": "pan",
+"score": 3458
+},
+{
+"word": "pancetta",
+"score": 3292
+},
+{
+"word": "paneling",
+"score": 2894
+},
+{
+"word": "pang",
+"score": 1828
+},
+{
+"word": "pans",
+"score": 3456
+},
+{
+"word": "pant",
+"score": 3858
+},
+{
+"word": "pantera",
+"score": 760
+},
+{
+"word": "pantry",
+"score": 1600
+},
+{
+"word": "pants",
+"score": 3856
+},
+{
+"word": "paperback",
+"score": 2607
+},
+{
+"word": "paperweight",
+"score": 1878
+},
+{
+"word": "pappy",
+"score": 2564
+},
+{
+"word": "paragon",
+"score": 2551
+},
+{
+"word": "paramedic",
+"score": 3825
+},
+{
+"word": "paramore",
+"score": 1667
+},
+{
+"word": "paranoid",
+"score": 2200
+},
+{
+"word": "parchment",
+"score": 4146
+},
+{
+"word": "parhelion",
+"score": 3878
+},
+{
+"word": "parkour",
+"score": 2209
+},
+{
+"word": "parlance",
+"score": 3108
+},
+{
+"word": "parody",
+"score": 3643
+},
+{
+"word": "part",
+"score": 2490
+},
+{
+"word": "particle",
+"score": 1635
+},
+{
+"word": "passage",
+"score": 2469
+},
+{
+"word": "passages",
+"score": 2467
+},
+{
+"word": "passing",
+"score": 2468
+},
+{
+"word": "passion",
+"score": 2775
+},
+{
+"word": "passion",
+"score": 2778
+},
+{
+"word": "paste",
+"score": 1721
+},
+{
+"word": "pastel",
+"score": 1885
+},
+{
+"word": "pastels",
+"score": 2424
+},
+{
+"word": "pastiche",
+"score": 2244
+},
+{
+"word": "pastor",
+"score": 4218
+},
+{
+"word": "pastor",
+"score": 4219
+},
+{
+"word": "pat",
+"score": 968
+},
+{
+"word": "path",
+"score": 1537
+},
+{
+"word": "pathos",
+"score": 1376
+},
+{
+"word": "patio",
+"score": 2606
+},
+{
+"word": "patter",
+"score": 1708
+},
+{
+"word": "patti",
+"score": 2961
+},
+{
+"word": "pattie",
+"score": 2155
+},
+{
+"word": "pavement",
+"score": 1013
+},
+{
+"word": "paving",
+"score": 1014
+},
+{
+"word": "pawned",
+"score": 1773
+},
+{
+"word": "pawnshop",
+"score": 3149
+},
+{
+"word": "pea",
+"score": 4026
+},
+{
+"word": "peach",
+"score": 3388
+},
+{
+"word": "peaches",
+"score": 3390
+},
+{
+"word": "peart",
+"score": 3288
+},
+{
+"word": "peas",
+"score": 4025
+},
+{
+"word": "peasant",
+"score": 713
+},
+{
+"word": "peavey",
+"score": 635
+},
+{
+"word": "pedagogy",
+"score": 1981
+},
+{
+"word": "pedal",
+"score": 307
+},
+{
+"word": "pedals",
+"score": 308
+},
+{
+"word": "pedantic",
+"score": 3992
+},
+{
+"word": "pedestrian",
+"score": 3816
+},
+{
+"word": "pen",
+"score": 3056
+},
+{
+"word": "pencil",
+"score": 1216
+},
+{
+"word": "pencils",
+"score": 1534
+},
+{
+"word": "pendant",
+"score": 2448
+},
+{
+"word": "pendants",
+"score": 2447
+},
+{
+"word": "pendulum",
+"score": 2031
+},
+{
+"word": "penitentiary",
+"score": 3057
+},
+{
+"word": "penmanship",
+"score": 3193
+},
+{
+"word": "pensive",
+"score": 1967
+},
+{
+"word": "pensiveness",
+"score": 941
+},
+{
+"word": "peppy",
+"score": 2645
+},
+{
+"word": "perch",
+"score": 1478
+},
+{
+"word": "percussion",
+"score": 27
+},
+{
+"word": "percussionist",
+"score": 32
+},
+{
+"word": "percussionists",
+"score": 104
+},
+{
+"word": "percussive",
+"score": 89
+},
+{
+"word": "perfectionist",
+"score": 3414
+},
+{
+"word": "peripheral",
+"score": 3697
+},
+{
+"word": "peripherals",
+"score": 3696
+},
+{
+"word": "pernice",
+"score": 3427
+},
+{
+"word": "person",
+"score": 963
+},
+{
+"word": "persona",
+"score": 2313
+},
+{
+"word": "petey",
+"score": 3111
+},
+{
+"word": "petrucci",
+"score": 3507
+},
+{
+"word": "petty",
+"score": 3308
+},
+{
+"word": "pew",
+"score": 2751
+},
+{
+"word": "pewter",
+"score": 3352
+},
+{
+"word": "pharrell",
+"score": 1113
+},
+{
+"word": "philharmonic",
+"score": 1713
+},
+{
+"word": "phish",
+"score": 633
+},
+{
+"word": "phone",
+"score": 541
+},
+{
+"word": "phonics",
+"score": 2092
+},
+{
+"word": "phonograph",
+"score": 817
+},
+{
+"word": "photocopier",
+"score": 4270
+},
+{
+"word": "photograph",
+"score": 4215
+},
+{
+"word": "photographer",
+"score": 3767
+},
+{
+"word": "photography",
+"score": 3260
+},
+{
+"word": "phrasing",
+"score": 513
+},
+{
+"word": "piaf",
+"score": 1372
+},
+{
+"word": "piaf",
+"score": 1373
+},
+{
+"word": "pianist",
+"score": 95
+},
+{
+"word": "pianists",
+"score": 249
+},
+{
+"word": "piano",
+"score": 6
+},
+{
+"word": "pianos",
+"score": 74
+},
+{
+"word": "picker",
+"score": 2064
+},
+{
+"word": "pickoff",
+"score": 3415
+},
+{
+"word": "pickup",
+"score": 3600
+},
+{
+"word": "pickups",
+"score": 3601
+},
+{
+"word": "piece",
+"score": 2491
+},
+{
+"word": "piercing",
+"score": 3916
+},
+{
+"word": "pigskin",
+"score": 4045
+},
+{
+"word": "pile",
+"score": 2206
+},
+{
+"word": "piledriver",
+"score": 2818
+},
+{
+"word": "pilings",
+"score": 2891
+},
+{
+"word": "pillow",
+"score": 3718
+},
+{
+"word": "pillowcases",
+"score": 3739
+},
+{
+"word": "pin",
+"score": 2691
+},
+{
+"word": "pinball",
+"score": 1310
+},
+{
+"word": "pinfall",
+"score": 4009
+},
+{
+"word": "pingpong",
+"score": 3114
+},
+{
+"word": "pinky",
+"score": 2557
+},
+{
+"word": "pipe",
+"score": 3208
+},
+{
+"word": "piper",
+"score": 366
+},
+{
+"word": "piper",
+"score": 930
+},
+{
+"word": "pipers",
+"score": 931
+},
+{
+"word": "pipes",
+"score": 3207
+},
+{
+"word": "pistol",
+"score": 1848
+},
+{
+"word": "pistols",
+"score": 1849
+},
+{
+"word": "piston",
+"score": 3073
+},
+{
+"word": "pitchfork",
+"score": 561
+},
+{
+"word": "pixie",
+"score": 2172
+},
+{
+"word": "pixies",
+"score": 263
+},
+{
+"word": "pizza",
+"score": 4194
+},
+{
+"word": "pizzas",
+"score": 4293
+},
+{
+"word": "placebo",
+"score": 1457
+},
+{
+"word": "plaid",
+"score": 3342
+},
+{
+"word": "plaintive",
+"score": 611
+},
+{
+"word": "plastic",
+"score": 3473
+},
+{
+"word": "platformer",
+"score": 1231
+},
+{
+"word": "platforming",
+"score": 2414
+},
+{
+"word": "play",
+"score": 1839
+},
+{
+"word": "playability",
+"score": 2614
+},
+{
+"word": "playful",
+"score": 2274
+},
+{
+"word": "playfulness",
+"score": 1760
+},
+{
+"word": "playlist",
+"score": 934
+},
+{
+"word": "playlists",
+"score": 1519
+},
+{
+"word": "playpen",
+"score": 3055
+},
+{
+"word": "playstation",
+"score": 2213
+},
+{
+"word": "plaything",
+"score": 2784
+},
+{
+"word": "playwriting",
+"score": 2160
+},
+{
+"word": "pleasingly",
+"score": 3027
+},
+{
+"word": "plier",
+"score": 2368
+},
+{
+"word": "pliers",
+"score": 2369
+},
+{
+"word": "plucking",
+"score": 4127
+},
+{
+"word": "plunger",
+"score": 3074
+},
+{
+"word": "plywood",
+"score": 2091
+},
+{
+"word": "pocketknife",
+"score": 1374
+},
+{
+"word": "pod",
+"score": 3688
+},
+{
+"word": "poem",
+"score": 983
+},
+{
+"word": "poems",
+"score": 982
+},
+{
+"word": "poet",
+"score": 1315
+},
+{
+"word": "poetic",
+"score": 924
+},
+{
+"word": "poetically",
+"score": 3717
+},
+{
+"word": "poetry",
+"score": 828
+},
+{
+"word": "poets",
+"score": 4278
+},
+{
+"word": "pogues",
+"score": 551
+},
+{
+"word": "poignance",
+"score": 3586
+},
+{
+"word": "poignancy",
+"score": 3587
+},
+{
+"word": "poker",
+"score": 2638
+},
+{
+"word": "polished",
+"score": 3853
+},
+{
+"word": "polka",
+"score": 309
+},
+{
+"word": "pomp",
+"score": 4230
+},
+{
+"word": "pompoms",
+"score": 2261
+},
+{
+"word": "poncho",
+"score": 4231
+},
+{
+"word": "ponderousness",
+"score": 1018
+},
+{
+"word": "pony",
+"score": 1234
+},
+{
+"word": "ponytail",
+"score": 3357
+},
+{
+"word": "pool",
+"score": 3728
+},
+{
+"word": "pop",
+"score": 1705
+},
+{
+"word": "popper",
+"score": 2328
+},
+{
+"word": "popper",
+"score": 2330
+},
+{
+"word": "poppers",
+"score": 2329
+},
+{
+"word": "pops",
+"score": 2150
+},
+{
+"word": "porgy",
+"score": 3894
+},
+{
+"word": "portishead",
+"score": 1800
+},
+{
+"word": "pot",
+"score": 2543
+},
+{
+"word": "potentiometer",
+"score": 2542
+},
+{
+"word": "pots",
+"score": 2541
+},
+{
+"word": "potter",
+"score": 1649
+},
+{
+"word": "pottery",
+"score": 1270
+},
+{
+"word": "powerbook",
+"score": 1666
+},
+{
+"word": "powerhouse",
+"score": 2621
+},
+{
+"word": "praseodymium",
+"score": 2282
+},
+{
+"word": "preacher",
+"score": 1807
+},
+{
+"word": "preachy",
+"score": 2923
+},
+{
+"word": "prefab",
+"score": 4247
+},
+{
+"word": "prepubescent",
+"score": 3429
+},
+{
+"word": "prerecorded",
+"score": 3295
+},
+{
+"word": "presentation",
+"score": 268
+},
+{
+"word": "presets",
+"score": 802
+},
+{
+"word": "preteen",
+"score": 3852
+},
+{
+"word": "pretender",
+"score": 593
+},
+{
+"word": "pretenders",
+"score": 592
+},
+{
+"word": "pretentious",
+"score": 2167
+},
+{
+"word": "pridgen",
+"score": 4001
+},
+{
+"word": "primal",
+"score": 1207
+},
+{
+"word": "primitive",
+"score": 1290
+},
+{
+"word": "primus",
+"score": 3911
+},
+{
+"word": "prine",
+"score": 1035
+},
+{
+"word": "printmaking",
+"score": 2477
+},
+{
+"word": "pritam",
+"score": 3930
+},
+{
+"word": "prodigy",
+"score": 2377
+},
+{
+"word": "professorial",
+"score": 2535
+},
+{
+"word": "prog",
+"score": 292
+},
+{
+"word": "progress",
+"score": 1860
+},
+{
+"word": "progression",
+"score": 1861
+},
+{
+"word": "progressions",
+"score": 1859
+},
+{
+"word": "prokofiev",
+"score": 2399
+},
+{
+"word": "prokofiev",
+"score": 2400
+},
+{
+"word": "prop",
+"score": 3901
+},
+{
+"word": "propeller",
+"score": 3618
+},
+{
+"word": "propellers",
+"score": 3619
+},
+{
+"word": "property",
+"score": 3902
+},
+{
+"word": "props",
+"score": 3903
+},
+{
+"word": "propulsive",
+"score": 336
+},
+{
+"word": "prosciutto",
+"score": 2770
+},
+{
+"word": "prose",
+"score": 1541
+},
+{
+"word": "prosody",
+"score": 990
+},
+{
+"word": "prosthesis",
+"score": 4031
+},
+{
+"word": "prosthetics",
+"score": 3632
+},
+{
+"word": "protagonist",
+"score": 3022
+},
+{
+"word": "proto",
+"score": 2934
+},
+{
+"word": "proverb",
+"score": 412
+},
+{
+"word": "prs",
+"score": 2281
+},
+{
+"word": "psalm",
+"score": 2416
+},
+{
+"word": "psalm",
+"score": 2419
+},
+{
+"word": "psalms",
+"score": 2417
+},
+{
+"word": "psalms",
+"score": 2418
+},
+{
+"word": "psps",
+"score": 4035
+},
+{
+"word": "psych",
+"score": 1453
+},
+{
+"word": "psychedelia",
+"score": 262
+},
+{
+"word": "psychedelic",
+"score": 313
+},
+{
+"word": "psychotic",
+"score": 3353
+},
+{
+"word": "puccini",
+"score": 3355
+},
+{
+"word": "puccini",
+"score": 3356
+},
+{
+"word": "puffer",
+"score": 2411
+},
+{
+"word": "pulley",
+"score": 4034
+},
+{
+"word": "pulleys",
+"score": 4033
+},
+{
+"word": "pulsation",
+"score": 1756
+},
+{
+"word": "pulsing",
+"score": 1755
+},
+{
+"word": "pumpkin",
+"score": 819
+},
+{
+"word": "pumpkins",
+"score": 820
+},
+{
+"word": "pun",
+"score": 1242
+},
+{
+"word": "punch",
+"score": 163
+},
+{
+"word": "punchy",
+"score": 838
+},
+{
+"word": "punctuates",
+"score": 3016
+},
+{
+"word": "punk",
+"score": 232
+},
+{
+"word": "punkie",
+"score": 392
+},
+{
+"word": "punks",
+"score": 1052
+},
+{
+"word": "punky",
+"score": 391
+},
+{
+"word": "puppet",
+"score": 622
+},
+{
+"word": "puppeteer",
+"score": 922
+},
+{
+"word": "puppeteers",
+"score": 4295
+},
+{
+"word": "puppetry",
+"score": 2166
+},
+{
+"word": "puppets",
+"score": 620
+},
+{
+"word": "purgative",
+"score": 2941
+},
+{
+"word": "purr",
+"score": 2046
+},
+{
+"word": "purrs",
+"score": 2045
+},
+{
+"word": "purtzer",
+"score": 3883
+},
+{
+"word": "putter",
+"score": 1792
+},
+{
+"word": "putters",
+"score": 2746
+},
+{
+"word": "puzzle",
+"score": 2094
+},
+{
+"word": "puzzles",
+"score": 2095
+},
+{
+"word": "pyro",
+"score": 1044
+},
+{
+"word": "pyrotechnic",
+"score": 3305
+},
+{
+"word": "pyrotechnics",
+"score": 4152
+},
+{
+"word": "pyxie",
+"score": 264
+},
+{
+"word": "quartet",
+"score": 756
+},
+{
+"word": "quartets",
+"score": 805
+},
+{
+"word": "quesadilla",
+"score": 3117
+},
+{
+"word": "quesadillas",
+"score": 3118
+},
+{
+"word": "quicksilver",
+"score": 2248
+},
+{
+"word": "quilt",
+"score": 2083
+},
+{
+"word": "quilted",
+"score": 2012
+},
+{
+"word": "quilter",
+"score": 1799
+},
+{
+"word": "quilting",
+"score": 1177
+},
+{
+"word": "quilts",
+"score": 4271
+},
+{
+"word": "quintet",
+"score": 173
+},
+{
+"word": "quips",
+"score": 2842
+},
+{
+"word": "qwerty",
+"score": 3843
+},
+{
+"word": "racecar",
+"score": 1379
+},
+{
+"word": "racer",
+"score": 3060
+},
+{
+"word": "racetrack",
+"score": 1539
+},
+{
+"word": "rachmaninoff",
+"score": 580
+},
+{
+"word": "rachmaninoff",
+"score": 581
+},
+{
+"word": "racket",
+"score": 769
+},
+{
+"word": "raconteur",
+"score": 1259
+},
+{
+"word": "raconteurs",
+"score": 399
+},
+{
+"word": "racquet",
+"score": 831
+},
+{
+"word": "racquetball",
+"score": 1404
+},
+{
+"word": "racquets",
+"score": 768
+},
+{
+"word": "rad",
+"score": 2824
+},
+{
+"word": "radial",
+"score": 3923
+},
+{
+"word": "radian",
+"score": 2823
+},
+{
+"word": "radio",
+"score": 3409
+},
+{
+"word": "radiohead",
+"score": 439
+},
+{
+"word": "radios",
+"score": 3410
+},
+{
+"word": "raekwon",
+"score": 3472
+},
+{
+"word": "raga",
+"score": 266
+},
+{
+"word": "rage",
+"score": 2779
+},
+{
+"word": "raggedy",
+"score": 2430
+},
+{
+"word": "ragtime",
+"score": 169
+},
+{
+"word": "rail-splitter",
+"score": 1739
+},
+{
+"word": "raimi",
+"score": 3418
+},
+{
+"word": "rainiers",
+"score": 3804
+},
+{
+"word": "raitt",
+"score": 1550
+},
+{
+"word": "rakim",
+"score": 1194
+},
+{
+"word": "ramble",
+"score": 4248
+},
+{
+"word": "rambunctious",
+"score": 1812
+},
+{
+"word": "ramen",
+"score": 3921
+},
+{
+"word": "ramone",
+"score": 1592
+},
+{
+"word": "ramones",
+"score": 600
+},
+{
+"word": "range",
+"score": 2945
+},
+{
+"word": "rap",
+"score": 966
+},
+{
+"word": "rapper",
+"score": 3125
+},
+{
+"word": "rappers",
+"score": 4151
+},
+{
+"word": "rapping",
+"score": 520
+},
+{
+"word": "raps",
+"score": 1258
+},
+{
+"word": "rarities",
+"score": 2896
+},
+{
+"word": "rarity",
+"score": 2895
+},
+{
+"word": "rascals",
+"score": 1345
+},
+{
+"word": "rasp",
+"score": 341
+},
+{
+"word": "rasping",
+"score": 1030
+},
+{
+"word": "raspy",
+"score": 459
+},
+{
+"word": "ratchet",
+"score": 2605
+},
+{
+"word": "ratty",
+"score": 2470
+},
+{
+"word": "ravel",
+"score": 3141
+},
+{
+"word": "ravel",
+"score": 3142
+},
+{
+"word": "rawness",
+"score": 1354
+},
+{
+"word": "razer",
+"score": 2334
+},
+{
+"word": "razor",
+"score": 2526
+},
+{
+"word": "razorlight",
+"score": 891
+},
+{
+"word": "reaper",
+"score": 3282
+},
+{
+"word": "reba",
+"score": 4216
+},
+{
+"word": "rebel",
+"score": 2908
+},
+{
+"word": "recital",
+"score": 626
+},
+{
+"word": "recitals",
+"score": 944
+},
+{
+"word": "recitation",
+"score": 625
+},
+{
+"word": "recliner",
+"score": 2683
+},
+{
+"word": "recorder",
+"score": 1963
+},
+{
+"word": "recording",
+"score": 478
+},
+{
+"word": "recordings",
+"score": 477
+},
+{
+"word": "redneck",
+"score": 2242
+},
+{
+"word": "redwood",
+"score": 3186
+},
+{
+"word": "reed",
+"score": 410
+},
+{
+"word": "reed",
+"score": 411
+},
+{
+"word": "reeds",
+"score": 409
+},
+{
+"word": "reel",
+"score": 3437
+},
+{
+"word": "reels",
+"score": 3436
+},
+{
+"word": "refilling",
+"score": 1613
+},
+{
+"word": "refinished",
+"score": 3373
+},
+{
+"word": "refinisher",
+"score": 3625
+},
+{
+"word": "refinishing",
+"score": 2379
+},
+{
+"word": "refrain",
+"score": 215
+},
+{
+"word": "reggae",
+"score": 283
+},
+{
+"word": "reggaeton",
+"score": 2540
+},
+{
+"word": "registrar",
+"score": 1964
+},
+{
+"word": "rehearsal",
+"score": 1423
+},
+{
+"word": "rehearsals",
+"score": 1693
+},
+{
+"word": "rehearse",
+"score": 1068
+},
+{
+"word": "rehearses",
+"score": 2149
+},
+{
+"word": "rehearsing",
+"score": 1333
+},
+{
+"word": "reiki",
+"score": 2226
+},
+{
+"word": "reissue",
+"score": 1139
+},
+{
+"word": "reissues",
+"score": 1138
+},
+{
+"word": "rejoinder",
+"score": 2264
+},
+{
+"word": "release",
+"score": 2669
+},
+{
+"word": "reliever",
+"score": 3633
+},
+{
+"word": "rem",
+"score": 669
+},
+{
+"word": "rem",
+"score": 670
+},
+{
+"word": "remastered",
+"score": 3054
+},
+{
+"word": "reminisces",
+"score": 2224
+},
+{
+"word": "remix",
+"score": 397
+},
+{
+"word": "remixed",
+"score": 943
+},
+{
+"word": "remixes",
+"score": 442
+},
+{
+"word": "remixing",
+"score": 573
+},
+{
+"word": "remotes",
+"score": 2370
+},
+{
+"word": "rendition",
+"score": 877
+},
+{
+"word": "renditions",
+"score": 1017
+},
+{
+"word": "repairman",
+"score": 3492
+},
+{
+"word": "repertoire",
+"score": 1640
+},
+{
+"word": "repertory",
+"score": 1639
+},
+{
+"word": "repetitive",
+"score": 2387
+},
+{
+"word": "replacement",
+"score": 1610
+},
+{
+"word": "replacements",
+"score": 1612
+},
+{
+"word": "replica",
+"score": 3648
+},
+{
+"word": "reprise",
+"score": 3877
+},
+{
+"word": "reprises",
+"score": 2927
+},
+{
+"word": "reproduction",
+"score": 3649
+},
+{
+"word": "reproductions",
+"score": 3650
+},
+{
+"word": "requiem",
+"score": 2598
+},
+{
+"word": "requiem",
+"score": 2599
+},
+{
+"word": "residencies",
+"score": 3500
+},
+{
+"word": "residency",
+"score": 3501
+},
+{
+"word": "resonant",
+"score": 953
+},
+{
+"word": "restorer",
+"score": 3626
+},
+{
+"word": "restrainer",
+"score": 3443
+},
+{
+"word": "retort",
+"score": 2263
+},
+{
+"word": "retorts",
+"score": 2262
+},
+{
+"word": "retro",
+"score": 1273
+},
+{
+"word": "revelatory",
+"score": 4226
+},
+{
+"word": "reverb",
+"score": 171
+},
+{
+"word": "reverend",
+"score": 3017
+},
+{
+"word": "reverend",
+"score": 3018
+},
+{
+"word": "reverent",
+"score": 1976
+},
+{
+"word": "reverie",
+"score": 3272
+},
+{
+"word": "revolver",
+"score": 871
+},
+{
+"word": "revue",
+"score": 2058
+},
+{
+"word": "rez",
+"score": 4065
+},
+{
+"word": "reznor",
+"score": 605
+},
+{
+"word": "rhapsody",
+"score": 2420
+},
+{
+"word": "rhianna",
+"score": 4044
+},
+{
+"word": "rhinestone",
+"score": 1389
+},
+{
+"word": "rhinestones",
+"score": 2732
+},
+{
+"word": "rhyme",
+"score": 914
+},
+{
+"word": "rhymes",
+"score": 913
+},
+{
+"word": "rhyming",
+"score": 1036
+},
+{
+"word": "rhythm",
+"score": 329
+},
+{
+"word": "rhythmic",
+"score": 211
+},
+{
+"word": "rhythmically",
+"score": 267
+},
+{
+"word": "rhythms",
+"score": 331
+},
+{
+"word": "ricochet",
+"score": 1896
+},
+{
+"word": "riff",
+"score": 28
+},
+{
+"word": "riff",
+"score": 30
+},
+{
+"word": "riffing",
+"score": 315
+},
+{
+"word": "riffs",
+"score": 29
+},
+{
+"word": "rifle",
+"score": 2659
+},
+{
+"word": "rifles",
+"score": 3687
+},
+{
+"word": "righteous",
+"score": 3558
+},
+{
+"word": "rightfield",
+"score": 3154
+},
+{
+"word": "rik",
+"score": 3725
+},
+{
+"word": "rim",
+"score": 1948
+},
+{
+"word": "rimes",
+"score": 2034
+},
+{
+"word": "rims",
+"score": 1947
+},
+{
+"word": "ring",
+"score": 63
+},
+{
+"word": "ringer",
+"score": 3038
+},
+{
+"word": "ringers",
+"score": 4189
+},
+{
+"word": "ringo",
+"score": 663
+},
+{
+"word": "ringtone",
+"score": 1409
+},
+{
+"word": "ringtones",
+"score": 4102
+},
+{
+"word": "riverdance",
+"score": 3961
+},
+{
+"word": "rivet",
+"score": 2997
+},
+{
+"word": "rivets",
+"score": 2996
+},
+{
+"word": "roadhouse",
+"score": 679
+},
+{
+"word": "roadie",
+"score": 281
+},
+{
+"word": "roadies",
+"score": 591
+},
+{
+"word": "roadster",
+"score": 2422
+},
+{
+"word": "roarer",
+"score": 1321
+},
+{
+"word": "roaster",
+"score": 2793
+},
+{
+"word": "robben",
+"score": 3715
+},
+{
+"word": "robbie",
+"score": 4120
+},
+{
+"word": "robbin",
+"score": 4289
+},
+{
+"word": "robby",
+"score": 3791
+},
+{
+"word": "robot",
+"score": 4168
+},
+{
+"word": "rock",
+"score": 303
+},
+{
+"word": "rock",
+"score": 304
+},
+{
+"word": "rockabilly",
+"score": 118
+},
+{
+"word": "rocker",
+"score": 140
+},
+{
+"word": "rockers",
+"score": 174
+},
+{
+"word": "rockin",
+"score": 356
+},
+{
+"word": "rocking",
+"score": 727
+},
+{
+"word": "rocks",
+"score": 3362
+},
+{
+"word": "rockstar",
+"score": 475
+},
+{
+"word": "rod",
+"score": 1479
+},
+{
+"word": "rodeo",
+"score": 2472
+},
+{
+"word": "rods",
+"score": 2866
+},
+{
+"word": "rogen",
+"score": 2928
+},
+{
+"word": "rogue",
+"score": 1343
+},
+{
+"word": "roller",
+"score": 3267
+},
+{
+"word": "rollicking",
+"score": 2612
+},
+{
+"word": "romantic",
+"score": 2123
+},
+{
+"word": "romanticism",
+"score": 2322
+},
+{
+"word": "romanticism",
+"score": 2323
+},
+{
+"word": "romanticist",
+"score": 2122
+},
+{
+"word": "romantics",
+"score": 2406
+},
+{
+"word": "romany",
+"score": 1062
+},
+{
+"word": "root",
+"score": 1591
+},
+{
+"word": "roots",
+"score": 1586
+},
+{
+"word": "rootsy",
+"score": 138
+},
+{
+"word": "rope",
+"score": 3203
+},
+{
+"word": "rosary",
+"score": 1572
+},
+{
+"word": "rosewood",
+"score": 1116
+},
+{
+"word": "rosey",
+"score": 1723
+},
+{
+"word": "rothko",
+"score": 2880
+},
+{
+"word": "rothko",
+"score": 2881
+},
+{
+"word": "rotor",
+"score": 2410
+},
+{
+"word": "rotors",
+"score": 2409
+},
+{
+"word": "rotter",
+"score": 1684
+},
+{
+"word": "rox",
+"score": 3762
+},
+{
+"word": "rpgs",
+"score": 2686
+},
+{
+"word": "rub-a-dub",
+"score": 432
+},
+{
+"word": "rubbery",
+"score": 2113
+},
+{
+"word": "rumba",
+"score": 1185
+},
+{
+"word": "rumble",
+"score": 3898
+},
+{
+"word": "rumbling",
+"score": 3899
+},
+{
+"word": "rumination",
+"score": 1514
+},
+{
+"word": "ruminations",
+"score": 1512
+},
+{
+"word": "run",
+"score": 3143
+},
+{
+"word": "runaway",
+"score": 1776
+},
+{
+"word": "runaways",
+"score": 1778
+},
+{
+"word": "rusted",
+"score": 2390
+},
+{
+"word": "rustic",
+"score": 1406
+},
+{
+"word": "rut",
+"score": 241
+},
+{
+"word": "rza",
+"score": 702
+},
+{
+"word": "sacd",
+"score": 1505
+},
+{
+"word": "saddle",
+"score": 3286
+},
+{
+"word": "saddleback",
+"score": 3284
+},
+{
+"word": "saddles",
+"score": 3285
+},
+{
+"word": "sade",
+"score": 3607
+},
+{
+"word": "sade",
+"score": 3608
+},
+{
+"word": "sadie",
+"score": 3823
+},
+{
+"word": "sadness",
+"score": 4118
+},
+{
+"word": "sail",
+"score": 1246
+},
+{
+"word": "sailboat",
+"score": 3565
+},
+{
+"word": "sailboats",
+"score": 3566
+},
+{
+"word": "saliva",
+"score": 2439
+},
+{
+"word": "salsa",
+"score": 496
+},
+{
+"word": "samara",
+"score": 2127
+},
+{
+"word": "samba",
+"score": 1831
+},
+{
+"word": "sambora",
+"score": 2204
+},
+{
+"word": "sampler",
+"score": 416
+},
+{
+"word": "samplers",
+"score": 543
+},
+{
+"word": "sandal",
+"score": 3563
+},
+{
+"word": "sandals",
+"score": 3564
+},
+{
+"word": "sanded",
+"score": 2963
+},
+{
+"word": "sanding",
+"score": 1670
+},
+{
+"word": "sandpaper",
+"score": 1217
+},
+{
+"word": "sandwich",
+"score": 3265
+},
+{
+"word": "sang",
+"score": 570
+},
+{
+"word": "santana",
+"score": 4075
+},
+{
+"word": "sappy",
+"score": 2325
+},
+{
+"word": "sardonic",
+"score": 3034
+},
+{
+"word": "sass",
+"score": 1010
+},
+{
+"word": "sassy",
+"score": 2239
+},
+{
+"word": "satan",
+"score": 3079
+},
+{
+"word": "satin",
+"score": 3127
+},
+{
+"word": "satisfyingly",
+"score": 4257
+},
+{
+"word": "sauce",
+"score": 3827
+},
+{
+"word": "sauces",
+"score": 3828
+},
+{
+"word": "saunterer",
+"score": 2227
+},
+{
+"word": "saw",
+"score": 414
+},
+{
+"word": "sawing",
+"score": 2864
+},
+{
+"word": "saws",
+"score": 413
+},
+{
+"word": "sax",
+"score": 3
+},
+{
+"word": "saxophone",
+"score": 4
+},
+{
+"word": "saxophones",
+"score": 52
+},
+{
+"word": "saxophonist",
+"score": 55
+},
+{
+"word": "scalpel",
+"score": 1712
+},
+{
+"word": "scar",
+"score": 2394
+},
+{
+"word": "scarecrow",
+"score": 2210
+},
+{
+"word": "scarface",
+"score": 3591
+},
+{
+"word": "scars",
+"score": 2395
+},
+{
+"word": "scat",
+"score": 1001
+},
+{
+"word": "sceneshifter",
+"score": 2630
+},
+{
+"word": "scepter",
+"score": 1781
+},
+{
+"word": "schmaltzy",
+"score": 2386
+},
+{
+"word": "schoolwork",
+"score": 4201
+},
+{
+"word": "schtick",
+"score": 2077
+},
+{
+"word": "schwartzel",
+"score": 4272
+},
+{
+"word": "schwinn",
+"score": 1791
+},
+{
+"word": "scissor",
+"score": 2801
+},
+{
+"word": "scissors",
+"score": 658
+},
+{
+"word": "scofield",
+"score": 1249
+},
+{
+"word": "scooter",
+"score": 1102
+},
+{
+"word": "scooters",
+"score": 2511
+},
+{
+"word": "scorcher",
+"score": 1322
+},
+{
+"word": "score",
+"score": 3876
+},
+{
+"word": "scorsese",
+"score": 2973
+},
+{
+"word": "scorsese",
+"score": 2974
+},
+{
+"word": "scotch",
+"score": 3874
+},
+{
+"word": "scotch",
+"score": 3875
+},
+{
+"word": "scoter",
+"score": 1101
+},
+{
+"word": "scotty",
+"score": 1623
+},
+{
+"word": "scrabble",
+"score": 1470
+},
+{
+"word": "scrabble",
+"score": 1472
+},
+{
+"word": "scrapbooking",
+"score": 2006
+},
+{
+"word": "scratch",
+"score": 2393
+},
+{
+"word": "scratchy",
+"score": 1938
+},
+{
+"word": "scream",
+"score": 2198
+},
+{
+"word": "screamer",
+"score": 1323
+},
+{
+"word": "screams",
+"score": 3372
+},
+{
+"word": "screech",
+"score": 2199
+},
+{
+"word": "screeches",
+"score": 3560
+},
+{
+"word": "screeching",
+"score": 2885
+},
+{
+"word": "screenplay",
+"score": 2474
+},
+{
+"word": "screenwriting",
+"score": 2799
+},
+{
+"word": "screwdriver",
+"score": 1228
+},
+{
+"word": "screwdrivers",
+"score": 1227
+},
+{
+"word": "scribble",
+"score": 1471
+},
+{
+"word": "scribbles",
+"score": 2534
+},
+{
+"word": "scribe",
+"score": 2679
+},
+{
+"word": "scribe",
+"score": 2680
+},
+{
+"word": "scriber",
+"score": 2678
+},
+{
+"word": "script",
+"score": 3824
+},
+{
+"word": "scriptural",
+"score": 4023
+},
+{
+"word": "scripture",
+"score": 4280
+},
+{
+"word": "scroll",
+"score": 3701
+},
+{
+"word": "scrolls",
+"score": 3700
+},
+{
+"word": "scrotum",
+"score": 2834
+},
+{
+"word": "scuffed",
+"score": 3002
+},
+{
+"word": "sculpting",
+"score": 1127
+},
+{
+"word": "sculptor",
+"score": 1145
+},
+{
+"word": "sculptor",
+"score": 1146
+},
+{
+"word": "sculptural",
+"score": 1603
+},
+{
+"word": "sculpture",
+"score": 2806
+},
+{
+"word": "sculptures",
+"score": 3138
+},
+{
+"word": "seamer",
+"score": 4093
+},
+{
+"word": "seashell",
+"score": 1577
+},
+{
+"word": "seashells",
+"score": 1578
+},
+{
+"word": "sedaris",
+"score": 3483
+},
+{
+"word": "seductive",
+"score": 3730
+},
+{
+"word": "seductively",
+"score": 1320
+},
+{
+"word": "seeger",
+"score": 2380
+},
+{
+"word": "seeger",
+"score": 2381
+},
+{
+"word": "seger",
+"score": 1045
+},
+{
+"word": "segue",
+"score": 1263
+},
+{
+"word": "segues",
+"score": 1262
+},
+{
+"word": "selmer",
+"score": 2700
+},
+{
+"word": "sennheiser",
+"score": 1040
+},
+{
+"word": "sensibility",
+"score": 2148
+},
+{
+"word": "sensitivity",
+"score": 2147
+},
+{
+"word": "sensual",
+"score": 1458
+},
+{
+"word": "sensuality",
+"score": 3768
+},
+{
+"word": "sensuous",
+"score": 1237
+},
+{
+"word": "sequenced",
+"score": 3161
+},
+{
+"word": "sequin",
+"score": 3567
+},
+{
+"word": "sequoia",
+"score": 3185
+},
+{
+"word": "serenade",
+"score": 1042
+},
+{
+"word": "serenading",
+"score": 1520
+},
+{
+"word": "seriousness",
+"score": 2181
+},
+{
+"word": "sermon",
+"score": 4007
+},
+{
+"word": "serpentine",
+"score": 3204
+},
+{
+"word": "sesame",
+"score": 3711
+},
+{
+"word": "set",
+"score": 65
+},
+{
+"word": "setlist",
+"score": 181
+},
+{
+"word": "seve",
+"score": 4112
+},
+{
+"word": "sewing",
+"score": 3742
+},
+{
+"word": "sextet",
+"score": 311
+},
+{
+"word": "shack",
+"score": 3774
+},
+{
+"word": "shade",
+"score": 1089
+},
+{
+"word": "shag",
+"score": 1305
+},
+{
+"word": "shaggy",
+"score": 1275
+},
+{
+"word": "shaking",
+"score": 2924
+},
+{
+"word": "shakira",
+"score": 4121
+},
+{
+"word": "shaman",
+"score": 1337
+},
+{
+"word": "shamble",
+"score": 1753
+},
+{
+"word": "shania",
+"score": 1159
+},
+{
+"word": "shank",
+"score": 3885
+},
+{
+"word": "shanty",
+"score": 2787
+},
+{
+"word": "shape",
+"score": 2098
+},
+{
+"word": "shaper",
+"score": 3929
+},
+{
+"word": "shapes",
+"score": 2097
+},
+{
+"word": "shatner",
+"score": 2300
+},
+{
+"word": "shearing",
+"score": 3585
+},
+{
+"word": "sheepshead",
+"score": 3279
+},
+{
+"word": "sheepskin",
+"score": 4147
+},
+{
+"word": "sheetrock",
+"score": 1433
+},
+{
+"word": "sheetrock",
+"score": 1434
+},
+{
+"word": "sheva",
+"score": 2232
+},
+{
+"word": "shifter",
+"score": 2631
+},
+{
+"word": "shimmer",
+"score": 3148
+},
+{
+"word": "shimmering",
+"score": 2085
+},
+{
+"word": "shimmery",
+"score": 1525
+},
+{
+"word": "shimmy",
+"score": 2603
+},
+{
+"word": "shin",
+"score": 546
+},
+{
+"word": "shins",
+"score": 547
+},
+{
+"word": "shirt",
+"score": 3777
+},
+{
+"word": "shit",
+"score": 1109
+},
+{
+"word": "shoelace",
+"score": 2879
+},
+{
+"word": "shopkeeper",
+"score": 3238
+},
+{
+"word": "shortstop",
+"score": 1837
+},
+{
+"word": "shorty",
+"score": 1663
+},
+{
+"word": "shostakovich",
+"score": 2104
+},
+{
+"word": "shostakovich",
+"score": 2105
+},
+{
+"word": "shotgun",
+"score": 1593
+},
+{
+"word": "shotguns",
+"score": 2495
+},
+{
+"word": "shotmaking",
+"score": 3322
+},
+{
+"word": "shout",
+"score": 1867
+},
+{
+"word": "shovel",
+"score": 1714
+},
+{
+"word": "shovels",
+"score": 1715
+},
+{
+"word": "showman",
+"score": 1056
+},
+{
+"word": "showmanship",
+"score": 813
+},
+{
+"word": "shredder",
+"score": 1698
+},
+{
+"word": "shredders",
+"score": 1697
+},
+{
+"word": "shredding",
+"score": 3872
+},
+{
+"word": "shriek",
+"score": 2975
+},
+{
+"word": "shrieking",
+"score": 3008
+},
+{
+"word": "shrieks",
+"score": 2197
+},
+{
+"word": "shriner",
+"score": 2868
+},
+{
+"word": "shtick",
+"score": 904
+},
+{
+"word": "shtik",
+"score": 905
+},
+{
+"word": "shuffle",
+"score": 1752
+},
+{
+"word": "shuffleboard",
+"score": 3822
+},
+{
+"word": "shure",
+"score": 1510
+},
+{
+"word": "shyly",
+"score": 3217
+},
+{
+"word": "sibelius",
+"score": 612
+},
+{
+"word": "sibelius",
+"score": 613
+},
+{
+"word": "sibling",
+"score": 3597
+},
+{
+"word": "siblings",
+"score": 3598
+},
+{
+"word": "sideburn",
+"score": 1352
+},
+{
+"word": "sideburns",
+"score": 1353
+},
+{
+"word": "sidecar",
+"score": 3033
+},
+{
+"word": "sidekick",
+"score": 1826
+},
+{
+"word": "sidekicks",
+"score": 3752
+},
+{
+"word": "sideman",
+"score": 90
+},
+{
+"word": "sideshow",
+"score": 2852
+},
+{
+"word": "sidewalk",
+"score": 1012
+},
+{
+"word": "silencer",
+"score": 1331
+},
+{
+"word": "silhouette",
+"score": 3968
+},
+{
+"word": "silken",
+"score": 2163
+},
+{
+"word": "silky",
+"score": 1627
+},
+{
+"word": "sillinger",
+"score": 3839
+},
+{
+"word": "silvery",
+"score": 3281
+},
+{
+"word": "sinatra",
+"score": 716
+},
+{
+"word": "sinatra",
+"score": 717
+},
+{
+"word": "sinewy",
+"score": 1085
+},
+{
+"word": "sing",
+"score": 360
+},
+{
+"word": "singalong",
+"score": 556
+},
+{
+"word": "singer",
+"score": 36
+},
+{
+"word": "singer",
+"score": 608
+},
+{
+"word": "singers",
+"score": 609
+},
+{
+"word": "singing",
+"score": 223
+},
+{
+"word": "single",
+"score": 1995
+},
+{
+"word": "singles",
+"score": 1996
+},
+{
+"word": "sings",
+"score": 177
+},
+{
+"word": "singstar",
+"score": 1181
+},
+{
+"word": "sinker",
+"score": 3545
+},
+{
+"word": "sinkers",
+"score": 3543
+},
+{
+"word": "sinner",
+"score": 3190
+},
+{
+"word": "sinuous",
+"score": 711
+},
+{
+"word": "sissoko",
+"score": 2523
+},
+{
+"word": "sissy",
+"score": 2745
+},
+{
+"word": "sitar",
+"score": 21
+},
+{
+"word": "six",
+"score": 310
+},
+{
+"word": "ska",
+"score": 182
+},
+{
+"word": "skate",
+"score": 1384
+},
+{
+"word": "skateboard",
+"score": 323
+},
+{
+"word": "skateboarder",
+"score": 925
+},
+{
+"word": "skateboarders",
+"score": 2976
+},
+{
+"word": "skateboarding",
+"score": 908
+},
+{
+"word": "skateboards",
+"score": 682
+},
+{
+"word": "skates",
+"score": 1383
+},
+{
+"word": "skeeter",
+"score": 4006
+},
+{
+"word": "skeleton",
+"score": 875
+},
+{
+"word": "sketch",
+"score": 3670
+},
+{
+"word": "sketchbook",
+"score": 894
+},
+{
+"word": "sketches",
+"score": 3671
+},
+{
+"word": "ski",
+"score": 786
+},
+{
+"word": "skill",
+"score": 3244
+},
+{
+"word": "skillet",
+"score": 816
+},
+{
+"word": "skis",
+"score": 785
+},
+{
+"word": "skull",
+"score": 3358
+},
+{
+"word": "skye",
+"score": 3785
+},
+{
+"word": "slacker",
+"score": 1218
+},
+{
+"word": "slapshot",
+"score": 2978
+},
+{
+"word": "slash",
+"score": 381
+},
+{
+"word": "slayer",
+"score": 272
+},
+{
+"word": "sled",
+"score": 3032
+},
+{
+"word": "sleigh",
+"score": 3031
+},
+{
+"word": "sleuthing",
+"score": 4173
+},
+{
+"word": "slice",
+"score": 2493
+},
+{
+"word": "slim",
+"score": 3487
+},
+{
+"word": "slingshot",
+"score": 3960
+},
+{
+"word": "slinky",
+"score": 552
+},
+{
+"word": "slipknot",
+"score": 332
+},
+{
+"word": "sloop",
+"score": 4050
+},
+{
+"word": "slopestyle",
+"score": 2565
+},
+{
+"word": "slurred",
+"score": 3982
+},
+{
+"word": "sly",
+"score": 1871
+},
+{
+"word": "smasher",
+"score": 3389
+},
+{
+"word": "smith",
+"score": 2452
+},
+{
+"word": "smith",
+"score": 2453
+},
+{
+"word": "smock",
+"score": 3503
+},
+{
+"word": "smokey",
+"score": 2256
+},
+{
+"word": "smokin",
+"score": 1873
+},
+{
+"word": "smoky",
+"score": 1465
+},
+{
+"word": "smooth",
+"score": 3187
+},
+{
+"word": "smoothie",
+"score": 2556
+},
+{
+"word": "snare",
+"score": 3103
+},
+{
+"word": "snarl",
+"score": 2671
+},
+{
+"word": "snarls",
+"score": 2670
+},
+{
+"word": "snazzy",
+"score": 3680
+},
+{
+"word": "sneaker",
+"score": 3833
+},
+{
+"word": "sneakers",
+"score": 1665
+},
+{
+"word": "snes",
+"score": 1958
+},
+{
+"word": "snip",
+"score": 3069
+},
+{
+"word": "snippet",
+"score": 3602
+},
+{
+"word": "snippets",
+"score": 3068
+},
+{
+"word": "snooker",
+"score": 3369
+},
+{
+"word": "snoopy",
+"score": 3112
+},
+{
+"word": "snoopy",
+"score": 3113
+},
+{
+"word": "snorkel",
+"score": 2363
+},
+{
+"word": "snotty",
+"score": 3040
+},
+{
+"word": "snowblower",
+"score": 1152
+},
+{
+"word": "snowboard",
+"score": 845
+},
+{
+"word": "snowboarder",
+"score": 3477
+},
+{
+"word": "snowboarding",
+"score": 2004
+},
+{
+"word": "snowboards",
+"score": 1131
+},
+{
+"word": "snowshoe",
+"score": 948
+},
+{
+"word": "snowshoes",
+"score": 949
+},
+{
+"word": "sob",
+"score": 3812
+},
+{
+"word": "sobs",
+"score": 3813
+},
+{
+"word": "soca",
+"score": 1160
+},
+{
+"word": "sociable",
+"score": 1596
+},
+{
+"word": "sociopath",
+"score": 3699
+},
+{
+"word": "sofa",
+"score": 2268
+},
+{
+"word": "softly",
+"score": 1869
+},
+{
+"word": "soldering",
+"score": 2060
+},
+{
+"word": "solidus",
+"score": 379
+},
+{
+"word": "soliloquy",
+"score": 2845
+},
+{
+"word": "solitaire",
+"score": 1475
+},
+{
+"word": "solo",
+"score": 57
+},
+{
+"word": "soloing",
+"score": 26
+},
+{
+"word": "soloist",
+"score": 254
+},
+{
+"word": "soloists",
+"score": 533
+},
+{
+"word": "solos",
+"score": 56
+},
+{
+"word": "solution",
+"score": 1590
+},
+{
+"word": "sommelier",
+"score": 3950
+},
+{
+"word": "son",
+"score": 4210
+},
+{
+"word": "son",
+"score": 4211
+},
+{
+"word": "sonata",
+"score": 505
+},
+{
+"word": "song",
+"score": 15
+},
+{
+"word": "songbird",
+"score": 2168
+},
+{
+"word": "songbook",
+"score": 293
+},
+{
+"word": "songs",
+"score": 109
+},
+{
+"word": "songstress",
+"score": 1210
+},
+{
+"word": "songwriter",
+"score": 130
+},
+{
+"word": "songwriters",
+"score": 484
+},
+{
+"word": "songwriting",
+"score": 46
+},
+{
+"word": "sonic",
+"score": 258
+},
+{
+"word": "sonically",
+"score": 260
+},
+{
+"word": "sonny",
+"score": 2215
+},
+{
+"word": "sonorous",
+"score": 589
+},
+{
+"word": "sonos",
+"score": 1294
+},
+{
+"word": "soothing",
+"score": 2819
+},
+{
+"word": "soporific",
+"score": 479
+},
+{
+"word": "soprano",
+"score": 585
+},
+{
+"word": "sopranos",
+"score": 1657
+},
+{
+"word": "sorcerer",
+"score": 1775
+},
+{
+"word": "sorrow",
+"score": 4116
+},
+{
+"word": "sorta",
+"score": 2139
+},
+{
+"word": "soul",
+"score": 962
+},
+{
+"word": "soulful",
+"score": 137
+},
+{
+"word": "sound",
+"score": 540
+},
+{
+"word": "soundgarden",
+"score": 464
+},
+{
+"word": "sounding",
+"score": 2473
+},
+{
+"word": "soundproof",
+"score": 3987
+},
+{
+"word": "soundproofing",
+"score": 2030
+},
+{
+"word": "sounds",
+"score": 993
+},
+{
+"word": "soundscape",
+"score": 275
+},
+{
+"word": "soundscapes",
+"score": 209
+},
+{
+"word": "soundstage",
+"score": 3689
+},
+{
+"word": "soundtrack",
+"score": 337
+},
+{
+"word": "soundtracks",
+"score": 374
+},
+{
+"word": "soup-strainer",
+"score": 1719
+},
+{
+"word": "source",
+"score": 3042
+},
+{
+"word": "spacey",
+"score": 193
+},
+{
+"word": "spade",
+"score": 2052
+},
+{
+"word": "spades",
+"score": 2051
+},
+{
+"word": "spandex",
+"score": 1749
+},
+{
+"word": "spanky",
+"score": 2069
+},
+{
+"word": "sparkly",
+"score": 2065
+},
+{
+"word": "spastic",
+"score": 506
+},
+{
+"word": "spatula",
+"score": 1899
+},
+{
+"word": "speakerphone",
+"score": 4304
+},
+{
+"word": "spear",
+"score": 290
+},
+{
+"word": "spearhead",
+"score": 4213
+},
+{
+"word": "speculator",
+"score": 3075
+},
+{
+"word": "spellbinding",
+"score": 3053
+},
+{
+"word": "spider",
+"score": 2365
+},
+{
+"word": "spidey",
+"score": 3460
+},
+{
+"word": "spiel",
+"score": 1709
+},
+{
+"word": "spiky",
+"score": 1314
+},
+{
+"word": "spin",
+"score": 846
+},
+{
+"word": "spindly",
+"score": 3704
+},
+{
+"word": "spinner",
+"score": 1523
+},
+{
+"word": "spinners",
+"score": 1522
+},
+{
+"word": "spirit",
+"score": 1090
+},
+{
+"word": "spiritual",
+"score": 766
+},
+{
+"word": "spirituality",
+"score": 3250
+},
+{
+"word": "spirituals",
+"score": 765
+},
+{
+"word": "spiritualty",
+"score": 3249
+},
+{
+"word": "splitter",
+"score": 1738
+},
+{
+"word": "spontaneity",
+"score": 1845
+},
+{
+"word": "spooky",
+"score": 1827
+},
+{
+"word": "spoon",
+"score": 814
+},
+{
+"word": "spoons",
+"score": 815
+},
+{
+"word": "sportscar",
+"score": 4092
+},
+{
+"word": "spread",
+"score": 1720
+},
+{
+"word": "sprightly",
+"score": 4091
+},
+{
+"word": "springsteen",
+"score": 406
+},
+{
+"word": "sprites",
+"score": 3222
+},
+{
+"word": "squab",
+"score": 3757
+},
+{
+"word": "squall",
+"score": 2319
+},
+{
+"word": "squalls",
+"score": 2320
+},
+{
+"word": "squeaky",
+"score": 824
+},
+{
+"word": "squeal",
+"score": 1560
+},
+{
+"word": "squealing",
+"score": 2075
+},
+{
+"word": "squeals",
+"score": 1561
+},
+{
+"word": "squeeze",
+"score": 3745
+},
+{
+"word": "staccato",
+"score": 587
+},
+{
+"word": "stagecraft",
+"score": 1377
+},
+{
+"word": "staginess",
+"score": 1199
+},
+{
+"word": "staind",
+"score": 784
+},
+{
+"word": "stairs",
+"score": 3254
+},
+{
+"word": "stairway",
+"score": 974
+},
+{
+"word": "standup",
+"score": 2042
+},
+{
+"word": "stapp",
+"score": 2863
+},
+{
+"word": "starcraft",
+"score": 2893
+},
+{
+"word": "static",
+"score": 1147
+},
+{
+"word": "statuette",
+"score": 3179
+},
+{
+"word": "stax",
+"score": 574
+},
+{
+"word": "steampunk",
+"score": 1254
+},
+{
+"word": "steed",
+"score": 1808
+},
+{
+"word": "steel",
+"score": 4082
+},
+{
+"word": "steelmaker",
+"score": 4088
+},
+{
+"word": "steelworker",
+"score": 4089
+},
+{
+"word": "stefani",
+"score": 2979
+},
+{
+"word": "steinway",
+"score": 886
+},
+{
+"word": "steinway",
+"score": 887
+},
+{
+"word": "stencil",
+"score": 2655
+},
+{
+"word": "stencils",
+"score": 2654
+},
+{
+"word": "step",
+"score": 3253
+},
+{
+"word": "stepdad",
+"score": 1137
+},
+{
+"word": "stepdaughter",
+"score": 3371
+},
+{
+"word": "stepfather",
+"score": 3524
+},
+{
+"word": "steppenwolf",
+"score": 1540
+},
+{
+"word": "stepson",
+"score": 2663
+},
+{
+"word": "stepsons",
+"score": 2662
+},
+{
+"word": "stereo",
+"score": 527
+},
+{
+"word": "stereophonics",
+"score": 569
+},
+{
+"word": "stereos",
+"score": 912
+},
+{
+"word": "stethoscope",
+"score": 483
+},
+{
+"word": "stevedore",
+"score": 3350
+},
+{
+"word": "stevie",
+"score": 2275
+},
+{
+"word": "stick",
+"score": 1158
+},
+{
+"word": "sticks",
+"score": 2692
+},
+{
+"word": "stiletto",
+"score": 2332
+},
+{
+"word": "stilettos",
+"score": 3062
+},
+{
+"word": "still",
+"score": 1984
+},
+{
+"word": "stilled",
+"score": 3761
+},
+{
+"word": "stillness",
+"score": 1581
+},
+{
+"word": "stills",
+"score": 1983
+},
+{
+"word": "stilt",
+"score": 2207
+},
+{
+"word": "stilts",
+"score": 2205
+},
+{
+"word": "sting",
+"score": 1829
+},
+{
+"word": "stipe",
+"score": 1342
+},
+{
+"word": "stoker",
+"score": 3635
+},
+{
+"word": "stomp",
+"score": 1772
+},
+{
+"word": "stomps",
+"score": 1934
+},
+{
+"word": "stone",
+"score": 516
+},
+{
+"word": "stone",
+"score": 517
+},
+{
+"word": "stoner",
+"score": 456
+},
+{
+"word": "stones",
+"score": 518
+},
+{
+"word": "stonework",
+"score": 3177
+},
+{
+"word": "stooges",
+"score": 349
+},
+{
+"word": "stool",
+"score": 1999
+},
+{
+"word": "stools",
+"score": 1997
+},
+{
+"word": "stoppard",
+"score": 3195
+},
+{
+"word": "stoppard",
+"score": 3196
+},
+{
+"word": "storyteller",
+"score": 462
+},
+{
+"word": "storytellers",
+"score": 2345
+},
+{
+"word": "storytelling",
+"score": 1032
+},
+{
+"word": "stovetop",
+"score": 3014
+},
+{
+"word": "strait",
+"score": 542
+},
+{
+"word": "strap",
+"score": 1874
+},
+{
+"word": "straps",
+"score": 2230
+},
+{
+"word": "stravinsky",
+"score": 2066
+},
+{
+"word": "stravinsky",
+"score": 2067
+},
+{
+"word": "stress",
+"score": 2705
+},
+{
+"word": "stretchy",
+"score": 2194
+},
+{
+"word": "string",
+"score": 191
+},
+{
+"word": "strings",
+"score": 189
+},
+{
+"word": "strobe",
+"score": 2482
+},
+{
+"word": "stroboscope",
+"score": 2483
+},
+{
+"word": "stroke",
+"score": 646
+},
+{
+"word": "strokes",
+"score": 643
+},
+{
+"word": "stroller",
+"score": 2228
+},
+{
+"word": "strum",
+"score": 25
+},
+{
+"word": "strummed",
+"score": 96
+},
+{
+"word": "strumming",
+"score": 19
+},
+{
+"word": "strut",
+"score": 4186
+},
+{
+"word": "stubb",
+"score": 2005
+},
+{
+"word": "stud",
+"score": 2998
+},
+{
+"word": "studio",
+"score": 3296
+},
+{
+"word": "stuff",
+"score": 2153
+},
+{
+"word": "stuntman",
+"score": 3337
+},
+{
+"word": "style",
+"score": 2832
+},
+{
+"word": "styles",
+"score": 2831
+},
+{
+"word": "stylings",
+"score": 347
+},
+{
+"word": "stylist",
+"score": 4134
+},
+{
+"word": "stylistic",
+"score": 1647
+},
+{
+"word": "stylistically",
+"score": 1654
+},
+{
+"word": "stylized",
+"score": 3366
+},
+{
+"word": "stylus",
+"score": 830
+},
+{
+"word": "styx",
+"score": 906
+},
+{
+"word": "styx",
+"score": 907
+},
+{
+"word": "suave",
+"score": 2396
+},
+{
+"word": "subgenre",
+"score": 2657
+},
+{
+"word": "sublime",
+"score": 597
+},
+{
+"word": "sublimely",
+"score": 4188
+},
+{
+"word": "substitute",
+"score": 1615
+},
+{
+"word": "substitution",
+"score": 1616
+},
+{
+"word": "subtleties",
+"score": 2808
+},
+{
+"word": "subtlety",
+"score": 2648
+},
+{
+"word": "subwoofer",
+"score": 987
+},
+{
+"word": "subwoofers",
+"score": 986
+},
+{
+"word": "successor",
+"score": 1611
+},
+{
+"word": "suede",
+"score": 1324
+},
+{
+"word": "sufi",
+"score": 3094
+},
+{
+"word": "sufi",
+"score": 3095
+},
+{
+"word": "sugarland",
+"score": 899
+},
+{
+"word": "sulky",
+"score": 2640
+},
+{
+"word": "sultry",
+"score": 1567
+},
+{
+"word": "sumlin",
+"score": 2260
+},
+{
+"word": "summer",
+"score": 2335
+},
+{
+"word": "summerfest",
+"score": 3294
+},
+{
+"word": "summertime",
+"score": 2336
+},
+{
+"word": "sundogs",
+"score": 3879
+},
+{
+"word": "sung",
+"score": 110
+},
+{
+"word": "sung",
+"score": 984
+},
+{
+"word": "sunglass",
+"score": 2920
+},
+{
+"word": "sunglasses",
+"score": 2919
+},
+{
+"word": "superbike",
+"score": 1176
+},
+{
+"word": "supercross",
+"score": 1489
+},
+{
+"word": "supergroup",
+"score": 502
+},
+{
+"word": "superhero",
+"score": 4284
+},
+{
+"word": "supermoto",
+"score": 1385
+},
+{
+"word": "supernatural",
+"score": 1459
+},
+{
+"word": "supple",
+"score": 2719
+},
+{
+"word": "supporter",
+"score": 3023
+},
+{
+"word": "surf",
+"score": 1764
+},
+{
+"word": "surfboard",
+"score": 418
+},
+{
+"word": "surfboards",
+"score": 417
+},
+{
+"word": "surfer",
+"score": 1416
+},
+{
+"word": "surfing",
+"score": 3323
+},
+{
+"word": "surfs",
+"score": 1801
+},
+{
+"word": "surreal",
+"score": 4265
+},
+{
+"word": "surrealism",
+"score": 1299
+},
+{
+"word": "surrealist",
+"score": 1392
+},
+{
+"word": "surrealistic",
+"score": 1788
+},
+{
+"word": "surrogate",
+"score": 1614
+},
+{
+"word": "sushi",
+"score": 2276
+},
+{
+"word": "suspenders",
+"score": 3145
+},
+{
+"word": "suzuki",
+"score": 3933
+},
+{
+"word": "swagger",
+"score": 4184
+},
+{
+"word": "swaggering",
+"score": 1803
+},
+{
+"word": "swagman",
+"score": 4185
+},
+{
+"word": "swampy",
+"score": 3722
+},
+{
+"word": "sway",
+"score": 1594
+},
+{
+"word": "sweaty",
+"score": 1690
+},
+{
+"word": "sweetheart",
+"score": 4264
+},
+{
+"word": "sweetie",
+"score": 4263
+},
+{
+"word": "sweetly",
+"score": 3657
+},
+{
+"word": "swing",
+"score": 2513
+},
+{
+"word": "swinger",
+"score": 3577
+},
+{
+"word": "switchfoot",
+"score": 489
+},
+{
+"word": "sword",
+"score": 1222
+},
+{
+"word": "swordplay",
+"score": 1838
+},
+{
+"word": "swords",
+"score": 2496
+},
+{
+"word": "swot",
+"score": 2195
+},
+{
+"word": "sx",
+"score": 3794
+},
+{
+"word": "sxsw",
+"score": 1268
+},
+{
+"word": "syd",
+"score": 3513
+},
+{
+"word": "sylar",
+"score": 1960
+},
+{
+"word": "syllable",
+"score": 4053
+},
+{
+"word": "syllables",
+"score": 4052
+},
+{
+"word": "symphonic",
+"score": 318
+},
+{
+"word": "symphonies",
+"score": 722
+},
+{
+"word": "symphony",
+"score": 721
+},
+{
+"word": "syncopated",
+"score": 192
+},
+{
+"word": "synth",
+"score": 68
+},
+{
+"word": "synthesist",
+"score": 43
+},
+{
+"word": "synthesized",
+"score": 2027
+},
+{
+"word": "synthesizer",
+"score": 44
+},
+{
+"word": "synthesizers",
+"score": 87
+},
+{
+"word": "synths",
+"score": 116
+},
+{
+"word": "syrupy",
+"score": 3020
+},
+{
+"word": "tabla",
+"score": 54
+},
+{
+"word": "tablecloth",
+"score": 3605
+},
+{
+"word": "tabletop",
+"score": 2136
+},
+{
+"word": "tabletops",
+"score": 3465
+},
+{
+"word": "taco",
+"score": 4097
+},
+{
+"word": "tacos",
+"score": 4203
+},
+{
+"word": "tactile",
+"score": 3651
+},
+{
+"word": "taffy",
+"score": 1668
+},
+{
+"word": "taker",
+"score": 3051
+},
+{
+"word": "talon",
+"score": 3136
+},
+{
+"word": "talons",
+"score": 3137
+},
+{
+"word": "tamale",
+"score": 2403
+},
+{
+"word": "tamale",
+"score": 2404
+},
+{
+"word": "tamales",
+"score": 2405
+},
+{
+"word": "tambourine",
+"score": 14
+},
+{
+"word": "tangle",
+"score": 2672
+},
+{
+"word": "tango",
+"score": 1253
+},
+{
+"word": "tangy",
+"score": 2532
+},
+{
+"word": "tap",
+"score": 1903
+},
+{
+"word": "tapa",
+"score": 2498
+},
+{
+"word": "tapas",
+"score": 2497
+},
+{
+"word": "tape",
+"score": 3939
+},
+{
+"word": "tapes",
+"score": 3940
+},
+{
+"word": "tapestry",
+"score": 3192
+},
+{
+"word": "taps",
+"score": 1904
+},
+{
+"word": "tartan",
+"score": 3341
+},
+{
+"word": "tasteful",
+"score": 2223
+},
+{
+"word": "taster",
+"score": 415
+},
+{
+"word": "tattle",
+"score": 222
+},
+{
+"word": "tattoo",
+"score": 2063
+},
+{
+"word": "tattoos",
+"score": 3280
+},
+{
+"word": "taxidermy",
+"score": 1691
+},
+{
+"word": "taylormade",
+"score": 3979
+},
+{
+"word": "taz",
+"score": 2878
+},
+{
+"word": "tchaikovsky",
+"score": 1174
+},
+{
+"word": "tchaikovsky",
+"score": 1175
+},
+{
+"word": "teacher",
+"score": 3028
+},
+{
+"word": "teaching",
+"score": 1980
+},
+{
+"word": "teamster",
+"score": 3278
+},
+{
+"word": "teapot",
+"score": 2020
+},
+{
+"word": "tear",
+"score": 3692
+},
+{
+"word": "teardrop",
+"score": 3691
+},
+{
+"word": "techie",
+"score": 2619
+},
+{
+"word": "techno",
+"score": 508
+},
+{
+"word": "teeth",
+"score": 4181
+},
+{
+"word": "tejano",
+"score": 1424
+},
+{
+"word": "tek",
+"score": 3665
+},
+{
+"word": "tekken",
+"score": 4071
+},
+{
+"word": "telegram",
+"score": 3866
+},
+{
+"word": "telepathic",
+"score": 2333
+},
+{
+"word": "tempo",
+"score": 298
+},
+{
+"word": "tempos",
+"score": 297
+},
+{
+"word": "temptation",
+"score": 1049
+},
+{
+"word": "temptations",
+"score": 1048
+},
+{
+"word": "tempura",
+"score": 3639
+},
+{
+"word": "tenderly",
+"score": 2056
+},
+{
+"word": "tenderness",
+"score": 1355
+},
+{
+"word": "tenor",
+"score": 636
+},
+{
+"word": "tenors",
+"score": 2241
+},
+{
+"word": "tequila",
+"score": 1358
+},
+{
+"word": "terror",
+"score": 2971
+},
+{
+"word": "testament",
+"score": 1430
+},
+{
+"word": "testament",
+"score": 1431
+},
+{
+"word": "tetri",
+"score": 3574
+},
+{
+"word": "tetris",
+"score": 3573
+},
+{
+"word": "textural",
+"score": 619
+},
+{
+"word": "texture",
+"score": 521
+},
+{
+"word": "textured",
+"score": 1452
+},
+{
+"word": "textures",
+"score": 522
+},
+{
+"word": "theatricality",
+"score": 1198
+},
+{
+"word": "theme",
+"score": 2586
+},
+{
+"word": "therapist",
+"score": 2995
+},
+{
+"word": "thespian",
+"score": 1225
+},
+{
+"word": "thickness",
+"score": 1019
+},
+{
+"word": "thing",
+"score": 2931
+},
+{
+"word": "three",
+"score": 371
+},
+{
+"word": "threesome",
+"score": 3583
+},
+{
+"word": "thriller",
+"score": 4104
+},
+{
+"word": "throat",
+"score": 4232
+},
+{
+"word": "throaty",
+"score": 618
+},
+{
+"word": "throb",
+"score": 2277
+},
+{
+"word": "throbbing",
+"score": 2278
+},
+{
+"word": "throw",
+"score": 644
+},
+{
+"word": "thudding",
+"score": 3747
+},
+{
+"word": "thumbprint",
+"score": 2266
+},
+{
+"word": "thump",
+"score": 4140
+},
+{
+"word": "thunder",
+"score": 2837
+},
+{
+"word": "thundering",
+"score": 2107
+},
+{
+"word": "thunderous",
+"score": 1359
+},
+{
+"word": "tibia",
+"score": 548
+},
+{
+"word": "tickle",
+"score": 1922
+},
+{
+"word": "tickles",
+"score": 2827
+},
+{
+"word": "tickling",
+"score": 1923
+},
+{
+"word": "tights",
+"score": 2022
+},
+{
+"word": "tile",
+"score": 4130
+},
+{
+"word": "tiller",
+"score": 4095
+},
+{
+"word": "timbaland",
+"score": 829
+},
+{
+"word": "timber",
+"score": 3084
+},
+{
+"word": "timberlake",
+"score": 3480
+},
+{
+"word": "timbers",
+"score": 3083
+},
+{
+"word": "timbre",
+"score": 369
+},
+{
+"word": "timeless",
+"score": 2076
+},
+{
+"word": "timelessness",
+"score": 2385
+},
+{
+"word": "timepiece",
+"score": 3046
+},
+{
+"word": "timepieces",
+"score": 3045
+},
+{
+"word": "timmy",
+"score": 2583
+},
+{
+"word": "tin",
+"score": 2287
+},
+{
+"word": "tinkerer",
+"score": 71
+},
+{
+"word": "tinnitus",
+"score": 2062
+},
+{
+"word": "tinny",
+"score": 647
+},
+{
+"word": "titleist",
+"score": 4067
+},
+{
+"word": "toddler",
+"score": 3183
+},
+{
+"word": "toe",
+"score": 3445
+},
+{
+"word": "toes",
+"score": 3444
+},
+{
+"word": "toilet",
+"score": 1998
+},
+{
+"word": "toller",
+"score": 3039
+},
+{
+"word": "tom",
+"score": 1901
+},
+{
+"word": "tom",
+"score": 1902
+},
+{
+"word": "tombstone",
+"score": 3376
+},
+{
+"word": "tonal",
+"score": 528
+},
+{
+"word": "tone",
+"score": 1091
+},
+{
+"word": "tones",
+"score": 1092
+},
+{
+"word": "tongue",
+"score": 1992
+},
+{
+"word": "tonicity",
+"score": 1088
+},
+{
+"word": "tool",
+"score": 2182
+},
+{
+"word": "toolbox",
+"score": 4223
+},
+{
+"word": "toot",
+"score": 1276
+},
+{
+"word": "tooth",
+"score": 4182
+},
+{
+"word": "toothbrush",
+"score": 1718
+},
+{
+"word": "toots",
+"score": 1277
+},
+{
+"word": "tornado",
+"score": 4275
+},
+{
+"word": "tosh",
+"score": 3119
+},
+{
+"word": "tot",
+"score": 3182
+},
+{
+"word": "tots",
+"score": 3181
+},
+{
+"word": "touch",
+"score": 3397
+},
+{
+"word": "touchpad",
+"score": 3313
+},
+{
+"word": "tourette",
+"score": 2509
+},
+{
+"word": "tourette",
+"score": 2510
+},
+{
+"word": "touring",
+"score": 2096
+},
+{
+"word": "townshend",
+"score": 1173
+},
+{
+"word": "toy",
+"score": 2783
+},
+{
+"word": "toys",
+"score": 3189
+},
+{
+"word": "trachea",
+"score": 2202
+},
+{
+"word": "track",
+"score": 1535
+},
+{
+"word": "tracks",
+"score": 1536
+},
+{
+"word": "tradesman",
+"score": 3239
+},
+{
+"word": "tramp",
+"score": 2935
+},
+{
+"word": "trampoline",
+"score": 1937
+},
+{
+"word": "trance",
+"score": 764
+},
+{
+"word": "transcendental",
+"score": 2862
+},
+{
+"word": "transcription",
+"score": 902
+},
+{
+"word": "transcriptions",
+"score": 901
+},
+{
+"word": "transformer",
+"score": 4163
+},
+{
+"word": "trap",
+"score": 3102
+},
+{
+"word": "trapeze",
+"score": 1882
+},
+{
+"word": "treble",
+"score": 3430
+},
+{
+"word": "treehouse",
+"score": 3363
+},
+{
+"word": "treme",
+"score": 3943
+},
+{
+"word": "trestle",
+"score": 3674
+},
+{
+"word": "treyarch",
+"score": 3310
+},
+{
+"word": "tribe",
+"score": 377
+},
+{
+"word": "trick",
+"score": 3937
+},
+{
+"word": "tricks",
+"score": 3938
+},
+{
+"word": "tricycle",
+"score": 3098
+},
+{
+"word": "trigger",
+"score": 4078
+},
+{
+"word": "trike",
+"score": 3097
+},
+{
+"word": "trio",
+"score": 370
+},
+{
+"word": "trios",
+"score": 1284
+},
+{
+"word": "triplet",
+"score": 2613
+},
+{
+"word": "tripod",
+"score": 1558
+},
+{
+"word": "trippy",
+"score": 372
+},
+{
+"word": "trixie",
+"score": 3999
+},
+{
+"word": "trombone",
+"score": 7
+},
+{
+"word": "trombones",
+"score": 127
+},
+{
+"word": "trombonist",
+"score": 99
+},
+{
+"word": "tron",
+"score": 3132
+},
+{
+"word": "troubadour",
+"score": 194
+},
+{
+"word": "troupe",
+"score": 3333
+},
+{
+"word": "trouser",
+"score": 3857
+},
+{
+"word": "trowel",
+"score": 742
+},
+{
+"word": "truancy",
+"score": 524
+},
+{
+"word": "trucker",
+"score": 3277
+},
+{
+"word": "trumpet",
+"score": 73
+},
+{
+"word": "trumpeter",
+"score": 101
+},
+{
+"word": "trumpets",
+"score": 932
+},
+{
+"word": "truncheon",
+"score": 3431
+},
+{
+"word": "tso",
+"score": 3276
+},
+{
+"word": "tuba",
+"score": 51
+},
+{
+"word": "tugay",
+"score": 3214
+},
+{
+"word": "tumbler",
+"score": 4191
+},
+{
+"word": "tumblr",
+"score": 4011
+},
+{
+"word": "tune",
+"score": 48
+},
+{
+"word": "tuneful",
+"score": 184
+},
+{
+"word": "tuner",
+"score": 812
+},
+{
+"word": "tuners",
+"score": 811
+},
+{
+"word": "tunes",
+"score": 97
+},
+{
+"word": "turntable",
+"score": 156
+},
+{
+"word": "turntables",
+"score": 158
+},
+{
+"word": "tutorial",
+"score": 2342
+},
+{
+"word": "tutorials",
+"score": 2341
+},
+{
+"word": "tux",
+"score": 1291
+},
+{
+"word": "tuxedo",
+"score": 1497
+},
+{
+"word": "twain",
+"score": 4246
+},
+{
+"word": "twang",
+"score": 246
+},
+{
+"word": "twangy",
+"score": 129
+},
+{
+"word": "tway",
+"score": 3370
+},
+{
+"word": "twee",
+"score": 1677
+},
+{
+"word": "tweedy",
+"score": 1484
+},
+{
+"word": "twiddler",
+"score": 69
+},
+{
+"word": "twilight",
+"score": 4196
+},
+{
+"word": "twirl",
+"score": 3000
+},
+{
+"word": "twirled",
+"score": 2305
+},
+{
+"word": "twirling",
+"score": 1891
+},
+{
+"word": "twirls",
+"score": 847
+},
+{
+"word": "twist",
+"score": 694
+},
+{
+"word": "twisted",
+"score": 1817
+},
+{
+"word": "twisters",
+"score": 4276
+},
+{
+"word": "tyke",
+"score": 1438
+},
+{
+"word": "tyke",
+"score": 1439
+},
+{
+"word": "typewriter",
+"score": 401
+},
+{
+"word": "typewriters",
+"score": 1202
+},
+{
+"word": "typist",
+"score": 3951
+},
+{
+"word": "typography",
+"score": 199
+},
+{
+"word": "uke",
+"score": 8
+},
+{
+"word": "ukulele",
+"score": 9
+},
+{
+"word": "unadorned",
+"score": 2999
+},
+{
+"word": "unassuming",
+"score": 3446
+},
+{
+"word": "uncharted",
+"score": 3212
+},
+{
+"word": "uncle",
+"score": 2359
+},
+{
+"word": "uncles",
+"score": 3365
+},
+{
+"word": "uncool",
+"score": 2816
+},
+{
+"word": "uncredited",
+"score": 2782
+},
+{
+"word": "undoer",
+"score": 2296
+},
+{
+"word": "unearthly",
+"score": 1170
+},
+{
+"word": "unforgiven",
+"score": 3469
+},
+{
+"word": "unhurried",
+"score": 3934
+},
+{
+"word": "unicycle",
+"score": 686
+},
+{
+"word": "universe",
+"score": 3011
+},
+{
+"word": "unlockable",
+"score": 3134
+},
+{
+"word": "unplugged",
+"score": 564
+},
+{
+"word": "unpolished",
+"score": 3344
+},
+{
+"word": "unreleased",
+"score": 1748
+},
+{
+"word": "upholstery",
+"score": 4286
+},
+{
+"word": "upstairs",
+"score": 2299
+},
+{
+"word": "uptempo",
+"score": 868
+},
+{
+"word": "urtication",
+"score": 529
+},
+{
+"word": "utensil",
+"score": 2159
+},
+{
+"word": "vader",
+"score": 4010
+},
+{
+"word": "vagrant",
+"score": 2450
+},
+{
+"word": "vain",
+"score": 2752
+},
+{
+"word": "valium",
+"score": 2343
+},
+{
+"word": "valli",
+"score": 2839
+},
+{
+"word": "vamp",
+"score": 384
+},
+{
+"word": "vampire",
+"score": 4299
+},
+{
+"word": "vanden",
+"score": 3793
+},
+{
+"word": "vandross",
+"score": 2706
+},
+{
+"word": "vase",
+"score": 2625
+},
+{
+"word": "vases",
+"score": 2626
+},
+{
+"word": "vaudeville",
+"score": 2440
+},
+{
+"word": "vcr",
+"score": 2701
+},
+{
+"word": "vedder",
+"score": 807
+},
+{
+"word": "vees",
+"score": 2898
+},
+{
+"word": "velvet",
+"score": 2601
+},
+{
+"word": "velvety",
+"score": 1212
+},
+{
+"word": "ventriloquist",
+"score": 1041
+},
+{
+"word": "verse",
+"score": 915
+},
+{
+"word": "verses",
+"score": 961
+},
+{
+"word": "verve",
+"score": 733
+},
+{
+"word": "vessel",
+"score": 2627
+},
+{
+"word": "vest",
+"score": 2969
+},
+{
+"word": "vevo",
+"score": 3946
+},
+{
+"word": "vibe",
+"score": 1084
+},
+{
+"word": "vibes",
+"score": 781
+},
+{
+"word": "vibraphone",
+"score": 783
+},
+{
+"word": "vibrate",
+"score": 2321
+},
+{
+"word": "vibrates",
+"score": 1851
+},
+{
+"word": "vibrating",
+"score": 1436
+},
+{
+"word": "vibration",
+"score": 782
+},
+{
+"word": "vibrations",
+"score": 2926
+},
+{
+"word": "vibrato",
+"score": 108
+},
+{
+"word": "vibrator",
+"score": 1266
+},
+{
+"word": "vibrators",
+"score": 3005
+},
+{
+"word": "vid",
+"score": 1943
+},
+{
+"word": "videodisk",
+"score": 3953
+},
+{
+"word": "videogame",
+"score": 2940
+},
+{
+"word": "videogames",
+"score": 1879
+},
+{
+"word": "vinnie",
+"score": 2918
+},
+{
+"word": "vino",
+"score": 3630
+},
+{
+"word": "vintage",
+"score": 1184
+},
+{
+"word": "vintages",
+"score": 3311
+},
+{
+"word": "vintner",
+"score": 2458
+},
+{
+"word": "vinyl",
+"score": 357
+},
+{
+"word": "viola",
+"score": 84
+},
+{
+"word": "viola",
+"score": 85
+},
+{
+"word": "violet",
+"score": 2794
+},
+{
+"word": "violin",
+"score": 11
+},
+{
+"word": "violinist",
+"score": 70
+},
+{
+"word": "violinists",
+"score": 170
+},
+{
+"word": "violins",
+"score": 77
+},
+{
+"word": "violist",
+"score": 287
+},
+{
+"word": "virtuosic",
+"score": 197
+},
+{
+"word": "virtuosity",
+"score": 183
+},
+{
+"word": "virtuoso",
+"score": 205
+},
+{
+"word": "visceral",
+"score": 2609
+},
+{
+"word": "visuals",
+"score": 1215
+},
+{
+"word": "vitality",
+"score": 734
+},
+{
+"word": "vivaldi",
+"score": 674
+},
+{
+"word": "vivaldi",
+"score": 675
+},
+{
+"word": "vocal",
+"score": 588
+},
+{
+"word": "vocalist",
+"score": 37
+},
+{
+"word": "vocalists",
+"score": 152
+},
+{
+"word": "vocally",
+"score": 2298
+},
+{
+"word": "vocals",
+"score": 16
+},
+{
+"word": "vocation",
+"score": 2980
+},
+{
+"word": "vogue",
+"score": 2830
+},
+{
+"word": "voice",
+"score": 724
+},
+{
+"word": "voiceover",
+"score": 1660
+},
+{
+"word": "voiceovers",
+"score": 1692
+},
+{
+"word": "volume",
+"score": 3666
+},
+{
+"word": "voodoo",
+"score": 1543
+},
+{
+"word": "vowel",
+"score": 1390
+},
+{
+"word": "vowels",
+"score": 1641
+},
+{
+"word": "vox",
+"score": 725
+},
+{
+"word": "vso",
+"score": 2339
+},
+{
+"word": "vuvuzela",
+"score": 1563
+},
+{
+"word": "wah",
+"score": 3385
+},
+{
+"word": "wail",
+"score": 407
+},
+{
+"word": "wailed",
+"score": 2217
+},
+{
+"word": "wailer",
+"score": 437
+},
+{
+"word": "wailers",
+"score": 438
+},
+{
+"word": "wailing",
+"score": 744
+},
+{
+"word": "wails",
+"score": 278
+},
+{
+"word": "waistcoat",
+"score": 2968
+},
+{
+"word": "wait",
+"score": 2114
+},
+{
+"word": "waiter",
+"score": 3873
+},
+{
+"word": "waits",
+"score": 2116
+},
+{
+"word": "wakeboarding",
+"score": 1568
+},
+{
+"word": "walk-in",
+"score": 1644
+},
+{
+"word": "walken",
+"score": 1104
+},
+{
+"word": "walker",
+"score": 3814
+},
+{
+"word": "walker",
+"score": 3815
+},
+{
+"word": "walkin",
+"score": 1226
+},
+{
+"word": "walkman",
+"score": 1447
+},
+{
+"word": "walkman",
+"score": 1448
+},
+{
+"word": "walla",
+"score": 3753
+},
+{
+"word": "wallboard",
+"score": 3220
+},
+{
+"word": "waltz",
+"score": 1645
+},
+{
+"word": "waltzes",
+"score": 1646
+},
+{
+"word": "wand",
+"score": 1779
+},
+{
+"word": "wanderer",
+"score": 2364
+},
+{
+"word": "wanna",
+"score": 1704
+},
+{
+"word": "warbling",
+"score": 562
+},
+{
+"word": "warhawk",
+"score": 3892
+},
+{
+"word": "wariner",
+"score": 3387
+},
+{
+"word": "warp",
+"score": 3809
+},
+{
+"word": "washboard",
+"score": 123
+},
+{
+"word": "washcloth",
+"score": 1111
+},
+{
+"word": "watchband",
+"score": 1818
+},
+{
+"word": "watchtower",
+"score": 2044
+},
+{
+"word": "watercolor",
+"score": 973
+},
+{
+"word": "watercolors",
+"score": 1288
+},
+{
+"word": "wav",
+"score": 1895
+},
+{
+"word": "wavy",
+"score": 2982
+},
+{
+"word": "waylon",
+"score": 476
+},
+{
+"word": "weasel",
+"score": 2652
+},
+{
+"word": "weezer",
+"score": 344
+},
+{
+"word": "weezy",
+"score": 1617
+},
+{
+"word": "weirdly",
+"score": 3226
+},
+{
+"word": "weirdness",
+"score": 2517
+},
+{
+"word": "weirdo",
+"score": 1346
+},
+{
+"word": "weld",
+"score": 2725
+},
+{
+"word": "weld",
+"score": 2727
+},
+{
+"word": "welder",
+"score": 498
+},
+{
+"word": "welding",
+"score": 985
+},
+{
+"word": "welds",
+"score": 2726
+},
+{
+"word": "werewolf",
+"score": 3400
+},
+{
+"word": "westerberg",
+"score": 3163
+},
+{
+"word": "western",
+"score": 3963
+},
+{
+"word": "western",
+"score": 3964
+},
+{
+"word": "westerns",
+"score": 3962
+},
+{
+"word": "westlife",
+"score": 2251
+},
+{
+"word": "wham",
+"score": 1694
+},
+{
+"word": "whedon",
+"score": 3392
+},
+{
+"word": "wheelbarrow",
+"score": 3820
+},
+{
+"word": "wheelchair",
+"score": 3257
+},
+{
+"word": "wheelchairs",
+"score": 3256
+},
+{
+"word": "wheeler",
+"score": 2711
+},
+{
+"word": "wheeler",
+"score": 2712
+},
+{
+"word": "wheelie",
+"score": 2093
+},
+{
+"word": "wheelwright",
+"score": 2710
+},
+{
+"word": "while",
+"score": 2494
+},
+{
+"word": "whimper",
+"score": 4150
+},
+{
+"word": "whimsical",
+"score": 2317
+},
+{
+"word": "whimsy",
+"score": 3788
+},
+{
+"word": "whines",
+"score": 4149
+},
+{
+"word": "whiny",
+"score": 2460
+},
+{
+"word": "whir",
+"score": 2455
+},
+{
+"word": "whirring",
+"score": 2454
+},
+{
+"word": "whiskey",
+"score": 1187
+},
+{
+"word": "whiskeys",
+"score": 3063
+},
+{
+"word": "whisky",
+"score": 1872
+},
+{
+"word": "whistle",
+"score": 2938
+},
+{
+"word": "whistling",
+"score": 2939
+},
+{
+"word": "whoremaster",
+"score": 3935
+},
+{
+"word": "wicked",
+"score": 4069
+},
+{
+"word": "wicker",
+"score": 3428
+},
+{
+"word": "wig",
+"score": 1793
+},
+{
+"word": "wiggle",
+"score": 1875
+},
+{
+"word": "wiggles",
+"score": 3109
+},
+{
+"word": "wii",
+"score": 2009
+},
+{
+"word": "wiimote",
+"score": 634
+},
+{
+"word": "wilco",
+"score": 302
+},
+{
+"word": "will",
+"score": 1432
+},
+{
+"word": "willow",
+"score": 1628
+},
+{
+"word": "wilshere",
+"score": 3970
+},
+{
+"word": "wind",
+"score": 112
+},
+{
+"word": "winder",
+"score": 2129
+},
+{
+"word": "windpipe",
+"score": 2203
+},
+{
+"word": "windup",
+"score": 1742
+},
+{
+"word": "wine",
+"score": 3629
+},
+{
+"word": "winemaker",
+"score": 2459
+},
+{
+"word": "winemaking",
+"score": 2309
+},
+{
+"word": "wing",
+"score": 745
+},
+{
+"word": "wingback",
+"score": 3080
+},
+{
+"word": "winsome",
+"score": 1814
+},
+{
+"word": "wire",
+"score": 3864
+},
+{
+"word": "wires",
+"score": 3865
+},
+{
+"word": "wiretap",
+"score": 1905
+},
+{
+"word": "wiry",
+"score": 1716
+},
+{
+"word": "wisecrack",
+"score": 2840
+},
+{
+"word": "wispy",
+"score": 2070
+},
+{
+"word": "wistful",
+"score": 1474
+},
+{
+"word": "witty",
+"score": 3966
+},
+{
+"word": "wiz",
+"score": 4177
+},
+{
+"word": "wizened",
+"score": 3531
+},
+{
+"word": "wolfmother",
+"score": 342
+},
+{
+"word": "wood",
+"score": 1444
+},
+{
+"word": "wood",
+"score": 1446
+},
+{
+"word": "woodcarver",
+"score": 1164
+},
+{
+"word": "wooden",
+"score": 803
+},
+{
+"word": "woodsy",
+"score": 3303
+},
+{
+"word": "woodwind",
+"score": 124
+},
+{
+"word": "woodwinds",
+"score": 144
+},
+{
+"word": "woodworker",
+"score": 358
+},
+{
+"word": "woodworking",
+"score": 566
+},
+{
+"word": "woody",
+"score": 3647
+},
+{
+"word": "woozy",
+"score": 3770
+},
+{
+"word": "wording",
+"score": 512
+},
+{
+"word": "wordless",
+"score": 1309
+},
+{
+"word": "wordplay",
+"score": 1243
+},
+{
+"word": "wordsmith",
+"score": 1079
+},
+{
+"word": "workbench",
+"score": 1279
+},
+{
+"word": "workbook",
+"score": 3971
+},
+{
+"word": "workbooks",
+"score": 3972
+},
+{
+"word": "wow",
+"score": 2308
+},
+{
+"word": "wrench",
+"score": 693
+},
+{
+"word": "wrenches",
+"score": 692
+},
+{
+"word": "wrist",
+"score": 3515
+},
+{
+"word": "wrists",
+"score": 3514
+},
+{
+"word": "wristwatch",
+"score": 3227
+},
+{
+"word": "writing",
+"score": 198
+},
+{
+"word": "wry",
+"score": 3485
+},
+{
+"word": "wylde",
+"score": 2699
+},
+{
+"word": "wynonna",
+"score": 1443
+},
+{
+"word": "xander",
+"score": 1767
+},
+{
+"word": "xbox",
+"score": 3330
+},
+{
+"word": "xfm",
+"score": 1003
+},
+{
+"word": "xirrus",
+"score": 2682
+},
+{
+"word": "xpressmusic",
+"score": 1912
+},
+{
+"word": "xylophone",
+"score": 58
+},
+{
+"word": "yamaha",
+"score": 511
+},
+{
+"word": "yanni",
+"score": 1865
+},
+{
+"word": "yelp",
+"score": 1075
+},
+{
+"word": "yelping",
+"score": 2134
+},
+{
+"word": "yelps",
+"score": 1271
+},
+{
+"word": "yip",
+"score": 1076
+},
+{
+"word": "yo",
+"score": 3087
+},
+{
+"word": "yoda",
+"score": 4254
+},
+{
+"word": "yoga",
+"score": 2587
+},
+{
+"word": "yokel",
+"score": 3786
+},
+{
+"word": "yoko",
+"score": 2176
+},
+{
+"word": "yorke",
+"score": 1336
+},
+{
+"word": "yorker",
+"score": 3766
+},
+{
+"word": "yorkie",
+"score": 2755
+},
+{
+"word": "yoshi",
+"score": 1378
+},
+{
+"word": "young",
+"score": 2272
+},
+{
+"word": "yours",
+"score": 3434
+},
+{
+"word": "yuck",
+"score": 2488
+},
+{
+"word": "zac",
+"score": 3536
+},
+{
+"word": "zappa",
+"score": 866
+},
+{
+"word": "zeke",
+"score": 2499
+},
+{
+"word": "zelda",
+"score": 793
+},
+{
+"word": "zen",
+"score": 2315
+},
+{
+"word": "zen",
+"score": 2316
+},
+{
+"word": "zep",
+"score": 1307
+},
+{
+"word": "zeppelin",
+"score": 239
+},
+{
+"word": "zeppelin",
+"score": 240
+},
+{
+"word": "zesty",
+"score": 3995
+},
+{
+"word": "ziggler",
+"score": 4255
+},
+{
+"word": "ziggy",
+"score": 2694
+},
+{
+"word": "zine",
+"score": 1334
+},
+{
+"word": "zipper",
+"score": 2988
+},
+{
+"word": "zippers",
+"score": 2407
+},
+{
+"word": "zombi",
+"score": 2854
+},
+{
+"word": "zombie",
+"score": 2853
+},
+{
+"word": "zombies",
+"score": 2856
+},
+{
+"word": "zora",
+"score": 4041
+},
+{
+"word": "zumba",
+"score": 2245
+},
+{
+"word": "zydeco",
+"score": 305
+}
+]
+}
