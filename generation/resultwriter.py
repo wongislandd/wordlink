@@ -1,6 +1,17 @@
 import os
 import json
 
+def convertFormattedResultsToJson(results):
+    print(results)
+    ret = []
+    for result in results:
+        jsonFormat = {
+            'word': result[0],
+            'score': result[1]
+        }
+        ret.append(jsonFormat)
+    return ret
+
 def write_results(targetWord, hints, formattedResults):
     # Write the results to a file
     pathToGames = "../server/src/main/resources/games/"
@@ -10,12 +21,12 @@ def write_results(targetWord, hints, formattedResults):
     finalPath = pathToGames + str(currentCount) + "-" + targetWord + ".txt"
 
     # Convert to dict for writing
-    resultsDict = {
+    associationsDict = {
         "hints": hints,
-        "results": formattedResults
+        "associations": convertFormattedResultsToJson(formattedResults)
     }
 
-    json_object = json.dumps(resultsDict, indent=0)
+    json_object = json.dumps(associationsDict, indent=0)
 
     with(open(finalPath, 'w+')) as f:
         f.write(json_object)
