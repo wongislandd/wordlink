@@ -66,11 +66,8 @@ jobs:
 
     steps:
      - uses: actions/checkout@v4
-
-     - name: Identify myself
-       run: |
-         git config --global user.email "wongislandd@gmail.com"
-         git config --global user.name "Chris"
+       with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
 
      - name: Clean install
        run: npm install
