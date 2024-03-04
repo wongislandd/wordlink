@@ -38,7 +38,7 @@ jobs:
     defaults:
       run:
         working-directory: ./server
-    needs: build
+    needs: build-spring
     environment:
       name: 'Production'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
