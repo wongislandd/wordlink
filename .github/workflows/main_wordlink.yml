@@ -80,7 +80,7 @@ jobs:
           path: ./web-app/build
 
   # Deployment job
-  deploy:
+  deploy-web:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
