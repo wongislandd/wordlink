@@ -9,7 +9,7 @@ import Typewriter from './Typewriter';
 
 const SidePanel = () => {
 
-  const { gameState, setGameState } = useContext(GameStateContext)
+  const { gameState, setGameState, setGuessHistory } = useContext(GameStateContext)
   const [hint, setHint] = useState(null)
 
 
@@ -33,6 +33,7 @@ const SidePanel = () => {
         isCompleted: false
     })
     setHint(null)
+    setGuessHistory([])
   }
 
   return (
