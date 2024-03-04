@@ -1,9 +1,11 @@
 package com.wongislandd.wordlink.utils
 
-import com.wongislandd.wordlink.models.Entry
+import com.google.gson.Gson
+import com.wongislandd.wordlink.models.GameFile
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import java.io.File
+import java.io.FileReader
 import java.io.IOException
 
 /**
@@ -12,23 +14,17 @@ import java.io.IOException
 object FileUtils {
 
     private val LOGGER: Logger = LoggerFactory.getLogger(this::class.java.simpleName)
+    private val gson = Gson()
 
-    fun parseFile(file: File): List<Entry> {
-        val entries = mutableListOf<Entry>()
-
+    fun parseFile(file: File): GameFile? {
         try {
-            file.forEachLine { line ->
-                val data = line.split(",")
-                if (data.size >= 2) {
-                    val model = Entry(data[0], data[1].toLong())
-                    entries.add(model)
-                }
-            }
+            val reader = FileReader(file)
+            val gameFile = gson.fromJson(reader, GameFile::class.java)
+            return gameFile
         } catch (e: IOException) {
             file.path
             LOGGER.error("Unable to parse file at ${file.path}", e)
         }
-
-        return entries
+        return null
     }
 }

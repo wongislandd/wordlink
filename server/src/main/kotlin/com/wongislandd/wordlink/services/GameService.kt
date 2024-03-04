@@ -1,7 +1,8 @@
 package com.wongislandd.wordlink.services
 
+import com.wongislandd.wordlink.models.Association
 import com.wongislandd.wordlink.utils.BaseLogger
-import com.wongislandd.wordlink.models.Entry
+import com.wongislandd.wordlink.models.GameFile
 import com.wongislandd.wordlink.utils.FileUtils
 import com.wongislandd.wordlink.utils.WeirdCache
 import org.springframework.core.io.ResourceLoader
@@ -15,17 +16,19 @@ import java.io.File
 class GameService(private val resourceLoader: ResourceLoader): BaseLogger() {
 
     // Slight caching optimization
-    private val weirdCache: WeirdCache<Long, List<Entry>> = WeirdCache()
+    private val weirdCache: WeirdCache<Long, GameFile> = WeirdCache()
 
-    fun getEntriesForGame(gameId: Long): List<Entry> {
+    fun getEntriesForGame(gameId: Long): List<Association> {
         // Check if we have this in the cache
         val cachedResult = weirdCache.get(gameId)
         if (cachedResult != null) {
-            return cachedResult
+            return cachedResult.associations
         }
         val associatedFile = findFile(gameId)
         val results = FileUtils.parseFile(associatedFile)
-        return results
+        return results?.associations?.also {
+            weirdCache.put(gameId, results)
+        }?: listOf()
     }
 
     private fun findFile(gameId: Long): File {

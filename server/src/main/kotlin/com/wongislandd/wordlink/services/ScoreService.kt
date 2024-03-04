@@ -1,6 +1,6 @@
 package com.wongislandd.wordlink.services
 
-import com.wongislandd.wordlink.models.Entry
+import com.wongislandd.wordlink.models.Association
 import com.wongislandd.wordlink.models.Score
 import com.wongislandd.wordlink.utils.BaseLogger
 import org.springframework.stereotype.Service
@@ -28,7 +28,7 @@ class ScoreService(private val gameService: GameService) : BaseLogger() {
         )
     }
 
-    private fun binarySearch(entries: List<Entry>, target: String): Entry? {
+    private fun binarySearch(entries: List<Association>, target: String): Association? {
         var left = 0
         var right = entries.size - 1
 
