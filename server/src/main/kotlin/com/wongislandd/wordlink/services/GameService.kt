@@ -5,13 +5,13 @@ import com.wongislandd.wordlink.models.GameFile
 import com.wongislandd.wordlink.utils.BaseLogger
 import com.wongislandd.wordlink.utils.InputStreamUtils
 import com.wongislandd.wordlink.utils.WeirdCache
+import org.springframework.core.io.Resource
 import org.springframework.core.io.ResourceLoader
+import org.springframework.core.io.support.PathMatchingResourcePatternResolver
 import org.springframework.http.HttpStatus
 import org.springframework.stereotype.Service
 import org.springframework.web.server.ResponseStatusException
-import java.io.BufferedReader
 import java.io.InputStream
-import java.io.InputStreamReader
 
 
 /**
@@ -44,10 +44,8 @@ class GameService(private val resourceLoader: ResourceLoader): BaseLogger() {
     }
 
     private fun findInputStream(gameId: Long): InputStream {
-        val dir = resourceLoader.getResource(GAMES_RESOURCE_PATH).inputStream
-        val br = BufferedReader(InputStreamReader(dir))
-        val matchedFileName = br.lines().toList().find { it.split("-").first() == gameId.toString() }
-        br.close()
+        val gameFileNames = getGameFileNames()
+        val matchedFileName = gameFileNames.find { it.split("-").first() == gameId.toString() }
         if (matchedFileName == null) {
             throw IllegalStateException("No file starting with $gameId found in the game directory.")
         } else {
@@ -56,9 +54,14 @@ class GameService(private val resourceLoader: ResourceLoader): BaseLogger() {
     }
 
     fun countGames(): Int {
-        val dir = resourceLoader.getResource(GAMES_RESOURCE_PATH).inputStream
-        val br = BufferedReader(InputStreamReader(dir))
-        return br.lines().toList().size
+        val gameFileNames = getGameFileNames()
+        return gameFileNames.size
+    }
+
+    fun getGameFileNames(): List<String> {
+        val patternResolver = PathMatchingResourcePatternResolver()
+        val resources: Array<Resource> = patternResolver.getResources("$GAMES_RESOURCE_PATH/**")
+        return resources.mapNotNull { resource -> resource.filename }
     }
 
     private fun getInputStreamForFilePath(path: String): InputStream {
