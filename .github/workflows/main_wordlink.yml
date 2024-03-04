@@ -31,8 +31,8 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: java-app
-          path: './build/libs
-
+          path: './build/libs'
+          
   deploy:
     runs-on: ubuntu-latest
     needs: build
