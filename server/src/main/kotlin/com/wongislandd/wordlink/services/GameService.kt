@@ -1,15 +1,18 @@
 package com.wongislandd.wordlink.services
 
 import com.wongislandd.wordlink.models.Association
-import com.wongislandd.wordlink.utils.BaseLogger
 import com.wongislandd.wordlink.models.GameFile
-import com.wongislandd.wordlink.utils.FileUtils
+import com.wongislandd.wordlink.utils.BaseLogger
+import com.wongislandd.wordlink.utils.InputStreamUtils
 import com.wongislandd.wordlink.utils.WeirdCache
 import org.springframework.core.io.ResourceLoader
 import org.springframework.http.HttpStatus
 import org.springframework.stereotype.Service
 import org.springframework.web.server.ResponseStatusException
-import java.io.File
+import java.io.BufferedReader
+import java.io.InputStream
+import java.io.InputStreamReader
+
 
 /**
  * Takes in gameId -> gives results for the game.
@@ -34,47 +37,36 @@ class GameService(private val resourceLoader: ResourceLoader): BaseLogger() {
         if (cachedResult != null) {
             return cachedResult
         }
-        val associatedFile = findFile(gameId)
-        return FileUtils.parseFile(associatedFile)?.also {
+        val associatedStream = findInputStream(gameId)
+        return InputStreamUtils.parseStream(associatedStream)?.also {
             weirdCache.put(gameId, it)
         }
     }
 
-    private fun findFile(gameId: Long): File {
-        val dir = resourceLoader.getResource(GAMES_RESOURCE_PATH).file
-
-        // Check if the directory path exists and is indeed a directory
-        if (!dir.exists() || !dir.isDirectory) {
-            throw IllegalStateException("No games directory found.")
-        }
-
-        // Filter files in the directory that start with the specified number
-        val matchingFiles = dir.listFiles { file ->
-            file.isFile && file.name.startsWith(gameId.toString())
-        }
-
-        // Assuming you want to read the first matching file
-        val fileToRead = matchingFiles?.firstOrNull()
-        if (fileToRead != null) {
-            return fileToRead
-        } else {
+    private fun findInputStream(gameId: Long): InputStream {
+        val dir = resourceLoader.getResource(GAMES_RESOURCE_PATH).inputStream
+        val br = BufferedReader(InputStreamReader(dir))
+        val matchedFileName = br.lines().toList().find { it.split("-").first() == gameId.toString() }
+        br.close()
+        if (matchedFileName == null) {
             throw IllegalStateException("No file starting with $gameId found in the game directory.")
+        } else {
+            return getInputStreamForFilePath("$GAMES_RESOURCE_PATH/$matchedFileName")
         }
     }
 
     fun countGames(): Int {
-        val dir = resourceLoader.getResource(GAMES_RESOURCE_PATH).file
+        val dir = resourceLoader.getResource(GAMES_RESOURCE_PATH).inputStream
+        val br = BufferedReader(InputStreamReader(dir))
+        return br.lines().toList().size
+    }
 
-        // Check if the directory path exists and is indeed a directory
-        if (!dir.exists() || !dir.isDirectory) {
-            throw IllegalStateException("No games directory found.")
-        }
-
-        return dir.listFiles()?.size ?: 0
-
+    private fun getInputStreamForFilePath(path: String): InputStream {
+        val stream = resourceLoader.getResource(path).inputStream
+        return stream
     }
 
     companion object {
-        private const val GAMES_RESOURCE_PATH = "classpath*:games"
+        private const val GAMES_RESOURCE_PATH = "classpath:games"
     }
 }
