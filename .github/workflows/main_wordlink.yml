@@ -67,10 +67,8 @@ jobs:
     steps:
      - uses: actions/checkout@v4
 
-     - name: Install dependencies
-       run: npm install
-     - name: Update website
-       run: npm run deploy
+     - name: Deploy react to gh-pages
+       uses: alainQtec/deploy-react-to-ghpages@1.0.0-beta.2
          
         
     
