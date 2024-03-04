@@ -12,23 +12,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./server
 
     steps:
       - uses: actions/checkout@v4
 
       - name: Set up Java version
         uses: actions/setup-java@v1
-        working-directory: ./server
         with:
           java-version: '17'
 
       - name: Build with Gradle
-        working-directory: ./server
         run: ./gradlew build
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v3
-        working-directory: ./server
         with:
           name: java-app
           path: './build/libs'
