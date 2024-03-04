@@ -23,6 +23,7 @@ dependencies {
 	implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 	implementation("com.google.code.gson:gson:2.8.8")
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
+	implementation("me.paulschwarz:spring-dotenv:4.0.0")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
