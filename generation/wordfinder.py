@@ -28,7 +28,7 @@ def generate_target_words(numWords):
                         "The word should be anything that most people would know. It doesn't have to be related to the"
                         "mystery theme of the game at all. The only specific words that I don't want are those which have"
                         "already been generated. This includes " + alreadyGeneratedWords},
-            {"role": "user", "content": "Generate " + numWords + " target word candidates for the game"}
+            {"role": "user", "content": "Generate " + str(numWords) + " target word candidates for the game"}
         ]
     )
     try:
