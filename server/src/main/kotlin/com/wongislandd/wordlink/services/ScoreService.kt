@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service
 class ScoreService(private val gameService: GameService) : BaseLogger() {
 
     fun identifyScore(word: String, gameId: Long): Score {
-        val entriesForGame = gameService.getEntriesForGame(gameId)
+        val entriesForGame = gameService.getAssociationsForGame(gameId)
         val entryFound = binarySearch(entriesForGame, word)
         if (entryFound == null) {
             LOGGER.warn("Couldn't find an associated entry with the guess $word")

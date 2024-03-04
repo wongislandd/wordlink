@@ -6,7 +6,9 @@ import com.wongislandd.wordlink.models.GameFile
 import com.wongislandd.wordlink.utils.FileUtils
 import com.wongislandd.wordlink.utils.WeirdCache
 import org.springframework.core.io.ResourceLoader
+import org.springframework.http.HttpStatus
 import org.springframework.stereotype.Service
+import org.springframework.web.server.ResponseStatusException
 import java.io.File
 
 /**
@@ -18,17 +20,24 @@ class GameService(private val resourceLoader: ResourceLoader): BaseLogger() {
     // Slight caching optimization
     private val weirdCache: WeirdCache<Long, GameFile> = WeirdCache()
 
-    fun getEntriesForGame(gameId: Long): List<Association> {
+    fun getAssociationsForGame(gameId: Long): List<Association> {
+        return getGameFile(gameId)?.associations ?: listOf()
+    }
+
+    fun getHintsForGame(gameId: Long): List<String> {
+        return getGameFile(gameId)?.hints ?: throw ResponseStatusException(HttpStatus.NOT_FOUND, "No hints found for $gameId")
+    }
+
+    private fun getGameFile(gameId: Long): GameFile? {
         // Check if we have this in the cache
         val cachedResult = weirdCache.get(gameId)
         if (cachedResult != null) {
-            return cachedResult.associations
+            return cachedResult
         }
         val associatedFile = findFile(gameId)
-        val results = FileUtils.parseFile(associatedFile)
-        return results?.associations?.also {
-            weirdCache.put(gameId, results)
-        }?: listOf()
+        return FileUtils.parseFile(associatedFile)?.also {
+            weirdCache.put(gameId, it)
+        }
     }
 
     private fun findFile(gameId: Long): File {

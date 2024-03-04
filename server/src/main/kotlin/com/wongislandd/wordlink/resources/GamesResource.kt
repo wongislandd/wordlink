@@ -25,7 +25,7 @@ class GamesResource(
     @GetMapping("/details")
     @CrossOrigin
     fun getGameDetails(@RequestParam gameId: Long): GameDetails {
-        val totalAssociations = gameService.getEntriesForGame(gameId).size
+        val totalAssociations = gameService.getAssociationsForGame(gameId).size
         return GameDetails(gameId, totalAssociations)
     }
 }
