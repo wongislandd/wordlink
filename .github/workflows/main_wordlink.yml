@@ -17,18 +17,21 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Set up Java version
+        working-directory: ./server
         uses: actions/setup-java@v1
         with:
           java-version: '17'
 
-      - name: Build with Maven
-        run: mvn clean install
+      - name: Build with Gradle
+        working-directory: ./server
+        run: ./gradlew build
 
       - name: Upload artifact for deployment job
+        working-directory: ./server
         uses: actions/upload-artifact@v3
         with:
           name: java-app
-          path: '${{ github.workspace }}/target/*.jar'
+          path: './build/libs
 
   deploy:
     runs-on: ubuntu-latest
