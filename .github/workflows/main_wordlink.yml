@@ -1,7 +1,7 @@
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 
-name: Build and deploy JAR app to Azure Web App - wordlink
+name: Build and deploy React and Spring app
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  build-spring:
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -33,7 +33,7 @@ jobs:
           name: java-app
           path: './server/build/libs'
           
-  deploy:
+  deploy-spring:
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -57,3 +57,16 @@ jobs:
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AF35CDBE63A1450C94DF4F49ECC595EE }}
           package: '*SNAPSHOT.jar'
+
+  build-web:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./web-app
+
+    steps:
+     - name: Update website
+       run: npm run deploy
+         
+        
+    
