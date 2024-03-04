@@ -67,8 +67,16 @@ jobs:
     steps:
      - uses: actions/checkout@v4
 
-     - name: Deploy react to gh-pages
-       uses: alainQtec/deploy-react-to-ghpages@1.0.0-beta.2
+     - name: Identify myself
+       run: |
+         git config --global user.email "wongislandd@gmail.com"
+         git config --global user.name "Chris"
+
+     - name: Clean install
+       run: npm install
+
+     - name: Deploy web app
+       run: npm run deploy
          
         
     
