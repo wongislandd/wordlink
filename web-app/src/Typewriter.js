@@ -11,7 +11,7 @@ const Typewriter = ({ text, typingDelay = 50 }) => {
     }
   }, [displayedText, text, typingDelay]);
 
-  return <div>
+  return <div className="side-padding">
         <h3>Hint</h3>
         <span className='left-align'>{displayedText}</span>
     </div>

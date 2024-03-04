@@ -23,7 +23,7 @@ const SidePanel = () => {
           }
         }).catch(error => {
             console.log(error)
-            alert("Could not fetch hint")
+            alert("Could not fetch hint!")
         })
   }
 
@@ -36,15 +36,15 @@ const SidePanel = () => {
   }
 
   return (
-    <div className='side-panel-container side-padding'>
+    <div className='side-panel-container'>
         <Stack spacing={3}>
             <div className='wordlink-logo'>
             <img src={logo} alt="Logo"/>
             </div>
             { gameState.selectedGameDetails ? 
-                <Stack spacing={3}>
+                <Stack className="side-padding" spacing={3}>
                     <GameInfo selectedGameDetails={gameState.selectedGameDetails}/>
-                    <Button variant="contained" onClick={(e) => getHint()}>Get hint</Button>
+                    <Button disabled={hint} variant="contained" onClick={(e) => getHint()}>Get hint</Button>
                 </Stack> : "" }
         {hint ? <Typewriter text={hint}/> : ""}
         </Stack>

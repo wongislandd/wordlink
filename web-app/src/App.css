@@ -176,6 +176,7 @@ body, html {
   padding: 0;
   height: 100%;
   width: 100%;
+  overflow: hidden; /* This will prevent scrolling in all directions */
 }
 
 .container {
