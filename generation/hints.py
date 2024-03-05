@@ -20,7 +20,7 @@ def generate_hints(word):
             {"role": "system",
              "content": "You are a helpful assistant designed to output a JSON list of riddles for a given word."
                         "You only provide one field 'riddles' in the response with only the question for the riddle" },
-            {"role": "user", "content": "Generate 3 riddles of medium difficulty for the word " + word}
+            {"role": "user", "content": "Generate 3 riddles of hard difficulty for the word " + word}
         ]
     )
     try:

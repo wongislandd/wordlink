@@ -1,0 +1,7049 @@
+{
+"hints": [
+"I am tall and bright, always facing towards the light. What am I?",
+"I follow the sun throughout the day, my face turning with its way. What flower am I?",
+"I am like a golden crown, blooming high and looking down. What is my name?"
+],
+"associations": [
+{
+"word": "abelia",
+"score": 434
+},
+{
+"word": "abutilon",
+"score": 632
+},
+{
+"word": "abutilon",
+"score": 633
+},
+{
+"word": "acephate",
+"score": 821
+},
+{
+"word": "acerola",
+"score": 1303
+},
+{
+"word": "achillea",
+"score": 1077
+},
+{
+"word": "achiote",
+"score": 1117
+},
+{
+"word": "achira",
+"score": 1547
+},
+{
+"word": "acorn",
+"score": 1633
+},
+{
+"word": "acorus",
+"score": 239
+},
+{
+"word": "acorus",
+"score": 240
+},
+{
+"word": "acreage",
+"score": 1191
+},
+{
+"word": "actaea",
+"score": 1444
+},
+{
+"word": "actaea",
+"score": 1445
+},
+{
+"word": "actinidia",
+"score": 1094
+},
+{
+"word": "actinidia",
+"score": 1095
+},
+{
+"word": "adzuki",
+"score": 228
+},
+{
+"word": "aestivum",
+"score": 992
+},
+{
+"word": "africana",
+"score": 812
+},
+{
+"word": "agastache",
+"score": 650
+},
+{
+"word": "agastache",
+"score": 651
+},
+{
+"word": "agave",
+"score": 769
+},
+{
+"word": "agaves",
+"score": 770
+},
+{
+"word": "ageratum",
+"score": 215
+},
+{
+"word": "agriculturist",
+"score": 1272
+},
+{
+"word": "agronomical",
+"score": 1323
+},
+{
+"word": "ajuga",
+"score": 246
+},
+{
+"word": "ajuga",
+"score": 247
+},
+{
+"word": "ajvar",
+"score": 1279
+},
+{
+"word": "alata",
+"score": 845
+},
+{
+"word": "alatus",
+"score": 1337
+},
+{
+"word": "alfalfa",
+"score": 179
+},
+{
+"word": "alienor",
+"score": 1155
+},
+{
+"word": "allamanda",
+"score": 764
+},
+{
+"word": "allium",
+"score": 175
+},
+{
+"word": "allium",
+"score": 1190
+},
+{
+"word": "alliums",
+"score": 174
+},
+{
+"word": "almond",
+"score": 14
+},
+{
+"word": "almonds",
+"score": 722
+},
+{
+"word": "aloe",
+"score": 717
+},
+{
+"word": "aloes",
+"score": 716
+},
+{
+"word": "alphonso",
+"score": 607
+},
+{
+"word": "alstroemeria",
+"score": 339
+},
+{
+"word": "alstromeria",
+"score": 204
+},
+{
+"word": "alternaria",
+"score": 914
+},
+{
+"word": "althea",
+"score": 106
+},
+{
+"word": "alyssum",
+"score": 1027
+},
+{
+"word": "alyssum",
+"score": 1028
+},
+{
+"word": "amadea",
+"score": 825
+},
+{
+"word": "amanita",
+"score": 1318
+},
+{
+"word": "amanita",
+"score": 1319
+},
+{
+"word": "amaranth",
+"score": 313
+},
+{
+"word": "amaranthus",
+"score": 35
+},
+{
+"word": "amaranthus",
+"score": 36
+},
+{
+"word": "amelanchier",
+"score": 319
+},
+{
+"word": "amelanchier",
+"score": 320
+},
+{
+"word": "amflora",
+"score": 1289
+},
+{
+"word": "amla",
+"score": 1154
+},
+{
+"word": "amsonia",
+"score": 1114
+},
+{
+"word": "amsonia",
+"score": 1115
+},
+{
+"word": "anciso",
+"score": 506
+},
+{
+"word": "andromeda",
+"score": 1530
+},
+{
+"word": "andromeda",
+"score": 1531
+},
+{
+"word": "angelica",
+"score": 1118
+},
+{
+"word": "angelonia",
+"score": 442
+},
+{
+"word": "angustifolia",
+"score": 542
+},
+{
+"word": "anise",
+"score": 1498
+},
+{
+"word": "aniseed",
+"score": 1512
+},
+{
+"word": "annatto",
+"score": 151
+},
+{
+"word": "annual",
+"score": 1260
+},
+{
+"word": "annuals",
+"score": 1259
+},
+{
+"word": "anthurium",
+"score": 97
+},
+{
+"word": "anthuriums",
+"score": 931
+},
+{
+"word": "aphid",
+"score": 528
+},
+{
+"word": "aphids",
+"score": 529
+},
+{
+"word": "apple",
+"score": 566
+},
+{
+"word": "apples",
+"score": 1759
+},
+{
+"word": "apricot",
+"score": 502
+},
+{
+"word": "apricots",
+"score": 818
+},
+{
+"word": "aquaphor",
+"score": 827
+},
+{
+"word": "aquifolium",
+"score": 1383
+},
+{
+"word": "aquilegia",
+"score": 1198
+},
+{
+"word": "arabicas",
+"score": 1141
+},
+{
+"word": "aralia",
+"score": 1071
+},
+{
+"word": "arbequina",
+"score": 170
+},
+{
+"word": "arborvitae",
+"score": 1325
+},
+{
+"word": "areca",
+"score": 145
+},
+{
+"word": "arecanut",
+"score": 543
+},
+{
+"word": "argan",
+"score": 654
+},
+{
+"word": "aronia",
+"score": 740
+},
+{
+"word": "arrowleaf",
+"score": 608
+},
+{
+"word": "arrowroot",
+"score": 1546
+},
+{
+"word": "artemesia",
+"score": 460
+},
+{
+"word": "artemisia",
+"score": 527
+},
+{
+"word": "artichoke",
+"score": 519
+},
+{
+"word": "artichokes",
+"score": 782
+},
+{
+"word": "arum",
+"score": 1207
+},
+{
+"word": "asclepias",
+"score": 773
+},
+{
+"word": "asclepias",
+"score": 774
+},
+{
+"word": "asparagus",
+"score": 403
+},
+{
+"word": "asphodel",
+"score": 1373
+},
+{
+"word": "assortment",
+"score": 120
+},
+{
+"word": "aster",
+"score": 915
+},
+{
+"word": "asteraceae",
+"score": 897
+},
+{
+"word": "asters",
+"score": 1042
+},
+{
+"word": "astilbe",
+"score": 356
+},
+{
+"word": "astilbes",
+"score": 357
+},
+{
+"word": "ataulfo",
+"score": 1700
+},
+{
+"word": "attic",
+"score": 162
+},
+{
+"word": "aucuba",
+"score": 702
+},
+{
+"word": "aucuba",
+"score": 703
+},
+{
+"word": "aviko",
+"score": 1709
+},
+{
+"word": "avocado",
+"score": 662
+},
+{
+"word": "avocadoes",
+"score": 1517
+},
+{
+"word": "avocados",
+"score": 1573
+},
+{
+"word": "awn",
+"score": 1257
+},
+{
+"word": "awns",
+"score": 1256
+},
+{
+"word": "babadoost",
+"score": 663
+},
+{
+"word": "babassu",
+"score": 823
+},
+{
+"word": "bacopa",
+"score": 286
+},
+{
+"word": "bahia",
+"score": 1358
+},
+{
+"word": "bahiagrass",
+"score": 219
+},
+{
+"word": "bajra",
+"score": 1283
+},
+{
+"word": "balmoral",
+"score": 485
+},
+{
+"word": "balsamroot",
+"score": 103
+},
+{
+"word": "banana",
+"score": 1273
+},
+{
+"word": "baobab",
+"score": 1660
+},
+{
+"word": "baptisia",
+"score": 233
+},
+{
+"word": "baptisia",
+"score": 234
+},
+{
+"word": "barberries",
+"score": 935
+},
+{
+"word": "barberry",
+"score": 144
+},
+{
+"word": "barley",
+"score": 148
+},
+{
+"word": "barleys",
+"score": 345
+},
+{
+"word": "barrenwort",
+"score": 1558
+},
+{
+"word": "basil",
+"score": 211
+},
+{
+"word": "basil",
+"score": 212
+},
+{
+"word": "basils",
+"score": 495
+},
+{
+"word": "basmati",
+"score": 1011
+},
+{
+"word": "bassia",
+"score": 1216
+},
+{
+"word": "batatas",
+"score": 1200
+},
+{
+"word": "bayberry",
+"score": 427
+},
+{
+"word": "beachgrass",
+"score": 1421
+},
+{
+"word": "bean",
+"score": 161
+},
+{
+"word": "bearberry",
+"score": 89
+},
+{
+"word": "beargrass",
+"score": 465
+},
+{
+"word": "beautyberry",
+"score": 450
+},
+{
+"word": "beaver",
+"score": 644
+},
+{
+"word": "bedstraw",
+"score": 1534
+},
+{
+"word": "beechnut",
+"score": 1429
+},
+{
+"word": "beechnuts",
+"score": 1428
+},
+{
+"word": "beeswax",
+"score": 1459
+},
+{
+"word": "beet",
+"score": 7
+},
+{
+"word": "beets",
+"score": 780
+},
+{
+"word": "begonia",
+"score": 376
+},
+{
+"word": "begonias",
+"score": 377
+},
+{
+"word": "bellflower",
+"score": 232
+},
+{
+"word": "bellflowers",
+"score": 141
+},
+{
+"word": "beloved",
+"score": 335
+},
+{
+"word": "berberis",
+"score": 489
+},
+{
+"word": "berberis",
+"score": 490
+},
+{
+"word": "bergefurd",
+"score": 1355
+},
+{
+"word": "bermudagrass",
+"score": 1395
+},
+{
+"word": "berries",
+"score": 63
+},
+{
+"word": "berry",
+"score": 61
+},
+{
+"word": "berry",
+"score": 62
+},
+{
+"word": "berrylike",
+"score": 685
+},
+{
+"word": "bicolor",
+"score": 701
+},
+{
+"word": "bigleaf",
+"score": 375
+},
+{
+"word": "bilberries",
+"score": 1638
+},
+{
+"word": "bilberry",
+"score": 1639
+},
+{
+"word": "bindweed",
+"score": 1695
+},
+{
+"word": "bintje",
+"score": 1521
+},
+{
+"word": "biofortified",
+"score": 1600
+},
+{
+"word": "birdfeed",
+"score": 1486
+},
+{
+"word": "birdseed",
+"score": 1076
+},
+{
+"word": "blackeyed",
+"score": 282
+},
+{
+"word": "blackfly",
+"score": 1545
+},
+{
+"word": "blackthorn",
+"score": 851
+},
+{
+"word": "bloodstone",
+"score": 920
+},
+{
+"word": "bloom",
+"score": 1168
+},
+{
+"word": "blooming",
+"score": 1170
+},
+{
+"word": "blooms",
+"score": 1167
+},
+{
+"word": "blossoming",
+"score": 225
+},
+{
+"word": "blossoms",
+"score": 1026
+},
+{
+"word": "bluebell",
+"score": 999
+},
+{
+"word": "blueberries",
+"score": 723
+},
+{
+"word": "blueberry",
+"score": 125
+},
+{
+"word": "bluebonnet",
+"score": 486
+},
+{
+"word": "bluebonnets",
+"score": 1109
+},
+{
+"word": "bluegrass",
+"score": 1431
+},
+{
+"word": "bluegrass",
+"score": 1432
+},
+{
+"word": "bluegrasses",
+"score": 1433
+},
+{
+"word": "bluestem",
+"score": 647
+},
+{
+"word": "boletus",
+"score": 1489
+},
+{
+"word": "boletus",
+"score": 1490
+},
+{
+"word": "bollgard",
+"score": 540
+},
+{
+"word": "boo",
+"score": 1106
+},
+{
+"word": "boodle",
+"score": 94
+},
+{
+"word": "borage",
+"score": 39
+},
+{
+"word": "borlotti",
+"score": 796
+},
+{
+"word": "botanical",
+"score": 858
+},
+{
+"word": "bottlebrush",
+"score": 404
+},
+{
+"word": "bougainvillea",
+"score": 1505
+},
+{
+"word": "bougainvilleas",
+"score": 1506
+},
+{
+"word": "box",
+"score": 1622
+},
+{
+"word": "boxwood",
+"score": 1623
+},
+{
+"word": "boysenberries",
+"score": 961
+},
+{
+"word": "boysenberry",
+"score": 960
+},
+{
+"word": "bract",
+"score": 1039
+},
+{
+"word": "bracts",
+"score": 1336
+},
+{
+"word": "bran",
+"score": 1736
+},
+{
+"word": "brandywine",
+"score": 569
+},
+{
+"word": "brans",
+"score": 1737
+},
+{
+"word": "brassica",
+"score": 168
+},
+{
+"word": "brassica",
+"score": 333
+},
+{
+"word": "brassicaceae",
+"score": 705
+},
+{
+"word": "brassicas",
+"score": 169
+},
+{
+"word": "brinjal",
+"score": 1037
+},
+{
+"word": "brinjals",
+"score": 577
+},
+{
+"word": "broadleaf",
+"score": 591
+},
+{
+"word": "broadleaves",
+"score": 639
+},
+{
+"word": "broccoli",
+"score": 1357
+},
+{
+"word": "brokens",
+"score": 1053
+},
+{
+"word": "brome",
+"score": 199
+},
+{
+"word": "bromegrass",
+"score": 200
+},
+{
+"word": "bromeliad",
+"score": 514
+},
+{
+"word": "broomcorn",
+"score": 877
+},
+{
+"word": "brugmansia",
+"score": 208
+},
+{
+"word": "brugmansia",
+"score": 209
+},
+{
+"word": "brunnera",
+"score": 1075
+},
+{
+"word": "buckwheat",
+"score": 16
+},
+{
+"word": "buddleia",
+"score": 1596
+},
+{
+"word": "buddleja",
+"score": 1569
+},
+{
+"word": "budwood",
+"score": 1415
+},
+{
+"word": "bulbil",
+"score": 73
+},
+{
+"word": "bulbils",
+"score": 72
+},
+{
+"word": "bulblets",
+"score": 291
+},
+{
+"word": "bulghur",
+"score": 1054
+},
+{
+"word": "bulgur",
+"score": 1055
+},
+{
+"word": "bulrush",
+"score": 1578
+},
+{
+"word": "bunchberry",
+"score": 447
+},
+{
+"word": "burdock",
+"score": 1524
+},
+{
+"word": "burghul",
+"score": 1685
+},
+{
+"word": "burnet",
+"score": 1458
+},
+{
+"word": "bushiness",
+"score": 1516
+},
+{
+"word": "butterbeans",
+"score": 457
+},
+{
+"word": "buttercrunch",
+"score": 1356
+},
+{
+"word": "buttercup",
+"score": 795
+},
+{
+"word": "buttercups",
+"score": 1288
+},
+{
+"word": "butterhead",
+"score": 836
+},
+{
+"word": "butternut",
+"score": 884
+},
+{
+"word": "butternuts",
+"score": 883
+},
+{
+"word": "buttonbush",
+"score": 1194
+},
+{
+"word": "buttonwood",
+"score": 1684
+},
+{
+"word": "buxus",
+"score": 1508
+},
+{
+"word": "buxus",
+"score": 1509
+},
+{
+"word": "cabbage",
+"score": 93
+},
+{
+"word": "cabbages",
+"score": 1004
+},
+{
+"word": "cacao",
+"score": 1456
+},
+{
+"word": "cactus",
+"score": 1406
+},
+{
+"word": "cajeput",
+"score": 1161
+},
+{
+"word": "cakelike",
+"score": 1324
+},
+{
+"word": "calabaza",
+"score": 563
+},
+{
+"word": "calabrese",
+"score": 1536
+},
+{
+"word": "caladium",
+"score": 163
+},
+{
+"word": "caladiums",
+"score": 298
+},
+{
+"word": "calendula",
+"score": 856
+},
+{
+"word": "calendulas",
+"score": 1597
+},
+{
+"word": "calibrachoa",
+"score": 1307
+},
+{
+"word": "camarosa",
+"score": 844
+},
+{
+"word": "camas",
+"score": 1219
+},
+{
+"word": "camassia",
+"score": 1375
+},
+{
+"word": "camassia",
+"score": 1376
+},
+{
+"word": "camelina",
+"score": 953
+},
+{
+"word": "camelina",
+"score": 954
+},
+{
+"word": "camellia",
+"score": 324
+},
+{
+"word": "camomile",
+"score": 371
+},
+{
+"word": "campanula",
+"score": 142
+},
+{
+"word": "campanulas",
+"score": 1164
+},
+{
+"word": "campion",
+"score": 1228
+},
+{
+"word": "canaryseed",
+"score": 721
+},
+{
+"word": "candylike",
+"score": 1688
+},
+{
+"word": "canna",
+"score": 860
+},
+{
+"word": "cannabis",
+"score": 1499
+},
+{
+"word": "cannas",
+"score": 859
+},
+{
+"word": "canola",
+"score": 18
+},
+{
+"word": "cantaloup",
+"score": 552
+},
+{
+"word": "cantaloupe",
+"score": 553
+},
+{
+"word": "canteloupe",
+"score": 1051
+},
+{
+"word": "caparol",
+"score": 1316
+},
+{
+"word": "caperberries",
+"score": 1125
+},
+{
+"word": "capsicum",
+"score": 622
+},
+{
+"word": "capsicums",
+"score": 623
+},
+{
+"word": "carambola",
+"score": 660
+},
+{
+"word": "caramelly",
+"score": 1529
+},
+{
+"word": "caraway",
+"score": 653
+},
+{
+"word": "cardoon",
+"score": 299
+},
+{
+"word": "carex",
+"score": 398
+},
+{
+"word": "carex",
+"score": 399
+},
+{
+"word": "carob",
+"score": 1174
+},
+{
+"word": "carobs",
+"score": 1173
+},
+{
+"word": "caryopteris",
+"score": 1341
+},
+{
+"word": "cashew",
+"score": 799
+},
+{
+"word": "cashews",
+"score": 1448
+},
+{
+"word": "cassava",
+"score": 988
+},
+{
+"word": "cassavas",
+"score": 1403
+},
+{
+"word": "cassia",
+"score": 1031
+},
+{
+"word": "caster",
+"score": 642
+},
+{
+"word": "castor",
+"score": 641
+},
+{
+"word": "castor",
+"score": 643
+},
+{
+"word": "catalpa",
+"score": 1570
+},
+{
+"word": "catkin",
+"score": 218
+},
+{
+"word": "catmint",
+"score": 567
+},
+{
+"word": "cattail",
+"score": 700
+},
+{
+"word": "cattleya",
+"score": 342
+},
+{
+"word": "cattleyas",
+"score": 419
+},
+{
+"word": "cauliflower",
+"score": 83
+},
+{
+"word": "cauliflowers",
+"score": 82
+},
+{
+"word": "ceanothus",
+"score": 1213
+},
+{
+"word": "celandine",
+"score": 172
+},
+{
+"word": "celeriac",
+"score": 1561
+},
+{
+"word": "celery",
+"score": 109
+},
+{
+"word": "celosia",
+"score": 86
+},
+{
+"word": "celosia",
+"score": 87
+},
+{
+"word": "ceps",
+"score": 1522
+},
+{
+"word": "cereal",
+"score": 747
+},
+{
+"word": "cereals",
+"score": 745
+},
+{
+"word": "ceriman",
+"score": 1072
+},
+{
+"word": "cerise",
+"score": 1553
+},
+{
+"word": "chaff",
+"score": 978
+},
+{
+"word": "chamaecyparis",
+"score": 1293
+},
+{
+"word": "chamaecyparis",
+"score": 1294
+},
+{
+"word": "chambourcin",
+"score": 1090
+},
+{
+"word": "chamomile",
+"score": 370
+},
+{
+"word": "champignon",
+"score": 1710
+},
+{
+"word": "champignons",
+"score": 1735
+},
+{
+"word": "chandan",
+"score": 1280
+},
+{
+"word": "chanterelle",
+"score": 1754
+},
+{
+"word": "chard",
+"score": 838
+},
+{
+"word": "charentais",
+"score": 327
+},
+{
+"word": "charlock",
+"score": 734
+},
+{
+"word": "chayote",
+"score": 1446
+},
+{
+"word": "cherimoya",
+"score": 187
+},
+{
+"word": "cherimoyas",
+"score": 188
+},
+{
+"word": "cherries",
+"score": 1552
+},
+{
+"word": "cherry",
+"score": 1551
+},
+{
+"word": "chervil",
+"score": 1482
+},
+{
+"word": "chickpea",
+"score": 581
+},
+{
+"word": "chickpeas",
+"score": 1211
+},
+{
+"word": "chickweed",
+"score": 1267
+},
+{
+"word": "chicories",
+"score": 863
+},
+{
+"word": "chicory",
+"score": 32
+},
+{
+"word": "chikoo",
+"score": 1160
+},
+{
+"word": "chile",
+"score": 1150
+},
+{
+"word": "chile",
+"score": 1151
+},
+{
+"word": "chili",
+"score": 680
+},
+{
+"word": "chilli",
+"score": 679
+},
+{
+"word": "chinaberry",
+"score": 1333
+},
+{
+"word": "chincapin",
+"score": 1568
+},
+{
+"word": "chinensis",
+"score": 1575
+},
+{
+"word": "chinkapin",
+"score": 1567
+},
+{
+"word": "chitting",
+"score": 1387
+},
+{
+"word": "chive",
+"score": 470
+},
+{
+"word": "chives",
+"score": 469
+},
+{
+"word": "chlorotic",
+"score": 1099
+},
+{
+"word": "choclo",
+"score": 1352
+},
+{
+"word": "chokeberries",
+"score": 1146
+},
+{
+"word": "chokeberry",
+"score": 308
+},
+{
+"word": "chokecherries",
+"score": 1236
+},
+{
+"word": "chokecherry",
+"score": 648
+},
+{
+"word": "chrysanthemum",
+"score": 1131
+},
+{
+"word": "chrysanthemums",
+"score": 1135
+},
+{
+"word": "cineraria",
+"score": 430
+},
+{
+"word": "cinquefoil",
+"score": 562
+},
+{
+"word": "cippolini",
+"score": 1559
+},
+{
+"word": "citron",
+"score": 1494
+},
+{
+"word": "citronella",
+"score": 1124
+},
+{
+"word": "citrus",
+"score": 131
+},
+{
+"word": "citruses",
+"score": 130
+},
+{
+"word": "clarkia",
+"score": 1748
+},
+{
+"word": "clementine",
+"score": 1571
+},
+{
+"word": "clementines",
+"score": 1572
+},
+{
+"word": "cleome",
+"score": 256
+},
+{
+"word": "clethra",
+"score": 407
+},
+{
+"word": "clethra",
+"score": 408
+},
+{
+"word": "cling",
+"score": 969
+},
+{
+"word": "clingstone",
+"score": 970
+},
+{
+"word": "clivia",
+"score": 898
+},
+{
+"word": "clivias",
+"score": 589
+},
+{
+"word": "cloudberries",
+"score": 1312
+},
+{
+"word": "cloudberry",
+"score": 1313
+},
+{
+"word": "clove",
+"score": 1603
+},
+{
+"word": "clover",
+"score": 34
+},
+{
+"word": "clovers",
+"score": 418
+},
+{
+"word": "clubroot",
+"score": 1739
+},
+{
+"word": "cobnut",
+"score": 598
+},
+{
+"word": "cocklebur",
+"score": 481
+},
+{
+"word": "cockscomb",
+"score": 463
+},
+{
+"word": "cocoyam",
+"score": 1033
+},
+{
+"word": "coffeeberry",
+"score": 638
+},
+{
+"word": "colchicum",
+"score": 872
+},
+{
+"word": "colchicum",
+"score": 873
+},
+{
+"word": "colchicums",
+"score": 1533
+},
+{
+"word": "coleus",
+"score": 1515
+},
+{
+"word": "collard",
+"score": 321
+},
+{
+"word": "colocasia",
+"score": 864
+},
+{
+"word": "colocasia",
+"score": 865
+},
+{
+"word": "coltsfoot",
+"score": 789
+},
+{
+"word": "columbarium",
+"score": 431
+},
+{
+"word": "columbine",
+"score": 624
+},
+{
+"word": "columbines",
+"score": 625
+},
+{
+"word": "colza",
+"score": 28
+},
+{
+"word": "comb",
+"score": 464
+},
+{
+"word": "comestible",
+"score": 26
+},
+{
+"word": "communis",
+"score": 1130
+},
+{
+"word": "compositae",
+"score": 166
+},
+{
+"word": "compositae",
+"score": 167
+},
+{
+"word": "coneflower",
+"score": 263
+},
+{
+"word": "coneflowers",
+"score": 262
+},
+{
+"word": "coontie",
+"score": 720
+},
+{
+"word": "cordifolia",
+"score": 1416
+},
+{
+"word": "cordyline",
+"score": 1044
+},
+{
+"word": "cordyline",
+"score": 1045
+},
+{
+"word": "cordylines",
+"score": 1098
+},
+{
+"word": "coreopsis",
+"score": 400
+},
+{
+"word": "coriander",
+"score": 1507
+},
+{
+"word": "corm",
+"score": 946
+},
+{
+"word": "corn",
+"score": 5
+},
+{
+"word": "corncob",
+"score": 1584
+},
+{
+"word": "corncobs",
+"score": 1583
+},
+{
+"word": "cornflower",
+"score": 48
+},
+{
+"word": "cornflowers",
+"score": 46
+},
+{
+"word": "cornhusk",
+"score": 1320
+},
+{
+"word": "cornstalk",
+"score": 1120
+},
+{
+"word": "cornstalks",
+"score": 1670
+},
+{
+"word": "corydalis",
+"score": 1276
+},
+{
+"word": "corydalis",
+"score": 1277
+},
+{
+"word": "corydalus",
+"score": 1275
+},
+{
+"word": "corylus",
+"score": 1740
+},
+{
+"word": "corylus",
+"score": 1741
+},
+{
+"word": "cos",
+"score": 1165
+},
+{
+"word": "cotoneaster",
+"score": 251
+},
+{
+"word": "cotton",
+"score": 274
+},
+{
+"word": "cottonseed",
+"score": 22
+},
+{
+"word": "cottonseeds",
+"score": 23
+},
+{
+"word": "cotyledon",
+"score": 432
+},
+{
+"word": "cotyledons",
+"score": 725
+},
+{
+"word": "courgette",
+"score": 768
+},
+{
+"word": "courgettes",
+"score": 667
+},
+{
+"word": "cowpea",
+"score": 965
+},
+{
+"word": "cowpeas",
+"score": 964
+},
+{
+"word": "cowslip",
+"score": 76
+},
+{
+"word": "cowslips",
+"score": 75
+},
+{
+"word": "coxcomb",
+"score": 462
+},
+{
+"word": "crabapple",
+"score": 1488
+},
+{
+"word": "craisins",
+"score": 1493
+},
+{
+"word": "crambe",
+"score": 10
+},
+{
+"word": "crambe",
+"score": 11
+},
+{
+"word": "cranberries",
+"score": 1538
+},
+{
+"word": "cranberry",
+"score": 857
+},
+{
+"word": "cranesbill",
+"score": 537
+},
+{
+"word": "craw",
+"score": 244
+},
+{
+"word": "cress",
+"score": 1183
+},
+{
+"word": "crinum",
+"score": 365
+},
+{
+"word": "crocosmia",
+"score": 378
+},
+{
+"word": "crocus",
+"score": 1310
+},
+{
+"word": "crookneck",
+"score": 396
+},
+{
+"word": "crop",
+"score": 243
+},
+{
+"word": "crops",
+"score": 245
+},
+{
+"word": "croton",
+"score": 115
+},
+{
+"word": "crotons",
+"score": 257
+},
+{
+"word": "crucifer",
+"score": 1420
+},
+{
+"word": "cruciferae",
+"score": 704
+},
+{
+"word": "cucumber",
+"score": 264
+},
+{
+"word": "cucumbers",
+"score": 265
+},
+{
+"word": "cucurbit",
+"score": 133
+},
+{
+"word": "cucurbita",
+"score": 532
+},
+{
+"word": "cucurbita",
+"score": 533
+},
+{
+"word": "cucurbitaceae",
+"score": 1565
+},
+{
+"word": "cucurbitaceae",
+"score": 1566
+},
+{
+"word": "cucurbits",
+"score": 448
+},
+{
+"word": "cuitlacoche",
+"score": 1650
+},
+{
+"word": "cuke",
+"score": 1010
+},
+{
+"word": "cukes",
+"score": 1295
+},
+{
+"word": "cultivar",
+"score": 421
+},
+{
+"word": "cultivars",
+"score": 422
+},
+{
+"word": "cultivation",
+"score": 1477
+},
+{
+"word": "cultivations",
+"score": 1479
+},
+{
+"word": "cuphea",
+"score": 38
+},
+{
+"word": "currant",
+"score": 560
+},
+{
+"word": "currants",
+"score": 561
+},
+{
+"word": "cutflower",
+"score": 921
+},
+{
+"word": "cutleaf",
+"score": 289
+},
+{
+"word": "cutworm",
+"score": 1223
+},
+{
+"word": "cyclamen",
+"score": 728
+},
+{
+"word": "cyclamens",
+"score": 729
+},
+{
+"word": "cymbid",
+"score": 496
+},
+{
+"word": "cymbidium",
+"score": 497
+},
+{
+"word": "cymbidiums",
+"score": 1142
+},
+{
+"word": "daffodil",
+"score": 1242
+},
+{
+"word": "daffs",
+"score": 530
+},
+{
+"word": "dahlia",
+"score": 1249
+},
+{
+"word": "dahlias",
+"score": 1586
+},
+{
+"word": "daisy",
+"score": 1140
+},
+{
+"word": "daisylike",
+"score": 726
+},
+{
+"word": "dalda",
+"score": 1504
+},
+{
+"word": "damson",
+"score": 1460
+},
+{
+"word": "damsons",
+"score": 1510
+},
+{
+"word": "dandelion",
+"score": 205
+},
+{
+"word": "dandelions",
+"score": 1449
+},
+{
+"word": "daphne",
+"score": 955
+},
+{
+"word": "daphne",
+"score": 956
+},
+{
+"word": "daphnes",
+"score": 1582
+},
+{
+"word": "dasheen",
+"score": 1679
+},
+{
+"word": "daun",
+"score": 1411
+},
+{
+"word": "davidii",
+"score": 943
+},
+{
+"word": "daylilies",
+"score": 1309
+},
+{
+"word": "daylily",
+"score": 1555
+},
+{
+"word": "deciduous",
+"score": 942
+},
+{
+"word": "decoction",
+"score": 1405
+},
+{
+"word": "decoctions",
+"score": 1404
+},
+{
+"word": "degummed",
+"score": 1091
+},
+{
+"word": "delicata",
+"score": 414
+},
+{
+"word": "delphinium",
+"score": 1645
+},
+{
+"word": "delphiniums",
+"score": 1755
+},
+{
+"word": "deltapine",
+"score": 786
+},
+{
+"word": "demerara",
+"score": 995
+},
+{
+"word": "demerara",
+"score": 996
+},
+{
+"word": "dendrobium",
+"score": 508
+},
+{
+"word": "dendrobiums",
+"score": 509
+},
+{
+"word": "deutzia",
+"score": 355
+},
+{
+"word": "dewberries",
+"score": 392
+},
+{
+"word": "dewberry",
+"score": 391
+},
+{
+"word": "dianthus",
+"score": 944
+},
+{
+"word": "dianthus",
+"score": 945
+},
+{
+"word": "diascia",
+"score": 809
+},
+{
+"word": "dill",
+"score": 1399
+},
+{
+"word": "dioscorea",
+"score": 1631
+},
+{
+"word": "dioscorea",
+"score": 1632
+},
+{
+"word": "diplodia",
+"score": 1539
+},
+{
+"word": "diverseness",
+"score": 123
+},
+{
+"word": "diversification",
+"score": 1068
+},
+{
+"word": "dock",
+"score": 889
+},
+{
+"word": "dodder",
+"score": 1513
+},
+{
+"word": "dogbane",
+"score": 397
+},
+{
+"word": "dracaena",
+"score": 423
+},
+{
+"word": "dracaenas",
+"score": 1052
+},
+{
+"word": "drupe",
+"score": 305
+},
+{
+"word": "drupes",
+"score": 586
+},
+{
+"word": "drydown",
+"score": 1692
+},
+{
+"word": "dukkah",
+"score": 1557
+},
+{
+"word": "durum",
+"score": 351
+},
+{
+"word": "dussehri",
+"score": 1012
+},
+{
+"word": "earthgrains",
+"score": 901
+},
+{
+"word": "eatage",
+"score": 628
+},
+{
+"word": "echeveria",
+"score": 295
+},
+{
+"word": "eddoes",
+"score": 1381
+},
+{
+"word": "edible",
+"score": 25
+},
+{
+"word": "efflorescence",
+"score": 1169
+},
+{
+"word": "eggplant",
+"score": 578
+},
+{
+"word": "eggplants",
+"score": 1369
+},
+{
+"word": "egusi",
+"score": 1414
+},
+{
+"word": "elsanta",
+"score": 534
+},
+{
+"word": "elstar",
+"score": 640
+},
+{
+"word": "emmer",
+"score": 1300
+},
+{
+"word": "endive",
+"score": 1057
+},
+{
+"word": "endives",
+"score": 1056
+},
+{
+"word": "ensiled",
+"score": 899
+},
+{
+"word": "epimedium",
+"score": 409
+},
+{
+"word": "epimedium",
+"score": 410
+},
+{
+"word": "eryngium",
+"score": 902
+},
+{
+"word": "eryngium",
+"score": 903
+},
+{
+"word": "esculenta",
+"score": 1108
+},
+{
+"word": "espaliered",
+"score": 1013
+},
+{
+"word": "eucalyptus",
+"score": 1070
+},
+{
+"word": "euonymous",
+"score": 1171
+},
+{
+"word": "euonymus",
+"score": 287
+},
+{
+"word": "euonymus",
+"score": 288
+},
+{
+"word": "eupatorium",
+"score": 195
+},
+{
+"word": "eupatorium",
+"score": 196
+},
+{
+"word": "euphorbia",
+"score": 328
+},
+{
+"word": "euphorbia",
+"score": 329
+},
+{
+"word": "euphorbias",
+"score": 1206
+},
+{
+"word": "evelo",
+"score": 401
+},
+{
+"word": "everbearing",
+"score": 559
+},
+{
+"word": "expeller",
+"score": 372
+},
+{
+"word": "fabaceae",
+"score": 811
+},
+{
+"word": "fatsia",
+"score": 482
+},
+{
+"word": "fava",
+"score": 1019
+},
+{
+"word": "feedgrain",
+"score": 1351
+},
+{
+"word": "feekes",
+"score": 1235
+},
+{
+"word": "feijoa",
+"score": 917
+},
+{
+"word": "fennel",
+"score": 1734
+},
+{
+"word": "fenugreek",
+"score": 975
+},
+{
+"word": "fernlike",
+"score": 983
+},
+{
+"word": "ferny",
+"score": 1224
+},
+{
+"word": "fescue",
+"score": 1287
+},
+{
+"word": "feverfew",
+"score": 1422
+},
+{
+"word": "fibermax",
+"score": 1757
+},
+{
+"word": "fiddlehead",
+"score": 1359
+},
+{
+"word": "fig",
+"score": 1526
+},
+{
+"word": "figs",
+"score": 1527
+},
+{
+"word": "figure",
+"score": 1528
+},
+{
+"word": "filbert",
+"score": 599
+},
+{
+"word": "firebush",
+"score": 361
+},
+{
+"word": "fireweed",
+"score": 687
+},
+{
+"word": "flandria",
+"score": 664
+},
+{
+"word": "flax",
+"score": 24
+},
+{
+"word": "flaxseed",
+"score": 1274
+},
+{
+"word": "fleabane",
+"score": 52
+},
+{
+"word": "floret",
+"score": 669
+},
+{
+"word": "florets",
+"score": 1305
+},
+{
+"word": "floribunda",
+"score": 1258
+},
+{
+"word": "floribundas",
+"score": 541
+},
+{
+"word": "floricultural",
+"score": 867
+},
+{
+"word": "floriculturists",
+"score": 1455
+},
+{
+"word": "flour",
+"score": 1689
+},
+{
+"word": "flower",
+"score": 100
+},
+{
+"word": "flowerets",
+"score": 1003
+},
+{
+"word": "flowerheads",
+"score": 104
+},
+{
+"word": "flowering",
+"score": 1148
+},
+{
+"word": "flowerless",
+"score": 753
+},
+{
+"word": "flowers",
+"score": 440
+},
+{
+"word": "foetida",
+"score": 1180
+},
+{
+"word": "foliaged",
+"score": 1461
+},
+{
+"word": "foliages",
+"score": 1001
+},
+{
+"word": "foliation",
+"score": 1002
+},
+{
+"word": "folicur",
+"score": 1086
+},
+{
+"word": "forages",
+"score": 1686
+},
+{
+"word": "foraging",
+"score": 1687
+},
+{
+"word": "forastero",
+"score": 1058
+},
+{
+"word": "forb",
+"score": 1447
+},
+{
+"word": "forbs",
+"score": 1398
+},
+{
+"word": "fordhook",
+"score": 1181
+},
+{
+"word": "forsythia",
+"score": 1724
+},
+{
+"word": "forsythias",
+"score": 1723
+},
+{
+"word": "fortunei",
+"score": 802
+},
+{
+"word": "fothergilla",
+"score": 1550
+},
+{
+"word": "fourpence",
+"score": 1291
+},
+{
+"word": "foxglove",
+"score": 1419
+},
+{
+"word": "foxgloves",
+"score": 1418
+},
+{
+"word": "foxtail",
+"score": 531
+},
+{
+"word": "foxtails",
+"score": 1726
+},
+{
+"word": "fragaria",
+"score": 645
+},
+{
+"word": "fragaria",
+"score": 646
+},
+{
+"word": "fragrans",
+"score": 441
+},
+{
+"word": "frangipani",
+"score": 1178
+},
+{
+"word": "freesia",
+"score": 350
+},
+{
+"word": "freesias",
+"score": 349
+},
+{
+"word": "fritillaria",
+"score": 248
+},
+{
+"word": "fritillaria",
+"score": 249
+},
+{
+"word": "fritillaries",
+"score": 1564
+},
+{
+"word": "fritillary",
+"score": 1391
+},
+{
+"word": "frogeye",
+"score": 1049
+},
+{
+"word": "fruit",
+"score": 1112
+},
+{
+"word": "fruiting",
+"score": 1017
+},
+{
+"word": "fruitlet",
+"score": 832
+},
+{
+"word": "fruitlets",
+"score": 831
+},
+{
+"word": "frutescens",
+"score": 1149
+},
+{
+"word": "fuchsia",
+"score": 1705
+},
+{
+"word": "fuchsias",
+"score": 1706
+},
+{
+"word": "fusarium",
+"score": 967
+},
+{
+"word": "gaillardia",
+"score": 1542
+},
+{
+"word": "galangal",
+"score": 929
+},
+{
+"word": "galanthus",
+"score": 1036
+},
+{
+"word": "galax",
+"score": 790
+},
+{
+"word": "galingale",
+"score": 928
+},
+{
+"word": "gamboge",
+"score": 95
+},
+{
+"word": "garbanzo",
+"score": 896
+},
+{
+"word": "garbanzos",
+"score": 582
+},
+{
+"word": "garcinia",
+"score": 1744
+},
+{
+"word": "garcinia",
+"score": 1745
+},
+{
+"word": "garden",
+"score": 1681
+},
+{
+"word": "gardenia",
+"score": 1719
+},
+{
+"word": "garlic",
+"score": 1335
+},
+{
+"word": "garlics",
+"score": 1334
+},
+{
+"word": "gaura",
+"score": 524
+},
+{
+"word": "gazania",
+"score": 294
+},
+{
+"word": "gazanias",
+"score": 727
+},
+{
+"word": "gemelli",
+"score": 1132
+},
+{
+"word": "gentian",
+"score": 966
+},
+{
+"word": "gentians",
+"score": 1278
+},
+{
+"word": "geraniol",
+"score": 1467
+},
+{
+"word": "geranium",
+"score": 88
+},
+{
+"word": "geraniums",
+"score": 771
+},
+{
+"word": "gerbera",
+"score": 70
+},
+{
+"word": "gerbera",
+"score": 471
+},
+{
+"word": "gerberas",
+"score": 71
+},
+{
+"word": "gesneriad",
+"score": 521
+},
+{
+"word": "gesneriads",
+"score": 520
+},
+{
+"word": "gherkin",
+"score": 549
+},
+{
+"word": "gherkins",
+"score": 550
+},
+{
+"word": "gigantea",
+"score": 1439
+},
+{
+"word": "giganteum",
+"score": 1261
+},
+{
+"word": "gingelly",
+"score": 60
+},
+{
+"word": "ginger",
+"score": 1202
+},
+{
+"word": "gingerroot",
+"score": 1201
+},
+{
+"word": "gingersnap",
+"score": 1231
+},
+{
+"word": "gingersnaps",
+"score": 1230
+},
+{
+"word": "ginkgo",
+"score": 1239
+},
+{
+"word": "ginkgos",
+"score": 1238
+},
+{
+"word": "ginko",
+"score": 1427
+},
+{
+"word": "girolles",
+"score": 1715
+},
+{
+"word": "glabra",
+"score": 879
+},
+{
+"word": "gladiola",
+"score": 536
+},
+{
+"word": "gladioli",
+"score": 658
+},
+{
+"word": "gladiolus",
+"score": 78
+},
+{
+"word": "gladioluses",
+"score": 547
+},
+{
+"word": "glads",
+"score": 79
+},
+{
+"word": "glasswort",
+"score": 1159
+},
+{
+"word": "glauca",
+"score": 1464
+},
+{
+"word": "gliricidia",
+"score": 1005
+},
+{
+"word": "gloxinia",
+"score": 791
+},
+{
+"word": "glucomannan",
+"score": 1412
+},
+{
+"word": "goldenrod",
+"score": 222
+},
+{
+"word": "goldenrods",
+"score": 221
+},
+{
+"word": "goldsturm",
+"score": 139
+},
+{
+"word": "gomphrena",
+"score": 515
+},
+{
+"word": "gomphrena",
+"score": 516
+},
+{
+"word": "gooseberries",
+"score": 1646
+},
+{
+"word": "gooseberry",
+"score": 1554
+},
+{
+"word": "goosefoot",
+"score": 186
+},
+{
+"word": "goosegrass",
+"score": 1199
+},
+{
+"word": "gourd",
+"score": 358
+},
+{
+"word": "gourds",
+"score": 359
+},
+{
+"word": "goutweed",
+"score": 850
+},
+{
+"word": "grain",
+"score": 746
+},
+{
+"word": "grains",
+"score": 894
+},
+{
+"word": "granatum",
+"score": 778
+},
+{
+"word": "grandiflora",
+"score": 203
+},
+{
+"word": "grandifloras",
+"score": 1374
+},
+{
+"word": "grape",
+"score": 129
+},
+{
+"word": "grapefruit",
+"score": 739
+},
+{
+"word": "grapefruits",
+"score": 1157
+},
+{
+"word": "grapes",
+"score": 875
+},
+{
+"word": "grapeseed",
+"score": 1088
+},
+{
+"word": "grapeshot",
+"score": 128
+},
+{
+"word": "grapevine",
+"score": 1653
+},
+{
+"word": "grapevines",
+"score": 1654
+},
+{
+"word": "graphite",
+"score": 55
+},
+{
+"word": "grass",
+"score": 629
+},
+{
+"word": "grass",
+"score": 630
+},
+{
+"word": "grasses",
+"score": 627
+},
+{
+"word": "grasshopper",
+"score": 1627
+},
+{
+"word": "grasshoppers",
+"score": 1626
+},
+{
+"word": "greenbugs",
+"score": 1585
+},
+{
+"word": "grevillea",
+"score": 1296
+},
+{
+"word": "grevilleas",
+"score": 1297
+},
+{
+"word": "groats",
+"score": 1292
+},
+{
+"word": "groundnut",
+"score": 20
+},
+{
+"word": "groundnuts",
+"score": 1397
+},
+{
+"word": "groundsel",
+"score": 510
+},
+{
+"word": "grower",
+"score": 1396
+},
+{
+"word": "growers",
+"score": 1271
+},
+{
+"word": "guanabana",
+"score": 1225
+},
+{
+"word": "guayule",
+"score": 1306
+},
+{
+"word": "gulmohar",
+"score": 830
+},
+{
+"word": "gunnera",
+"score": 1659
+},
+{
+"word": "hackberries",
+"score": 682
+},
+{
+"word": "hackberry",
+"score": 681
+},
+{
+"word": "halophyte",
+"score": 1365
+},
+{
+"word": "hardneck",
+"score": 37
+},
+{
+"word": "harebell",
+"score": 998
+},
+{
+"word": "hawkmoth",
+"score": 1438
+},
+{
+"word": "hawkweed",
+"score": 275
+},
+{
+"word": "hazel",
+"score": 1673
+},
+{
+"word": "hazelnut",
+"score": 178
+},
+{
+"word": "hazelnuts",
+"score": 588
+},
+{
+"word": "hazels",
+"score": 1674
+},
+{
+"word": "heather",
+"score": 1612
+},
+{
+"word": "hebe",
+"score": 1041
+},
+{
+"word": "hebes",
+"score": 1040
+},
+{
+"word": "helianthus",
+"score": 17
+},
+{
+"word": "helichrysum",
+"score": 743
+},
+{
+"word": "helichrysum",
+"score": 744
+},
+{
+"word": "heliconia",
+"score": 297
+},
+{
+"word": "heliconias",
+"score": 1018
+},
+{
+"word": "heliotrope",
+"score": 919
+},
+{
+"word": "hellebore",
+"score": 492
+},
+{
+"word": "hellebores",
+"score": 1562
+},
+{
+"word": "helleborus",
+"score": 311
+},
+{
+"word": "helleborus",
+"score": 312
+},
+{
+"word": "hemp",
+"score": 1500
+},
+{
+"word": "hempseed",
+"score": 1655
+},
+{
+"word": "henbit",
+"score": 906
+},
+{
+"word": "herbage",
+"score": 393
+},
+{
+"word": "herbicide",
+"score": 829
+},
+{
+"word": "herculex",
+"score": 1204
+},
+{
+"word": "heuchera",
+"score": 564
+},
+{
+"word": "heuchera",
+"score": 565
+},
+{
+"word": "heucheras",
+"score": 568
+},
+{
+"word": "hibiscus",
+"score": 114
+},
+{
+"word": "hibiscuses",
+"score": 113
+},
+{
+"word": "highbush",
+"score": 138
+},
+{
+"word": "hip",
+"score": 85
+},
+{
+"word": "hippeastrum",
+"score": 467
+},
+{
+"word": "hollyhock",
+"score": 105
+},
+{
+"word": "hollyhocks",
+"score": 315
+},
+{
+"word": "honey",
+"score": 334
+},
+{
+"word": "honeycrisp",
+"score": 277
+},
+{
+"word": "honeydew",
+"score": 1368
+},
+{
+"word": "honeylocust",
+"score": 1043
+},
+{
+"word": "honeysuckle",
+"score": 158
+},
+{
+"word": "honeysuckles",
+"score": 159
+},
+{
+"word": "hoophouse",
+"score": 1423
+},
+{
+"word": "hornworm",
+"score": 381
+},
+{
+"word": "hornworms",
+"score": 968
+},
+{
+"word": "horsetail",
+"score": 656
+},
+{
+"word": "horsetails",
+"score": 655
+},
+{
+"word": "horseweed",
+"score": 53
+},
+{
+"word": "horticultural",
+"score": 1078
+},
+{
+"word": "horticulturalists",
+"score": 1152
+},
+{
+"word": "hoverfly",
+"score": 1110
+},
+{
+"word": "hrsw",
+"score": 1544
+},
+{
+"word": "huller",
+"score": 1229
+},
+{
+"word": "hulless",
+"score": 572
+},
+{
+"word": "humilis",
+"score": 347
+},
+{
+"word": "husked",
+"score": 1156
+},
+{
+"word": "hybridizer",
+"score": 1483
+},
+{
+"word": "hybridizers",
+"score": 1541
+},
+{
+"word": "hybridus",
+"score": 1349
+},
+{
+"word": "hydrangea",
+"score": 880
+},
+{
+"word": "hydrangeas",
+"score": 1430
+},
+{
+"word": "hypericum",
+"score": 973
+},
+{
+"word": "hypericum",
+"score": 974
+},
+{
+"word": "hyssop",
+"score": 1491
+},
+{
+"word": "hzpc",
+"score": 783
+},
+{
+"word": "idared",
+"score": 1729
+},
+{
+"word": "inflorescence",
+"score": 224
+},
+{
+"word": "inflorescences",
+"score": 226
+},
+{
+"word": "inkberry",
+"score": 585
+},
+{
+"word": "inoculant",
+"score": 990
+},
+{
+"word": "inoculants",
+"score": 991
+},
+{
+"word": "intellicoat",
+"score": 1758
+},
+{
+"word": "intercrop",
+"score": 160
+},
+{
+"word": "intercropping",
+"score": 985
+},
+{
+"word": "interplanted",
+"score": 649
+},
+{
+"word": "ipomoea",
+"score": 1677
+},
+{
+"word": "ipomoea",
+"score": 1678
+},
+{
+"word": "iris",
+"score": 111
+},
+{
+"word": "irises",
+"score": 110
+},
+{
+"word": "ironweed",
+"score": 908
+},
+{
+"word": "irrigated",
+"score": 1518
+},
+{
+"word": "ivies",
+"score": 1462
+},
+{
+"word": "ivy",
+"score": 1463
+},
+{
+"word": "ixora",
+"score": 21
+},
+{
+"word": "jackfruit",
+"score": 981
+},
+{
+"word": "jackfruits",
+"score": 982
+},
+{
+"word": "jasmine",
+"score": 1472
+},
+{
+"word": "jasmines",
+"score": 1703
+},
+{
+"word": "jasminoides",
+"score": 751
+},
+{
+"word": "jasminum",
+"score": 1084
+},
+{
+"word": "jasminum",
+"score": 1085
+},
+{
+"word": "jathropa",
+"score": 657
+},
+{
+"word": "jatropha",
+"score": 1453
+},
+{
+"word": "jatropha",
+"score": 1454
+},
+{
+"word": "jekka",
+"score": 1661
+},
+{
+"word": "jewelweed",
+"score": 171
+},
+{
+"word": "johnsongrass",
+"score": 882
+},
+{
+"word": "jojoba",
+"score": 1162
+},
+{
+"word": "jonagold",
+"score": 609
+},
+{
+"word": "jonquil",
+"score": 715
+},
+{
+"word": "jonquils",
+"score": 714
+},
+{
+"word": "jowar",
+"score": 1360
+},
+{
+"word": "jujube",
+"score": 513
+},
+{
+"word": "jujubes",
+"score": 1062
+},
+{
+"word": "juncea",
+"score": 672
+},
+{
+"word": "juneberry",
+"score": 594
+},
+{
+"word": "kabocha",
+"score": 798
+},
+{
+"word": "kabuli",
+"score": 180
+},
+{
+"word": "kacang",
+"score": 1664
+},
+{
+"word": "kalanchoe",
+"score": 157
+},
+{
+"word": "kalanchoes",
+"score": 331
+},
+{
+"word": "kale",
+"score": 183
+},
+{
+"word": "kales",
+"score": 318
+},
+{
+"word": "kamut",
+"score": 480
+},
+{
+"word": "kangkong",
+"score": 522
+},
+{
+"word": "kapusta",
+"score": 1644
+},
+{
+"word": "karela",
+"score": 1725
+},
+{
+"word": "kernel",
+"score": 735
+},
+{
+"word": "kesar",
+"score": 840
+},
+{
+"word": "khus",
+"score": 1716
+},
+{
+"word": "kind",
+"score": 124
+},
+{
+"word": "kinnow",
+"score": 1038
+},
+{
+"word": "kiwifruits",
+"score": 816
+},
+{
+"word": "kleingartner",
+"score": 252
+},
+{
+"word": "kochia",
+"score": 1217
+},
+{
+"word": "kohlrabi",
+"score": 30
+},
+{
+"word": "kokum",
+"score": 661
+},
+{
+"word": "kolanut",
+"score": 1451
+},
+{
+"word": "kousa",
+"score": 580
+},
+{
+"word": "kowhai",
+"score": 1525
+},
+{
+"word": "kuchen",
+"score": 912
+},
+{
+"word": "kukui",
+"score": 235
+},
+{
+"word": "kumato",
+"score": 544
+},
+{
+"word": "kumquat",
+"score": 58
+},
+{
+"word": "kumquats",
+"score": 59
+},
+{
+"word": "kwanzan",
+"score": 893
+},
+{
+"word": "lablab",
+"score": 206
+},
+{
+"word": "lablab",
+"score": 207
+},
+{
+"word": "lacecap",
+"score": 1226
+},
+{
+"word": "lacewing",
+"score": 1187
+},
+{
+"word": "ladyfinger",
+"score": 491
+},
+{
+"word": "lagerstroemia",
+"score": 619
+},
+{
+"word": "lagerstroemia",
+"score": 620
+},
+{
+"word": "lakatan",
+"score": 1574
+},
+{
+"word": "lambsquarters",
+"score": 1126
+},
+{
+"word": "lamium",
+"score": 416
+},
+{
+"word": "lamium",
+"score": 417
+},
+{
+"word": "landrace",
+"score": 449
+},
+{
+"word": "landraces",
+"score": 1182
+},
+{
+"word": "lantana",
+"score": 611
+},
+{
+"word": "lantanas",
+"score": 612
+},
+{
+"word": "lanzones",
+"score": 1694
+},
+{
+"word": "larch",
+"score": 1520
+},
+{
+"word": "larches",
+"score": 1519
+},
+{
+"word": "larkspur",
+"score": 101
+},
+{
+"word": "larkspurs",
+"score": 102
+},
+{
+"word": "lathyrus",
+"score": 56
+},
+{
+"word": "lathyrus",
+"score": 57
+},
+{
+"word": "latifolia",
+"score": 668
+},
+{
+"word": "lavandula",
+"score": 191
+},
+{
+"word": "lavandula",
+"score": 192
+},
+{
+"word": "lavatera",
+"score": 1717
+},
+{
+"word": "lavatera",
+"score": 1718
+},
+{
+"word": "lavendar",
+"score": 1361
+},
+{
+"word": "lavender",
+"score": 43
+},
+{
+"word": "lavenders",
+"score": 1111
+},
+{
+"word": "leaf",
+"score": 1000
+},
+{
+"word": "leafhopper",
+"score": 1326
+},
+{
+"word": "leafhoppers",
+"score": 1327
+},
+{
+"word": "leafminer",
+"score": 1119
+},
+{
+"word": "leatherleaf",
+"score": 210
+},
+{
+"word": "leaved",
+"score": 1635
+},
+{
+"word": "legume",
+"score": 260
+},
+{
+"word": "legumes",
+"score": 587
+},
+{
+"word": "leguminosae",
+"score": 810
+},
+{
+"word": "leguminous",
+"score": 51
+},
+{
+"word": "lehua",
+"score": 1284
+},
+{
+"word": "lekvar",
+"score": 841
+},
+{
+"word": "lentil",
+"score": 92
+},
+{
+"word": "lentils",
+"score": 231
+},
+{
+"word": "lepidopteran",
+"score": 1434
+},
+{
+"word": "lespedeza",
+"score": 354
+},
+{
+"word": "lettuce",
+"score": 501
+},
+{
+"word": "lettuces",
+"score": 584
+},
+{
+"word": "leys",
+"score": 1481
+},
+{
+"word": "liatris",
+"score": 813
+},
+{
+"word": "liatris",
+"score": 814
+},
+{
+"word": "lignan",
+"score": 1497
+},
+{
+"word": "ligustrum",
+"score": 487
+},
+{
+"word": "ligustrum",
+"score": 488
+},
+{
+"word": "lilac",
+"score": 1343
+},
+{
+"word": "lilacs",
+"score": 1344
+},
+{
+"word": "lilium",
+"score": 1080
+},
+{
+"word": "lilium",
+"score": 1081
+},
+{
+"word": "lillie",
+"score": 127
+},
+{
+"word": "lillies",
+"score": 126
+},
+{
+"word": "lily",
+"score": 1240
+},
+{
+"word": "lima",
+"score": 794
+},
+{
+"word": "limagrain",
+"score": 1127
+},
+{
+"word": "limas",
+"score": 793
+},
+{
+"word": "linnet",
+"score": 1377
+},
+{
+"word": "linoleic",
+"score": 525
+},
+{
+"word": "linolenic",
+"score": 1252
+},
+{
+"word": "linscombe",
+"score": 1616
+},
+{
+"word": "linseed",
+"score": 69
+},
+{
+"word": "linseeds",
+"score": 1747
+},
+{
+"word": "liquidambar",
+"score": 1314
+},
+{
+"word": "liriope",
+"score": 292
+},
+{
+"word": "liriope",
+"score": 293
+},
+{
+"word": "lisianthus",
+"score": 64
+},
+{
+"word": "litchi",
+"score": 556
+},
+{
+"word": "liverwort",
+"score": 1611
+},
+{
+"word": "lobelia",
+"score": 545
+},
+{
+"word": "lobelias",
+"score": 546
+},
+{
+"word": "loganberries",
+"score": 1123
+},
+{
+"word": "loganberry",
+"score": 1122
+},
+{
+"word": "lonicera",
+"score": 1101
+},
+{
+"word": "lonicera",
+"score": 1102
+},
+{
+"word": "loofa",
+"score": 1476
+},
+{
+"word": "loquat",
+"score": 74
+},
+{
+"word": "loquats",
+"score": 997
+},
+{
+"word": "loropetalum",
+"score": 675
+},
+{
+"word": "lotus",
+"score": 1220
+},
+{
+"word": "lotus",
+"score": 1222
+},
+{
+"word": "lotuses",
+"score": 1221
+},
+{
+"word": "lovage",
+"score": 980
+},
+{
+"word": "lovegrass",
+"score": 636
+},
+{
+"word": "lowbush",
+"score": 1121
+},
+{
+"word": "luffa",
+"score": 1475
+},
+{
+"word": "lunaria",
+"score": 1701
+},
+{
+"word": "lunaria",
+"score": 1702
+},
+{
+"word": "lungwort",
+"score": 927
+},
+{
+"word": "lupine",
+"score": 67
+},
+{
+"word": "lupines",
+"score": 1390
+},
+{
+"word": "lupins",
+"score": 66
+},
+{
+"word": "lygus",
+"score": 1589
+},
+{
+"word": "lygus",
+"score": 1590
+},
+{
+"word": "lysimachia",
+"score": 948
+},
+{
+"word": "lysimachia",
+"score": 949
+},
+{
+"word": "macadamia",
+"score": 446
+},
+{
+"word": "macadamias",
+"score": 445
+},
+{
+"word": "mache",
+"score": 1548
+},
+{
+"word": "maculatum",
+"score": 1704
+},
+{
+"word": "magnolia",
+"score": 1601
+},
+{
+"word": "maguey",
+"score": 1087
+},
+{
+"word": "mahonia",
+"score": 1750
+},
+{
+"word": "mahonia",
+"score": 1751
+},
+{
+"word": "maidenhair",
+"score": 742
+},
+{
+"word": "maincrop",
+"score": 390
+},
+{
+"word": "maiz",
+"score": 1579
+},
+{
+"word": "maize",
+"score": 96
+},
+{
+"word": "majus",
+"score": 885
+},
+{
+"word": "mallee",
+"score": 1382
+},
+{
+"word": "mallow",
+"score": 65
+},
+{
+"word": "mallows",
+"score": 217
+},
+{
+"word": "malunggay",
+"score": 1708
+},
+{
+"word": "malva",
+"score": 673
+},
+{
+"word": "malva",
+"score": 674
+},
+{
+"word": "mandevilla",
+"score": 279
+},
+{
+"word": "mandevilla",
+"score": 280
+},
+{
+"word": "mango",
+"score": 1255
+},
+{
+"word": "manuring",
+"score": 1354
+},
+{
+"word": "margarine",
+"score": 1268
+},
+{
+"word": "marguerite",
+"score": 1424
+},
+{
+"word": "marguerites",
+"score": 1425
+},
+{
+"word": "marigold",
+"score": 146
+},
+{
+"word": "marigolds",
+"score": 296
+},
+{
+"word": "marionberries",
+"score": 499
+},
+{
+"word": "marjoram",
+"score": 353
+},
+{
+"word": "marrow",
+"score": 736
+},
+{
+"word": "marrows",
+"score": 737
+},
+{
+"word": "marula",
+"score": 1253
+},
+{
+"word": "mayapple",
+"score": 1322
+},
+{
+"word": "meadowfoam",
+"score": 1350
+},
+{
+"word": "meadowsweet",
+"score": 918
+},
+{
+"word": "mealie",
+"score": 950
+},
+{
+"word": "mealies",
+"score": 951
+},
+{
+"word": "mealybug",
+"score": 1185
+},
+{
+"word": "mealybugs",
+"score": 1186
+},
+{
+"word": "medic",
+"score": 1502
+},
+{
+"word": "medjool",
+"score": 1237
+},
+{
+"word": "medlar",
+"score": 173
+},
+{
+"word": "melon",
+"score": 258
+},
+{
+"word": "melons",
+"score": 259
+},
+{
+"word": "mentha",
+"score": 229
+},
+{
+"word": "mentha",
+"score": 230
+},
+{
+"word": "menthe",
+"score": 343
+},
+{
+"word": "mesta",
+"score": 1435
+},
+{
+"word": "microgreen",
+"score": 808
+},
+{
+"word": "microgreens",
+"score": 1331
+},
+{
+"word": "milkweed",
+"score": 621
+},
+{
+"word": "milkweeds",
+"score": 1298
+},
+{
+"word": "millet",
+"score": 337
+},
+{
+"word": "millet",
+"score": 338
+},
+{
+"word": "millets",
+"score": 571
+},
+{
+"word": "milo",
+"score": 1153
+},
+{
+"word": "mirliton",
+"score": 781
+},
+{
+"word": "miscanthus",
+"score": 214
+},
+{
+"word": "mistflower",
+"score": 216
+},
+{
+"word": "mistletoe",
+"score": 1437
+},
+{
+"word": "mistletoes",
+"score": 1436
+},
+{
+"word": "mizuna",
+"score": 1254
+},
+{
+"word": "monarda",
+"score": 143
+},
+{
+"word": "monkshood",
+"score": 989
+},
+{
+"word": "monocot",
+"score": 1711
+},
+{
+"word": "monocots",
+"score": 1712
+},
+{
+"word": "monstera",
+"score": 1073
+},
+{
+"word": "moonflower",
+"score": 712
+},
+{
+"word": "moonflowers",
+"score": 713
+},
+{
+"word": "mophead",
+"score": 1605
+},
+{
+"word": "mopheads",
+"score": 1192
+},
+{
+"word": "moringa",
+"score": 346
+},
+{
+"word": "moschata",
+"score": 437
+},
+{
+"word": "muguet",
+"score": 1388
+},
+{
+"word": "muhly",
+"score": 1563
+},
+{
+"word": "mulberries",
+"score": 1693
+},
+{
+"word": "mulberry",
+"score": 1410
+},
+{
+"word": "mullein",
+"score": 108
+},
+{
+"word": "multiflora",
+"score": 573
+},
+{
+"word": "multigrain",
+"score": 1243
+},
+{
+"word": "mung",
+"score": 1560
+},
+{
+"word": "munstead",
+"score": 558
+},
+{
+"word": "muscadine",
+"score": 266
+},
+{
+"word": "muscadines",
+"score": 366
+},
+{
+"word": "muscari",
+"score": 153
+},
+{
+"word": "muscari",
+"score": 154
+},
+{
+"word": "muscat",
+"score": 1363
+},
+{
+"word": "muscat",
+"score": 1364
+},
+{
+"word": "muskmelon",
+"score": 290
+},
+{
+"word": "muskmelons",
+"score": 314
+},
+{
+"word": "mustard",
+"score": 1188
+},
+{
+"word": "mustards",
+"score": 1189
+},
+{
+"word": "mustardseed",
+"score": 250
+},
+{
+"word": "myrtle",
+"score": 1301
+},
+{
+"word": "myrtles",
+"score": 1302
+},
+{
+"word": "nandina",
+"score": 1022
+},
+{
+"word": "nandinas",
+"score": 767
+},
+{
+"word": "narcissi",
+"score": 937
+},
+{
+"word": "narcissus",
+"score": 936
+},
+{
+"word": "narcissus",
+"score": 938
+},
+{
+"word": "nasturtium",
+"score": 458
+},
+{
+"word": "nasturtium",
+"score": 459
+},
+{
+"word": "nasturtiums",
+"score": 752
+},
+{
+"word": "naturipe",
+"score": 1196
+},
+{
+"word": "navel",
+"score": 1752
+},
+{
+"word": "navels",
+"score": 1753
+},
+{
+"word": "nectarine",
+"score": 385
+},
+{
+"word": "nectarines",
+"score": 386
+},
+{
+"word": "neem",
+"score": 493
+},
+{
+"word": "nemesia",
+"score": 538
+},
+{
+"word": "nennich",
+"score": 732
+},
+{
+"word": "nepeta",
+"score": 443
+},
+{
+"word": "nepeta",
+"score": 444
+},
+{
+"word": "nerica",
+"score": 1282
+},
+{
+"word": "neroli",
+"score": 1262
+},
+{
+"word": "nicotiana",
+"score": 382
+},
+{
+"word": "nicotiana",
+"score": 383
+},
+{
+"word": "nigella",
+"score": 112
+},
+{
+"word": "nipah",
+"score": 1024
+},
+{
+"word": "nobilis",
+"score": 1707
+},
+{
+"word": "nopal",
+"score": 911
+},
+{
+"word": "nunhems",
+"score": 426
+},
+{
+"word": "nusun",
+"score": 8
+},
+{
+"word": "nutlet",
+"score": 176
+},
+{
+"word": "nutlets",
+"score": 177
+},
+{
+"word": "nutmeat",
+"score": 1245
+},
+{
+"word": "nutrela",
+"score": 1738
+},
+{
+"word": "nutrium",
+"score": 1683
+},
+{
+"word": "nymphaea",
+"score": 1029
+},
+{
+"word": "nymphaea",
+"score": 1030
+},
+{
+"word": "oakleaf",
+"score": 261
+},
+{
+"word": "oat",
+"score": 15
+},
+{
+"word": "oats",
+"score": 1680
+},
+{
+"word": "occidentalis",
+"score": 1676
+},
+{
+"word": "ocotillo",
+"score": 1177
+},
+{
+"word": "oenothera",
+"score": 1250
+},
+{
+"word": "oenothera",
+"score": 1251
+},
+{
+"word": "officinale",
+"score": 1034
+},
+{
+"word": "officinalis",
+"score": 878
+},
+{
+"word": "oil",
+"score": 1208
+},
+{
+"word": "oilcake",
+"score": 692
+},
+{
+"word": "oilseed",
+"score": 49
+},
+{
+"word": "oilseeds",
+"score": 50
+},
+{
+"word": "oleander",
+"score": 1727
+},
+{
+"word": "oleanders",
+"score": 1728
+},
+{
+"word": "oleic",
+"score": 336
+},
+{
+"word": "oleifera",
+"score": 635
+},
+{
+"word": "olein",
+"score": 749
+},
+{
+"word": "oleo",
+"score": 1523
+},
+{
+"word": "oleoresin",
+"score": 1733
+},
+{
+"word": "oleracea",
+"score": 666
+},
+{
+"word": "olive",
+"score": 822
+},
+{
+"word": "olives",
+"score": 1061
+},
+{
+"word": "onion",
+"score": 152
+},
+{
+"word": "onions",
+"score": 1100
+},
+{
+"word": "opuntia",
+"score": 904
+},
+{
+"word": "opuntia",
+"score": 905
+},
+{
+"word": "orangy",
+"score": 1595
+},
+{
+"word": "orchardgrass",
+"score": 634
+},
+{
+"word": "orchid",
+"score": 1389
+},
+{
+"word": "orchids",
+"score": 1495
+},
+{
+"word": "oregano",
+"score": 352
+},
+{
+"word": "origanum",
+"score": 694
+},
+{
+"word": "ornamental",
+"score": 1009
+},
+{
+"word": "ornamentals",
+"score": 1008
+},
+{
+"word": "osmanthus",
+"score": 933
+},
+{
+"word": "osmanthus",
+"score": 934
+},
+{
+"word": "ovate",
+"score": 1092
+},
+{
+"word": "overwintered",
+"score": 1487
+},
+{
+"word": "overwinters",
+"score": 797
+},
+{
+"word": "oxalis",
+"score": 597
+},
+{
+"word": "pachysandra",
+"score": 1263
+},
+{
+"word": "paddy",
+"score": 1465
+},
+{
+"word": "paddy",
+"score": 1466
+},
+{
+"word": "padi",
+"score": 1671
+},
+{
+"word": "paeonia",
+"score": 1469
+},
+{
+"word": "paeonia",
+"score": 1470
+},
+{
+"word": "palmate",
+"score": 1540
+},
+{
+"word": "palmoil",
+"score": 1743
+},
+{
+"word": "palmyrah",
+"score": 1615
+},
+{
+"word": "paloverde",
+"score": 1426
+},
+{
+"word": "pandanus",
+"score": 1402
+},
+{
+"word": "panela",
+"score": 1675
+},
+{
+"word": "panicle",
+"score": 583
+},
+{
+"word": "panicles",
+"score": 684
+},
+{
+"word": "paniculata",
+"score": 1215
+},
+{
+"word": "papaw",
+"score": 272
+},
+{
+"word": "papaya",
+"score": 270
+},
+{
+"word": "paperwhites",
+"score": 1642
+},
+{
+"word": "parsley",
+"score": 600
+},
+{
+"word": "parsnip",
+"score": 910
+},
+{
+"word": "parsnips",
+"score": 1241
+},
+{
+"word": "parthenium",
+"score": 475
+},
+{
+"word": "parthenium",
+"score": 476
+},
+{
+"word": "paska",
+"score": 317
+},
+{
+"word": "passiflora",
+"score": 710
+},
+{
+"word": "passiflora",
+"score": 711
+},
+{
+"word": "passionflower",
+"score": 523
+},
+{
+"word": "pasture",
+"score": 1480
+},
+{
+"word": "pattypan",
+"score": 1281
+},
+{
+"word": "pawpaw",
+"score": 271
+},
+{
+"word": "pawpaws",
+"score": 273
+},
+{
+"word": "pea",
+"score": 374
+},
+{
+"word": "peach",
+"score": 834
+},
+{
+"word": "peaches",
+"score": 881
+},
+{
+"word": "peanut",
+"score": 19
+},
+{
+"word": "pear",
+"score": 428
+},
+{
+"word": "pears",
+"score": 1063
+},
+{
+"word": "peas",
+"score": 373
+},
+{
+"word": "pecan",
+"score": 137
+},
+{
+"word": "pecans",
+"score": 136
+},
+{
+"word": "pekoe",
+"score": 1315
+},
+{
+"word": "pelargonium",
+"score": 285
+},
+{
+"word": "pelargonium",
+"score": 695
+},
+{
+"word": "pelargoniums",
+"score": 284
+},
+{
+"word": "pelleted",
+"score": 1218
+},
+{
+"word": "pennisetum",
+"score": 379
+},
+{
+"word": "pennisetum",
+"score": 380
+},
+{
+"word": "pennycress",
+"score": 283
+},
+{
+"word": "pennyroyal",
+"score": 926
+},
+{
+"word": "pennywort",
+"score": 394
+},
+{
+"word": "penstemon",
+"score": 478
+},
+{
+"word": "penstemon",
+"score": 479
+},
+{
+"word": "penstemons",
+"score": 511
+},
+{
+"word": "pentas",
+"score": 27
+},
+{
+"word": "peonies",
+"score": 887
+},
+{
+"word": "peony",
+"score": 886
+},
+{
+"word": "pepitas",
+"score": 874
+},
+{
+"word": "peppermint",
+"score": 772
+},
+{
+"word": "perilla",
+"score": 118
+},
+{
+"word": "perilla",
+"score": 119
+},
+{
+"word": "perovskia",
+"score": 971
+},
+{
+"word": "persea",
+"score": 776
+},
+{
+"word": "persea",
+"score": 777
+},
+{
+"word": "petai",
+"score": 1756
+},
+{
+"word": "petal",
+"score": 1608
+},
+{
+"word": "petaled",
+"score": 576
+},
+{
+"word": "petalled",
+"score": 526
+},
+{
+"word": "petals",
+"score": 1607
+},
+{
+"word": "petiole",
+"score": 870
+},
+{
+"word": "petioles",
+"score": 869
+},
+{
+"word": "petroleum",
+"score": 1209
+},
+{
+"word": "petunia",
+"score": 718
+},
+{
+"word": "petunias",
+"score": 719
+},
+{
+"word": "phacelia",
+"score": 787
+},
+{
+"word": "phalaenopsis",
+"score": 98
+},
+{
+"word": "phalaenopsis",
+"score": 99
+},
+{
+"word": "philodendron",
+"score": 605
+},
+{
+"word": "philodendrons",
+"score": 606
+},
+{
+"word": "phlox",
+"score": 837
+},
+{
+"word": "phoma",
+"score": 503
+},
+{
+"word": "phormium",
+"score": 652
+},
+{
+"word": "phormiums",
+"score": 1311
+},
+{
+"word": "photinia",
+"score": 368
+},
+{
+"word": "photinia",
+"score": 369
+},
+{
+"word": "pieplant",
+"score": 761
+},
+{
+"word": "pigeonpea",
+"score": 842
+},
+{
+"word": "pigweed",
+"score": 763
+},
+{
+"word": "pigweeds",
+"score": 1074
+},
+{
+"word": "pikake",
+"score": 1372
+},
+{
+"word": "pimento",
+"score": 388
+},
+{
+"word": "pimentos",
+"score": 389
+},
+{
+"word": "pimiento",
+"score": 1234
+},
+{
+"word": "pimientos",
+"score": 1417
+},
+{
+"word": "pineapple",
+"score": 384
+},
+{
+"word": "pineapples",
+"score": 1035
+},
+{
+"word": "pinnate",
+"score": 1492
+},
+{
+"word": "pinus",
+"score": 957
+},
+{
+"word": "pinus",
+"score": 958
+},
+{
+"word": "pipevine",
+"score": 220
+},
+{
+"word": "pistache",
+"score": 436
+},
+{
+"word": "pistachio",
+"score": 1409
+},
+{
+"word": "pistil",
+"score": 198
+},
+{
+"word": "pistils",
+"score": 197
+},
+{
+"word": "pitaya",
+"score": 1353
+},
+{
+"word": "pittosporum",
+"score": 693
+},
+{
+"word": "plam",
+"score": 1139
+},
+{
+"word": "plantain",
+"score": 779
+},
+{
+"word": "planting",
+"score": 182
+},
+{
+"word": "plantings",
+"score": 181
+},
+{
+"word": "plantlet",
+"score": 785
+},
+{
+"word": "plantlets",
+"score": 784
+},
+{
+"word": "plasticulture",
+"score": 575
+},
+{
+"word": "plenish",
+"score": 824
+},
+{
+"word": "plumbago",
+"score": 54
+},
+{
+"word": "pluot",
+"score": 1581
+},
+{
+"word": "pluots",
+"score": 411
+},
+{
+"word": "pod",
+"score": 236
+},
+{
+"word": "podocarpus",
+"score": 268
+},
+{
+"word": "podocarpus",
+"score": 269
+},
+{
+"word": "poinciana",
+"score": 241
+},
+{
+"word": "poinciana",
+"score": 242
+},
+{
+"word": "poinsettia",
+"score": 803
+},
+{
+"word": "poinsettias",
+"score": 1468
+},
+{
+"word": "pokeweed",
+"score": 494
+},
+{
+"word": "polish",
+"score": 1478
+},
+{
+"word": "polyanthus",
+"score": 367
+},
+{
+"word": "pome",
+"score": 839
+},
+{
+"word": "pomegranate",
+"score": 738
+},
+{
+"word": "pomelo",
+"score": 1473
+},
+{
+"word": "pomelos",
+"score": 1474
+},
+{
+"word": "pongamia",
+"score": 322
+},
+{
+"word": "pongamia",
+"score": 323
+},
+{
+"word": "poppyseed",
+"score": 1079
+},
+{
+"word": "portobellos",
+"score": 1625
+},
+{
+"word": "portulaca",
+"score": 678
+},
+{
+"word": "pot",
+"score": 631
+},
+{
+"word": "potato",
+"score": 12
+},
+{
+"word": "potatoes",
+"score": 677
+},
+{
+"word": "potentilla",
+"score": 80
+},
+{
+"word": "potentilla",
+"score": 81
+},
+{
+"word": "pothos",
+"score": 987
+},
+{
+"word": "primrose",
+"score": 505
+},
+{
+"word": "primroses",
+"score": 1163
+},
+{
+"word": "primula",
+"score": 535
+},
+{
+"word": "primulas",
+"score": 504
+},
+{
+"word": "propanediol",
+"score": 1195
+},
+{
+"word": "protea",
+"score": 1549
+},
+{
+"word": "prunus",
+"score": 765
+},
+{
+"word": "prunus",
+"score": 766
+},
+{
+"word": "pueraria",
+"score": 962
+},
+{
+"word": "pueraria",
+"score": 963
+},
+{
+"word": "pulmonaria",
+"score": 309
+},
+{
+"word": "pumkin",
+"score": 593
+},
+{
+"word": "pumpkin",
+"score": 132
+},
+{
+"word": "pumpkins",
+"score": 429
+},
+{
+"word": "purpurea",
+"score": 1630
+},
+{
+"word": "purslane",
+"score": 820
+},
+{
+"word": "pyracantha",
+"score": 1696
+},
+{
+"word": "pyracantha",
+"score": 1697
+},
+{
+"word": "pysanka",
+"score": 1197
+},
+{
+"word": "pythium",
+"score": 1649
+},
+{
+"word": "quackgrass",
+"score": 1269
+},
+{
+"word": "quince",
+"score": 1332
+},
+{
+"word": "raab",
+"score": 451
+},
+{
+"word": "rabbitbrush",
+"score": 665
+},
+{
+"word": "rabbiteye",
+"score": 213
+},
+{
+"word": "raceme",
+"score": 891
+},
+{
+"word": "racemes",
+"score": 892
+},
+{
+"word": "radiata",
+"score": 1308
+},
+{
+"word": "radicans",
+"score": 1730
+},
+{
+"word": "radicchio",
+"score": 1244
+},
+{
+"word": "radish",
+"score": 924
+},
+{
+"word": "radishes",
+"score": 952
+},
+{
+"word": "rafflesia",
+"score": 1083
+},
+{
+"word": "ragi",
+"score": 1299
+},
+{
+"word": "raisin",
+"score": 1366
+},
+{
+"word": "ramie",
+"score": 1577
+},
+{
+"word": "ranunculus",
+"score": 340
+},
+{
+"word": "ranunculus",
+"score": 341
+},
+{
+"word": "rape",
+"score": 29
+},
+{
+"word": "rapeseed",
+"score": 1
+},
+{
+"word": "rapeseeds",
+"score": 13
+},
+{
+"word": "rapini",
+"score": 913
+},
+{
+"word": "raspberries",
+"score": 1107
+},
+{
+"word": "raspberry",
+"score": 1105
+},
+{
+"word": "ratoon",
+"score": 500
+},
+{
+"word": "reblooming",
+"score": 1602
+},
+{
+"word": "redcurrants",
+"score": 604
+},
+{
+"word": "repens",
+"score": 1212
+},
+{
+"word": "resprouting",
+"score": 1576
+},
+{
+"word": "rhizomatous",
+"score": 484
+},
+{
+"word": "rhodies",
+"score": 617
+},
+{
+"word": "rhubarb",
+"score": 762
+},
+{
+"word": "rice",
+"score": 754
+},
+{
+"word": "rice",
+"score": 755
+},
+{
+"word": "ristras",
+"score": 1672
+},
+{
+"word": "robusta",
+"score": 1580
+},
+{
+"word": "rocket",
+"score": 849
+},
+{
+"word": "rockmelon",
+"score": 1342
+},
+{
+"word": "romaine",
+"score": 1166
+},
+{
+"word": "romanesco",
+"score": 1328
+},
+{
+"word": "rootworm",
+"score": 1484
+},
+{
+"word": "rootworms",
+"score": 854
+},
+{
+"word": "roquette",
+"score": 848
+},
+{
+"word": "rose",
+"score": 1386
+},
+{
+"word": "rosehip",
+"score": 833
+},
+{
+"word": "rosehips",
+"score": 84
+},
+{
+"word": "roselle",
+"score": 890
+},
+{
+"word": "rosemary",
+"score": 691
+},
+{
+"word": "roses",
+"score": 1385
+},
+{
+"word": "rotundifolia",
+"score": 548
+},
+{
+"word": "rubra",
+"score": 1698
+},
+{
+"word": "rubrum",
+"score": 976
+},
+{
+"word": "rubus",
+"score": 1143
+},
+{
+"word": "rubus",
+"score": 1144
+},
+{
+"word": "rudbeckia",
+"score": 193
+},
+{
+"word": "rudbeckia",
+"score": 194
+},
+{
+"word": "rudbeckias",
+"score": 750
+},
+{
+"word": "rugosa",
+"score": 826
+},
+{
+"word": "russet",
+"score": 756
+},
+{
+"word": "russets",
+"score": 757
+},
+{
+"word": "rutabaga",
+"score": 1362
+},
+{
+"word": "rutabagas",
+"score": 1450
+},
+{
+"word": "rye",
+"score": 1025
+},
+{
+"word": "ryegrasses",
+"score": 801
+},
+{
+"word": "sabal",
+"score": 939
+},
+{
+"word": "sabal",
+"score": 940
+},
+{
+"word": "safflower",
+"score": 45
+},
+{
+"word": "safflowers",
+"score": 1145
+},
+{
+"word": "sage",
+"score": 1648
+},
+{
+"word": "sago",
+"score": 708
+},
+{
+"word": "salanova",
+"score": 1656
+},
+{
+"word": "salicornia",
+"score": 134
+},
+{
+"word": "salicornia",
+"score": 135
+},
+{
+"word": "salmonberries",
+"score": 1384
+},
+{
+"word": "salmonberry",
+"score": 149
+},
+{
+"word": "salsify",
+"score": 1514
+},
+{
+"word": "saltbush",
+"score": 574
+},
+{
+"word": "salvias",
+"score": 1647
+},
+{
+"word": "samphire",
+"score": 1158
+},
+{
+"word": "sandbakken",
+"score": 760
+},
+{
+"word": "sanicle",
+"score": 1651
+},
+{
+"word": "sansevieria",
+"score": 610
+},
+{
+"word": "santolina",
+"score": 253
+},
+{
+"word": "santolina",
+"score": 254
+},
+{
+"word": "sapodilla",
+"score": 420
+},
+{
+"word": "sapota",
+"score": 1556
+},
+{
+"word": "sarcococca",
+"score": 615
+},
+{
+"word": "sarson",
+"score": 1290
+},
+{
+"word": "sasanqua",
+"score": 616
+},
+{
+"word": "saskatoon",
+"score": 595
+},
+{
+"word": "saskatoon",
+"score": 1609
+},
+{
+"word": "saskatoons",
+"score": 1610
+},
+{
+"word": "sativa",
+"score": 1266
+},
+{
+"word": "sativum",
+"score": 972
+},
+{
+"word": "satsuma",
+"score": 1285
+},
+{
+"word": "satsumas",
+"score": 1286
+},
+{
+"word": "sawflies",
+"score": 1594
+},
+{
+"word": "sawfly",
+"score": 759
+},
+{
+"word": "saxifrage",
+"score": 1246
+},
+{
+"word": "scabiosa",
+"score": 730
+},
+{
+"word": "scabious",
+"score": 731
+},
+{
+"word": "scaevola",
+"score": 637
+},
+{
+"word": "scandens",
+"score": 1731
+},
+{
+"word": "schefflera",
+"score": 325
+},
+{
+"word": "schefflera",
+"score": 326
+},
+{
+"word": "schlumbergera",
+"score": 1264
+},
+{
+"word": "schlumbergera",
+"score": 1265
+},
+{
+"word": "scilla",
+"score": 238
+},
+{
+"word": "sclerotinia",
+"score": 332
+},
+{
+"word": "scorpionweed",
+"score": 788
+},
+{
+"word": "scuppernong",
+"score": 862
+},
+{
+"word": "scuppernongs",
+"score": 861
+},
+{
+"word": "seabuckthorn",
+"score": 1329
+},
+{
+"word": "sedum",
+"score": 189
+},
+{
+"word": "sedums",
+"score": 190
+},
+{
+"word": "seed",
+"score": 1621
+},
+{
+"word": "seedheads",
+"score": 579
+},
+{
+"word": "seedless",
+"score": 498
+},
+{
+"word": "seedling",
+"score": 900
+},
+{
+"word": "seedlings",
+"score": 930
+},
+{
+"word": "seedpod",
+"score": 344
+},
+{
+"word": "seedpods",
+"score": 237
+},
+{
+"word": "seeds",
+"score": 1620
+},
+{
+"word": "sego",
+"score": 800
+},
+{
+"word": "semen",
+"score": 1619
+},
+{
+"word": "sempervirens",
+"score": 557
+},
+{
+"word": "sempervivums",
+"score": 1413
+},
+{
+"word": "senecio",
+"score": 1096
+},
+{
+"word": "senecio",
+"score": 1097
+},
+{
+"word": "sericea",
+"score": 1749
+},
+{
+"word": "serviceberries",
+"score": 596
+},
+{
+"word": "serviceberry",
+"score": 815
+},
+{
+"word": "sesame",
+"score": 696
+},
+{
+"word": "sesamum",
+"score": 472
+},
+{
+"word": "sesamum",
+"score": 473
+},
+{
+"word": "shallot",
+"score": 1392
+},
+{
+"word": "shallots",
+"score": 1393
+},
+{
+"word": "sharafabadi",
+"score": 1116
+},
+{
+"word": "sheller",
+"score": 406
+},
+{
+"word": "shellers",
+"score": 405
+},
+{
+"word": "shellflower",
+"score": 1232
+},
+{
+"word": "shiitake",
+"score": 1663
+},
+{
+"word": "shiitakes",
+"score": 1662
+},
+{
+"word": "shrub",
+"score": 1248
+},
+{
+"word": "shrubby",
+"score": 959
+},
+{
+"word": "shrublike",
+"score": 1587
+},
+{
+"word": "sigatoka",
+"score": 507
+},
+{
+"word": "silage",
+"score": 1668
+},
+{
+"word": "silages",
+"score": 1669
+},
+{
+"word": "silene",
+"score": 1227
+},
+{
+"word": "silked",
+"score": 1205
+},
+{
+"word": "silkworm",
+"score": 1598
+},
+{
+"word": "silverbeet",
+"score": 466
+},
+{
+"word": "simsim",
+"score": 278
+},
+{
+"word": "sinensis",
+"score": 1408
+},
+{
+"word": "siskin",
+"score": 1133
+},
+{
+"word": "siskins",
+"score": 1134
+},
+{
+"word": "sloe",
+"score": 852
+},
+{
+"word": "sloes",
+"score": 853
+},
+{
+"word": "smartweed",
+"score": 792
+},
+{
+"word": "smasher",
+"score": 835
+},
+{
+"word": "snakeroot",
+"score": 1652
+},
+{
+"word": "snowberry",
+"score": 147
+},
+{
+"word": "snowdrop",
+"score": 1014
+},
+{
+"word": "softneck",
+"score": 517
+},
+{
+"word": "soilless",
+"score": 539
+},
+{
+"word": "soja",
+"score": 724
+},
+{
+"word": "solanum",
+"score": 1137
+},
+{
+"word": "solanum",
+"score": 1138
+},
+{
+"word": "solidago",
+"score": 1175
+},
+{
+"word": "solidago",
+"score": 1176
+},
+{
+"word": "sorghum",
+"score": 33
+},
+{
+"word": "sorghums",
+"score": 41
+},
+{
+"word": "sorrel",
+"score": 888
+},
+{
+"word": "source",
+"score": 1618
+},
+{
+"word": "soursop",
+"score": 1089
+},
+{
+"word": "sourwood",
+"score": 807
+},
+{
+"word": "sower",
+"score": 1128
+},
+{
+"word": "sowing",
+"score": 1452
+},
+{
+"word": "sowings",
+"score": 477
+},
+{
+"word": "soy",
+"score": 2
+},
+{
+"word": "soya",
+"score": 348
+},
+{
+"word": "soyabean",
+"score": 42
+},
+{
+"word": "soyabeans",
+"score": 670
+},
+{
+"word": "soybean",
+"score": 3
+},
+{
+"word": "soybeans",
+"score": 659
+},
+{
+"word": "spadix",
+"score": 1496
+},
+{
+"word": "spathe",
+"score": 686
+},
+{
+"word": "spearmint",
+"score": 855
+},
+{
+"word": "speedwell",
+"score": 707
+},
+{
+"word": "spicata",
+"score": 993
+},
+{
+"word": "spiderflower",
+"score": 255
+},
+{
+"word": "spiderwort",
+"score": 276
+},
+{
+"word": "spikelets",
+"score": 1104
+},
+{
+"word": "spinach",
+"score": 1640
+},
+{
+"word": "spine",
+"score": 1103
+},
+{
+"word": "spinosa",
+"score": 733
+},
+{
+"word": "spiraea",
+"score": 362
+},
+{
+"word": "spiraea",
+"score": 363
+},
+{
+"word": "spirea",
+"score": 364
+},
+{
+"word": "spireas",
+"score": 909
+},
+{
+"word": "splendens",
+"score": 1317
+},
+{
+"word": "sprout",
+"score": 1713
+},
+{
+"word": "sprouted",
+"score": 1378
+},
+{
+"word": "sprouts",
+"score": 1714
+},
+{
+"word": "spud",
+"score": 1021
+},
+{
+"word": "spuds",
+"score": 1020
+},
+{
+"word": "spurge",
+"score": 461
+},
+{
+"word": "squill",
+"score": 300
+},
+{
+"word": "stamen",
+"score": 994
+},
+{
+"word": "standability",
+"score": 395
+},
+{
+"word": "starfruit",
+"score": 709
+},
+{
+"word": "starthistle",
+"score": 1658
+},
+{
+"word": "statice",
+"score": 438
+},
+{
+"word": "stemmy",
+"score": 1367
+},
+{
+"word": "stephanotis",
+"score": 676
+},
+{
+"word": "stewartia",
+"score": 1270
+},
+{
+"word": "stinkweed",
+"score": 155
+},
+{
+"word": "stockfish",
+"score": 1321
+},
+{
+"word": "stonecrop",
+"score": 425
+},
+{
+"word": "stonefruit",
+"score": 1394
+},
+{
+"word": "strawberries",
+"score": 68
+},
+{
+"word": "strawberry",
+"score": 4
+},
+{
+"word": "strawflower",
+"score": 47
+},
+{
+"word": "striga",
+"score": 1532
+},
+{
+"word": "stringybark",
+"score": 1720
+},
+{
+"word": "stubble",
+"score": 979
+},
+{
+"word": "stubbles",
+"score": 977
+},
+{
+"word": "stupice",
+"score": 1606
+},
+{
+"word": "sudangrass",
+"score": 184
+},
+{
+"word": "suet",
+"score": 1304
+},
+{
+"word": "sugarbeet",
+"score": 77
+},
+{
+"word": "sugarbeets",
+"score": 1347
+},
+{
+"word": "sugarberry",
+"score": 683
+},
+{
+"word": "sugarcane",
+"score": 922
+},
+{
+"word": "sugarcanes",
+"score": 923
+},
+{
+"word": "sulfur",
+"score": 1721
+},
+{
+"word": "sulfurs",
+"score": 1722
+},
+{
+"word": "sumac",
+"score": 907
+},
+{
+"word": "sumacs",
+"score": 1023
+},
+{
+"word": "sunbutter",
+"score": 360
+},
+{
+"word": "sunchokes",
+"score": 699
+},
+{
+"word": "sunflower",
+"score": 0
+},
+{
+"word": "sunoil",
+"score": 303
+},
+{
+"word": "sunpatiens",
+"score": 1588
+},
+{
+"word": "sunseed",
+"score": 40
+},
+{
+"word": "sunseeds",
+"score": 1050
+},
+{
+"word": "superba",
+"score": 1348
+},
+{
+"word": "supergrass",
+"score": 626
+},
+{
+"word": "supersweet",
+"score": 1046
+},
+{
+"word": "swede",
+"score": 1401
+},
+{
+"word": "swedes",
+"score": 1400
+},
+{
+"word": "sweetcorn",
+"score": 468
+},
+{
+"word": "sweetgum",
+"score": 1082
+},
+{
+"word": "sweetpeas",
+"score": 267
+},
+{
+"word": "sweetpotato",
+"score": 165
+},
+{
+"word": "switchgrass",
+"score": 916
+},
+{
+"word": "syringa",
+"score": 1064
+},
+{
+"word": "syringa",
+"score": 1065
+},
+{
+"word": "tabebuia",
+"score": 107
+},
+{
+"word": "tagetes",
+"score": 304
+},
+{
+"word": "taleggio",
+"score": 1511
+},
+{
+"word": "talong",
+"score": 570
+},
+{
+"word": "tamarillo",
+"score": 1742
+},
+{
+"word": "tamarind",
+"score": 602
+},
+{
+"word": "tamarinds",
+"score": 603
+},
+{
+"word": "tanflora",
+"score": 1613
+},
+{
+"word": "tangelo",
+"score": 281
+},
+{
+"word": "tangelos",
+"score": 1379
+},
+{
+"word": "taraxacum",
+"score": 804
+},
+{
+"word": "taraxacum",
+"score": 805
+},
+{
+"word": "taro",
+"score": 1032
+},
+{
+"word": "tasseling",
+"score": 1537
+},
+{
+"word": "tatsoi",
+"score": 1129
+},
+{
+"word": "teasel",
+"score": 551
+},
+{
+"word": "teff",
+"score": 454
+},
+{
+"word": "teosinte",
+"score": 984
+},
+{
+"word": "terminalia",
+"score": 806
+},
+{
+"word": "texture",
+"score": 895
+},
+{
+"word": "thimbleberry",
+"score": 150
+},
+{
+"word": "thistle",
+"score": 302
+},
+{
+"word": "thistles",
+"score": 301
+},
+{
+"word": "thornless",
+"score": 817
+},
+{
+"word": "thrip",
+"score": 758
+},
+{
+"word": "thrips",
+"score": 316
+},
+{
+"word": "thyme",
+"score": 1006
+},
+{
+"word": "thymes",
+"score": 1007
+},
+{
+"word": "tiare",
+"score": 1614
+},
+{
+"word": "tickseed",
+"score": 512
+},
+{
+"word": "tillandsia",
+"score": 1592
+},
+{
+"word": "tillandsia",
+"score": 1593
+},
+{
+"word": "tillering",
+"score": 868
+},
+{
+"word": "timothy",
+"score": 1690
+},
+{
+"word": "timothy",
+"score": 1691
+},
+{
+"word": "toadflax",
+"score": 387
+},
+{
+"word": "tomatillo",
+"score": 1339
+},
+{
+"word": "tomatillos",
+"score": 1340
+},
+{
+"word": "tomato",
+"score": 31
+},
+{
+"word": "tomatoe",
+"score": 1471
+},
+{
+"word": "tomatoes",
+"score": 518
+},
+{
+"word": "toor",
+"score": 1203
+},
+{
+"word": "torenia",
+"score": 140
+},
+{
+"word": "tradescantia",
+"score": 1015
+},
+{
+"word": "tradescantia",
+"score": 1016
+},
+{
+"word": "traited",
+"score": 424
+},
+{
+"word": "trefoil",
+"score": 1503
+},
+{
+"word": "trifoliate",
+"score": 876
+},
+{
+"word": "trillium",
+"score": 1666
+},
+{
+"word": "trilliums",
+"score": 1665
+},
+{
+"word": "triolein",
+"score": 748
+},
+{
+"word": "triticale",
+"score": 44
+},
+{
+"word": "triticum",
+"score": 697
+},
+{
+"word": "triticum",
+"score": 698
+},
+{
+"word": "truffula",
+"score": 1345
+},
+{
+"word": "tswv",
+"score": 1407
+},
+{
+"word": "tuber",
+"score": 1059
+},
+{
+"word": "tuber",
+"score": 1060
+},
+{
+"word": "tuberosa",
+"score": 555
+},
+{
+"word": "tuberose",
+"score": 306
+},
+{
+"word": "tuberoses",
+"score": 307
+},
+{
+"word": "tuberosum",
+"score": 1184
+},
+{
+"word": "tuberous",
+"score": 671
+},
+{
+"word": "tulip",
+"score": 310
+},
+{
+"word": "tulipa",
+"score": 1442
+},
+{
+"word": "tulipa",
+"score": 1443
+},
+{
+"word": "tulips",
+"score": 435
+},
+{
+"word": "turmeric",
+"score": 1617
+},
+{
+"word": "turnip",
+"score": 614
+},
+{
+"word": "turnips",
+"score": 613
+},
+{
+"word": "turtlehead",
+"score": 1233
+},
+{
+"word": "uglyripe",
+"score": 1485
+},
+{
+"word": "umbel",
+"score": 117
+},
+{
+"word": "umbels",
+"score": 116
+},
+{
+"word": "underplanted",
+"score": 1210
+},
+{
+"word": "unfolding",
+"score": 1147
+},
+{
+"word": "ungrazed",
+"score": 1746
+},
+{
+"word": "unhulled",
+"score": 91
+},
+{
+"word": "unmilled",
+"score": 1330
+},
+{
+"word": "unplanted",
+"score": 1643
+},
+{
+"word": "unshelled",
+"score": 925
+},
+{
+"word": "unsprayed",
+"score": 1193
+},
+{
+"word": "vaccinium",
+"score": 452
+},
+{
+"word": "vaccinium",
+"score": 453
+},
+{
+"word": "variegata",
+"score": 185
+},
+{
+"word": "variegated",
+"score": 554
+},
+{
+"word": "variegation",
+"score": 1069
+},
+{
+"word": "varieties",
+"score": 122
+},
+{
+"word": "variety",
+"score": 121
+},
+{
+"word": "varities",
+"score": 871
+},
+{
+"word": "vegatables",
+"score": 1591
+},
+{
+"word": "vegetable",
+"score": 6
+},
+{
+"word": "vegetables",
+"score": 941
+},
+{
+"word": "vegetatively",
+"score": 986
+},
+{
+"word": "veggie",
+"score": 1604
+},
+{
+"word": "vegoils",
+"score": 1214
+},
+{
+"word": "vegtables",
+"score": 932
+},
+{
+"word": "velvetleaf",
+"score": 474
+},
+{
+"word": "verbena",
+"score": 601
+},
+{
+"word": "verbenas",
+"score": 690
+},
+{
+"word": "veronica",
+"score": 706
+},
+{
+"word": "verticillata",
+"score": 1093
+},
+{
+"word": "vetch",
+"score": 223
+},
+{
+"word": "viburnum",
+"score": 1066
+},
+{
+"word": "viburnum",
+"score": 1067
+},
+{
+"word": "viburnums",
+"score": 1179
+},
+{
+"word": "vilmorin",
+"score": 1457
+},
+{
+"word": "vinasse",
+"score": 1624
+},
+{
+"word": "vinca",
+"score": 412
+},
+{
+"word": "vinca",
+"score": 1136
+},
+{
+"word": "vincas",
+"score": 413
+},
+{
+"word": "vine",
+"score": 1667
+},
+{
+"word": "vines",
+"score": 1699
+},
+{
+"word": "viney",
+"score": 1634
+},
+{
+"word": "vining",
+"score": 592
+},
+{
+"word": "violet",
+"score": 1338
+},
+{
+"word": "violets",
+"score": 1657
+},
+{
+"word": "vistive",
+"score": 156
+},
+{
+"word": "vitex",
+"score": 1441
+},
+{
+"word": "vulgare",
+"score": 819
+},
+{
+"word": "walnut",
+"score": 688
+},
+{
+"word": "walnuts",
+"score": 689
+},
+{
+"word": "waterlilies",
+"score": 402
+},
+{
+"word": "waterlily",
+"score": 415
+},
+{
+"word": "watermelon",
+"score": 164
+},
+{
+"word": "webworm",
+"score": 1047
+},
+{
+"word": "webworms",
+"score": 1048
+},
+{
+"word": "weedkiller",
+"score": 828
+},
+{
+"word": "weevil",
+"score": 1629
+},
+{
+"word": "weevils",
+"score": 1628
+},
+{
+"word": "weigela",
+"score": 741
+},
+{
+"word": "weleda",
+"score": 1380
+},
+{
+"word": "wheat",
+"score": 9
+},
+{
+"word": "wheatberry",
+"score": 1247
+},
+{
+"word": "wheatgerm",
+"score": 843
+},
+{
+"word": "wheats",
+"score": 227
+},
+{
+"word": "wheaty",
+"score": 1346
+},
+{
+"word": "whiteflies",
+"score": 846
+},
+{
+"word": "whitefly",
+"score": 847
+},
+{
+"word": "wholecrop",
+"score": 433
+},
+{
+"word": "wholewheat",
+"score": 1501
+},
+{
+"word": "whorled",
+"score": 439
+},
+{
+"word": "wildflower",
+"score": 483
+},
+{
+"word": "wildflowers",
+"score": 866
+},
+{
+"word": "winegrape",
+"score": 1641
+},
+{
+"word": "winegrapes",
+"score": 1682
+},
+{
+"word": "winterberry",
+"score": 90
+},
+{
+"word": "wireworm",
+"score": 1370
+},
+{
+"word": "wireworms",
+"score": 1371
+},
+{
+"word": "witlof",
+"score": 590
+},
+{
+"word": "yacon",
+"score": 1172
+},
+{
+"word": "yam",
+"score": 1543
+},
+{
+"word": "yarrow",
+"score": 775
+},
+{
+"word": "yarrows",
+"score": 947
+},
+{
+"word": "yaupon",
+"score": 330
+},
+{
+"word": "yellowhammer",
+"score": 1440
+},
+{
+"word": "yield",
+"score": 1113
+},
+{
+"word": "yieldgard",
+"score": 618
+},
+{
+"word": "yucca",
+"score": 1535
+},
+{
+"word": "zatar",
+"score": 1599
+},
+{
+"word": "zelkova",
+"score": 1732
+},
+{
+"word": "zingiber",
+"score": 1636
+},
+{
+"word": "zingiber",
+"score": 1637
+},
+{
+"word": "zinnia",
+"score": 201
+},
+{
+"word": "zinnias",
+"score": 202
+},
+{
+"word": "zucchini",
+"score": 455
+},
+{
+"word": "zucchinis",
+"score": 456
+}
+]
+}

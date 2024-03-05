@@ -1,0 +1,18189 @@
+{
+"hints": [
+"I have many pages, but I'm not a notebook. What am I?",
+"I can be opened and closed, but I'm not a door. What am I?",
+"I come in many different genres and can take you on an adventure. What am I?"
+],
+"associations": [
+{
+"word": "aaup",
+"score": 2794
+},
+{
+"word": "aauw",
+"score": 922
+},
+{
+"word": "abcs",
+"score": 3012
+},
+{
+"word": "abdomen",
+"score": 2522
+},
+{
+"word": "abhorrence",
+"score": 1710
+},
+{
+"word": "abolitionist",
+"score": 1653
+},
+{
+"word": "abridged",
+"score": 696
+},
+{
+"word": "abroad",
+"score": 3337
+},
+{
+"word": "absinth",
+"score": 2887
+},
+{
+"word": "absinthe",
+"score": 2888
+},
+{
+"word": "absolute",
+"score": 3648
+},
+{
+"word": "absolutism",
+"score": 244
+},
+{
+"word": "abstract",
+"score": 4190
+},
+{
+"word": "abstraction",
+"score": 2493
+},
+{
+"word": "abstracts",
+"score": 4256
+},
+{
+"word": "absurd",
+"score": 3388
+},
+{
+"word": "absurdist",
+"score": 2767
+},
+{
+"word": "abundance",
+"score": 837
+},
+{
+"word": "access",
+"score": 2958
+},
+{
+"word": "accidental",
+"score": 495
+},
+{
+"word": "acclaimed",
+"score": 2044
+},
+{
+"word": "accorsi",
+"score": 2284
+},
+{
+"word": "account",
+"score": 3632
+},
+{
+"word": "acculturation",
+"score": 3398
+},
+{
+"word": "accuracy",
+"score": 1129
+},
+{
+"word": "ace",
+"score": 646
+},
+{
+"word": "achiever",
+"score": 2882
+},
+{
+"word": "ackman",
+"score": 4111
+},
+{
+"word": "acknowledgment",
+"score": 428
+},
+{
+"word": "acknowledgments",
+"score": 427
+},
+{
+"word": "acquaintance",
+"score": 3240
+},
+{
+"word": "acquittance",
+"score": 4341
+},
+{
+"word": "act",
+"score": 4417
+},
+{
+"word": "activism",
+"score": 4128
+},
+{
+"word": "adaptation",
+"score": 426
+},
+{
+"word": "adaptations",
+"score": 3058
+},
+{
+"word": "adapted",
+"score": 829
+},
+{
+"word": "adapting",
+"score": 2678
+},
+{
+"word": "adaption",
+"score": 1372
+},
+{
+"word": "addendum",
+"score": 255
+},
+{
+"word": "addict",
+"score": 1866
+},
+{
+"word": "addicted",
+"score": 2568
+},
+{
+"word": "addie",
+"score": 3993
+},
+{
+"word": "address",
+"score": 2195
+},
+{
+"word": "adieu",
+"score": 2432
+},
+{
+"word": "admirer",
+"score": 3481
+},
+{
+"word": "admirers",
+"score": 3480
+},
+{
+"word": "admiringly",
+"score": 2036
+},
+{
+"word": "admonition",
+"score": 2886
+},
+{
+"word": "adore",
+"score": 4140
+},
+{
+"word": "advance",
+"score": 4063
+},
+{
+"word": "adventure",
+"score": 254
+},
+{
+"word": "adventures",
+"score": 253
+},
+{
+"word": "adversity",
+"score": 3354
+},
+{
+"word": "aerobics",
+"score": 4329
+},
+{
+"word": "affair",
+"score": 654
+},
+{
+"word": "affection",
+"score": 3771
+},
+{
+"word": "affidavit",
+"score": 3622
+},
+{
+"word": "afraid",
+"score": 2922
+},
+{
+"word": "afterlife",
+"score": 1438
+},
+{
+"word": "aftermath",
+"score": 1303
+},
+{
+"word": "aftershock",
+"score": 2247
+},
+{
+"word": "agee",
+"score": 2372
+},
+{
+"word": "agee",
+"score": 2373
+},
+{
+"word": "agony",
+"score": 2827
+},
+{
+"word": "agreement",
+"score": 1730
+},
+{
+"word": "ala",
+"score": 2214
+},
+{
+"word": "albee",
+"score": 1681
+},
+{
+"word": "albee",
+"score": 1682
+},
+{
+"word": "albom",
+"score": 130
+},
+{
+"word": "album",
+"score": 308
+},
+{
+"word": "albums",
+"score": 701
+},
+{
+"word": "alchemist",
+"score": 549
+},
+{
+"word": "alchemy",
+"score": 4346
+},
+{
+"word": "alcott",
+"score": 1583
+},
+{
+"word": "alcott",
+"score": 1584
+},
+{
+"word": "alcove",
+"score": 3987
+},
+{
+"word": "alexie",
+"score": 1263
+},
+{
+"word": "algebra",
+"score": 3779
+},
+{
+"word": "alibi",
+"score": 1494
+},
+{
+"word": "alice",
+"score": 3780
+},
+{
+"word": "allegorical",
+"score": 664
+},
+{
+"word": "allegory",
+"score": 632
+},
+{
+"word": "alludes",
+"score": 4132
+},
+{
+"word": "allure",
+"score": 2234
+},
+{
+"word": "allusion",
+"score": 2159
+},
+{
+"word": "allusions",
+"score": 2160
+},
+{
+"word": "ally",
+"score": 3241
+},
+{
+"word": "almanac",
+"score": 448
+},
+{
+"word": "alone",
+"score": 2187
+},
+{
+"word": "aloneness",
+"score": 817
+},
+{
+"word": "aloud",
+"score": 620
+},
+{
+"word": "alphabet",
+"score": 550
+},
+{
+"word": "alphabetically",
+"score": 1736
+},
+{
+"word": "alphabets",
+"score": 3808
+},
+{
+"word": "alternet",
+"score": 944
+},
+{
+"word": "always",
+"score": 3128
+},
+{
+"word": "amazing",
+"score": 840
+},
+{
+"word": "amazon",
+"score": 1007
+},
+{
+"word": "amazon",
+"score": 1008
+},
+{
+"word": "ambition",
+"score": 703
+},
+{
+"word": "ambivalence",
+"score": 3921
+},
+{
+"word": "amis",
+"score": 1337
+},
+{
+"word": "amnesty",
+"score": 4268
+},
+{
+"word": "amorousness",
+"score": 4006
+},
+{
+"word": "amuses",
+"score": 3073
+},
+{
+"word": "amusing",
+"score": 2941
+},
+{
+"word": "analogies",
+"score": 3507
+},
+{
+"word": "analogy",
+"score": 3508
+},
+{
+"word": "analyst",
+"score": 466
+},
+{
+"word": "anarchism",
+"score": 1069
+},
+{
+"word": "anarchist",
+"score": 2403
+},
+{
+"word": "anatomy",
+"score": 279
+},
+{
+"word": "ancestor",
+"score": 1617
+},
+{
+"word": "anecdotal",
+"score": 2912
+},
+{
+"word": "anecdote",
+"score": 170
+},
+{
+"word": "anecdotes",
+"score": 307
+},
+{
+"word": "angelou",
+"score": 408
+},
+{
+"word": "angler",
+"score": 3365
+},
+{
+"word": "anil",
+"score": 1243
+},
+{
+"word": "animal",
+"score": 683
+},
+{
+"word": "animation",
+"score": 1118
+},
+{
+"word": "anime",
+"score": 4395
+},
+{
+"word": "annabel",
+"score": 1637
+},
+{
+"word": "annals",
+"score": 838
+},
+{
+"word": "anne",
+"score": 2641
+},
+{
+"word": "anne",
+"score": 2642
+},
+{
+"word": "annotate",
+"score": 3158
+},
+{
+"word": "annotated",
+"score": 480
+},
+{
+"word": "annotation",
+"score": 1001
+},
+{
+"word": "annotations",
+"score": 1000
+},
+{
+"word": "announcement",
+"score": 1164
+},
+{
+"word": "annuity",
+"score": 2990
+},
+{
+"word": "anonymously",
+"score": 4371
+},
+{
+"word": "antecedent",
+"score": 4471
+},
+{
+"word": "anthologies",
+"score": 48
+},
+{
+"word": "anthology",
+"score": 16
+},
+{
+"word": "anthropoid",
+"score": 1469
+},
+{
+"word": "anthropological",
+"score": 799
+},
+{
+"word": "anthropologist",
+"score": 2417
+},
+{
+"word": "anthropology",
+"score": 1444
+},
+{
+"word": "antic",
+"score": 765
+},
+{
+"word": "antique",
+"score": 2032
+},
+{
+"word": "antiques",
+"score": 2033
+},
+{
+"word": "anymore",
+"score": 4388
+},
+{
+"word": "apartheid",
+"score": 2761
+},
+{
+"word": "ape",
+"score": 1470
+},
+{
+"word": "aperture",
+"score": 4433
+},
+{
+"word": "aphorism",
+"score": 365
+},
+{
+"word": "aphorisms",
+"score": 364
+},
+{
+"word": "apocalypse",
+"score": 1277
+},
+{
+"word": "apocryphal",
+"score": 954
+},
+{
+"word": "apologetically",
+"score": 3201
+},
+{
+"word": "apologies",
+"score": 2255
+},
+{
+"word": "apology",
+"score": 2116
+},
+{
+"word": "apostle",
+"score": 2779
+},
+{
+"word": "apostle",
+"score": 2780
+},
+{
+"word": "apostles",
+"score": 3885
+},
+{
+"word": "app",
+"score": 1306
+},
+{
+"word": "apparel",
+"score": 2037
+},
+{
+"word": "apparition",
+"score": 378
+},
+{
+"word": "appendices",
+"score": 497
+},
+{
+"word": "appendix",
+"score": 496
+},
+{
+"word": "appetite",
+"score": 2011
+},
+{
+"word": "appetizer",
+"score": 2806
+},
+{
+"word": "apple",
+"score": 4385
+},
+{
+"word": "apples",
+"score": 4384
+},
+{
+"word": "apprehension",
+"score": 3260
+},
+{
+"word": "approach",
+"score": 2956
+},
+{
+"word": "appropriately",
+"score": 4048
+},
+{
+"word": "approvingly",
+"score": 4485
+},
+{
+"word": "appstore",
+"score": 2290
+},
+{
+"word": "aptly",
+"score": 1225
+},
+{
+"word": "aquarium",
+"score": 2252
+},
+{
+"word": "aquariums",
+"score": 2251
+},
+{
+"word": "archipelago",
+"score": 3470
+},
+{
+"word": "archival",
+"score": 3278
+},
+{
+"word": "archivist",
+"score": 4287
+},
+{
+"word": "arendt",
+"score": 2343
+},
+{
+"word": "arendt",
+"score": 2344
+},
+{
+"word": "aretha",
+"score": 4396
+},
+{
+"word": "argument",
+"score": 3909
+},
+{
+"word": "argumentation",
+"score": 3908
+},
+{
+"word": "aristotle",
+"score": 3860
+},
+{
+"word": "aristotle",
+"score": 3861
+},
+{
+"word": "armageddon",
+"score": 3303
+},
+{
+"word": "armageddon",
+"score": 3304
+},
+{
+"word": "armchair",
+"score": 2629
+},
+{
+"word": "aroma",
+"score": 995
+},
+{
+"word": "aromatherapy",
+"score": 3647
+},
+{
+"word": "arrest",
+"score": 3930
+},
+{
+"word": "arrogance",
+"score": 3936
+},
+{
+"word": "arsenic",
+"score": 2962
+},
+{
+"word": "art",
+"score": 4513
+},
+{
+"word": "artefact",
+"score": 2856
+},
+{
+"word": "arthur",
+"score": 3697
+},
+{
+"word": "arthur",
+"score": 3698
+},
+{
+"word": "article",
+"score": 189
+},
+{
+"word": "articles",
+"score": 311
+},
+{
+"word": "articulates",
+"score": 4383
+},
+{
+"word": "articulation",
+"score": 4163
+},
+{
+"word": "artifact",
+"score": 2857
+},
+{
+"word": "artist",
+"score": 3599
+},
+{
+"word": "artlessness",
+"score": 1111
+},
+{
+"word": "artwork",
+"score": 565
+},
+{
+"word": "artworks",
+"score": 1269
+},
+{
+"word": "aside",
+"score": 4204
+},
+{
+"word": "asides",
+"score": 4205
+},
+{
+"word": "aspect",
+"score": 3537
+},
+{
+"word": "ass",
+"score": 2961
+},
+{
+"word": "assassin",
+"score": 1540
+},
+{
+"word": "assassination",
+"score": 3722
+},
+{
+"word": "asshole",
+"score": 541
+},
+{
+"word": "assortment",
+"score": 3383
+},
+{
+"word": "astrologer",
+"score": 3534
+},
+{
+"word": "astrologers",
+"score": 3840
+},
+{
+"word": "astrology",
+"score": 1030
+},
+{
+"word": "astronomy",
+"score": 2542
+},
+{
+"word": "astutely",
+"score": 2430
+},
+{
+"word": "astuteness",
+"score": 2918
+},
+{
+"word": "ate",
+"score": 4028
+},
+{
+"word": "ate",
+"score": 4029
+},
+{
+"word": "atheism",
+"score": 1119
+},
+{
+"word": "atheist",
+"score": 1819
+},
+{
+"word": "atheists",
+"score": 3995
+},
+{
+"word": "athenaeum",
+"score": 2466
+},
+{
+"word": "atlas",
+"score": 388
+},
+{
+"word": "atlas",
+"score": 389
+},
+{
+"word": "atlus",
+"score": 3163
+},
+{
+"word": "atonement",
+"score": 2730
+},
+{
+"word": "atria",
+"score": 1914
+},
+{
+"word": "atrium",
+"score": 1913
+},
+{
+"word": "attenborough",
+"score": 3907
+},
+{
+"word": "attenuation",
+"score": 3319
+},
+{
+"word": "attic",
+"score": 1364
+},
+{
+"word": "attic",
+"score": 1365
+},
+{
+"word": "atticus",
+"score": 3519
+},
+{
+"word": "atticus",
+"score": 3520
+},
+{
+"word": "attire",
+"score": 3221
+},
+{
+"word": "attraction",
+"score": 2533
+},
+{
+"word": "audacity",
+"score": 84
+},
+{
+"word": "auden",
+"score": 1196
+},
+{
+"word": "auden",
+"score": 1197
+},
+{
+"word": "audiotape",
+"score": 1719
+},
+{
+"word": "audiotapes",
+"score": 1720
+},
+{
+"word": "auschwitz",
+"score": 4050
+},
+{
+"word": "auschwitz",
+"score": 4051
+},
+{
+"word": "austen",
+"score": 260
+},
+{
+"word": "austen",
+"score": 261
+},
+{
+"word": "authenticity",
+"score": 3853
+},
+{
+"word": "author",
+"score": 20
+},
+{
+"word": "authored",
+"score": 199
+},
+{
+"word": "authorhouse",
+"score": 126
+},
+{
+"word": "authoring",
+"score": 1658
+},
+{
+"word": "authoritarian",
+"score": 2619
+},
+{
+"word": "authors",
+"score": 77
+},
+{
+"word": "authorship",
+"score": 780
+},
+{
+"word": "autobiographical",
+"score": 44
+},
+{
+"word": "autobiographies",
+"score": 18
+},
+{
+"word": "autobiography",
+"score": 3
+},
+{
+"word": "autograph",
+"score": 407
+},
+{
+"word": "autographed",
+"score": 1509
+},
+{
+"word": "autographs",
+"score": 1602
+},
+{
+"word": "automaton",
+"score": 2596
+},
+{
+"word": "avarice",
+"score": 2589
+},
+{
+"word": "avers",
+"score": 4026
+},
+{
+"word": "aviator",
+"score": 983
+},
+{
+"word": "avidly",
+"score": 4039
+},
+{
+"word": "avocation",
+"score": 1314
+},
+{
+"word": "awake",
+"score": 4412
+},
+{
+"word": "awakening",
+"score": 1017
+},
+{
+"word": "awareness",
+"score": 918
+},
+{
+"word": "awful",
+"score": 3872
+},
+{
+"word": "backbone",
+"score": 4477
+},
+{
+"word": "backsliding",
+"score": 2948
+},
+{
+"word": "backstory",
+"score": 1024
+},
+{
+"word": "backyard",
+"score": 4014
+},
+{
+"word": "bag",
+"score": 1827
+},
+{
+"word": "bagel",
+"score": 4361
+},
+{
+"word": "bagels",
+"score": 4362
+},
+{
+"word": "baggage",
+"score": 4461
+},
+{
+"word": "baigent",
+"score": 854
+},
+{
+"word": "baking",
+"score": 4333
+},
+{
+"word": "baklava",
+"score": 3796
+},
+{
+"word": "baldacci",
+"score": 1246
+},
+{
+"word": "ballad",
+"score": 2072
+},
+{
+"word": "ballantine",
+"score": 827
+},
+{
+"word": "balzac",
+"score": 690
+},
+{
+"word": "balzac",
+"score": 691
+},
+{
+"word": "bane",
+"score": 677
+},
+{
+"word": "banker",
+"score": 4226
+},
+{
+"word": "banknote",
+"score": 952
+},
+{
+"word": "banquet",
+"score": 1634
+},
+{
+"word": "bantam",
+"score": 3858
+},
+{
+"word": "banville",
+"score": 578
+},
+{
+"word": "barbra",
+"score": 4275
+},
+{
+"word": "bard",
+"score": 809
+},
+{
+"word": "bargain",
+"score": 3763
+},
+{
+"word": "barnes",
+"score": 3654
+},
+{
+"word": "baron",
+"score": 2421
+},
+{
+"word": "barren",
+"score": 1090
+},
+{
+"word": "basement",
+"score": 1640
+},
+{
+"word": "basic",
+"score": 2834
+},
+{
+"word": "basic",
+"score": 2835
+},
+{
+"word": "basics",
+"score": 2836
+},
+{
+"word": "bastard",
+"score": 540
+},
+{
+"word": "batch",
+"score": 2893
+},
+{
+"word": "bathroom",
+"score": 3935
+},
+{
+"word": "beane",
+"score": 2516
+},
+{
+"word": "beast",
+"score": 681
+},
+{
+"word": "beasts",
+"score": 682
+},
+{
+"word": "beatle",
+"score": 4038
+},
+{
+"word": "beatles",
+"score": 2822
+},
+{
+"word": "beatles",
+"score": 2823
+},
+{
+"word": "became",
+"score": 1708
+},
+{
+"word": "bed",
+"score": 3532
+},
+{
+"word": "bedtime",
+"score": 3020
+},
+{
+"word": "beedle",
+"score": 723
+},
+{
+"word": "beforehand",
+"score": 3959
+},
+{
+"word": "beginners",
+"score": 2996
+},
+{
+"word": "beginning",
+"score": 286
+},
+{
+"word": "beginnings",
+"score": 2891
+},
+{
+"word": "beguilement",
+"score": 1925
+},
+{
+"word": "behar",
+"score": 4473
+},
+{
+"word": "behavior",
+"score": 4537
+},
+{
+"word": "behaviour",
+"score": 4535
+},
+{
+"word": "beige",
+"score": 2023
+},
+{
+"word": "being",
+"score": 1970
+},
+{
+"word": "belief",
+"score": 2536
+},
+{
+"word": "believe",
+"score": 1577
+},
+{
+"word": "believer",
+"score": 679
+},
+{
+"word": "believers",
+"score": 1908
+},
+{
+"word": "bellow",
+"score": 240
+},
+{
+"word": "bellow",
+"score": 241
+},
+{
+"word": "belly",
+"score": 2523
+},
+{
+"word": "beloved",
+"score": 1378
+},
+{
+"word": "benediction",
+"score": 1902
+},
+{
+"word": "bengali",
+"score": 3505
+},
+{
+"word": "bengali",
+"score": 3506
+},
+{
+"word": "benioff",
+"score": 3727
+},
+{
+"word": "beowulf",
+"score": 2770
+},
+{
+"word": "beowulf",
+"score": 2771
+},
+{
+"word": "bequest",
+"score": 528
+},
+{
+"word": "berkley",
+"score": 3797
+},
+{
+"word": "beryllium",
+"score": 4442
+},
+{
+"word": "bess",
+"score": 4441
+},
+{
+"word": "bestseller",
+"score": 10
+},
+{
+"word": "bestsellers",
+"score": 34
+},
+{
+"word": "bestselling",
+"score": 65
+},
+{
+"word": "betrayal",
+"score": 118
+},
+{
+"word": "betrayed",
+"score": 590
+},
+{
+"word": "beyond",
+"score": 3052
+},
+{
+"word": "bezos",
+"score": 1061
+},
+{
+"word": "bhagat",
+"score": 3904
+},
+{
+"word": "bhagavad-gita",
+"score": 1891
+},
+{
+"word": "bias",
+"score": 1053
+},
+{
+"word": "bible",
+"score": 67
+},
+{
+"word": "bible",
+"score": 68
+},
+{
+"word": "bibles",
+"score": 274
+},
+{
+"word": "biblical",
+"score": 1448
+},
+{
+"word": "biblically",
+"score": 2176
+},
+{
+"word": "bibliography",
+"score": 36
+},
+{
+"word": "biff",
+"score": 3245
+},
+{
+"word": "bild",
+"score": 3851
+},
+{
+"word": "bill",
+"score": 953
+},
+{
+"word": "billionaire",
+"score": 3530
+},
+{
+"word": "billionaires",
+"score": 4171
+},
+{
+"word": "bimonthly",
+"score": 2414
+},
+{
+"word": "binder",
+"score": 619
+},
+{
+"word": "binders",
+"score": 1235
+},
+{
+"word": "bindi",
+"score": 3649
+},
+{
+"word": "binding",
+"score": 2362
+},
+{
+"word": "bindings",
+"score": 2363
+},
+{
+"word": "biographer",
+"score": 59
+},
+{
+"word": "biographers",
+"score": 176
+},
+{
+"word": "biographical",
+"score": 222
+},
+{
+"word": "biographies",
+"score": 63
+},
+{
+"word": "biography",
+"score": 9
+},
+{
+"word": "biology",
+"score": 2207
+},
+{
+"word": "biopic",
+"score": 893
+},
+{
+"word": "bios",
+"score": 2931
+},
+{
+"word": "biota",
+"score": 2208
+},
+{
+"word": "bird",
+"score": 3181
+},
+{
+"word": "birdcall",
+"score": 586
+},
+{
+"word": "birder",
+"score": 3788
+},
+{
+"word": "birding",
+"score": 1255
+},
+{
+"word": "birds",
+"score": 3180
+},
+{
+"word": "biscotti",
+"score": 4116
+},
+{
+"word": "bitch",
+"score": 792
+},
+{
+"word": "bite",
+"score": 4492
+},
+{
+"word": "bites",
+"score": 4490
+},
+{
+"word": "bitten",
+"score": 2355
+},
+{
+"word": "bitter",
+"score": 4149
+},
+{
+"word": "bitterness",
+"score": 4150
+},
+{
+"word": "bittersweet",
+"score": 1082
+},
+{
+"word": "biweekly",
+"score": 4419
+},
+{
+"word": "black",
+"score": 2062
+},
+{
+"word": "blackboard",
+"score": 1159
+},
+{
+"word": "blackmun",
+"score": 2292
+},
+{
+"word": "blank",
+"score": 51
+},
+{
+"word": "blanket",
+"score": 3567
+},
+{
+"word": "blankets",
+"score": 4378
+},
+{
+"word": "blessing",
+"score": 1900
+},
+{
+"word": "blessings",
+"score": 1903
+},
+{
+"word": "blinded",
+"score": 1641
+},
+{
+"word": "blindness",
+"score": 4426
+},
+{
+"word": "blink",
+"score": 4505
+},
+{
+"word": "blog",
+"score": 705
+},
+{
+"word": "blogger",
+"score": 4119
+},
+{
+"word": "blogging",
+"score": 1916
+},
+{
+"word": "blogs",
+"score": 1915
+},
+{
+"word": "blond",
+"score": 784
+},
+{
+"word": "blonde",
+"score": 2861
+},
+{
+"word": "bloom",
+"score": 2500
+},
+{
+"word": "bloomers",
+"score": 4021
+},
+{
+"word": "blooming",
+"score": 2503
+},
+{
+"word": "blooms",
+"score": 2502
+},
+{
+"word": "bloomsbury",
+"score": 80
+},
+{
+"word": "bloomsbury",
+"score": 81
+},
+{
+"word": "blowtorch",
+"score": 3450
+},
+{
+"word": "blueprint",
+"score": 1270
+},
+{
+"word": "blume",
+"score": 1103
+},
+{
+"word": "blurb",
+"score": 57
+},
+{
+"word": "blurbs",
+"score": 108
+},
+{
+"word": "bmj",
+"score": 3811
+},
+{
+"word": "board",
+"score": 4497
+},
+{
+"word": "bog",
+"score": 3437
+},
+{
+"word": "bogeyman",
+"score": 3573
+},
+{
+"word": "boies",
+"score": 3651
+},
+{
+"word": "bolles",
+"score": 3957
+},
+{
+"word": "bolshevik",
+"score": 4299
+},
+{
+"word": "bombast",
+"score": 3141
+},
+{
+"word": "bondage",
+"score": 462
+},
+{
+"word": "bone",
+"score": 2758
+},
+{
+"word": "bones",
+"score": 3013
+},
+{
+"word": "bonsai",
+"score": 2464
+},
+{
+"word": "boo",
+"score": 1224
+},
+{
+"word": "boodle",
+"score": 2819
+},
+{
+"word": "boogeyman",
+"score": 3574
+},
+{
+"word": "book",
+"score": 0
+},
+{
+"word": "boom",
+"score": 3663
+},
+{
+"word": "booth",
+"score": 4358
+},
+{
+"word": "border",
+"score": 348
+},
+{
+"word": "borderland",
+"score": 1806
+},
+{
+"word": "borderlands",
+"score": 1807
+},
+{
+"word": "borders",
+"score": 346
+},
+{
+"word": "bostonian",
+"score": 4389
+},
+{
+"word": "bostonian",
+"score": 4390
+},
+{
+"word": "botanical",
+"score": 1201
+},
+{
+"word": "botany",
+"score": 824
+},
+{
+"word": "bound",
+"score": 2508
+},
+{
+"word": "boundary",
+"score": 2506
+},
+{
+"word": "bouquet",
+"score": 1578
+},
+{
+"word": "bourdain",
+"score": 873
+},
+{
+"word": "boy",
+"score": 3653
+},
+{
+"word": "boyfriend",
+"score": 4374
+},
+{
+"word": "boyhood",
+"score": 2890
+},
+{
+"word": "bradbury",
+"score": 4058
+},
+{
+"word": "bradbury",
+"score": 4059
+},
+{
+"word": "braille",
+"score": 1427
+},
+{
+"word": "braille",
+"score": 1428
+},
+{
+"word": "brain",
+"score": 2928
+},
+{
+"word": "breath",
+"score": 2621
+},
+{
+"word": "breathlessly",
+"score": 3011
+},
+{
+"word": "brecht",
+"score": 2601
+},
+{
+"word": "brecht",
+"score": 2602
+},
+{
+"word": "brevity",
+"score": 3292
+},
+{
+"word": "briant",
+"score": 4157
+},
+{
+"word": "bric-a-brac",
+"score": 3257
+},
+{
+"word": "bride",
+"score": 2192
+},
+{
+"word": "brides",
+"score": 3746
+},
+{
+"word": "bridesmaid",
+"score": 2138
+},
+{
+"word": "bridesmaids",
+"score": 2139
+},
+{
+"word": "bridget",
+"score": 2191
+},
+{
+"word": "briefcase",
+"score": 3393
+},
+{
+"word": "brightest",
+"score": 836
+},
+{
+"word": "brilliance",
+"score": 649
+},
+{
+"word": "brim",
+"score": 3603
+},
+{
+"word": "brims",
+"score": 3602
+},
+{
+"word": "brinkley",
+"score": 2623
+},
+{
+"word": "briskly",
+"score": 4053
+},
+{
+"word": "britannica",
+"score": 536
+},
+{
+"word": "broadsheet",
+"score": 1510
+},
+{
+"word": "broadside",
+"score": 2205
+},
+{
+"word": "broadsides",
+"score": 2204
+},
+{
+"word": "brochure",
+"score": 210
+},
+{
+"word": "brochures",
+"score": 1350
+},
+{
+"word": "brod",
+"score": 2324
+},
+{
+"word": "broil",
+"score": 1872
+},
+{
+"word": "brother",
+"score": 3718
+},
+{
+"word": "browse",
+"score": 4386
+},
+{
+"word": "browsed",
+"score": 3367
+},
+{
+"word": "bruni",
+"score": 3732
+},
+{
+"word": "brush",
+"score": 1319
+},
+{
+"word": "bryson",
+"score": 2932
+},
+{
+"word": "brzezinski",
+"score": 2350
+},
+{
+"word": "buddha",
+"score": 3138
+},
+{
+"word": "buddha",
+"score": 3139
+},
+{
+"word": "buddhism",
+"score": 2099
+},
+{
+"word": "buddhism",
+"score": 2100
+},
+{
+"word": "buff",
+"score": 4201
+},
+{
+"word": "buffett",
+"score": 2721
+},
+{
+"word": "buffy",
+"score": 3820
+},
+{
+"word": "bulk",
+"score": 2009
+},
+{
+"word": "bull",
+"score": 2646
+},
+{
+"word": "bullshit",
+"score": 2707
+},
+{
+"word": "bully",
+"score": 2315
+},
+{
+"word": "bundle",
+"score": 4089
+},
+{
+"word": "bunker",
+"score": 2545
+},
+{
+"word": "burger",
+"score": 1802
+},
+{
+"word": "burger",
+"score": 1804
+},
+{
+"word": "burgers",
+"score": 3963
+},
+{
+"word": "burroughs",
+"score": 1376
+},
+{
+"word": "burroughs",
+"score": 1377
+},
+{
+"word": "businessweek",
+"score": 3678
+},
+{
+"word": "butterflies",
+"score": 1751
+},
+{
+"word": "butterfly",
+"score": 1701
+},
+{
+"word": "buttocks",
+"score": 2960
+},
+{
+"word": "cabala",
+"score": 3159
+},
+{
+"word": "cabernet",
+"score": 4302
+},
+{
+"word": "cabernet",
+"score": 4303
+},
+{
+"word": "cad",
+"score": 4280
+},
+{
+"word": "cadaver",
+"score": 1909
+},
+{
+"word": "cadmium",
+"score": 211
+},
+{
+"word": "cafe",
+"score": 3929
+},
+{
+"word": "cake",
+"score": 1722
+},
+{
+"word": "cakes",
+"score": 2624
+},
+{
+"word": "calamity",
+"score": 1077
+},
+{
+"word": "calculation",
+"score": 1435
+},
+{
+"word": "calculus",
+"score": 1889
+},
+{
+"word": "calendar",
+"score": 2365
+},
+{
+"word": "calendars",
+"score": 2366
+},
+{
+"word": "calligraphy",
+"score": 948
+},
+{
+"word": "calorie",
+"score": 4458
+},
+{
+"word": "calorie",
+"score": 4459
+},
+{
+"word": "calories",
+"score": 4457
+},
+{
+"word": "came",
+"score": 1606
+},
+{
+"word": "campaign",
+"score": 1770
+},
+{
+"word": "camus",
+"score": 452
+},
+{
+"word": "camus",
+"score": 453
+},
+{
+"word": "candid",
+"score": 4052
+},
+{
+"word": "candidly",
+"score": 1142
+},
+{
+"word": "candle",
+"score": 212
+},
+{
+"word": "candor",
+"score": 3980
+},
+{
+"word": "canon",
+"score": 1816
+},
+{
+"word": "canseco",
+"score": 1309
+},
+{
+"word": "cantata",
+"score": 1644
+},
+{
+"word": "cantona",
+"score": 3669
+},
+{
+"word": "canvas",
+"score": 1717
+},
+{
+"word": "canvases",
+"score": 1718
+},
+{
+"word": "canyon",
+"score": 1815
+},
+{
+"word": "capitalism",
+"score": 596
+},
+{
+"word": "capitalist",
+"score": 1725
+},
+{
+"word": "capitulation",
+"score": 2270
+},
+{
+"word": "capote",
+"score": 669
+},
+{
+"word": "caprice",
+"score": 3048
+},
+{
+"word": "caption",
+"score": 1476
+},
+{
+"word": "captions",
+"score": 1477
+},
+{
+"word": "captivating",
+"score": 1660
+},
+{
+"word": "captivation",
+"score": 3701
+},
+{
+"word": "captive",
+"score": 3455
+},
+{
+"word": "caravaggio",
+"score": 4202
+},
+{
+"word": "caravaggio",
+"score": 4203
+},
+{
+"word": "card",
+"score": 1884
+},
+{
+"word": "cards",
+"score": 1883
+},
+{
+"word": "career",
+"score": 4239
+},
+{
+"word": "careless",
+"score": 2732
+},
+{
+"word": "caressing",
+"score": 1386
+},
+{
+"word": "caricature",
+"score": 4403
+},
+{
+"word": "caricatures",
+"score": 4402
+},
+{
+"word": "caro",
+"score": 4206
+},
+{
+"word": "cartoon",
+"score": 874
+},
+{
+"word": "cartooning",
+"score": 2057
+},
+{
+"word": "cartoonist",
+"score": 1928
+},
+{
+"word": "cartoonists",
+"score": 4503
+},
+{
+"word": "cartoons",
+"score": 1219
+},
+{
+"word": "carving",
+"score": 4321
+},
+{
+"word": "cashing",
+"score": 2024
+},
+{
+"word": "cassette",
+"score": 3494
+},
+{
+"word": "cassettes",
+"score": 3493
+},
+{
+"word": "cast",
+"score": 2168
+},
+{
+"word": "catalog",
+"score": 370
+},
+{
+"word": "cataloging",
+"score": 2539
+},
+{
+"word": "catalogs",
+"score": 797
+},
+{
+"word": "catalogue",
+"score": 1194
+},
+{
+"word": "catastrophe",
+"score": 1765
+},
+{
+"word": "catch",
+"score": 3261
+},
+{
+"word": "catcher",
+"score": 740
+},
+{
+"word": "catching",
+"score": 2148
+},
+{
+"word": "catechism",
+"score": 512
+},
+{
+"word": "catgut",
+"score": 4431
+},
+{
+"word": "catharsis",
+"score": 3535
+},
+{
+"word": "cathartic",
+"score": 891
+},
+{
+"word": "cathie",
+"score": 4066
+},
+{
+"word": "catholicism",
+"score": 2669
+},
+{
+"word": "catholicism",
+"score": 2670
+},
+{
+"word": "caul",
+"score": 2070
+},
+{
+"word": "cd",
+"score": 213
+},
+{
+"word": "cds",
+"score": 770
+},
+{
+"word": "cedarbaum",
+"score": 1954
+},
+{
+"word": "celent",
+"score": 3285
+},
+{
+"word": "cellar",
+"score": 1639
+},
+{
+"word": "celluloid",
+"score": 2132
+},
+{
+"word": "centenary",
+"score": 3342
+},
+{
+"word": "centennial",
+"score": 3343
+},
+{
+"word": "center",
+"score": 2803
+},
+{
+"word": "centuries",
+"score": 2020
+},
+{
+"word": "century",
+"score": 2021
+},
+{
+"word": "chagall",
+"score": 2397
+},
+{
+"word": "chagall",
+"score": 2398
+},
+{
+"word": "chai",
+"score": 2868
+},
+{
+"word": "chalice",
+"score": 1628
+},
+{
+"word": "chalkboard",
+"score": 1312
+},
+{
+"word": "championship",
+"score": 1556
+},
+{
+"word": "changed",
+"score": 629
+},
+{
+"word": "changeling",
+"score": 3593
+},
+{
+"word": "chaos",
+"score": 2673
+},
+{
+"word": "chaos",
+"score": 2674
+},
+{
+"word": "chaotic",
+"score": 3600
+},
+{
+"word": "chapter",
+"score": 95
+},
+{
+"word": "chapters",
+"score": 147
+},
+{
+"word": "character",
+"score": 2633
+},
+{
+"word": "characters",
+"score": 2634
+},
+{
+"word": "charlatan",
+"score": 4411
+},
+{
+"word": "charmed",
+"score": 3010
+},
+{
+"word": "charting",
+"score": 3696
+},
+{
+"word": "charwoman",
+"score": 2562
+},
+{
+"word": "chasing",
+"score": 1732
+},
+{
+"word": "chaucer",
+"score": 359
+},
+{
+"word": "chaucer",
+"score": 360
+},
+{
+"word": "che",
+"score": 2551
+},
+{
+"word": "cheat",
+"score": 2151
+},
+{
+"word": "cheating",
+"score": 3306
+},
+{
+"word": "check",
+"score": 3206
+},
+{
+"word": "checklist",
+"score": 2609
+},
+{
+"word": "checklists",
+"score": 4409
+},
+{
+"word": "checkout",
+"score": 3204
+},
+{
+"word": "checkouts",
+"score": 3205
+},
+{
+"word": "cheekily",
+"score": 2122
+},
+{
+"word": "cheerfully",
+"score": 4440
+},
+{
+"word": "cheeseburger",
+"score": 3369
+},
+{
+"word": "cheesecake",
+"score": 3707
+},
+{
+"word": "cheever",
+"score": 1593
+},
+{
+"word": "cheever",
+"score": 1594
+},
+{
+"word": "chekhov",
+"score": 1472
+},
+{
+"word": "chekhov",
+"score": 1473
+},
+{
+"word": "chemise",
+"score": 3473
+},
+{
+"word": "chemistry",
+"score": 4347
+},
+{
+"word": "chess",
+"score": 2152
+},
+{
+"word": "chick",
+"score": 3969
+},
+{
+"word": "chicks",
+"score": 3970
+},
+{
+"word": "childhood",
+"score": 1068
+},
+{
+"word": "chocolate",
+"score": 1935
+},
+{
+"word": "choke",
+"score": 1887
+},
+{
+"word": "chomsky",
+"score": 208
+},
+{
+"word": "chomsky",
+"score": 209
+},
+{
+"word": "chortle",
+"score": 4030
+},
+{
+"word": "chow",
+"score": 3778
+},
+{
+"word": "christendom",
+"score": 1654
+},
+{
+"word": "christianity",
+"score": 1655
+},
+{
+"word": "christianity",
+"score": 1656
+},
+{
+"word": "chronicle",
+"score": 382
+},
+{
+"word": "chronicled",
+"score": 1271
+},
+{
+"word": "chronicler",
+"score": 978
+},
+{
+"word": "chronicles",
+"score": 120
+},
+{
+"word": "chronicling",
+"score": 971
+},
+{
+"word": "chronological",
+"score": 621
+},
+{
+"word": "chronologically",
+"score": 372
+},
+{
+"word": "chronology",
+"score": 571
+},
+{
+"word": "chuckle",
+"score": 4031
+},
+{
+"word": "chump",
+"score": 3375
+},
+{
+"word": "cinematical",
+"score": 2594
+},
+{
+"word": "circle",
+"score": 4406
+},
+{
+"word": "circles",
+"score": 4405
+},
+{
+"word": "circular",
+"score": 982
+},
+{
+"word": "citation",
+"score": 429
+},
+{
+"word": "civics",
+"score": 4258
+},
+{
+"word": "civility",
+"score": 1229
+},
+{
+"word": "civilization",
+"score": 1354
+},
+{
+"word": "claim",
+"score": 1560
+},
+{
+"word": "clairvoyant",
+"score": 2447
+},
+{
+"word": "claptrap",
+"score": 3202
+},
+{
+"word": "class",
+"score": 1857
+},
+{
+"word": "classic",
+"score": 1294
+},
+{
+"word": "classics",
+"score": 1295
+},
+{
+"word": "classmate",
+"score": 3956
+},
+{
+"word": "classroom",
+"score": 4415
+},
+{
+"word": "cleese",
+"score": 2529
+},
+{
+"word": "cleric",
+"score": 3441
+},
+{
+"word": "cliche",
+"score": 3967
+},
+{
+"word": "clinton",
+"score": 3080
+},
+{
+"word": "clintons",
+"score": 3079
+},
+{
+"word": "clip",
+"score": 2259
+},
+{
+"word": "clipping",
+"score": 2258
+},
+{
+"word": "clippings",
+"score": 2256
+},
+{
+"word": "closeness",
+"score": 656
+},
+{
+"word": "closet",
+"score": 1193
+},
+{
+"word": "cloth",
+"score": 3391
+},
+{
+"word": "clothes",
+"score": 2038
+},
+{
+"word": "club",
+"score": 3915
+},
+{
+"word": "clue",
+"score": 972
+},
+{
+"word": "clues",
+"score": 974
+},
+{
+"word": "coach",
+"score": 3743
+},
+{
+"word": "coauthor",
+"score": 217
+},
+{
+"word": "coauthored",
+"score": 165
+},
+{
+"word": "coauthors",
+"score": 702
+},
+{
+"word": "cockburn",
+"score": 3958
+},
+{
+"word": "cod",
+"score": 4253
+},
+{
+"word": "coda",
+"score": 2843
+},
+{
+"word": "coelho",
+"score": 4375
+},
+{
+"word": "coens",
+"score": 3368
+},
+{
+"word": "coetzee",
+"score": 3666
+},
+{
+"word": "coffee",
+"score": 1934
+},
+{
+"word": "coffeehouse",
+"score": 3999
+},
+{
+"word": "coil",
+"score": 1875
+},
+{
+"word": "coin",
+"score": 4091
+},
+{
+"word": "coinage",
+"score": 1985
+},
+{
+"word": "coincidence",
+"score": 2427
+},
+{
+"word": "coincidences",
+"score": 2426
+},
+{
+"word": "coleridge",
+"score": 3050
+},
+{
+"word": "coleridge",
+"score": 3051
+},
+{
+"word": "colette",
+"score": 2964
+},
+{
+"word": "colette",
+"score": 2965
+},
+{
+"word": "collage",
+"score": 1797
+},
+{
+"word": "collages",
+"score": 1796
+},
+{
+"word": "collapse",
+"score": 1289
+},
+{
+"word": "collectable",
+"score": 3607
+},
+{
+"word": "collectables",
+"score": 2349
+},
+{
+"word": "collected",
+"score": 4288
+},
+{
+"word": "collectible",
+"score": 1430
+},
+{
+"word": "collectibles",
+"score": 1429
+},
+{
+"word": "collection",
+"score": 157
+},
+{
+"word": "collide",
+"score": 3067
+},
+{
+"word": "colloquial",
+"score": 4425
+},
+{
+"word": "colloquium",
+"score": 1287
+},
+{
+"word": "color",
+"score": 1423
+},
+{
+"word": "colorfully",
+"score": 3300
+},
+{
+"word": "coloring",
+"score": 1424
+},
+{
+"word": "column",
+"score": 218
+},
+{
+"word": "columnist",
+"score": 1675
+},
+{
+"word": "columnists",
+"score": 4207
+},
+{
+"word": "columns",
+"score": 700
+},
+{
+"word": "coma",
+"score": 4155
+},
+{
+"word": "comeback",
+"score": 4468
+},
+{
+"word": "comedian",
+"score": 168
+},
+{
+"word": "comedy",
+"score": 1703
+},
+{
+"word": "comestible",
+"score": 2578
+},
+{
+"word": "comic",
+"score": 302
+},
+{
+"word": "comics",
+"score": 169
+},
+{
+"word": "command",
+"score": 4399
+},
+{
+"word": "commandment",
+"score": 2751
+},
+{
+"word": "commandments",
+"score": 2752
+},
+{
+"word": "commemorative",
+"score": 3892
+},
+{
+"word": "commensurateness",
+"score": 1727
+},
+{
+"word": "comment",
+"score": 1591
+},
+{
+"word": "commentaries",
+"score": 1592
+},
+{
+"word": "commentary",
+"score": 2068
+},
+{
+"word": "commentator",
+"score": 3444
+},
+{
+"word": "commitment",
+"score": 1995
+},
+{
+"word": "communism",
+"score": 3510
+},
+{
+"word": "companion",
+"score": 896
+},
+{
+"word": "companions",
+"score": 1396
+},
+{
+"word": "compellingly",
+"score": 882
+},
+{
+"word": "compendium",
+"score": 158
+},
+{
+"word": "compilation",
+"score": 533
+},
+{
+"word": "compilations",
+"score": 1612
+},
+{
+"word": "compiles",
+"score": 4273
+},
+{
+"word": "complete",
+"score": 3947
+},
+{
+"word": "component",
+"score": 4002
+},
+{
+"word": "composition",
+"score": 214
+},
+{
+"word": "comprehending",
+"score": 3320
+},
+{
+"word": "comprehensible",
+"score": 2817
+},
+{
+"word": "comprehension",
+"score": 3265
+},
+{
+"word": "comprehensively",
+"score": 2681
+},
+{
+"word": "compulsion",
+"score": 374
+},
+{
+"word": "compulsive",
+"score": 1712
+},
+{
+"word": "compulsively",
+"score": 1145
+},
+{
+"word": "computicket",
+"score": 4427
+},
+{
+"word": "comrade",
+"score": 3720
+},
+{
+"word": "comrades",
+"score": 3719
+},
+{
+"word": "conceit",
+"score": 1967
+},
+{
+"word": "concern",
+"score": 1506
+},
+{
+"word": "concerto",
+"score": 4045
+},
+{
+"word": "concise",
+"score": 2496
+},
+{
+"word": "concisely",
+"score": 3359
+},
+{
+"word": "conclave",
+"score": 4401
+},
+{
+"word": "concurrence",
+"score": 2428
+},
+{
+"word": "condenses",
+"score": 3032
+},
+{
+"word": "condensing",
+"score": 3731
+},
+{
+"word": "condi",
+"score": 1581
+},
+{
+"word": "condition",
+"score": 3186
+},
+{
+"word": "condolence",
+"score": 2219
+},
+{
+"word": "confesses",
+"score": 2289
+},
+{
+"word": "confession",
+"score": 61
+},
+{
+"word": "confessional",
+"score": 1989
+},
+{
+"word": "confessions",
+"score": 60
+},
+{
+"word": "confidant",
+"score": 976
+},
+{
+"word": "confidential",
+"score": 1791
+},
+{
+"word": "confides",
+"score": 2728
+},
+{
+"word": "conflagration",
+"score": 4224
+},
+{
+"word": "conflict",
+"score": 594
+},
+{
+"word": "confrontation",
+"score": 1318
+},
+{
+"word": "confronting",
+"score": 2777
+},
+{
+"word": "confucius",
+"score": 3124
+},
+{
+"word": "confucius",
+"score": 3125
+},
+{
+"word": "conglomerate",
+"score": 1565
+},
+{
+"word": "connoisseur",
+"score": 3760
+},
+{
+"word": "conquer",
+"score": 3172
+},
+{
+"word": "conquest",
+"score": 4363
+},
+{
+"word": "conscience",
+"score": 737
+},
+{
+"word": "consciousness",
+"score": 919
+},
+{
+"word": "conscription",
+"score": 2566
+},
+{
+"word": "consequence",
+"score": 900
+},
+{
+"word": "consequences",
+"score": 1683
+},
+{
+"word": "conservationist",
+"score": 2899
+},
+{
+"word": "conservatism",
+"score": 1236
+},
+{
+"word": "conspiracy",
+"score": 915
+},
+{
+"word": "constitution",
+"score": 3380
+},
+{
+"word": "constitution",
+"score": 3381
+},
+{
+"word": "constructing",
+"score": 4077
+},
+{
+"word": "consultation",
+"score": 4081
+},
+{
+"word": "contemplation",
+"score": 194
+},
+{
+"word": "contemporaneous",
+"score": 4334
+},
+{
+"word": "contemporary",
+"score": 2322
+},
+{
+"word": "context",
+"score": 3208
+},
+{
+"word": "continent",
+"score": 4423
+},
+{
+"word": "continent",
+"score": 4424
+},
+{
+"word": "contract",
+"score": 1165
+},
+{
+"word": "contrarian",
+"score": 1869
+},
+{
+"word": "contrariness",
+"score": 2339
+},
+{
+"word": "controversy",
+"score": 3910
+},
+{
+"word": "convention",
+"score": 3845
+},
+{
+"word": "conversation",
+"score": 662
+},
+{
+"word": "conversational",
+"score": 1865
+},
+{
+"word": "conversations",
+"score": 663
+},
+{
+"word": "conversion",
+"score": 3153
+},
+{
+"word": "cook",
+"score": 4209
+},
+{
+"word": "cook",
+"score": 4210
+},
+{
+"word": "cooked",
+"score": 1351
+},
+{
+"word": "cookery",
+"score": 567
+},
+{
+"word": "cookie",
+"score": 2719
+},
+{
+"word": "cooking",
+"score": 568
+},
+{
+"word": "copernicus",
+"score": 3672
+},
+{
+"word": "copernicus",
+"score": 3673
+},
+{
+"word": "copies",
+"score": 136
+},
+{
+"word": "coping",
+"score": 3357
+},
+{
+"word": "copy",
+"score": 134
+},
+{
+"word": "copycat",
+"score": 1468
+},
+{
+"word": "copying",
+"score": 4351
+},
+{
+"word": "copyist",
+"score": 1152
+},
+{
+"word": "copywriter",
+"score": 4233
+},
+{
+"word": "corner",
+"score": 400
+},
+{
+"word": "cornwell",
+"score": 3655
+},
+{
+"word": "corpse",
+"score": 1910
+},
+{
+"word": "correspondence",
+"score": 1729
+},
+{
+"word": "correspondences",
+"score": 1743
+},
+{
+"word": "correspondent",
+"score": 1107
+},
+{
+"word": "corruption",
+"score": 3619
+},
+{
+"word": "corsi",
+"score": 634
+},
+{
+"word": "cosmic",
+"score": 2073
+},
+{
+"word": "cosmology",
+"score": 1662
+},
+{
+"word": "cosmopolitan",
+"score": 1332
+},
+{
+"word": "count",
+"score": 1433
+},
+{
+"word": "countenance",
+"score": 3376
+},
+{
+"word": "counterintuitive",
+"score": 2367
+},
+{
+"word": "coup",
+"score": 3919
+},
+{
+"word": "coupland",
+"score": 3752
+},
+{
+"word": "couple",
+"score": 139
+},
+{
+"word": "couplet",
+"score": 3000
+},
+{
+"word": "courage",
+"score": 808
+},
+{
+"word": "courseware",
+"score": 1776
+},
+{
+"word": "court",
+"score": 2625
+},
+{
+"word": "cover",
+"score": 3571
+},
+{
+"word": "coverage",
+"score": 2177
+},
+{
+"word": "covering",
+"score": 3568
+},
+{
+"word": "covey",
+"score": 3325
+},
+{
+"word": "crack",
+"score": 3829
+},
+{
+"word": "cracker",
+"score": 3228
+},
+{
+"word": "crackpot",
+"score": 3464
+},
+{
+"word": "crap",
+"score": 2708
+},
+{
+"word": "crape",
+"score": 2902
+},
+{
+"word": "crash",
+"score": 1290
+},
+{
+"word": "crashing",
+"score": 3427
+},
+{
+"word": "crayon",
+"score": 1141
+},
+{
+"word": "crayons",
+"score": 2585
+},
+{
+"word": "craze",
+"score": 2444
+},
+{
+"word": "crazy",
+"score": 1758
+},
+{
+"word": "creation",
+"score": 4266
+},
+{
+"word": "creation",
+"score": 4267
+},
+{
+"word": "creationism",
+"score": 1793
+},
+{
+"word": "creationist",
+"score": 1514
+},
+{
+"word": "creationists",
+"score": 3733
+},
+{
+"word": "creature",
+"score": 3096
+},
+{
+"word": "creatures",
+"score": 3097
+},
+{
+"word": "credo",
+"score": 2711
+},
+{
+"word": "creed",
+"score": 2710
+},
+{
+"word": "crepe",
+"score": 2903
+},
+{
+"word": "crepes",
+"score": 2904
+},
+{
+"word": "crevice",
+"score": 3830
+},
+{
+"word": "crichton",
+"score": 865
+},
+{
+"word": "crichton",
+"score": 866
+},
+{
+"word": "crick",
+"score": 4186
+},
+{
+"word": "crikey",
+"score": 2963
+},
+{
+"word": "crisis",
+"score": 4365
+},
+{
+"word": "criterion",
+"score": 2810
+},
+{
+"word": "criticism",
+"score": 717
+},
+{
+"word": "critique",
+"score": 719
+},
+{
+"word": "critiques",
+"score": 3123
+},
+{
+"word": "crochet",
+"score": 2797
+},
+{
+"word": "crossword",
+"score": 1411
+},
+{
+"word": "crosswords",
+"score": 856
+},
+{
+"word": "crowded",
+"score": 3773
+},
+{
+"word": "crown",
+"score": 1878
+},
+{
+"word": "crucible",
+"score": 2294
+},
+{
+"word": "cruel",
+"score": 2203
+},
+{
+"word": "crumb",
+"score": 1359
+},
+{
+"word": "crusade",
+"score": 1769
+},
+{
+"word": "crusade",
+"score": 1771
+},
+{
+"word": "crusades",
+"score": 2790
+},
+{
+"word": "crush",
+"score": 4159
+},
+{
+"word": "cry",
+"score": 1814
+},
+{
+"word": "crying",
+"score": 1813
+},
+{
+"word": "cryptically",
+"score": 2467
+},
+{
+"word": "cuisine",
+"score": 1852
+},
+{
+"word": "cult",
+"score": 2179
+},
+{
+"word": "cultivating",
+"score": 2272
+},
+{
+"word": "culture",
+"score": 1353
+},
+{
+"word": "cultures",
+"score": 3397
+},
+{
+"word": "cunt",
+"score": 791
+},
+{
+"word": "cup",
+"score": 4290
+},
+{
+"word": "cupboard",
+"score": 1192
+},
+{
+"word": "cupcake",
+"score": 2859
+},
+{
+"word": "cupcakes",
+"score": 2858
+},
+{
+"word": "cups",
+"score": 4289
+},
+{
+"word": "curated",
+"score": 4137
+},
+{
+"word": "cures",
+"score": 4470
+},
+{
+"word": "curio",
+"score": 2059
+},
+{
+"word": "curiosity",
+"score": 2060
+},
+{
+"word": "curious",
+"score": 3127
+},
+{
+"word": "current",
+"score": 3134
+},
+{
+"word": "currents",
+"score": 3132
+},
+{
+"word": "curricula",
+"score": 3458
+},
+{
+"word": "curriculum",
+"score": 1919
+},
+{
+"word": "curriculums",
+"score": 2896
+},
+{
+"word": "curse",
+"score": 857
+},
+{
+"word": "cursed",
+"score": 4182
+},
+{
+"word": "cursive",
+"score": 2446
+},
+{
+"word": "cursory",
+"score": 2358
+},
+{
+"word": "cusp",
+"score": 579
+},
+{
+"word": "cussler",
+"score": 1043
+},
+{
+"word": "custodian",
+"score": 3339
+},
+{
+"word": "custom",
+"score": 2531
+},
+{
+"word": "cut",
+"score": 4322
+},
+{
+"word": "cutting",
+"score": 4319
+},
+{
+"word": "cuttings",
+"score": 4320
+},
+{
+"word": "cyberspace",
+"score": 2489
+},
+{
+"word": "cynic",
+"score": 3725
+},
+{
+"word": "cynic",
+"score": 3726
+},
+{
+"word": "dalrymple",
+"score": 3192
+},
+{
+"word": "dame",
+"score": 1894
+},
+{
+"word": "damn",
+"score": 1223
+},
+{
+"word": "damned",
+"score": 1888
+},
+{
+"word": "dangerous",
+"score": 2067
+},
+{
+"word": "danziger",
+"score": 3713
+},
+{
+"word": "dark",
+"score": 2630
+},
+{
+"word": "darkly",
+"score": 4291
+},
+{
+"word": "darkness",
+"score": 377
+},
+{
+"word": "darnel",
+"score": 2149
+},
+{
+"word": "darwin",
+"score": 1454
+},
+{
+"word": "darwin",
+"score": 1455
+},
+{
+"word": "darwinian",
+"score": 2316
+},
+{
+"word": "darwinian",
+"score": 2317
+},
+{
+"word": "darwinism",
+"score": 694
+},
+{
+"word": "darwinism",
+"score": 695
+},
+{
+"word": "daughter",
+"score": 515
+},
+{
+"word": "dawn",
+"score": 4510
+},
+{
+"word": "days",
+"score": 1858
+},
+{
+"word": "dead",
+"score": 3989
+},
+{
+"word": "death",
+"score": 543
+},
+{
+"word": "deathbed",
+"score": 1856
+},
+{
+"word": "deaver",
+"score": 2830
+},
+{
+"word": "debacle",
+"score": 932
+},
+{
+"word": "debs",
+"score": 2713
+},
+{
+"word": "debs",
+"score": 2714
+},
+{
+"word": "debunking",
+"score": 1280
+},
+{
+"word": "debutante",
+"score": 2715
+},
+{
+"word": "decade",
+"score": 3884
+},
+{
+"word": "deceiver",
+"score": 2153
+},
+{
+"word": "deception",
+"score": 239
+},
+{
+"word": "decider",
+"score": 3548
+},
+{
+"word": "declaration",
+"score": 1163
+},
+{
+"word": "declassified",
+"score": 2441
+},
+{
+"word": "deconstruction",
+"score": 2182
+},
+{
+"word": "decoration",
+"score": 2230
+},
+{
+"word": "decree",
+"score": 3912
+},
+{
+"word": "dedication",
+"score": 1060
+},
+{
+"word": "deed",
+"score": 1558
+},
+{
+"word": "deeds",
+"score": 4418
+},
+{
+"word": "deepness",
+"score": 2920
+},
+{
+"word": "degas",
+"score": 2937
+},
+{
+"word": "degas",
+"score": 2938
+},
+{
+"word": "deity",
+"score": 1004
+},
+{
+"word": "delf",
+"score": 1940
+},
+{
+"word": "delia",
+"score": 3581
+},
+{
+"word": "delight",
+"score": 2155
+},
+{
+"word": "delightful",
+"score": 3277
+},
+{
+"word": "delights",
+"score": 2154
+},
+{
+"word": "delusion",
+"score": 385
+},
+{
+"word": "delves",
+"score": 1939
+},
+{
+"word": "delving",
+"score": 4141
+},
+{
+"word": "demeanor",
+"score": 4536
+},
+{
+"word": "demise",
+"score": 3795
+},
+{
+"word": "demme",
+"score": 1676
+},
+{
+"word": "demon",
+"score": 3674
+},
+{
+"word": "demons",
+"score": 3675
+},
+{
+"word": "demystify",
+"score": 3565
+},
+{
+"word": "denouement",
+"score": 3452
+},
+{
+"word": "dentition",
+"score": 2332
+},
+{
+"word": "denudation",
+"score": 1233
+},
+{
+"word": "depressing",
+"score": 2826
+},
+{
+"word": "depression",
+"score": 588
+},
+{
+"word": "dershowitz",
+"score": 375
+},
+{
+"word": "descent",
+"score": 839
+},
+{
+"word": "describes",
+"score": 3417
+},
+{
+"word": "description",
+"score": 2120
+},
+{
+"word": "descriptions",
+"score": 2121
+},
+{
+"word": "descriptive",
+"score": 1370
+},
+{
+"word": "deserter",
+"score": 4094
+},
+{
+"word": "design",
+"score": 3844
+},
+{
+"word": "desire",
+"score": 1256
+},
+{
+"word": "desk",
+"score": 3670
+},
+{
+"word": "despair",
+"score": 1323
+},
+{
+"word": "dessert",
+"score": 2353
+},
+{
+"word": "desserts",
+"score": 2354
+},
+{
+"word": "destination",
+"score": 2193
+},
+{
+"word": "destiny",
+"score": 1500
+},
+{
+"word": "destruction",
+"score": 4531
+},
+{
+"word": "detail",
+"score": 2908
+},
+{
+"word": "detailing",
+"score": 2649
+},
+{
+"word": "detection",
+"score": 2147
+},
+{
+"word": "detective",
+"score": 3656
+},
+{
+"word": "determination",
+"score": 3271
+},
+{
+"word": "devdas",
+"score": 3174
+},
+{
+"word": "development",
+"score": 3183
+},
+{
+"word": "deviation",
+"score": 3817
+},
+{
+"word": "devil",
+"score": 283
+},
+{
+"word": "devoted",
+"score": 3996
+},
+{
+"word": "devotes",
+"score": 1809
+},
+{
+"word": "devotion",
+"score": 1528
+},
+{
+"word": "devotional",
+"score": 1123
+},
+{
+"word": "devotions",
+"score": 3769
+},
+{
+"word": "devour",
+"score": 2388
+},
+{
+"word": "devoured",
+"score": 1778
+},
+{
+"word": "diagram",
+"score": 3438
+},
+{
+"word": "diagrams",
+"score": 3439
+},
+{
+"word": "dialogue",
+"score": 2762
+},
+{
+"word": "dialogues",
+"score": 2764
+},
+{
+"word": "diaper",
+"score": 1380
+},
+{
+"word": "diaries",
+"score": 78
+},
+{
+"word": "diarist",
+"score": 2102
+},
+{
+"word": "diary",
+"score": 79
+},
+{
+"word": "diatribe",
+"score": 1101
+},
+{
+"word": "diatribes",
+"score": 3150
+},
+{
+"word": "dicken",
+"score": 3704
+},
+{
+"word": "dickens",
+"score": 281
+},
+{
+"word": "dickens",
+"score": 282
+},
+{
+"word": "dictator",
+"score": 2620
+},
+{
+"word": "dictatorship",
+"score": 242
+},
+{
+"word": "dictionaries",
+"score": 356
+},
+{
+"word": "dictionary",
+"score": 190
+},
+{
+"word": "dictum",
+"score": 1642
+},
+{
+"word": "didactic",
+"score": 899
+},
+{
+"word": "didion",
+"score": 929
+},
+{
+"word": "didion",
+"score": 930
+},
+{
+"word": "diet",
+"score": 2627
+},
+{
+"word": "dieting",
+"score": 3714
+},
+{
+"word": "diets",
+"score": 3975
+},
+{
+"word": "difference",
+"score": 3819
+},
+{
+"word": "digest",
+"score": 1551
+},
+{
+"word": "digitization",
+"score": 4481
+},
+{
+"word": "digitize",
+"score": 4047
+},
+{
+"word": "digitized",
+"score": 4252
+},
+{
+"word": "digression",
+"score": 876
+},
+{
+"word": "dilapidation",
+"score": 997
+},
+{
+"word": "dilbert",
+"score": 3604
+},
+{
+"word": "dilemma",
+"score": 1075
+},
+{
+"word": "dinosaur",
+"score": 1261
+},
+{
+"word": "dinosaurs",
+"score": 1260
+},
+{
+"word": "diorama",
+"score": 4449
+},
+{
+"word": "directories",
+"score": 2982
+},
+{
+"word": "directory",
+"score": 1549
+},
+{
+"word": "dirge",
+"score": 2974
+},
+{
+"word": "dirty",
+"score": 4462
+},
+{
+"word": "disappearance",
+"score": 1139
+},
+{
+"word": "disappearing",
+"score": 2628
+},
+{
+"word": "disavowal",
+"score": 2914
+},
+{
+"word": "disc",
+"score": 1690
+},
+{
+"word": "disciple",
+"score": 4243
+},
+{
+"word": "disciples",
+"score": 4242
+},
+{
+"word": "discipline",
+"score": 1561
+},
+{
+"word": "disclaimer",
+"score": 2915
+},
+{
+"word": "disclosure",
+"score": 475
+},
+{
+"word": "disclosures",
+"score": 3394
+},
+{
+"word": "discography",
+"score": 832
+},
+{
+"word": "discourse",
+"score": 2686
+},
+{
+"word": "discourses",
+"score": 2687
+},
+{
+"word": "discover",
+"score": 2232
+},
+{
+"word": "discoveries",
+"score": 3945
+},
+{
+"word": "discovering",
+"score": 402
+},
+{
+"word": "discovery",
+"score": 1234
+},
+{
+"word": "discus",
+"score": 2636
+},
+{
+"word": "discusses",
+"score": 2637
+},
+{
+"word": "discussion",
+"score": 614
+},
+{
+"word": "disguise",
+"score": 3564
+},
+{
+"word": "disk",
+"score": 1689
+},
+{
+"word": "dismissal",
+"score": 4338
+},
+{
+"word": "dismissively",
+"score": 4434
+},
+{
+"word": "dispassionate",
+"score": 2504
+},
+{
+"word": "dispatch",
+"score": 1760
+},
+{
+"word": "dispatches",
+"score": 1759
+},
+{
+"word": "display",
+"score": 762
+},
+{
+"word": "disproof",
+"score": 1836
+},
+{
+"word": "dispute",
+"score": 3816
+},
+{
+"word": "dissects",
+"score": 3195
+},
+{
+"word": "dissent",
+"score": 843
+},
+{
+"word": "dissents",
+"score": 4367
+},
+{
+"word": "dissertation",
+"score": 86
+},
+{
+"word": "distraction",
+"score": 1926
+},
+{
+"word": "disturbia",
+"score": 4508
+},
+{
+"word": "ditties",
+"score": 3254
+},
+{
+"word": "ditty",
+"score": 1226
+},
+{
+"word": "diverseness",
+"score": 3384
+},
+{
+"word": "diversion",
+"score": 877
+},
+{
+"word": "divided",
+"score": 2449
+},
+{
+"word": "divine",
+"score": 3440
+},
+{
+"word": "dizziness",
+"score": 959
+},
+{
+"word": "doc",
+"score": 2591
+},
+{
+"word": "doctor",
+"score": 2590
+},
+{
+"word": "doctrine",
+"score": 438
+},
+{
+"word": "docu",
+"score": 524
+},
+{
+"word": "docudrama",
+"score": 353
+},
+{
+"word": "document",
+"score": 406
+},
+{
+"word": "documentarian",
+"score": 3042
+},
+{
+"word": "documentaries",
+"score": 1104
+},
+{
+"word": "documentary",
+"score": 322
+},
+{
+"word": "documenting",
+"score": 1757
+},
+{
+"word": "documents",
+"score": 3234
+},
+{
+"word": "dogma",
+"score": 4213
+},
+{
+"word": "doi",
+"score": 2860
+},
+{
+"word": "doll",
+"score": 1895
+},
+{
+"word": "dollhouse",
+"score": 1870
+},
+{
+"word": "dolls",
+"score": 3876
+},
+{
+"word": "domesticity",
+"score": 4085
+},
+{
+"word": "domination",
+"score": 2579
+},
+{
+"word": "donut",
+"score": 4310
+},
+{
+"word": "doodle",
+"score": 1497
+},
+{
+"word": "doodles",
+"score": 1383
+},
+{
+"word": "doodling",
+"score": 3284
+},
+{
+"word": "doom",
+"score": 4475
+},
+{
+"word": "doomed",
+"score": 1688
+},
+{
+"word": "doomsday",
+"score": 4476
+},
+{
+"word": "dossier",
+"score": 1698
+},
+{
+"word": "dostoevsky",
+"score": 105
+},
+{
+"word": "dostoyevsky",
+"score": 104
+},
+{
+"word": "double-crosser",
+"score": 616
+},
+{
+"word": "doubleday",
+"score": 29
+},
+{
+"word": "doubt",
+"score": 2001
+},
+{
+"word": "doughnut",
+"score": 4309
+},
+{
+"word": "downfall",
+"score": 999
+},
+{
+"word": "downloadable",
+"score": 4179
+},
+{
+"word": "dozen",
+"score": 4168
+},
+{
+"word": "dracula",
+"score": 2746
+},
+{
+"word": "dracula",
+"score": 2747
+},
+{
+"word": "draft",
+"score": 1128
+},
+{
+"word": "drafts",
+"score": 2564
+},
+{
+"word": "drama",
+"score": 2985
+},
+{
+"word": "dramatist",
+"score": 482
+},
+{
+"word": "dramatization",
+"score": 798
+},
+{
+"word": "dramatized",
+"score": 2871
+},
+{
+"word": "dramatizes",
+"score": 3503
+},
+{
+"word": "dramatizing",
+"score": 4439
+},
+{
+"word": "dramedy",
+"score": 1526
+},
+{
+"word": "drawing",
+"score": 1127
+},
+{
+"word": "drawings",
+"score": 1125
+},
+{
+"word": "drawn",
+"score": 2435
+},
+{
+"word": "dread",
+"score": 3401
+},
+{
+"word": "dream",
+"score": 516
+},
+{
+"word": "dreamed",
+"score": 1445
+},
+{
+"word": "dreamer",
+"score": 1764
+},
+{
+"word": "dreamers",
+"score": 1761
+},
+{
+"word": "dreaming",
+"score": 517
+},
+{
+"word": "dreams",
+"score": 704
+},
+{
+"word": "dress",
+"score": 3222
+},
+{
+"word": "dressing",
+"score": 2364
+},
+{
+"word": "drift",
+"score": 3500
+},
+{
+"word": "drivel",
+"score": 4517
+},
+{
+"word": "drollery",
+"score": 1704
+},
+{
+"word": "drool",
+"score": 4516
+},
+{
+"word": "drop",
+"score": 2759
+},
+{
+"word": "drowned",
+"score": 1052
+},
+{
+"word": "drucker",
+"score": 2640
+},
+{
+"word": "dryly",
+"score": 1279
+},
+{
+"word": "duchess",
+"score": 2140
+},
+{
+"word": "dugout",
+"score": 2546
+},
+{
+"word": "dumbbell",
+"score": 50
+},
+{
+"word": "dumbledore",
+"score": 1456
+},
+{
+"word": "dummies",
+"score": 53
+},
+{
+"word": "dummy",
+"score": 52
+},
+{
+"word": "dune",
+"score": 3901
+},
+{
+"word": "dungeon",
+"score": 3238
+},
+{
+"word": "dungeons",
+"score": 3237
+},
+{
+"word": "dutton",
+"score": 3758
+},
+{
+"word": "dvd",
+"score": 685
+},
+{
+"word": "dvds",
+"score": 1067
+},
+{
+"word": "dying",
+"score": 542
+},
+{
+"word": "dylan",
+"score": 2127
+},
+{
+"word": "dylan",
+"score": 2128
+},
+{
+"word": "dyslexia",
+"score": 1905
+},
+{
+"word": "dyslexic",
+"score": 2066
+},
+{
+"word": "dystopian",
+"score": 2473
+},
+{
+"word": "e",
+"score": 2325
+},
+{
+"word": "e",
+"score": 2327
+},
+{
+"word": "earth",
+"score": 2028
+},
+{
+"word": "easel",
+"score": 2308
+},
+{
+"word": "east",
+"score": 2326
+},
+{
+"word": "eastwick",
+"score": 1580
+},
+{
+"word": "eat",
+"score": 1610
+},
+{
+"word": "eatage",
+"score": 3336
+},
+{
+"word": "eater",
+"score": 4282
+},
+{
+"word": "eating",
+"score": 3041
+},
+{
+"word": "eats",
+"score": 3777
+},
+{
+"word": "ecco",
+"score": 525
+},
+{
+"word": "echo",
+"score": 990
+},
+{
+"word": "echo",
+"score": 991
+},
+{
+"word": "echoes",
+"score": 989
+},
+{
+"word": "ecology",
+"score": 4107
+},
+{
+"word": "economist",
+"score": 2034
+},
+{
+"word": "economy",
+"score": 3071
+},
+{
+"word": "eden",
+"score": 957
+},
+{
+"word": "edge",
+"score": 347
+},
+{
+"word": "edible",
+"score": 2577
+},
+{
+"word": "edifying",
+"score": 3566
+},
+{
+"word": "edited",
+"score": 569
+},
+{
+"word": "edition",
+"score": 514
+},
+{
+"word": "editions",
+"score": 835
+},
+{
+"word": "editor",
+"score": 3059
+},
+{
+"word": "editorial",
+"score": 2480
+},
+{
+"word": "editors",
+"score": 4118
+},
+{
+"word": "edits",
+"score": 4313
+},
+{
+"word": "educating",
+"score": 2477
+},
+{
+"word": "education",
+"score": 1830
+},
+{
+"word": "effect",
+"score": 1960
+},
+{
+"word": "efflorescence",
+"score": 2501
+},
+{
+"word": "effort",
+"score": 3527
+},
+{
+"word": "eggar",
+"score": 3297
+},
+{
+"word": "eggers",
+"score": 3298
+},
+{
+"word": "egress",
+"score": 3497
+},
+{
+"word": "ehrenreich",
+"score": 1094
+},
+{
+"word": "einstein",
+"score": 2787
+},
+{
+"word": "einstein",
+"score": 2788
+},
+{
+"word": "einsteinium",
+"score": 2328
+},
+{
+"word": "elaborates",
+"score": 2280
+},
+{
+"word": "eleanor",
+"score": 4227
+},
+{
+"word": "elegiac",
+"score": 2459
+},
+{
+"word": "element",
+"score": 4001
+},
+{
+"word": "elements",
+"score": 4000
+},
+{
+"word": "elephant",
+"score": 2361
+},
+{
+"word": "eliot",
+"score": 916
+},
+{
+"word": "eliot",
+"score": 917
+},
+{
+"word": "ellsberg",
+"score": 1021
+},
+{
+"word": "eloise",
+"score": 1276
+},
+{
+"word": "eloquence",
+"score": 3536
+},
+{
+"word": "eloquent",
+"score": 4344
+},
+{
+"word": "eloquently",
+"score": 1296
+},
+{
+"word": "else",
+"score": 3459
+},
+{
+"word": "elsevier",
+"score": 1638
+},
+{
+"word": "email",
+"score": 2442
+},
+{
+"word": "emails",
+"score": 4345
+},
+{
+"word": "emblem",
+"score": 631
+},
+{
+"word": "embrace",
+"score": 3941
+},
+{
+"word": "emergence",
+"score": 3496
+},
+{
+"word": "eminence",
+"score": 1841
+},
+{
+"word": "empathy",
+"score": 3886
+},
+{
+"word": "emperor",
+"score": 4084
+},
+{
+"word": "empire",
+"score": 1563
+},
+{
+"word": "empire",
+"score": 1564
+},
+{
+"word": "empires",
+"score": 1562
+},
+{
+"word": "empiricism",
+"score": 3881
+},
+{
+"word": "empowered",
+"score": 3093
+},
+{
+"word": "empowering",
+"score": 3387
+},
+{
+"word": "enactment",
+"score": 94
+},
+{
+"word": "enchanted",
+"score": 4328
+},
+{
+"word": "enchanting",
+"score": 2916
+},
+{
+"word": "enchantment",
+"score": 1011
+},
+{
+"word": "enchantress",
+"score": 910
+},
+{
+"word": "encomium",
+"score": 627
+},
+{
+"word": "encounter",
+"score": 1316
+},
+{
+"word": "encounters",
+"score": 1317
+},
+{
+"word": "encyclical",
+"score": 297
+},
+{
+"word": "encyclopaedia",
+"score": 82
+},
+{
+"word": "encyclopedia",
+"score": 47
+},
+{
+"word": "encyclopedias",
+"score": 149
+},
+{
+"word": "encyclopedic",
+"score": 159
+},
+{
+"word": "end",
+"score": 4530
+},
+{
+"word": "endgame",
+"score": 785
+},
+{
+"word": "endless",
+"score": 2930
+},
+{
+"word": "endocrinologist",
+"score": 4364
+},
+{
+"word": "endorsement",
+"score": 58
+},
+{
+"word": "endowment",
+"score": 1669
+},
+{
+"word": "enduring",
+"score": 3251
+},
+{
+"word": "enemies",
+"score": 278
+},
+{
+"word": "enemy",
+"score": 277
+},
+{
+"word": "engaging",
+"score": 2983
+},
+{
+"word": "engdahl",
+"score": 2450
+},
+{
+"word": "english",
+"score": 3972
+},
+{
+"word": "english",
+"score": 3973
+},
+{
+"word": "englishwoman",
+"score": 3782
+},
+{
+"word": "englishwoman",
+"score": 3783
+},
+{
+"word": "engraving",
+"score": 869
+},
+{
+"word": "engravings",
+"score": 1929
+},
+{
+"word": "engrossed",
+"score": 4542
+},
+{
+"word": "engrossing",
+"score": 395
+},
+{
+"word": "enigma",
+"score": 1646
+},
+{
+"word": "enjoyable",
+"score": 4167
+},
+{
+"word": "enlightened",
+"score": 845
+},
+{
+"word": "enlightening",
+"score": 1062
+},
+{
+"word": "enlightenment",
+"score": 2002
+},
+{
+"word": "enlightenment",
+"score": 2004
+},
+{
+"word": "enlistment",
+"score": 3559
+},
+{
+"word": "enormousness",
+"score": 519
+},
+{
+"word": "entertaining",
+"score": 1362
+},
+{
+"word": "enthralling",
+"score": 3515
+},
+{
+"word": "enticement",
+"score": 961
+},
+{
+"word": "entitled",
+"score": 842
+},
+{
+"word": "entrance",
+"score": 3446
+},
+{
+"word": "entree",
+"score": 3447
+},
+{
+"word": "environmentalist",
+"score": 2898
+},
+{
+"word": "ep",
+"score": 3483
+},
+{
+"word": "ephemera",
+"score": 1513
+},
+{
+"word": "ephemeron",
+"score": 1512
+},
+{
+"word": "epic",
+"score": 2458
+},
+{
+"word": "epicure",
+"score": 2083
+},
+{
+"word": "epidemic",
+"score": 2793
+},
+{
+"word": "epigram",
+"score": 3525
+},
+{
+"word": "epilogue",
+"score": 88
+},
+{
+"word": "epiphany",
+"score": 3822
+},
+{
+"word": "epiphany",
+"score": 3823
+},
+{
+"word": "episode",
+"score": 660
+},
+{
+"word": "episodes",
+"score": 2174
+},
+{
+"word": "episodic",
+"score": 3645
+},
+{
+"word": "epitaph",
+"score": 1019
+},
+{
+"word": "epoch",
+"score": 4368
+},
+{
+"word": "eponymous",
+"score": 2883
+},
+{
+"word": "eps",
+"score": 4296
+},
+{
+"word": "equality",
+"score": 3499
+},
+{
+"word": "equation",
+"score": 3498
+},
+{
+"word": "equus",
+"score": 3638
+},
+{
+"word": "equus",
+"score": 3639
+},
+{
+"word": "era",
+"score": 4369
+},
+{
+"word": "eragon",
+"score": 726
+},
+{
+"word": "eraser",
+"score": 4136
+},
+{
+"word": "erasers",
+"score": 4135
+},
+{
+"word": "ereader",
+"score": 592
+},
+{
+"word": "ereaders",
+"score": 639
+},
+{
+"word": "erotic",
+"score": 4222
+},
+{
+"word": "erotica",
+"score": 182
+},
+{
+"word": "eroticism",
+"score": 4005
+},
+{
+"word": "erudite",
+"score": 1345
+},
+{
+"word": "eruditeness",
+"score": 925
+},
+{
+"word": "erudition",
+"score": 926
+},
+{
+"word": "escapade",
+"score": 2901
+},
+{
+"word": "escapades",
+"score": 2952
+},
+{
+"word": "escape",
+"score": 2488
+},
+{
+"word": "escapes",
+"score": 4215
+},
+{
+"word": "escaping",
+"score": 4225
+},
+{
+"word": "escapist",
+"score": 1762
+},
+{
+"word": "espionage",
+"score": 2418
+},
+{
+"word": "esquire",
+"score": 1132
+},
+{
+"word": "esquire",
+"score": 1133
+},
+{
+"word": "essay",
+"score": 27
+},
+{
+"word": "essayist",
+"score": 245
+},
+{
+"word": "essays",
+"score": 26
+},
+{
+"word": "essence",
+"score": 1961
+},
+{
+"word": "essential",
+"score": 3587
+},
+{
+"word": "essentials",
+"score": 2611
+},
+{
+"word": "estimate",
+"score": 2615
+},
+{
+"word": "etching",
+"score": 868
+},
+{
+"word": "etchings",
+"score": 867
+},
+{
+"word": "eternity",
+"score": 1630
+},
+{
+"word": "ethnicity",
+"score": 3724
+},
+{
+"word": "etiquette",
+"score": 800
+},
+{
+"word": "etymon",
+"score": 1614
+},
+{
+"word": "eulogy",
+"score": 1072
+},
+{
+"word": "evasion",
+"score": 2487
+},
+{
+"word": "evenhanded",
+"score": 2966
+},
+{
+"word": "evening",
+"score": 2905
+},
+{
+"word": "evenings",
+"score": 2981
+},
+{
+"word": "everyday",
+"score": 1259
+},
+{
+"word": "everyman",
+"score": 2606
+},
+{
+"word": "everything",
+"score": 3482
+},
+{
+"word": "evil",
+"score": 2303
+},
+{
+"word": "evocation",
+"score": 1746
+},
+{
+"word": "evocative",
+"score": 3230
+},
+{
+"word": "evolution",
+"score": 3182
+},
+{
+"word": "evolutionary",
+"score": 2772
+},
+{
+"word": "examines",
+"score": 2945
+},
+{
+"word": "example",
+"score": 74
+},
+{
+"word": "excerpt",
+"score": 102
+},
+{
+"word": "excerpted",
+"score": 292
+},
+{
+"word": "excerpts",
+"score": 188
+},
+{
+"word": "excitedly",
+"score": 2010
+},
+{
+"word": "exclaims",
+"score": 3738
+},
+{
+"word": "excursion",
+"score": 1812
+},
+{
+"word": "excuse",
+"score": 1495
+},
+{
+"word": "execration",
+"score": 858
+},
+{
+"word": "exemplification",
+"score": 73
+},
+{
+"word": "exhale",
+"score": 2884
+},
+{
+"word": "exhaustively",
+"score": 2607
+},
+{
+"word": "exhibit",
+"score": 763
+},
+{
+"word": "exhibition",
+"score": 2041
+},
+{
+"word": "exhibits",
+"score": 4100
+},
+{
+"word": "exhortation",
+"score": 3610
+},
+{
+"word": "exile",
+"score": 1371
+},
+{
+"word": "existence",
+"score": 1971
+},
+{
+"word": "exodus",
+"score": 4070
+},
+{
+"word": "exodus",
+"score": 4071
+},
+{
+"word": "exorcist",
+"score": 3461
+},
+{
+"word": "experience",
+"score": 1238
+},
+{
+"word": "experiences",
+"score": 1237
+},
+{
+"word": "experiment",
+"score": 4323
+},
+{
+"word": "expiation",
+"score": 2729
+},
+{
+"word": "explained",
+"score": 905
+},
+{
+"word": "explanation",
+"score": 3633
+},
+{
+"word": "explanatory",
+"score": 3522
+},
+{
+"word": "expletive",
+"score": 4394
+},
+{
+"word": "explicitly",
+"score": 3312
+},
+{
+"word": "explores",
+"score": 2548
+},
+{
+"word": "exploring",
+"score": 2423
+},
+{
+"word": "exposition",
+"score": 2040
+},
+{
+"word": "expression",
+"score": 193
+},
+{
+"word": "extensively",
+"score": 2874
+},
+{
+"word": "extinction",
+"score": 1404
+},
+{
+"word": "extrabet",
+"score": 3408
+},
+{
+"word": "extracts",
+"score": 2425
+},
+{
+"word": "extraordinary",
+"score": 1605
+},
+{
+"word": "eye",
+"score": 2804
+},
+{
+"word": "eyes",
+"score": 2805
+},
+{
+"word": "eyewitness",
+"score": 2968
+},
+{
+"word": "faber",
+"score": 1105
+},
+{
+"word": "fable",
+"score": 127
+},
+{
+"word": "fables",
+"score": 129
+},
+{
+"word": "fabric",
+"score": 3390
+},
+{
+"word": "fabrication",
+"score": 23
+},
+{
+"word": "fabulous",
+"score": 1626
+},
+{
+"word": "facetious",
+"score": 3207
+},
+{
+"word": "factoid",
+"score": 1149
+},
+{
+"word": "factual",
+"score": 4232
+},
+{
+"word": "fad",
+"score": 2180
+},
+{
+"word": "fade",
+"score": 1140
+},
+{
+"word": "fading",
+"score": 3318
+},
+{
+"word": "fahrenheit",
+"score": 1695
+},
+{
+"word": "fahrenheit",
+"score": 1696
+},
+{
+"word": "failure",
+"score": 4133
+},
+{
+"word": "fairness",
+"score": 3979
+},
+{
+"word": "fairytale",
+"score": 436
+},
+{
+"word": "fairytales",
+"score": 435
+},
+{
+"word": "faith",
+"score": 3833
+},
+{
+"word": "falafel",
+"score": 3372
+},
+{
+"word": "fallacies",
+"score": 1597
+},
+{
+"word": "fallacy",
+"score": 1596
+},
+{
+"word": "falsehood",
+"score": 1977
+},
+{
+"word": "falsehoods",
+"score": 1976
+},
+{
+"word": "falsification",
+"score": 1837
+},
+{
+"word": "familiarity",
+"score": 657
+},
+{
+"word": "famitsu",
+"score": 2897
+},
+{
+"word": "famous",
+"score": 2196
+},
+{
+"word": "famously",
+"score": 4009
+},
+{
+"word": "fan",
+"score": 1038
+},
+{
+"word": "fancy",
+"score": 3553
+},
+{
+"word": "fandom",
+"score": 3757
+},
+{
+"word": "fantasies",
+"score": 4088
+},
+{
+"word": "fantasized",
+"score": 2245
+},
+{
+"word": "fantast",
+"score": 4126
+},
+{
+"word": "fantastical",
+"score": 3135
+},
+{
+"word": "fantasticks",
+"score": 3301
+},
+{
+"word": "fantasy",
+"score": 1953
+},
+{
+"word": "farewell",
+"score": 1200
+},
+{
+"word": "fascinate",
+"score": 2754
+},
+{
+"word": "fascinated",
+"score": 1933
+},
+{
+"word": "fascinates",
+"score": 1775
+},
+{
+"word": "fascinating",
+"score": 440
+},
+{
+"word": "fascination",
+"score": 3700
+},
+{
+"word": "fascism",
+"score": 2639
+},
+{
+"word": "fashionable",
+"score": 3960
+},
+{
+"word": "fat",
+"score": 4523
+},
+{
+"word": "fate",
+"score": 1499
+},
+{
+"word": "father",
+"score": 3789
+},
+{
+"word": "fatherhood",
+"score": 3790
+},
+{
+"word": "fatness",
+"score": 4524
+},
+{
+"word": "fatwa",
+"score": 1493
+},
+{
+"word": "faulkner",
+"score": 2783
+},
+{
+"word": "faulkner",
+"score": 2784
+},
+{
+"word": "fdr",
+"score": 3938
+},
+{
+"word": "fear",
+"score": 1507
+},
+{
+"word": "fearless",
+"score": 724
+},
+{
+"word": "feast",
+"score": 1635
+},
+{
+"word": "feather",
+"score": 4174
+},
+{
+"word": "featurette",
+"score": 1013
+},
+{
+"word": "featurettes",
+"score": 3852
+},
+{
+"word": "federalist",
+"score": 2534
+},
+{
+"word": "federalist",
+"score": 2535
+},
+{
+"word": "feel",
+"score": 2576
+},
+{
+"word": "feet",
+"score": 2453
+},
+{
+"word": "felt",
+"score": 4078
+},
+{
+"word": "feminism",
+"score": 411
+},
+{
+"word": "feminist",
+"score": 806
+},
+{
+"word": "feminists",
+"score": 3677
+},
+{
+"word": "fence",
+"score": 4016
+},
+{
+"word": "fences",
+"score": 4015
+},
+{
+"word": "fete",
+"score": 1636
+},
+{
+"word": "fh",
+"score": 2557
+},
+{
+"word": "fiasco",
+"score": 933
+},
+{
+"word": "fib",
+"score": 116
+},
+{
+"word": "fibonacci",
+"score": 2765
+},
+{
+"word": "fiction",
+"score": 22
+},
+{
+"word": "fictional",
+"score": 490
+},
+{
+"word": "fictionalized",
+"score": 203
+},
+{
+"word": "fictions",
+"score": 142
+},
+{
+"word": "fifties",
+"score": 1897
+},
+{
+"word": "fifty",
+"score": 1898
+},
+{
+"word": "figurine",
+"score": 4199
+},
+{
+"word": "film",
+"score": 441
+},
+{
+"word": "filmmaker",
+"score": 2469
+},
+{
+"word": "filmography",
+"score": 1230
+},
+{
+"word": "films",
+"score": 2281
+},
+{
+"word": "filthy",
+"score": 4455
+},
+{
+"word": "finale",
+"score": 2844
+},
+{
+"word": "finish",
+"score": 2194
+},
+{
+"word": "fink",
+"score": 3361
+},
+{
+"word": "finkel",
+"score": 2718
+},
+{
+"word": "firearm",
+"score": 1208
+},
+{
+"word": "firecracker",
+"score": 3227
+},
+{
+"word": "fireplace",
+"score": 4271
+},
+{
+"word": "fireside",
+"score": 985
+},
+{
+"word": "fittingly",
+"score": 3209
+},
+{
+"word": "flair",
+"score": 647
+},
+{
+"word": "flashlight",
+"score": 3448
+},
+{
+"word": "flatbread",
+"score": 3579
+},
+{
+"word": "flesh",
+"score": 500
+},
+{
+"word": "fletch",
+"score": 2457
+},
+{
+"word": "flick",
+"score": 4103
+},
+{
+"word": "flier",
+"score": 981
+},
+{
+"word": "fliers",
+"score": 3294
+},
+{
+"word": "flightiness",
+"score": 2879
+},
+{
+"word": "flipping",
+"score": 4200
+},
+{
+"word": "flirt",
+"score": 3705
+},
+{
+"word": "flirting",
+"score": 3706
+},
+{
+"word": "floor",
+"score": 295
+},
+{
+"word": "flop",
+"score": 1291
+},
+{
+"word": "florist",
+"score": 4152
+},
+{
+"word": "flower",
+"score": 2499
+},
+{
+"word": "flyer",
+"score": 1673
+},
+{
+"word": "fodor",
+"score": 630
+},
+{
+"word": "foe",
+"score": 276
+},
+{
+"word": "folderal",
+"score": 1055
+},
+{
+"word": "foliation",
+"score": 804
+},
+{
+"word": "folio",
+"score": 207
+},
+{
+"word": "folklore",
+"score": 1996
+},
+{
+"word": "follett",
+"score": 713
+},
+{
+"word": "folly",
+"score": 2299
+},
+{
+"word": "fondness",
+"score": 3554
+},
+{
+"word": "font",
+"score": 2286
+},
+{
+"word": "foodie",
+"score": 2521
+},
+{
+"word": "foodies",
+"score": 4501
+},
+{
+"word": "fool",
+"score": 3433
+},
+{
+"word": "foolish",
+"score": 4300
+},
+{
+"word": "foot",
+"score": 2451
+},
+{
+"word": "footfall",
+"score": 305
+},
+{
+"word": "footnote",
+"score": 387
+},
+{
+"word": "footnotes",
+"score": 386
+},
+{
+"word": "footprint",
+"score": 1907
+},
+{
+"word": "footprints",
+"score": 1906
+},
+{
+"word": "footstep",
+"score": 303
+},
+{
+"word": "footsteps",
+"score": 304
+},
+{
+"word": "forbes",
+"score": 3662
+},
+{
+"word": "forbidden",
+"score": 1629
+},
+{
+"word": "foreboding",
+"score": 4422
+},
+{
+"word": "foreigner",
+"score": 420
+},
+{
+"word": "foreignness",
+"score": 902
+},
+{
+"word": "forever",
+"score": 1298
+},
+{
+"word": "forewarning",
+"score": 4421
+},
+{
+"word": "foreword",
+"score": 25
+},
+{
+"word": "forgetting",
+"score": 1632
+},
+{
+"word": "forgiveness",
+"score": 709
+},
+{
+"word": "forgivingness",
+"score": 1356
+},
+{
+"word": "forgot",
+"score": 2089
+},
+{
+"word": "forgotten",
+"score": 593
+},
+{
+"word": "forlornness",
+"score": 816
+},
+{
+"word": "form",
+"score": 3185
+},
+{
+"word": "forthcoming",
+"score": 1737
+},
+{
+"word": "fortunate",
+"score": 3084
+},
+{
+"word": "fortune",
+"score": 1501
+},
+{
+"word": "foundation",
+"score": 2452
+},
+{
+"word": "founder",
+"score": 2995
+},
+{
+"word": "fracture",
+"score": 3826
+},
+{
+"word": "fragile",
+"score": 2380
+},
+{
+"word": "fragment",
+"score": 2334
+},
+{
+"word": "fragmentary",
+"score": 2828
+},
+{
+"word": "fragments",
+"score": 2336
+},
+{
+"word": "fragrance",
+"score": 1579
+},
+{
+"word": "framed",
+"score": 2282
+},
+{
+"word": "franny",
+"score": 771
+},
+{
+"word": "franzen",
+"score": 883
+},
+{
+"word": "fraud",
+"score": 2172
+},
+{
+"word": "freakonomics",
+"score": 54
+},
+{
+"word": "freeh",
+"score": 4054
+},
+{
+"word": "freeing",
+"score": 4512
+},
+{
+"word": "freemason",
+"score": 2648
+},
+{
+"word": "freemasons",
+"score": 2647
+},
+{
+"word": "freud",
+"score": 1343
+},
+{
+"word": "freud",
+"score": 1344
+},
+{
+"word": "frey",
+"score": 755
+},
+{
+"word": "frey",
+"score": 756
+},
+{
+"word": "friend",
+"score": 3242
+},
+{
+"word": "friend",
+"score": 3243
+},
+{
+"word": "frieze",
+"score": 3009
+},
+{
+"word": "frisson",
+"score": 4279
+},
+{
+"word": "frommer",
+"score": 1079
+},
+{
+"word": "frontier",
+"score": 1672
+},
+{
+"word": "frontiers",
+"score": 1671
+},
+{
+"word": "frugal",
+"score": 1997
+},
+{
+"word": "fruitcake",
+"score": 3463
+},
+{
+"word": "frum",
+"score": 1403
+},
+{
+"word": "fsg",
+"score": 626
+},
+{
+"word": "fuck",
+"score": 1570
+},
+{
+"word": "fucking",
+"score": 1571
+},
+{
+"word": "fugitive",
+"score": 2408
+},
+{
+"word": "fulfillment",
+"score": 3745
+},
+{
+"word": "fulghum",
+"score": 2189
+},
+{
+"word": "fulmination",
+"score": 1100
+},
+{
+"word": "function",
+"score": 3269
+},
+{
+"word": "fundamental",
+"score": 2740
+},
+{
+"word": "fundamentalism",
+"score": 3203
+},
+{
+"word": "fundamentals",
+"score": 2739
+},
+{
+"word": "funniest",
+"score": 3839
+},
+{
+"word": "funny",
+"score": 1904
+},
+{
+"word": "fury",
+"score": 2295
+},
+{
+"word": "fuse",
+"score": 539
+},
+{
+"word": "future",
+"score": 1437
+},
+{
+"word": "futurist",
+"score": 4125
+},
+{
+"word": "gaddi",
+"score": 3807
+},
+{
+"word": "gaddis",
+"score": 3806
+},
+{
+"word": "gaiman",
+"score": 306
+},
+{
+"word": "galanter",
+"score": 4357
+},
+{
+"word": "gallery",
+"score": 3502
+},
+{
+"word": "galley",
+"score": 2543
+},
+{
+"word": "gambler",
+"score": 2113
+},
+{
+"word": "gamestop",
+"score": 4263
+},
+{
+"word": "gandhi",
+"score": 2978
+},
+{
+"word": "gandhi",
+"score": 2979
+},
+{
+"word": "gandhiji",
+"score": 1162
+},
+{
+"word": "gap",
+"score": 3827
+},
+{
+"word": "gardener",
+"score": 1465
+},
+{
+"word": "gardening",
+"score": 1431
+},
+{
+"word": "gasp",
+"score": 4023
+},
+{
+"word": "gatsby",
+"score": 1182
+},
+{
+"word": "gauguin",
+"score": 945
+},
+{
+"word": "gauguin",
+"score": 946
+},
+{
+"word": "geisel",
+"score": 886
+},
+{
+"word": "geisel",
+"score": 887
+},
+{
+"word": "gem",
+"score": 754
+},
+{
+"word": "genealogical",
+"score": 936
+},
+{
+"word": "genealogist",
+"score": 1311
+},
+{
+"word": "genealogists",
+"score": 4102
+},
+{
+"word": "genealogy",
+"score": 491
+},
+{
+"word": "generalization",
+"score": 2492
+},
+{
+"word": "generalizations",
+"score": 2491
+},
+{
+"word": "generator",
+"score": 21
+},
+{
+"word": "generosity",
+"score": 3057
+},
+{
+"word": "genesis",
+"score": 3927
+},
+{
+"word": "genesis",
+"score": 3928
+},
+{
+"word": "genius",
+"score": 648
+},
+{
+"word": "genome",
+"score": 3074
+},
+{
+"word": "genre",
+"score": 1848
+},
+{
+"word": "gentleman",
+"score": 3588
+},
+{
+"word": "gently",
+"score": 3313
+},
+{
+"word": "geocaching",
+"score": 3880
+},
+{
+"word": "geography",
+"score": 786
+},
+{
+"word": "geometry",
+"score": 2345
+},
+{
+"word": "gershwin",
+"score": 3939
+},
+{
+"word": "gershwin",
+"score": 3940
+},
+{
+"word": "getaway",
+"score": 3214
+},
+{
+"word": "gettysburg",
+"score": 4259
+},
+{
+"word": "gettysburg",
+"score": 4260
+},
+{
+"word": "ghetto",
+"score": 1920
+},
+{
+"word": "ghost",
+"score": 597
+},
+{
+"word": "ghosts",
+"score": 598
+},
+{
+"word": "ghostwriter",
+"score": 101
+},
+{
+"word": "gift",
+"score": 1668
+},
+{
+"word": "giggle",
+"score": 3199
+},
+{
+"word": "gilder",
+"score": 3428
+},
+{
+"word": "giller",
+"score": 325
+},
+{
+"word": "girl",
+"score": 1328
+},
+{
+"word": "girlfriend",
+"score": 1329
+},
+{
+"word": "girlfriends",
+"score": 2944
+},
+{
+"word": "giroux",
+"score": 2672
+},
+{
+"word": "gist",
+"score": 3689
+},
+{
+"word": "gita",
+"score": 1892
+},
+{
+"word": "giving",
+"score": 1670
+},
+{
+"word": "gladwell",
+"score": 204
+},
+{
+"word": "glamor",
+"score": 1198
+},
+{
+"word": "glamour",
+"score": 1199
+},
+{
+"word": "glance",
+"score": 2541
+},
+{
+"word": "glancing",
+"score": 4502
+},
+{
+"word": "glimpse",
+"score": 2540
+},
+{
+"word": "globalisation",
+"score": 3636
+},
+{
+"word": "globalization",
+"score": 1755
+},
+{
+"word": "glorious",
+"score": 2825
+},
+{
+"word": "gloss",
+"score": 2146
+},
+{
+"word": "glossary",
+"score": 884
+},
+{
+"word": "glossy",
+"score": 4317
+},
+{
+"word": "glsen",
+"score": 3998
+},
+{
+"word": "go",
+"score": 1010
+},
+{
+"word": "goblet",
+"score": 1627
+},
+{
+"word": "god",
+"score": 1785
+},
+{
+"word": "god",
+"score": 1787
+},
+{
+"word": "goddess",
+"score": 2018
+},
+{
+"word": "godfather",
+"score": 3117
+},
+{
+"word": "godhead",
+"score": 3442
+},
+{
+"word": "godless",
+"score": 939
+},
+{
+"word": "godot",
+"score": 3389
+},
+{
+"word": "gods",
+"score": 1786
+},
+{
+"word": "goethe",
+"score": 1028
+},
+{
+"word": "goethe",
+"score": 1029
+},
+{
+"word": "goldfish",
+"score": 2776
+},
+{
+"word": "goldman",
+"score": 366
+},
+{
+"word": "goldman",
+"score": 4489
+},
+{
+"word": "goldmans",
+"score": 367
+},
+{
+"word": "goldwater",
+"score": 4228
+},
+{
+"word": "gomorrah",
+"score": 1189
+},
+{
+"word": "gomorrah",
+"score": 1190
+},
+{
+"word": "gonzo",
+"score": 3399
+},
+{
+"word": "good",
+"score": 3176
+},
+{
+"word": "goodbye",
+"score": 2431
+},
+{
+"word": "goodness",
+"score": 3175
+},
+{
+"word": "googled",
+"score": 1588
+},
+{
+"word": "googling",
+"score": 940
+},
+{
+"word": "goosefish",
+"score": 3364
+},
+{
+"word": "gospel",
+"score": 266
+},
+{
+"word": "gospel",
+"score": 267
+},
+{
+"word": "gospels",
+"score": 268
+},
+{
+"word": "gossipy",
+"score": 390
+},
+{
+"word": "gourmet",
+"score": 2084
+},
+{
+"word": "gq",
+"score": 2090
+},
+{
+"word": "grace",
+"score": 1901
+},
+{
+"word": "gradation",
+"score": 3981
+},
+{
+"word": "grail",
+"score": 2923
+},
+{
+"word": "grammar",
+"score": 1016
+},
+{
+"word": "grammatical",
+"score": 3120
+},
+{
+"word": "grandchild",
+"score": 1367
+},
+{
+"word": "grandchildren",
+"score": 1366
+},
+{
+"word": "grandfather",
+"score": 2137
+},
+{
+"word": "grandma",
+"score": 1553
+},
+{
+"word": "grandmother",
+"score": 1552
+},
+{
+"word": "grandpa",
+"score": 4519
+},
+{
+"word": "grape",
+"score": 2134
+},
+{
+"word": "grapes",
+"score": 2135
+},
+{
+"word": "grapeshot",
+"score": 2133
+},
+{
+"word": "grass",
+"score": 3333
+},
+{
+"word": "grass",
+"score": 3334
+},
+{
+"word": "gratitude",
+"score": 2748
+},
+{
+"word": "grave",
+"score": 2889
+},
+{
+"word": "gravestone",
+"score": 1036
+},
+{
+"word": "grazia",
+"score": 2474
+},
+{
+"word": "great",
+"score": 3173
+},
+{
+"word": "greatest",
+"score": 904
+},
+{
+"word": "greatness",
+"score": 520
+},
+{
+"word": "greave",
+"score": 2384
+},
+{
+"word": "greaves",
+"score": 2383
+},
+{
+"word": "greed",
+"score": 2588
+},
+{
+"word": "greenlaw",
+"score": 3611
+},
+{
+"word": "grief",
+"score": 456
+},
+{
+"word": "grilling",
+"score": 1871
+},
+{
+"word": "gripe",
+"score": 793
+},
+{
+"word": "gripping",
+"score": 4013
+},
+{
+"word": "grisham",
+"score": 131
+},
+{
+"word": "grogan",
+"score": 1845
+},
+{
+"word": "groucho",
+"score": 1768
+},
+{
+"word": "grounded",
+"score": 4173
+},
+{
+"word": "group",
+"score": 2839
+},
+{
+"word": "groupie",
+"score": 2685
+},
+{
+"word": "grub",
+"score": 4112
+},
+{
+"word": "gruen",
+"score": 3424
+},
+{
+"word": "guha",
+"score": 3327
+},
+{
+"word": "guide",
+"score": 335
+},
+{
+"word": "guides",
+"score": 637
+},
+{
+"word": "guilt",
+"score": 980
+},
+{
+"word": "gulag",
+"score": 1297
+},
+{
+"word": "gull",
+"score": 3577
+},
+{
+"word": "gullah",
+"score": 2472
+},
+{
+"word": "gulp",
+"score": 2565
+},
+{
+"word": "gunman",
+"score": 2330
+},
+{
+"word": "gut",
+"score": 4430
+},
+{
+"word": "gutenberg",
+"score": 644
+},
+{
+"word": "gutenberg",
+"score": 645
+},
+{
+"word": "guts",
+"score": 4478
+},
+{
+"word": "habit",
+"score": 993
+},
+{
+"word": "habits",
+"score": 992
+},
+{
+"word": "hachette",
+"score": 151
+},
+{
+"word": "haddon",
+"score": 4249
+},
+{
+"word": "hadith",
+"score": 850
+},
+{
+"word": "hadith",
+"score": 851
+},
+{
+"word": "hag",
+"score": 909
+},
+{
+"word": "hagiographa",
+"score": 43
+},
+{
+"word": "haiku",
+"score": 531
+},
+{
+"word": "halberstam",
+"score": 751
+},
+{
+"word": "hallelujah",
+"score": 2586
+},
+{
+"word": "halperin",
+"score": 987
+},
+{
+"word": "hamburger",
+"score": 1803
+},
+{
+"word": "handler",
+"score": 4506
+},
+{
+"word": "handout",
+"score": 4337
+},
+{
+"word": "handwriting",
+"score": 221
+},
+{
+"word": "handwritten",
+"score": 489
+},
+{
+"word": "hang-up",
+"score": 3931
+},
+{
+"word": "hangman",
+"score": 3039
+},
+{
+"word": "hannity",
+"score": 4480
+},
+{
+"word": "happened",
+"score": 1609
+},
+{
+"word": "happiness",
+"score": 618
+},
+{
+"word": "happy",
+"score": 2727
+},
+{
+"word": "harangue",
+"score": 3142
+},
+{
+"word": "harcourt",
+"score": 1847
+},
+{
+"word": "hardback",
+"score": 8
+},
+{
+"word": "hardcopy",
+"score": 1576
+},
+{
+"word": "hardcover",
+"score": 12
+},
+{
+"word": "harlequin",
+"score": 468
+},
+{
+"word": "harpercollins",
+"score": 35
+},
+{
+"word": "harpers",
+"score": 2217
+},
+{
+"word": "harpist",
+"score": 2218
+},
+{
+"word": "harpo",
+"score": 3737
+},
+{
+"word": "harrowing",
+"score": 3595
+},
+{
+"word": "harry",
+"score": 2544
+},
+{
+"word": "hassler",
+"score": 3345
+},
+{
+"word": "haste",
+"score": 2848
+},
+{
+"word": "hat",
+"score": 1227
+},
+{
+"word": "hatchet",
+"score": 2476
+},
+{
+"word": "hate",
+"score": 1408
+},
+{
+"word": "hatred",
+"score": 1407
+},
+{
+"word": "hattie",
+"score": 3878
+},
+{
+"word": "haunted",
+"score": 2980
+},
+{
+"word": "haunting",
+"score": 3605
+},
+{
+"word": "hawking",
+"score": 1949
+},
+{
+"word": "hawking",
+"score": 1951
+},
+{
+"word": "haystack",
+"score": 4187
+},
+{
+"word": "hazard",
+"score": 573
+},
+{
+"word": "hbo",
+"score": 3223
+},
+{
+"word": "header",
+"score": 3358
+},
+{
+"word": "headline",
+"score": 3864
+},
+{
+"word": "headstone",
+"score": 3815
+},
+{
+"word": "healing",
+"score": 2069
+},
+{
+"word": "heart",
+"score": 3772
+},
+{
+"word": "heartbreak",
+"score": 3635
+},
+{
+"word": "hearth",
+"score": 984
+},
+{
+"word": "heat",
+"score": 966
+},
+{
+"word": "heaven",
+"score": 955
+},
+{
+"word": "heaven",
+"score": 956
+},
+{
+"word": "hebrew",
+"score": 3353
+},
+{
+"word": "hebrews",
+"score": 3350
+},
+{
+"word": "hebrews",
+"score": 3351
+},
+{
+"word": "hegel",
+"score": 1360
+},
+{
+"word": "hegel",
+"score": 1361
+},
+{
+"word": "heinemann",
+"score": 1315
+},
+{
+"word": "heir",
+"score": 1272
+},
+{
+"word": "helix",
+"score": 3614
+},
+{
+"word": "hell",
+"score": 1649
+},
+{
+"word": "hell",
+"score": 2837
+},
+{
+"word": "hello",
+"score": 3798
+},
+{
+"word": "heloise",
+"score": 2437
+},
+{
+"word": "heloise",
+"score": 2438
+},
+{
+"word": "helpfully",
+"score": 4521
+},
+{
+"word": "hemingway",
+"score": 250
+},
+{
+"word": "hemingway",
+"score": 251
+},
+{
+"word": "hera",
+"score": 3322
+},
+{
+"word": "herb",
+"score": 3786
+},
+{
+"word": "herbs",
+"score": 3785
+},
+{
+"word": "here",
+"score": 3323
+},
+{
+"word": "hereafter",
+"score": 1436
+},
+{
+"word": "heretic",
+"score": 4032
+},
+{
+"word": "heretical",
+"score": 3279
+},
+{
+"word": "hermione",
+"score": 3495
+},
+{
+"word": "heroine",
+"score": 1756
+},
+{
+"word": "heroines",
+"score": 2250
+},
+{
+"word": "hers",
+"score": 4060
+},
+{
+"word": "herself",
+"score": 2869
+},
+{
+"word": "hersh",
+"score": 1554
+},
+{
+"word": "hex",
+"score": 859
+},
+{
+"word": "hidden",
+"score": 1633
+},
+{
+"word": "highbrow",
+"score": 3974
+},
+{
+"word": "highsmith",
+"score": 3017
+},
+{
+"word": "hike",
+"score": 2700
+},
+{
+"word": "hikes",
+"score": 2699
+},
+{
+"word": "hiking",
+"score": 4324
+},
+{
+"word": "hilarious",
+"score": 2183
+},
+{
+"word": "hillary",
+"score": 3628
+},
+{
+"word": "hillary",
+"score": 3629
+},
+{
+"word": "hindrance",
+"score": 3932
+},
+{
+"word": "hint",
+"score": 973
+},
+{
+"word": "hiroshima",
+"score": 3888
+},
+{
+"word": "hiroshima",
+"score": 3889
+},
+{
+"word": "historian",
+"score": 219
+},
+{
+"word": "historians",
+"score": 689
+},
+{
+"word": "historical",
+"score": 1420
+},
+{
+"word": "histories",
+"score": 658
+},
+{
+"word": "history",
+"score": 121
+},
+{
+"word": "hitch",
+"score": 3933
+},
+{
+"word": "hitchens",
+"score": 698
+},
+{
+"word": "hitler",
+"score": 2238
+},
+{
+"word": "hitler",
+"score": 2239
+},
+{
+"word": "hitman",
+"score": 2329
+},
+{
+"word": "hoax",
+"score": 2171
+},
+{
+"word": "hobbes",
+"score": 1210
+},
+{
+"word": "hobbes",
+"score": 1211
+},
+{
+"word": "hobbies",
+"score": 3550
+},
+{
+"word": "hobby",
+"score": 1313
+},
+{
+"word": "hodder",
+"score": 393
+},
+{
+"word": "hog",
+"score": 2643
+},
+{
+"word": "hogwarts",
+"score": 4072
+},
+{
+"word": "holocaust",
+"score": 2399
+},
+{
+"word": "holocaust",
+"score": 2400
+},
+{
+"word": "holzman",
+"score": 4484
+},
+{
+"word": "homage",
+"score": 2626
+},
+{
+"word": "home",
+"score": 2054
+},
+{
+"word": "homebuilder",
+"score": 2854
+},
+{
+"word": "homefront",
+"score": 2482
+},
+{
+"word": "homework",
+"score": 1667
+},
+{
+"word": "homilies",
+"score": 2808
+},
+{
+"word": "homily",
+"score": 2807
+},
+{
+"word": "honeymoon",
+"score": 4373
+},
+{
+"word": "hooked",
+"score": 2368
+},
+{
+"word": "hoot",
+"score": 1222
+},
+{
+"word": "hornby",
+"score": 2972
+},
+{
+"word": "horoscope",
+"score": 1048
+},
+{
+"word": "horoscopes",
+"score": 3799
+},
+{
+"word": "horowitz",
+"score": 3370
+},
+{
+"word": "horowitz",
+"score": 3371
+},
+{
+"word": "horrible",
+"score": 3255
+},
+{
+"word": "horror",
+"score": 2926
+},
+{
+"word": "horseshoe",
+"score": 2993
+},
+{
+"word": "hosseini",
+"score": 2126
+},
+{
+"word": "hotcakes",
+"score": 1678
+},
+{
+"word": "houdini",
+"score": 3516
+},
+{
+"word": "houdini",
+"score": 3517
+},
+{
+"word": "hound",
+"score": 4281
+},
+{
+"word": "hour",
+"score": 3281
+},
+{
+"word": "housebuilder",
+"score": 2853
+},
+{
+"word": "housewife",
+"score": 1927
+},
+{
+"word": "hovel",
+"score": 1070
+},
+{
+"word": "howl",
+"score": 1037
+},
+{
+"word": "huffpo",
+"score": 3081
+},
+{
+"word": "hug",
+"score": 3126
+},
+{
+"word": "humanist",
+"score": 2977
+},
+{
+"word": "humanities",
+"score": 3309
+},
+{
+"word": "humanity",
+"score": 3310
+},
+{
+"word": "humanness",
+"score": 3308
+},
+{
+"word": "humor",
+"score": 1538
+},
+{
+"word": "humorist",
+"score": 487
+},
+{
+"word": "humorous",
+"score": 674
+},
+{
+"word": "humorously",
+"score": 1983
+},
+{
+"word": "humour",
+"score": 1536
+},
+{
+"word": "hundred",
+"score": 2022
+},
+{
+"word": "hunger",
+"score": 2513
+},
+{
+"word": "hungry",
+"score": 2017
+},
+{
+"word": "hunted",
+"score": 2921
+},
+{
+"word": "hurry",
+"score": 2849
+},
+{
+"word": "husband",
+"score": 4018
+},
+{
+"word": "husbands",
+"score": 4019
+},
+{
+"word": "hustler",
+"score": 4500
+},
+{
+"word": "huxley",
+"score": 3188
+},
+{
+"word": "huxley",
+"score": 3189
+},
+{
+"word": "hydra",
+"score": 3404
+},
+{
+"word": "hymn",
+"score": 697
+},
+{
+"word": "hymns",
+"score": 3627
+},
+{
+"word": "hyperion",
+"score": 1321
+},
+{
+"word": "hyperion",
+"score": 1322
+},
+{
+"word": "hypothesis",
+"score": 417
+},
+{
+"word": "hysteria",
+"score": 2443
+},
+{
+"word": "ibid",
+"score": 1842
+},
+{
+"word": "ibn",
+"score": 3658
+},
+{
+"word": "ibsen",
+"score": 1442
+},
+{
+"word": "ibsen",
+"score": 1443
+},
+{
+"word": "icarus",
+"score": 3862
+},
+{
+"word": "icarus",
+"score": 3863
+},
+{
+"word": "icon",
+"score": 3953
+},
+{
+"word": "iconoclastic",
+"score": 3563
+},
+{
+"word": "icons",
+"score": 3951
+},
+{
+"word": "idea",
+"score": 1519
+},
+{
+"word": "idealist",
+"score": 1763
+},
+{
+"word": "ideas",
+"score": 2617
+},
+{
+"word": "identity",
+"score": 3768
+},
+{
+"word": "ideology",
+"score": 1108
+},
+{
+"word": "idiom",
+"score": 2847
+},
+{
+"word": "idiosyncratic",
+"score": 4142
+},
+{
+"word": "idiot",
+"score": 803
+},
+{
+"word": "idiots",
+"score": 812
+},
+{
+"word": "idol",
+"score": 1788
+},
+{
+"word": "idolatry",
+"score": 1529
+},
+{
+"word": "idw",
+"score": 314
+},
+{
+"word": "ifill",
+"score": 1220
+},
+{
+"word": "ignatius",
+"score": 3165
+},
+{
+"word": "ignatius",
+"score": 3166
+},
+{
+"word": "ignition",
+"score": 4183
+},
+{
+"word": "ignorance",
+"score": 1595
+},
+{
+"word": "iliad",
+"score": 642
+},
+{
+"word": "iliad",
+"score": 643
+},
+{
+"word": "illiteracy",
+"score": 4370
+},
+{
+"word": "illuminated",
+"score": 2845
+},
+{
+"word": "illuminating",
+"score": 1849
+},
+{
+"word": "illusion",
+"score": 383
+},
+{
+"word": "illusionist",
+"score": 3156
+},
+{
+"word": "illusions",
+"score": 384
+},
+{
+"word": "illustrated",
+"score": 110
+},
+{
+"word": "illustrating",
+"score": 3006
+},
+{
+"word": "illustration",
+"score": 75
+},
+{
+"word": "illustrations",
+"score": 72
+},
+{
+"word": "illustrative",
+"score": 4447
+},
+{
+"word": "illustrator",
+"score": 200
+},
+{
+"word": "illustrators",
+"score": 410
+},
+{
+"word": "imaginary",
+"score": 2736
+},
+{
+"word": "imagination",
+"score": 730
+},
+{
+"word": "imaginatively",
+"score": 1918
+},
+{
+"word": "imagines",
+"score": 2253
+},
+{
+"word": "imagining",
+"score": 485
+},
+{
+"word": "imago",
+"score": 2254
+},
+{
+"word": "immortal",
+"score": 1005
+},
+{
+"word": "immortals",
+"score": 1974
+},
+{
+"word": "imp",
+"score": 4353
+},
+{
+"word": "imperativeness",
+"score": 4161
+},
+{
+"word": "impossible",
+"score": 889
+},
+{
+"word": "impression",
+"score": 2483
+},
+{
+"word": "impressionist",
+"score": 2079
+},
+{
+"word": "impressionistic",
+"score": 1467
+},
+{
+"word": "impressionists",
+"score": 2080
+},
+{
+"word": "imprint",
+"score": 589
+},
+{
+"word": "imprints",
+"score": 2696
+},
+{
+"word": "improvement",
+"score": 4062
+},
+{
+"word": "impulse",
+"score": 3045
+},
+{
+"word": "incidentally",
+"score": 3471
+},
+{
+"word": "incisive",
+"score": 2954
+},
+{
+"word": "inclusion",
+"score": 3264
+},
+{
+"word": "incredible",
+"score": 3558
+},
+{
+"word": "indictment",
+"score": 2994
+},
+{
+"word": "indiewire",
+"score": 4486
+},
+{
+"word": "indigo",
+"score": 1242
+},
+{
+"word": "inequality",
+"score": 1498
+},
+{
+"word": "infamous",
+"score": 1839
+},
+{
+"word": "infantry",
+"score": 2454
+},
+{
+"word": "inferno",
+"score": 4223
+},
+{
+"word": "infestation",
+"score": 1425
+},
+{
+"word": "infinite",
+"score": 4061
+},
+{
+"word": "influence",
+"score": 1018
+},
+{
+"word": "informative",
+"score": 1267
+},
+{
+"word": "infusion",
+"score": 2424
+},
+{
+"word": "inhalation",
+"score": 2274
+},
+{
+"word": "inheritance",
+"score": 113
+},
+{
+"word": "iniquity",
+"score": 2631
+},
+{
+"word": "initiate",
+"score": 846
+},
+{
+"word": "initiation",
+"score": 914
+},
+{
+"word": "injustice",
+"score": 728
+},
+{
+"word": "ink",
+"score": 2515
+},
+{
+"word": "innocence",
+"score": 1109
+},
+{
+"word": "innocent",
+"score": 1952
+},
+{
+"word": "inscribed",
+"score": 3196
+},
+{
+"word": "inscription",
+"score": 1059
+},
+{
+"word": "inscriptions",
+"score": 3994
+},
+{
+"word": "insertion",
+"score": 913
+},
+{
+"word": "insider",
+"score": 4438
+},
+{
+"word": "insight",
+"score": 2243
+},
+{
+"word": "insightful",
+"score": 454
+},
+{
+"word": "insights",
+"score": 2244
+},
+{
+"word": "inskeep",
+"score": 4036
+},
+{
+"word": "insomniac",
+"score": 4146
+},
+{
+"word": "inspiration",
+"score": 2276
+},
+{
+"word": "inspirational",
+"score": 1185
+},
+{
+"word": "inspirations",
+"score": 2275
+},
+{
+"word": "inspire",
+"score": 4221
+},
+{
+"word": "inspired",
+"score": 2818
+},
+{
+"word": "inspiring",
+"score": 2222
+},
+{
+"word": "installation",
+"score": 659
+},
+{
+"word": "installment",
+"score": 661
+},
+{
+"word": "instinct",
+"score": 897
+},
+{
+"word": "instructive",
+"score": 1508
+},
+{
+"word": "insurgency",
+"score": 3263
+},
+{
+"word": "intellectual",
+"score": 706
+},
+{
+"word": "intellectuals",
+"score": 707
+},
+{
+"word": "intentional",
+"score": 3478
+},
+{
+"word": "internet",
+"score": 2490
+},
+{
+"word": "interpretation",
+"score": 164
+},
+{
+"word": "interpreter",
+"score": 3211
+},
+{
+"word": "interview",
+"score": 4079
+},
+{
+"word": "interviewee",
+"score": 1714
+},
+{
+"word": "interviews",
+"score": 4080
+},
+{
+"word": "intestine",
+"score": 4429
+},
+{
+"word": "intimacy",
+"score": 655
+},
+{
+"word": "intimate",
+"score": 977
+},
+{
+"word": "intimates",
+"score": 2900
+},
+{
+"word": "intrigued",
+"score": 2768
+},
+{
+"word": "intriguingly",
+"score": 3923
+},
+{
+"word": "intro",
+"score": 2158
+},
+{
+"word": "introduction",
+"score": 912
+},
+{
+"word": "introductory",
+"score": 1566
+},
+{
+"word": "introspective",
+"score": 4211
+},
+{
+"word": "intuition",
+"score": 1471
+},
+{
+"word": "invented",
+"score": 4325
+},
+{
+"word": "invention",
+"score": 3286
+},
+{
+"word": "invents",
+"score": 3879
+},
+{
+"word": "investing",
+"score": 2655
+},
+{
+"word": "invincible",
+"score": 1413
+},
+{
+"word": "invisible",
+"score": 313
+},
+{
+"word": "ipad",
+"score": 2081
+},
+{
+"word": "iphoto",
+"score": 4456
+},
+{
+"word": "ironies",
+"score": 3015
+},
+{
+"word": "irony",
+"score": 3016
+},
+{
+"word": "irreverent",
+"score": 3906
+},
+{
+"word": "isbn",
+"score": 76
+},
+{
+"word": "issue",
+"score": 166
+},
+{
+"word": "italic",
+"score": 2864
+},
+{
+"word": "italic",
+"score": 2865
+},
+{
+"word": "italics",
+"score": 2863
+},
+{
+"word": "item",
+"score": 2907
+},
+{
+"word": "itil",
+"score": 3924
+},
+{
+"word": "itineraries",
+"score": 1268
+},
+{
+"word": "itinerary",
+"score": 848
+},
+{
+"word": "itself",
+"score": 4330
+},
+{
+"word": "iuniverse",
+"score": 122
+},
+{
+"word": "jack",
+"score": 2705
+},
+{
+"word": "jacket",
+"score": 1879
+},
+{
+"word": "jakes",
+"score": 3457
+},
+{
+"word": "jane",
+"score": 3934
+},
+{
+"word": "jar",
+"score": 1823
+},
+{
+"word": "jargon",
+"score": 4123
+},
+{
+"word": "jargoon",
+"score": 4121
+},
+{
+"word": "jarhead",
+"score": 1917
+},
+{
+"word": "jaswant",
+"score": 1475
+},
+{
+"word": "jelinek",
+"score": 4533
+},
+{
+"word": "jest",
+"score": 764
+},
+{
+"word": "jester",
+"score": 3434
+},
+{
+"word": "jew",
+"score": 3352
+},
+{
+"word": "jewel",
+"score": 2481
+},
+{
+"word": "jewels",
+"score": 2792
+},
+{
+"word": "jewishness",
+"score": 4311
+},
+{
+"word": "jezebel",
+"score": 3329
+},
+{
+"word": "jezebel",
+"score": 3330
+},
+{
+"word": "jinnah",
+"score": 2525
+},
+{
+"word": "jinnah",
+"score": 2526
+},
+{
+"word": "jlitke",
+"score": 3584
+},
+{
+"word": "joanna",
+"score": 4474
+},
+{
+"word": "joke",
+"score": 766
+},
+{
+"word": "jokes",
+"score": 767
+},
+{
+"word": "jokingly",
+"score": 3250
+},
+{
+"word": "jolt",
+"score": 1824
+},
+{
+"word": "jotted",
+"score": 1631
+},
+{
+"word": "jotting",
+"score": 2537
+},
+{
+"word": "journal",
+"score": 87
+},
+{
+"word": "journaling",
+"score": 1134
+},
+{
+"word": "journalist",
+"score": 2103
+},
+{
+"word": "journals",
+"score": 112
+},
+{
+"word": "journey",
+"score": 202
+},
+{
+"word": "journeys",
+"score": 201
+},
+{
+"word": "joy",
+"score": 545
+},
+{
+"word": "joyce",
+"score": 4305
+},
+{
+"word": "joyce",
+"score": 4306
+},
+{
+"word": "judah",
+"score": 1285
+},
+{
+"word": "judas",
+"score": 1283
+},
+{
+"word": "judas",
+"score": 1284
+},
+{
+"word": "jude",
+"score": 1282
+},
+{
+"word": "judgment",
+"score": 673
+},
+{
+"word": "judith",
+"score": 2755
+},
+{
+"word": "judith",
+"score": 2756
+},
+{
+"word": "juicy",
+"score": 4153
+},
+{
+"word": "jump",
+"score": 1341
+},
+{
+"word": "jumpstart",
+"score": 2998
+},
+{
+"word": "jungle",
+"score": 1663
+},
+{
+"word": "junkie",
+"score": 3422
+},
+{
+"word": "jw",
+"score": 4229
+},
+{
+"word": "kabbalah",
+"score": 3160
+},
+{
+"word": "kabbalah",
+"score": 3161
+},
+{
+"word": "kafka",
+"score": 949
+},
+{
+"word": "kafka",
+"score": 950
+},
+{
+"word": "kahlo",
+"score": 3650
+},
+{
+"word": "kampusch",
+"score": 3131
+},
+{
+"word": "kansan",
+"score": 4283
+},
+{
+"word": "kansan",
+"score": 4284
+},
+{
+"word": "karp",
+"score": 3247
+},
+{
+"word": "katharine",
+"score": 3991
+},
+{
+"word": "katyn",
+"score": 2773
+},
+{
+"word": "keats",
+"score": 2197
+},
+{
+"word": "keats",
+"score": 2198
+},
+{
+"word": "keep",
+"score": 3236
+},
+{
+"word": "keeper",
+"score": 3341
+},
+{
+"word": "keepers",
+"score": 3340
+},
+{
+"word": "keepsake",
+"score": 1170
+},
+{
+"word": "keepsakes",
+"score": 3813
+},
+{
+"word": "keillor",
+"score": 2314
+},
+{
+"word": "kelman",
+"score": 2658
+},
+{
+"word": "keneally",
+"score": 1599
+},
+{
+"word": "kennedy",
+"score": 1773
+},
+{
+"word": "kennedys",
+"score": 1774
+},
+{
+"word": "kennison",
+"score": 2791
+},
+{
+"word": "kernel",
+"score": 1962
+},
+{
+"word": "kerouac",
+"score": 179
+},
+{
+"word": "kerouac",
+"score": 180
+},
+{
+"word": "keynes",
+"score": 1324
+},
+{
+"word": "keynes",
+"score": 1325
+},
+{
+"word": "keystone",
+"score": 3814
+},
+{
+"word": "khalidi",
+"score": 4097
+},
+{
+"word": "khomeini",
+"score": 4264
+},
+{
+"word": "khomeini",
+"score": 4265
+},
+{
+"word": "khouri",
+"score": 3977
+},
+{
+"word": "kimono",
+"score": 4464
+},
+{
+"word": "kind",
+"score": 3291
+},
+{
+"word": "kindle",
+"score": 198
+},
+{
+"word": "kindles",
+"score": 246
+},
+{
+"word": "kindling",
+"score": 4184
+},
+{
+"word": "kindness",
+"score": 1355
+},
+{
+"word": "kingdom",
+"score": 3346
+},
+{
+"word": "kinko",
+"score": 3736
+},
+{
+"word": "kinney",
+"score": 4543
+},
+{
+"word": "kinship",
+"score": 2494
+},
+{
+"word": "kiosk",
+"score": 4359
+},
+{
+"word": "kipling",
+"score": 1022
+},
+{
+"word": "kipling",
+"score": 1023
+},
+{
+"word": "kipnis",
+"score": 3642
+},
+{
+"word": "kissing",
+"score": 1387
+},
+{
+"word": "kite",
+"score": 2774
+},
+{
+"word": "kites",
+"score": 2775
+},
+{
+"word": "kitten",
+"score": 2462
+},
+{
+"word": "kitty",
+"score": 2460
+},
+{
+"word": "klosterman",
+"score": 2558
+},
+{
+"word": "knew",
+"score": 931
+},
+{
+"word": "knickknack",
+"score": 3259
+},
+{
+"word": "knickknacks",
+"score": 3258
+},
+{
+"word": "knit",
+"score": 1304
+},
+{
+"word": "knitting",
+"score": 1305
+},
+{
+"word": "knopf",
+"score": 28
+},
+{
+"word": "know",
+"score": 1947
+},
+{
+"word": "knows",
+"score": 1948
+},
+{
+"word": "kobo",
+"score": 478
+},
+{
+"word": "koran",
+"score": 227
+},
+{
+"word": "koran",
+"score": 228
+},
+{
+"word": "korda",
+"score": 4056
+},
+{
+"word": "korda",
+"score": 4057
+},
+{
+"word": "krakauer",
+"score": 712
+},
+{
+"word": "krauthammer",
+"score": 2283
+},
+{
+"word": "kristof",
+"score": 1825
+},
+{
+"word": "kristol",
+"score": 1299
+},
+{
+"word": "krugman",
+"score": 1160
+},
+{
+"word": "kubrick",
+"score": 2369
+},
+{
+"word": "kubrick",
+"score": 2370
+},
+{
+"word": "kuoni",
+"score": 4255
+},
+{
+"word": "kurzweil",
+"score": 2225
+},
+{
+"word": "kushner",
+"score": 3832
+},
+{
+"word": "kwanzaa",
+"score": 2795
+},
+{
+"word": "kwanzaa",
+"score": 2796
+},
+{
+"word": "labute",
+"score": 1167
+},
+{
+"word": "labyrinth",
+"score": 688
+},
+{
+"word": "lahiri",
+"score": 1202
+},
+{
+"word": "landscape",
+"score": 2433
+},
+{
+"word": "landscapes",
+"score": 2434
+},
+{
+"word": "language",
+"score": 3113
+},
+{
+"word": "lap",
+"score": 4404
+},
+{
+"word": "lapham",
+"score": 1657
+},
+{
+"word": "lapine",
+"score": 849
+},
+{
+"word": "laptop",
+"score": 3590
+},
+{
+"word": "larsson",
+"score": 2082
+},
+{
+"word": "latkes",
+"score": 4304
+},
+{
+"word": "laudatory",
+"score": 2279
+},
+{
+"word": "laugh",
+"score": 1651
+},
+{
+"word": "laughing",
+"score": 745
+},
+{
+"word": "laughingly",
+"score": 2385
+},
+{
+"word": "laughter",
+"score": 1650
+},
+{
+"word": "laureate",
+"score": 2603
+},
+{
+"word": "lawyer",
+"score": 4312
+},
+{
+"word": "layer",
+"score": 3533
+},
+{
+"word": "lead",
+"score": 3834
+},
+{
+"word": "leaf",
+"score": 206
+},
+{
+"word": "leafed",
+"score": 1896
+},
+{
+"word": "leafing",
+"score": 805
+},
+{
+"word": "leaflet",
+"score": 580
+},
+{
+"word": "leaflets",
+"score": 3992
+},
+{
+"word": "leap",
+"score": 1342
+},
+{
+"word": "leapfrog",
+"score": 1239
+},
+{
+"word": "learn",
+"score": 4251
+},
+{
+"word": "learned",
+"score": 1808
+},
+{
+"word": "learner",
+"score": 711
+},
+{
+"word": "lecherousness",
+"score": 4075
+},
+{
+"word": "lector",
+"score": 232
+},
+{
+"word": "lecture",
+"score": 196
+},
+{
+"word": "lectured",
+"score": 4198
+},
+{
+"word": "lecturer",
+"score": 3151
+},
+{
+"word": "lectures",
+"score": 633
+},
+{
+"word": "lecturing",
+"score": 2360
+},
+{
+"word": "ledge",
+"score": 1620
+},
+{
+"word": "ledger",
+"score": 1706
+},
+{
+"word": "ledgers",
+"score": 1705
+},
+{
+"word": "legacies",
+"score": 527
+},
+{
+"word": "legacy",
+"score": 2333
+},
+{
+"word": "legend",
+"score": 128
+},
+{
+"word": "legible",
+"score": 3064
+},
+{
+"word": "lehane",
+"score": 1832
+},
+{
+"word": "lemonade",
+"score": 3225
+},
+{
+"word": "lenore",
+"score": 4527
+},
+{
+"word": "lesbianism",
+"score": 3148
+},
+{
+"word": "lessig",
+"score": 3003
+},
+{
+"word": "lessing",
+"score": 558
+},
+{
+"word": "lessing",
+"score": 559
+},
+{
+"word": "lesson",
+"score": 445
+},
+{
+"word": "lessons",
+"score": 444
+},
+{
+"word": "letter",
+"score": 667
+},
+{
+"word": "letters",
+"score": 1288
+},
+{
+"word": "leviathan",
+"score": 4277
+},
+{
+"word": "leviticus",
+"score": 1147
+},
+{
+"word": "leviticus",
+"score": 1148
+},
+{
+"word": "lewinsky",
+"score": 2309
+},
+{
+"word": "lexicon",
+"score": 1252
+},
+{
+"word": "liar",
+"score": 1176
+},
+{
+"word": "liars",
+"score": 1177
+},
+{
+"word": "liberalism",
+"score": 479
+},
+{
+"word": "liberation",
+"score": 4340
+},
+{
+"word": "librarian",
+"score": 363
+},
+{
+"word": "librarians",
+"score": 582
+},
+{
+"word": "libraries",
+"score": 1031
+},
+{
+"word": "library",
+"score": 403
+},
+{
+"word": "librettist",
+"score": 1300
+},
+{
+"word": "libretto",
+"score": 511
+},
+{
+"word": "lie",
+"score": 431
+},
+{
+"word": "lie",
+"score": 433
+},
+{
+"word": "lies",
+"score": 432
+},
+{
+"word": "life",
+"score": 1117
+},
+{
+"word": "lifelong",
+"score": 3317
+},
+{
+"word": "lifetime",
+"score": 3395
+},
+{
+"word": "lighthearted",
+"score": 4082
+},
+{
+"word": "lilith",
+"score": 3667
+},
+{
+"word": "lilith",
+"score": 3668
+},
+{
+"word": "limit",
+"score": 2507
+},
+{
+"word": "lineage",
+"score": 287
+},
+{
+"word": "linguist",
+"score": 2338
+},
+{
+"word": "linguistics",
+"score": 2688
+},
+{
+"word": "lint",
+"score": 4208
+},
+{
+"word": "lipstick",
+"score": 1385
+},
+{
+"word": "list",
+"score": 3109
+},
+{
+"word": "listening",
+"score": 3555
+},
+{
+"word": "lists",
+"score": 3108
+},
+{
+"word": "lit",
+"score": 1569
+},
+{
+"word": "literacy",
+"score": 1750
+},
+{
+"word": "literary",
+"score": 55
+},
+{
+"word": "literate",
+"score": 1805
+},
+{
+"word": "literature",
+"score": 46
+},
+{
+"word": "lithograph",
+"score": 522
+},
+{
+"word": "lithographs",
+"score": 521
+},
+{
+"word": "littell",
+"score": 3709
+},
+{
+"word": "lived",
+"score": 790
+},
+{
+"word": "liveliness",
+"score": 1115
+},
+{
+"word": "lives",
+"score": 1116
+},
+{
+"word": "lizard",
+"score": 4529
+},
+{
+"word": "loathing",
+"score": 1709
+},
+{
+"word": "locomotion",
+"score": 334
+},
+{
+"word": "locus",
+"score": 3476
+},
+{
+"word": "loft",
+"score": 1363
+},
+{
+"word": "log",
+"score": 3430
+},
+{
+"word": "logarithm",
+"score": 3429
+},
+{
+"word": "lolita",
+"score": 622
+},
+{
+"word": "lolita",
+"score": 623
+},
+{
+"word": "loneliness",
+"score": 818
+},
+{
+"word": "lonely",
+"score": 2600
+},
+{
+"word": "longfellow",
+"score": 2386
+},
+{
+"word": "longfellow",
+"score": 2387
+},
+{
+"word": "longhand",
+"score": 137
+},
+{
+"word": "longing",
+"score": 285
+},
+{
+"word": "longman",
+"score": 1441
+},
+{
+"word": "loosely",
+"score": 1146
+},
+{
+"word": "loot",
+"score": 2820
+},
+{
+"word": "lord",
+"score": 4129
+},
+{
+"word": "lore",
+"score": 708
+},
+{
+"word": "loser",
+"score": 4134
+},
+{
+"word": "lost",
+"score": 1687
+},
+{
+"word": "lottery",
+"score": 1126
+},
+{
+"word": "love",
+"score": 970
+},
+{
+"word": "loved",
+"score": 1846
+},
+{
+"word": "lover",
+"score": 1039
+},
+{
+"word": "lovers",
+"score": 1955
+},
+{
+"word": "loves",
+"score": 4286
+},
+{
+"word": "loving",
+"score": 3661
+},
+{
+"word": "lovingly",
+"score": 3809
+},
+{
+"word": "lowdown",
+"score": 2220
+},
+{
+"word": "loyalty",
+"score": 1994
+},
+{
+"word": "lucid",
+"score": 2392
+},
+{
+"word": "luggage",
+"score": 4460
+},
+{
+"word": "luka",
+"score": 3794
+},
+{
+"word": "lull",
+"score": 3274
+},
+{
+"word": "lullaby",
+"score": 743
+},
+{
+"word": "lulu",
+"score": 1373
+},
+{
+"word": "lunacy",
+"score": 2297
+},
+{
+"word": "lunatic",
+"score": 1138
+},
+{
+"word": "lunch",
+"score": 4294
+},
+{
+"word": "lurid",
+"score": 4348
+},
+{
+"word": "lust",
+"score": 4074
+},
+{
+"word": "luster",
+"score": 1461
+},
+{
+"word": "lynne",
+"score": 3926
+},
+{
+"word": "lyric",
+"score": 604
+},
+{
+"word": "lyrical",
+"score": 2855
+},
+{
+"word": "lyrically",
+"score": 1587
+},
+{
+"word": "lyrics",
+"score": 603
+},
+{
+"word": "ma",
+"score": 2947
+},
+{
+"word": "macabre",
+"score": 4105
+},
+{
+"word": "macaulay",
+"score": 3060
+},
+{
+"word": "macaulay",
+"score": 3061
+},
+{
+"word": "macbeth",
+"score": 2571
+},
+{
+"word": "macbeth",
+"score": 2572
+},
+{
+"word": "machiavelli",
+"score": 354
+},
+{
+"word": "machiavelli",
+"score": 355
+},
+{
+"word": "maclean",
+"score": 2470
+},
+{
+"word": "macmillan",
+"score": 494
+},
+{
+"word": "madam",
+"score": 3014
+},
+{
+"word": "madea",
+"score": 3755
+},
+{
+"word": "madman",
+"score": 1137
+},
+{
+"word": "madness",
+"score": 2298
+},
+{
+"word": "mag",
+"score": 1212
+},
+{
+"word": "magazine",
+"score": 237
+},
+{
+"word": "magazines",
+"score": 291
+},
+{
+"word": "magical",
+"score": 1335
+},
+{
+"word": "magician",
+"score": 1401
+},
+{
+"word": "magicians",
+"score": 3728
+},
+{
+"word": "magisterial",
+"score": 772
+},
+{
+"word": "magnificence",
+"score": 1460
+},
+{
+"word": "magnificent",
+"score": 2170
+},
+{
+"word": "mags",
+"score": 1044
+},
+{
+"word": "mahabharata",
+"score": 635
+},
+{
+"word": "mahabharata",
+"score": 636
+},
+{
+"word": "mahatma",
+"score": 1447
+},
+{
+"word": "mahfouz",
+"score": 1120
+},
+{
+"word": "mailbag",
+"score": 3944
+},
+{
+"word": "mailer",
+"score": 300
+},
+{
+"word": "mailer",
+"score": 301
+},
+{
+"word": "maimonides",
+"score": 3623
+},
+{
+"word": "maimonides",
+"score": 3624
+},
+{
+"word": "maine",
+"score": 3948
+},
+{
+"word": "maisie",
+"score": 4027
+},
+{
+"word": "majesco",
+"score": 3025
+},
+{
+"word": "maleficence",
+"score": 1458
+},
+{
+"word": "malouf",
+"score": 2181
+},
+{
+"word": "mamet",
+"score": 2064
+},
+{
+"word": "mamet",
+"score": 2065
+},
+{
+"word": "man",
+"score": 1207
+},
+{
+"word": "mandrake",
+"score": 4355
+},
+{
+"word": "manga",
+"score": 85
+},
+{
+"word": "mania",
+"score": 967
+},
+{
+"word": "manifesto",
+"score": 109
+},
+{
+"word": "manifestos",
+"score": 888
+},
+{
+"word": "manner",
+"score": 2876
+},
+{
+"word": "manners",
+"score": 2875
+},
+{
+"word": "mantel",
+"score": 1932
+},
+{
+"word": "manual",
+"score": 397
+},
+{
+"word": "manuals",
+"score": 396
+},
+{
+"word": "manuscript",
+"score": 17
+},
+{
+"word": "manuscripts",
+"score": 111
+},
+{
+"word": "map",
+"score": 3680
+},
+{
+"word": "mapes",
+"score": 4539
+},
+{
+"word": "maps",
+"score": 4504
+},
+{
+"word": "marable",
+"score": 1504
+},
+{
+"word": "margin",
+"score": 344
+},
+{
+"word": "margot",
+"score": 3988
+},
+{
+"word": "mark",
+"score": 1187
+},
+{
+"word": "marmalade",
+"score": 3396
+},
+{
+"word": "marrs",
+"score": 2984
+},
+{
+"word": "martel",
+"score": 3925
+},
+{
+"word": "martini",
+"score": 3899
+},
+{
+"word": "martyr",
+"score": 3721
+},
+{
+"word": "marvel",
+"score": 1479
+},
+{
+"word": "marvelous",
+"score": 1937
+},
+{
+"word": "marx",
+"score": 1405
+},
+{
+"word": "marx",
+"score": 1406
+},
+{
+"word": "marxism",
+"score": 2156
+},
+{
+"word": "marxism",
+"score": 2157
+},
+{
+"word": "marxist",
+"score": 4297
+},
+{
+"word": "marxist",
+"score": 4298
+},
+{
+"word": "mask",
+"score": 2307
+},
+{
+"word": "masks",
+"score": 2306
+},
+{
+"word": "masquerade",
+"score": 2305
+},
+{
+"word": "master",
+"score": 2123
+},
+{
+"word": "masterful",
+"score": 4117
+},
+{
+"word": "mastering",
+"score": 498
+},
+{
+"word": "masterly",
+"score": 1346
+},
+{
+"word": "mastermind",
+"score": 4377
+},
+{
+"word": "masterpiece",
+"score": 418
+},
+{
+"word": "masterpieces",
+"score": 2101
+},
+{
+"word": "masterwork",
+"score": 181
+},
+{
+"word": "masterworks",
+"score": 3029
+},
+{
+"word": "mastery",
+"score": 4400
+},
+{
+"word": "matchday",
+"score": 2743
+},
+{
+"word": "matchmaker",
+"score": 2478
+},
+{
+"word": "material",
+"score": 1397
+},
+{
+"word": "mathematician",
+"score": 4366
+},
+{
+"word": "matisse",
+"score": 4043
+},
+{
+"word": "matisse",
+"score": 4044
+},
+{
+"word": "matter",
+"score": 1215
+},
+{
+"word": "matters",
+"score": 3561
+},
+{
+"word": "matzo",
+"score": 3575
+},
+{
+"word": "maus",
+"score": 2829
+},
+{
+"word": "mawkishness",
+"score": 4349
+},
+{
+"word": "maxim",
+"score": 2111
+},
+{
+"word": "maxim",
+"score": 2112
+},
+{
+"word": "maze",
+"score": 687
+},
+{
+"word": "mccafferty",
+"score": 3328
+},
+{
+"word": "mccarthyism",
+"score": 2223
+},
+{
+"word": "mccarthyism",
+"score": 2224
+},
+{
+"word": "mccullough",
+"score": 2716
+},
+{
+"word": "mcewan",
+"score": 1244
+},
+{
+"word": "mcginniss",
+"score": 841
+},
+{
+"word": "mckibben",
+"score": 3637
+},
+{
+"word": "mcmurtry",
+"score": 4262
+},
+{
+"word": "mcsweeney",
+"score": 2323
+},
+{
+"word": "me",
+"score": 3949
+},
+{
+"word": "meal",
+"score": 3594
+},
+{
+"word": "meaning",
+"score": 263
+},
+{
+"word": "mearsheimer",
+"score": 1144
+},
+{
+"word": "measure",
+"score": 3985
+},
+{
+"word": "medieval",
+"score": 4008
+},
+{
+"word": "meditate",
+"score": 3486
+},
+{
+"word": "meditating",
+"score": 3759
+},
+{
+"word": "meditation",
+"score": 1015
+},
+{
+"word": "meditations",
+"score": 1014
+},
+{
+"word": "medley",
+"score": 2162
+},
+{
+"word": "meed",
+"score": 3411
+},
+{
+"word": "meeting",
+"score": 1320
+},
+{
+"word": "melancholic",
+"score": 3235
+},
+{
+"word": "melodrama",
+"score": 4193
+},
+{
+"word": "meltdown",
+"score": 2801
+},
+{
+"word": "meltzer",
+"score": 2873
+},
+{
+"word": "melville",
+"score": 3331
+},
+{
+"word": "melville",
+"score": 3332
+},
+{
+"word": "memento",
+"score": 1171
+},
+{
+"word": "mementoes",
+"score": 3616
+},
+{
+"word": "mementos",
+"score": 3344
+},
+{
+"word": "memo",
+"score": 1136
+},
+{
+"word": "memoir",
+"score": 2
+},
+{
+"word": "memoirs",
+"score": 4
+},
+{
+"word": "memorabilia",
+"score": 1124
+},
+{
+"word": "memorable",
+"score": 3453
+},
+{
+"word": "memoranda",
+"score": 3475
+},
+{
+"word": "memorandum",
+"score": 2039
+},
+{
+"word": "memorandums",
+"score": 3805
+},
+{
+"word": "memories",
+"score": 783
+},
+{
+"word": "memorization",
+"score": 3307
+},
+{
+"word": "memorize",
+"score": 1389
+},
+{
+"word": "memorized",
+"score": 1336
+},
+{
+"word": "memorizing",
+"score": 1589
+},
+{
+"word": "memory",
+"score": 782
+},
+{
+"word": "memos",
+"score": 1843
+},
+{
+"word": "menace",
+"score": 3735
+},
+{
+"word": "menopause",
+"score": 2273
+},
+{
+"word": "mentalist",
+"score": 3460
+},
+{
+"word": "mention",
+"score": 4230
+},
+{
+"word": "mentions",
+"score": 4408
+},
+{
+"word": "menu",
+"score": 1885
+},
+{
+"word": "merch",
+"score": 3781
+},
+{
+"word": "merchandise",
+"score": 2092
+},
+{
+"word": "merrill",
+"score": 3739
+},
+{
+"word": "merry",
+"score": 4335
+},
+{
+"word": "mesa",
+"score": 4496
+},
+{
+"word": "metamorphosis",
+"score": 329
+},
+{
+"word": "metaphor",
+"score": 1481
+},
+{
+"word": "metaphorically",
+"score": 4214
+},
+{
+"word": "metaphors",
+"score": 1482
+},
+{
+"word": "metaphysical",
+"score": 1218
+},
+{
+"word": "metaphysics",
+"score": 727
+},
+{
+"word": "metempsychosis",
+"score": 3154
+},
+{
+"word": "meter",
+"score": 2096
+},
+{
+"word": "michener",
+"score": 2377
+},
+{
+"word": "michener",
+"score": 2378
+},
+{
+"word": "microfilm",
+"score": 3216
+},
+{
+"word": "midnight",
+"score": 3703
+},
+{
+"word": "milestone",
+"score": 3031
+},
+{
+"word": "milestones",
+"score": 3030
+},
+{
+"word": "milieu",
+"score": 3871
+},
+{
+"word": "millionaire",
+"score": 3468
+},
+{
+"word": "millionaires",
+"score": 3469
+},
+{
+"word": "mind",
+"score": 672
+},
+{
+"word": "mindfulness",
+"score": 3585
+},
+{
+"word": "minds",
+"score": 1266
+},
+{
+"word": "miniature",
+"score": 2420
+},
+{
+"word": "miniatures",
+"score": 2419
+},
+{
+"word": "miniseries",
+"score": 371
+},
+{
+"word": "minotaur",
+"score": 2733
+},
+{
+"word": "minotaur",
+"score": 2734
+},
+{
+"word": "minsky",
+"score": 3136
+},
+{
+"word": "minute",
+"score": 3280
+},
+{
+"word": "miracle",
+"score": 1930
+},
+{
+"word": "miracles",
+"score": 1931
+},
+{
+"word": "miramax",
+"score": 2737
+},
+{
+"word": "mirror",
+"score": 2841
+},
+{
+"word": "mirrors",
+"score": 2842
+},
+{
+"word": "misadventures",
+"score": 2456
+},
+{
+"word": "mischief",
+"score": 1457
+},
+{
+"word": "misery",
+"score": 1749
+},
+{
+"word": "misfit",
+"score": 2396
+},
+{
+"word": "misfits",
+"score": 2395
+},
+{
+"word": "mishap",
+"score": 2455
+},
+{
+"word": "misogyny",
+"score": 3229
+},
+{
+"word": "misprint",
+"score": 3412
+},
+{
+"word": "misquoted",
+"score": 4479
+},
+{
+"word": "misrepresentation",
+"score": 238
+},
+{
+"word": "missive",
+"score": 666
+},
+{
+"word": "missives",
+"score": 731
+},
+{
+"word": "mist",
+"score": 3792
+},
+{
+"word": "mistress",
+"score": 2277
+},
+{
+"word": "mitterrand",
+"score": 2025
+},
+{
+"word": "mitterrand",
+"score": 2026
+},
+{
+"word": "mixtape",
+"score": 2554
+},
+{
+"word": "mockingbird",
+"score": 686
+},
+{
+"word": "mockumentary",
+"score": 2379
+},
+{
+"word": "modern",
+"score": 2720
+},
+{
+"word": "modernism",
+"score": 1851
+},
+{
+"word": "modernist",
+"score": 4170
+},
+{
+"word": "modernity",
+"score": 1850
+},
+{
+"word": "mohican",
+"score": 2381
+},
+{
+"word": "mohicans",
+"score": 2382
+},
+{
+"word": "molding",
+"score": 345
+},
+{
+"word": "moliere",
+"score": 3431
+},
+{
+"word": "moliere",
+"score": 3432
+},
+{
+"word": "mom",
+"score": 4067
+},
+{
+"word": "moment",
+"score": 1150
+},
+{
+"word": "momentum",
+"score": 3049
+},
+{
+"word": "momma",
+"score": 4436
+},
+{
+"word": "mommy",
+"score": 2946
+},
+{
+"word": "moneyball",
+"score": 141
+},
+{
+"word": "monkey",
+"score": 4352
+},
+{
+"word": "monograph",
+"score": 37
+},
+{
+"word": "monologue",
+"score": 502
+},
+{
+"word": "monologues",
+"score": 670
+},
+{
+"word": "monopoly",
+"score": 4465
+},
+{
+"word": "monopoly",
+"score": 4466
+},
+{
+"word": "monster",
+"score": 3676
+},
+{
+"word": "monthly",
+"score": 3767
+},
+{
+"word": "moonlight",
+"score": 4432
+},
+{
+"word": "moonwalk",
+"score": 1781
+},
+{
+"word": "moral",
+"score": 446
+},
+{
+"word": "morality",
+"score": 1666
+},
+{
+"word": "moralizing",
+"score": 2110
+},
+{
+"word": "morbid",
+"score": 3693
+},
+{
+"word": "mormon",
+"score": 2749
+},
+{
+"word": "mormon",
+"score": 2750
+},
+{
+"word": "mormonism",
+"score": 1600
+},
+{
+"word": "mormonism",
+"score": 1601
+},
+{
+"word": "morning",
+"score": 4511
+},
+{
+"word": "mornings",
+"score": 4509
+},
+{
+"word": "morrie",
+"score": 825
+},
+{
+"word": "morsel",
+"score": 3167
+},
+{
+"word": "mortenson",
+"score": 1881
+},
+{
+"word": "moth",
+"score": 4108
+},
+{
+"word": "mother",
+"score": 2798
+},
+{
+"word": "motherhood",
+"score": 1748
+},
+{
+"word": "mothering",
+"score": 4525
+},
+{
+"word": "motivation",
+"score": 4220
+},
+{
+"word": "motivational",
+"score": 1496
+},
+{
+"word": "mountebank",
+"score": 4410
+},
+{
+"word": "mouth",
+"score": 4177
+},
+{
+"word": "mouthpiece",
+"score": 4176
+},
+{
+"word": "mouthwatering",
+"score": 4166
+},
+{
+"word": "movie",
+"score": 405
+},
+{
+"word": "moviemaker",
+"score": 4507
+},
+{
+"word": "movies",
+"score": 2789
+},
+{
+"word": "movingly",
+"score": 776
+},
+{
+"word": "moyers",
+"score": 1738
+},
+{
+"word": "mug",
+"score": 3373
+},
+{
+"word": "mugs",
+"score": 3374
+},
+{
+"word": "multigenerational",
+"score": 4276
+},
+{
+"word": "multimillion",
+"score": 3688
+},
+{
+"word": "mumia",
+"score": 2058
+},
+{
+"word": "mummy",
+"score": 3036
+},
+{
+"word": "murakami",
+"score": 3145
+},
+{
+"word": "mural",
+"score": 2934
+},
+{
+"word": "murals",
+"score": 3765
+},
+{
+"word": "murder",
+"score": 1753
+},
+{
+"word": "murderer",
+"score": 1893
+},
+{
+"word": "murderers",
+"score": 4180
+},
+{
+"word": "murders",
+"score": 2675
+},
+{
+"word": "mus",
+"score": 1964
+},
+{
+"word": "muse",
+"score": 1963
+},
+{
+"word": "muse",
+"score": 1966
+},
+{
+"word": "muses",
+"score": 1965
+},
+{
+"word": "museum",
+"score": 1864
+},
+{
+"word": "museums",
+"score": 4042
+},
+{
+"word": "mushroom",
+"score": 2989
+},
+{
+"word": "mushrooms",
+"score": 2988
+},
+{
+"word": "musical",
+"score": 3168
+},
+{
+"word": "musicals",
+"score": 3169
+},
+{
+"word": "musicologist",
+"score": 2019
+},
+{
+"word": "musings",
+"score": 1339
+},
+{
+"word": "musty",
+"score": 3659
+},
+{
+"word": "muteness",
+"score": 1179
+},
+{
+"word": "mutiny",
+"score": 3378
+},
+{
+"word": "myself",
+"score": 1340
+},
+{
+"word": "myst",
+"score": 2840
+},
+{
+"word": "mysteries",
+"score": 184
+},
+{
+"word": "mysterious",
+"score": 2955
+},
+{
+"word": "mystery",
+"score": 185
+},
+{
+"word": "mystic",
+"score": 3129
+},
+{
+"word": "mystical",
+"score": 3551
+},
+{
+"word": "mysticism",
+"score": 1674
+},
+{
+"word": "mystics",
+"score": 3130
+},
+{
+"word": "myth",
+"score": 320
+},
+{
+"word": "mythic",
+"score": 4238
+},
+{
+"word": "mythology",
+"score": 862
+},
+{
+"word": "mythos",
+"score": 4274
+},
+{
+"word": "myths",
+"score": 331
+},
+{
+"word": "nabokov",
+"score": 1699
+},
+{
+"word": "nabokov",
+"score": 1700
+},
+{
+"word": "naked",
+"score": 548
+},
+{
+"word": "name",
+"score": 4392
+},
+{
+"word": "namesake",
+"score": 863
+},
+{
+"word": "nanjing",
+"score": 2556
+},
+{
+"word": "nanking",
+"score": 2555
+},
+{
+"word": "napkin",
+"score": 1382
+},
+{
+"word": "napkins",
+"score": 1381
+},
+{
+"word": "narcissism",
+"score": 3252
+},
+{
+"word": "narcissist",
+"score": 2943
+},
+{
+"word": "narnia",
+"score": 2221
+},
+{
+"word": "narrate",
+"score": 1158
+},
+{
+"word": "narrated",
+"score": 872
+},
+{
+"word": "narrates",
+"score": 964
+},
+{
+"word": "narrating",
+"score": 3854
+},
+{
+"word": "narration",
+"score": 788
+},
+{
+"word": "narrative",
+"score": 117
+},
+{
+"word": "narratives",
+"score": 321
+},
+{
+"word": "narrator",
+"score": 369
+},
+{
+"word": "narrators",
+"score": 1572
+},
+{
+"word": "naruto",
+"score": 3621
+},
+{
+"word": "nasreen",
+"score": 3233
+},
+{
+"word": "nationalism",
+"score": 1074
+},
+{
+"word": "naturalism",
+"score": 1491
+},
+{
+"word": "naturalist",
+"score": 861
+},
+{
+"word": "nature",
+"score": 2216
+},
+{
+"word": "nazism",
+"score": 3774
+},
+{
+"word": "nazism",
+"score": 3775
+},
+{
+"word": "necessity",
+"score": 2612
+},
+{
+"word": "necklace",
+"score": 2567
+},
+{
+"word": "needlepoint",
+"score": 1399
+},
+{
+"word": "needlework",
+"score": 3197
+},
+{
+"word": "negotiation",
+"score": 2763
+},
+{
+"word": "negroes",
+"score": 2061
+},
+{
+"word": "nejm",
+"score": 3572
+},
+{
+"word": "nell",
+"score": 3800
+},
+{
+"word": "nemesis",
+"score": 675
+},
+{
+"word": "nemesis",
+"score": 676
+},
+{
+"word": "neocons",
+"score": 4446
+},
+{
+"word": "neoconservative",
+"score": 4445
+},
+{
+"word": "nerd",
+"score": 1418
+},
+{
+"word": "nesbit",
+"score": 2233
+},
+{
+"word": "netherland",
+"score": 3445
+},
+{
+"word": "neuberger",
+"score": 3803
+},
+{
+"word": "newbery",
+"score": 566
+},
+{
+"word": "news",
+"score": 611
+},
+{
+"word": "newsagent",
+"score": 1936
+},
+{
+"word": "newsagents",
+"score": 2228
+},
+{
+"word": "newsletter",
+"score": 484
+},
+{
+"word": "newsletters",
+"score": 2528
+},
+{
+"word": "newspaper",
+"score": 215
+},
+{
+"word": "newspaperman",
+"score": 1106
+},
+{
+"word": "newspapers",
+"score": 2093
+},
+{
+"word": "newsstand",
+"score": 415
+},
+{
+"word": "newsstands",
+"score": 757
+},
+{
+"word": "newsweek",
+"score": 486
+},
+{
+"word": "niche",
+"score": 3100
+},
+{
+"word": "nicolson",
+"score": 2831
+},
+{
+"word": "nicolson",
+"score": 2832
+},
+{
+"word": "nie",
+"score": 1998
+},
+{
+"word": "nietzsche",
+"score": 269
+},
+{
+"word": "nietzsche",
+"score": 270
+},
+{
+"word": "nifty",
+"score": 3699
+},
+{
+"word": "night",
+"score": 2013
+},
+{
+"word": "nightmare",
+"score": 1568
+},
+{
+"word": "nightmares",
+"score": 1567
+},
+{
+"word": "nights",
+"score": 2012
+},
+{
+"word": "nightstand",
+"score": 937
+},
+{
+"word": "nintendogs",
+"score": 3895
+},
+{
+"word": "nirvana",
+"score": 2003
+},
+{
+"word": "niven",
+"score": 3040
+},
+{
+"word": "nlp",
+"score": 2671
+},
+{
+"word": "noble",
+"score": 4130
+},
+{
+"word": "noddy",
+"score": 1046
+},
+{
+"word": "noir",
+"score": 720
+},
+{
+"word": "nonfiction",
+"score": 11
+},
+{
+"word": "nonsense",
+"score": 1056
+},
+{
+"word": "nook",
+"score": 401
+},
+{
+"word": "nostalgia",
+"score": 2833
+},
+{
+"word": "nostradamus",
+"score": 810
+},
+{
+"word": "nostradamus",
+"score": 811
+},
+{
+"word": "not",
+"score": 3597
+},
+{
+"word": "notation",
+"score": 2347
+},
+{
+"word": "notations",
+"score": 2346
+},
+{
+"word": "note",
+"score": 1002
+},
+{
+"word": "notepad",
+"score": 794
+},
+{
+"word": "notepads",
+"score": 2288
+},
+{
+"word": "notes",
+"score": 1840
+},
+{
+"word": "notice",
+"score": 3891
+},
+{
+"word": "notion",
+"score": 2877
+},
+{
+"word": "notorious",
+"score": 3734
+},
+{
+"word": "novel",
+"score": 6
+},
+{
+"word": "novelette",
+"score": 14
+},
+{
+"word": "novelist",
+"score": 30
+},
+{
+"word": "novelists",
+"score": 56
+},
+{
+"word": "novella",
+"score": 15
+},
+{
+"word": "novels",
+"score": 7
+},
+{
+"word": "novice",
+"score": 2997
+},
+{
+"word": "nox",
+"score": 2014
+},
+{
+"word": "nuance",
+"score": 1941
+},
+{
+"word": "nude",
+"score": 3111
+},
+{
+"word": "nugget",
+"score": 3490
+},
+{
+"word": "nuggets",
+"score": 3903
+},
+{
+"word": "numerology",
+"score": 2691
+},
+{
+"word": "nutshell",
+"score": 2913
+},
+{
+"word": "nyt",
+"score": 1410
+},
+{
+"word": "nytimes",
+"score": 1338
+},
+{
+"word": "obit",
+"score": 323
+},
+{
+"word": "obituaries",
+"score": 1157
+},
+{
+"word": "obituary",
+"score": 324
+},
+{
+"word": "obliquely",
+"score": 3118
+},
+{
+"word": "oblivion",
+"score": 3514
+},
+{
+"word": "obliviousness",
+"score": 3513
+},
+{
+"word": "obo",
+"score": 4099
+},
+{
+"word": "obscenity",
+"score": 4017
+},
+{
+"word": "observation",
+"score": 195
+},
+{
+"word": "observations",
+"score": 3890
+},
+{
+"word": "observer",
+"score": 3443
+},
+{
+"word": "obsessed",
+"score": 1214
+},
+{
+"word": "obsession",
+"score": 373
+},
+{
+"word": "obsessive",
+"score": 1990
+},
+{
+"word": "obsessively",
+"score": 2304
+},
+{
+"word": "occult",
+"score": 3990
+},
+{
+"word": "octavia",
+"score": 2885
+},
+{
+"word": "odds",
+"score": 3784
+},
+{
+"word": "oddsmakers",
+"score": 3606
+},
+{
+"word": "ode",
+"score": 1611
+},
+{
+"word": "odes",
+"score": 2599
+},
+{
+"word": "odyssey",
+"score": 4147
+},
+{
+"word": "odyssey",
+"score": 4148
+},
+{
+"word": "oeuvre",
+"score": 280
+},
+{
+"word": "offprint",
+"score": 96
+},
+{
+"word": "oher",
+"score": 2690
+},
+{
+"word": "oj",
+"score": 3326
+},
+{
+"word": "old-timer",
+"score": 2031
+},
+{
+"word": "onebeacon",
+"score": 3664
+},
+{
+"word": "online",
+"score": 3916
+},
+{
+"word": "onward",
+"score": 4218
+},
+{
+"word": "opera",
+"score": 4011
+},
+{
+"word": "opera",
+"score": 4012
+},
+{
+"word": "operas",
+"score": 4010
+},
+{
+"word": "opinion",
+"score": 1518
+},
+{
+"word": "oprah",
+"score": 449
+},
+{
+"word": "optimistically",
+"score": 3905
+},
+{
+"word": "opus",
+"score": 133
+},
+{
+"word": "oration",
+"score": 4106
+},
+{
+"word": "oratorio",
+"score": 1645
+},
+{
+"word": "oratory",
+"score": 4435
+},
+{
+"word": "orbis",
+"score": 3377
+},
+{
+"word": "orbitz",
+"score": 3917
+},
+{
+"word": "orchid",
+"score": 1685
+},
+{
+"word": "orchids",
+"score": 1686
+},
+{
+"word": "ordeal",
+"score": 2741
+},
+{
+"word": "order",
+"score": 3913
+},
+{
+"word": "ordering",
+"score": 3914
+},
+{
+"word": "orderliness",
+"score": 3911
+},
+{
+"word": "origami",
+"score": 2659
+},
+{
+"word": "origin",
+"score": 289
+},
+{
+"word": "original",
+"score": 2124
+},
+{
+"word": "originals",
+"score": 2125
+},
+{
+"word": "originator",
+"score": 4376
+},
+{
+"word": "origins",
+"score": 288
+},
+{
+"word": "oriya",
+"score": 3842
+},
+{
+"word": "oriya",
+"score": 3843
+},
+{
+"word": "orman",
+"score": 4379
+},
+{
+"word": "ornament",
+"score": 2229
+},
+{
+"word": "orwell",
+"score": 361
+},
+{
+"word": "orwell",
+"score": 362
+},
+{
+"word": "ours",
+"score": 3321
+},
+{
+"word": "ourselves",
+"score": 510
+},
+{
+"word": "outhouse",
+"score": 3456
+},
+{
+"word": "outing",
+"score": 1811
+},
+{
+"word": "outlander",
+"score": 2005
+},
+{
+"word": "outline",
+"score": 552
+},
+{
+"word": "outsider",
+"score": 419
+},
+{
+"word": "outsiders",
+"score": 3219
+},
+{
+"word": "overdrive",
+"score": 1767
+},
+{
+"word": "overhearing",
+"score": 2163
+},
+{
+"word": "overlong",
+"score": 2118
+},
+{
+"word": "overlook",
+"score": 3900
+},
+{
+"word": "overture",
+"score": 2957
+},
+{
+"word": "ovid",
+"score": 3288
+},
+{
+"word": "ovid",
+"score": 3289
+},
+{
+"word": "own",
+"score": 1973
+},
+{
+"word": "oz",
+"score": 3164
+},
+{
+"word": "pachter",
+"score": 2448
+},
+{
+"word": "pad",
+"score": 2209
+},
+{
+"word": "paean",
+"score": 628
+},
+{
+"word": "page",
+"score": 224
+},
+{
+"word": "page",
+"score": 225
+},
+{
+"word": "paged",
+"score": 898
+},
+{
+"word": "pages",
+"score": 226
+},
+{
+"word": "pagination",
+"score": 205
+},
+{
+"word": "paging",
+"score": 3485
+},
+{
+"word": "painted",
+"score": 3315
+},
+{
+"word": "painting",
+"score": 822
+},
+{
+"word": "paintings",
+"score": 821
+},
+{
+"word": "pale",
+"score": 2497
+},
+{
+"word": "paleontologist",
+"score": 4534
+},
+{
+"word": "palette",
+"score": 2440
+},
+{
+"word": "palin",
+"score": 2939
+},
+{
+"word": "pallette",
+"score": 2439
+},
+{
+"word": "palm",
+"score": 3314
+},
+{
+"word": "pamphlet",
+"score": 39
+},
+{
+"word": "pamphlets",
+"score": 358
+},
+{
+"word": "pamuk",
+"score": 537
+},
+{
+"word": "pancake",
+"score": 1679
+},
+{
+"word": "pandas",
+"score": 4391
+},
+{
+"word": "panic",
+"score": 2076
+},
+{
+"word": "panini",
+"score": 3539
+},
+{
+"word": "panini",
+"score": 3540
+},
+{
+"word": "panorama",
+"score": 4450
+},
+{
+"word": "pant",
+"score": 4024
+},
+{
+"word": "pantheon",
+"score": 1525
+},
+{
+"word": "pants",
+"score": 4022
+},
+{
+"word": "paolini",
+"score": 577
+},
+{
+"word": "paper",
+"score": 216
+},
+{
+"word": "paperback",
+"score": 5
+},
+{
+"word": "paperbacks",
+"score": 38
+},
+{
+"word": "papers",
+"score": 464
+},
+{
+"word": "parable",
+"score": 488
+},
+{
+"word": "parables",
+"score": 1081
+},
+{
+"word": "paradise",
+"score": 1739
+},
+{
+"word": "paradise",
+"score": 1740
+},
+{
+"word": "paradox",
+"score": 461
+},
+{
+"word": "paradoxes",
+"score": 1462
+},
+{
+"word": "paradoxically",
+"score": 3810
+},
+{
+"word": "paragon",
+"score": 2799
+},
+{
+"word": "paragraph",
+"score": 625
+},
+{
+"word": "paragraphs",
+"score": 624
+},
+{
+"word": "parallelism",
+"score": 1726
+},
+{
+"word": "paranormal",
+"score": 3144
+},
+{
+"word": "paraphrase",
+"score": 1586
+},
+{
+"word": "paraphrased",
+"score": 3592
+},
+{
+"word": "paraphrasing",
+"score": 1439
+},
+{
+"word": "parchment",
+"score": 878
+},
+{
+"word": "pardon",
+"score": 4269
+},
+{
+"word": "pardons",
+"score": 4270
+},
+{
+"word": "parenting",
+"score": 1613
+},
+{
+"word": "parlor",
+"score": 2987
+},
+{
+"word": "parody",
+"score": 4049
+},
+{
+"word": "parole",
+"score": 608
+},
+{
+"word": "parrot",
+"score": 4538
+},
+{
+"word": "part",
+"score": 1206
+},
+{
+"word": "parter",
+"score": 744
+},
+{
+"word": "particularization",
+"score": 2650
+},
+{
+"word": "parting",
+"score": 1608
+},
+{
+"word": "parturiency",
+"score": 3529
+},
+{
+"word": "passage",
+"score": 93
+},
+{
+"word": "passages",
+"score": 92
+},
+{
+"word": "passing",
+"score": 91
+},
+{
+"word": "passion",
+"score": 965
+},
+{
+"word": "passion",
+"score": 968
+},
+{
+"word": "passionate",
+"score": 1045
+},
+{
+"word": "passover",
+"score": 4482
+},
+{
+"word": "passover",
+"score": 4483
+},
+{
+"word": "password",
+"score": 613
+},
+{
+"word": "pasternak",
+"score": 4095
+},
+{
+"word": "pasternak",
+"score": 4096
+},
+{
+"word": "pastiche",
+"score": 2161
+},
+{
+"word": "pastime",
+"score": 1143
+},
+{
+"word": "patchett",
+"score": 2604
+},
+{
+"word": "path",
+"score": 847
+},
+{
+"word": "paths",
+"score": 2559
+},
+{
+"word": "patriotism",
+"score": 1073
+},
+{
+"word": "pattern",
+"score": 3847
+},
+{
+"word": "patterns",
+"score": 3846
+},
+{
+"word": "pattinson",
+"score": 4356
+},
+{
+"word": "patty",
+"score": 1723
+},
+{
+"word": "pausch",
+"score": 2074
+},
+{
+"word": "payback",
+"score": 3640
+},
+{
+"word": "pb",
+"score": 3835
+},
+{
+"word": "pbs",
+"score": 4327
+},
+{
+"word": "pdf",
+"score": 3708
+},
+{
+"word": "peanut",
+"score": 2935
+},
+{
+"word": "peanuts",
+"score": 2936
+},
+{
+"word": "pearl",
+"score": 2757
+},
+{
+"word": "pearls",
+"score": 2760
+},
+{
+"word": "pedagogical",
+"score": 4151
+},
+{
+"word": "pedant",
+"score": 342
+},
+{
+"word": "pedantic",
+"score": 2862
+},
+{
+"word": "pekar",
+"score": 1772
+},
+{
+"word": "pen",
+"score": 748
+},
+{
+"word": "pencil",
+"score": 1135
+},
+{
+"word": "penciling",
+"score": 4278
+},
+{
+"word": "pencils",
+"score": 4451
+},
+{
+"word": "penetration",
+"score": 2242
+},
+{
+"word": "penguin",
+"score": 69
+},
+{
+"word": "penitentiary",
+"score": 747
+},
+{
+"word": "penmanship",
+"score": 2237
+},
+{
+"word": "penned",
+"score": 357
+},
+{
+"word": "penning",
+"score": 759
+},
+{
+"word": "pennywhistle",
+"score": 1782
+},
+{
+"word": "pens",
+"score": 1779
+},
+{
+"word": "perceptive",
+"score": 638
+},
+{
+"word": "perdition",
+"score": 1648
+},
+{
+"word": "perfect",
+"score": 1502
+},
+{
+"word": "perfection",
+"score": 2800
+},
+{
+"word": "perfective",
+"score": 1503
+},
+{
+"word": "perfume",
+"score": 994
+},
+{
+"word": "perfumes",
+"score": 3692
+},
+{
+"word": "peril",
+"score": 880
+},
+{
+"word": "perils",
+"score": 574
+},
+{
+"word": "periodical",
+"score": 177
+},
+{
+"word": "periodicals",
+"score": 447
+},
+{
+"word": "persecution",
+"score": 1527
+},
+{
+"word": "persepolis",
+"score": 3018
+},
+{
+"word": "persepolis",
+"score": 3019
+},
+{
+"word": "persimmon",
+"score": 3802
+},
+{
+"word": "person",
+"score": 1544
+},
+{
+"word": "personal",
+"score": 3184
+},
+{
+"word": "perspective",
+"score": 652
+},
+{
+"word": "perspectives",
+"score": 1777
+},
+{
+"word": "persuasively",
+"score": 2119
+},
+{
+"word": "peruse",
+"score": 2410
+},
+{
+"word": "perused",
+"score": 4156
+},
+{
+"word": "perversely",
+"score": 3272
+},
+{
+"word": "perversity",
+"score": 2340
+},
+{
+"word": "petabit",
+"score": 3836
+},
+{
+"word": "petabyte",
+"score": 3837
+},
+{
+"word": "phenomenal",
+"score": 4086
+},
+{
+"word": "phenomenon",
+"score": 560
+},
+{
+"word": "philbrick",
+"score": 814
+},
+{
+"word": "philosopher",
+"score": 499
+},
+{
+"word": "philosophers",
+"score": 1550
+},
+{
+"word": "philosophical",
+"score": 4248
+},
+{
+"word": "philosophy",
+"score": 437
+},
+{
+"word": "phonics",
+"score": 3338
+},
+{
+"word": "photocopied",
+"score": 979
+},
+{
+"word": "photocopies",
+"score": 1489
+},
+{
+"word": "photocopy",
+"score": 1114
+},
+{
+"word": "photocopying",
+"score": 3053
+},
+{
+"word": "photograph",
+"score": 1391
+},
+{
+"word": "photographer",
+"score": 4250
+},
+{
+"word": "photographic",
+"score": 2136
+},
+{
+"word": "photographs",
+"score": 1390
+},
+{
+"word": "photography",
+"score": 2048
+},
+{
+"word": "phrase",
+"score": 2846
+},
+{
+"word": "physiology",
+"score": 3035
+},
+{
+"word": "piano",
+"score": 4354
+},
+{
+"word": "picasso",
+"score": 1541
+},
+{
+"word": "picasso",
+"score": 1542
+},
+{
+"word": "picket",
+"score": 2498
+},
+{
+"word": "pickup",
+"score": 3215
+},
+{
+"word": "pictorial",
+"score": 257
+},
+{
+"word": "picture",
+"score": 3952
+},
+{
+"word": "pie",
+"score": 3122
+},
+{
+"word": "piece",
+"score": 1209
+},
+{
+"word": "pieces",
+"score": 3316
+},
+{
+"word": "pies",
+"score": 3121
+},
+{
+"word": "pietsch",
+"score": 853
+},
+{
+"word": "pig",
+"score": 2644
+},
+{
+"word": "pilgrimage",
+"score": 732
+},
+{
+"word": "pill",
+"score": 2211
+},
+{
+"word": "pillar",
+"score": 1121
+},
+{
+"word": "pillars",
+"score": 1122
+},
+{
+"word": "pinney",
+"score": 3950
+},
+{
+"word": "pinter",
+"score": 1292
+},
+{
+"word": "pinter",
+"score": 1293
+},
+{
+"word": "pithy",
+"score": 1412
+},
+{
+"word": "place",
+"score": 2052
+},
+{
+"word": "placemats",
+"score": 1844
+},
+{
+"word": "places",
+"score": 2049
+},
+{
+"word": "plagiarism",
+"score": 1241
+},
+{
+"word": "plagiarized",
+"score": 1286
+},
+{
+"word": "plagiarizing",
+"score": 2293
+},
+{
+"word": "plague",
+"score": 1426
+},
+{
+"word": "plainspoken",
+"score": 3776
+},
+{
+"word": "plane",
+"score": 4191
+},
+{
+"word": "planetary",
+"score": 3764
+},
+{
+"word": "plath",
+"score": 470
+},
+{
+"word": "plath",
+"score": 471
+},
+{
+"word": "platitude",
+"score": 3966
+},
+{
+"word": "platonism",
+"score": 1490
+},
+{
+"word": "play",
+"score": 2986
+},
+{
+"word": "playbill",
+"score": 2311
+},
+{
+"word": "playboy",
+"score": 3922
+},
+{
+"word": "playgirl",
+"score": 2608
+},
+{
+"word": "playpen",
+"score": 746
+},
+{
+"word": "playwright",
+"score": 481
+},
+{
+"word": "playwrights",
+"score": 2574
+},
+{
+"word": "playwriting",
+"score": 1047
+},
+{
+"word": "plaza",
+"score": 2051
+},
+{
+"word": "pleasurable",
+"score": 3831
+},
+{
+"word": "pleasure",
+"score": 546
+},
+{
+"word": "pleasures",
+"score": 547
+},
+{
+"word": "plimpton",
+"score": 554
+},
+{
+"word": "plot",
+"score": 1652
+},
+{
+"word": "plotline",
+"score": 1278
+},
+{
+"word": "plotlines",
+"score": 2781
+},
+{
+"word": "plume",
+"score": 4175
+},
+{
+"word": "pocket",
+"score": 2320
+},
+{
+"word": "pod",
+"score": 4254
+},
+{
+"word": "podcast",
+"score": 1006
+},
+{
+"word": "podcasts",
+"score": 2614
+},
+{
+"word": "poem",
+"score": 31
+},
+{
+"word": "poems",
+"score": 33
+},
+{
+"word": "poet",
+"score": 186
+},
+{
+"word": "poetic",
+"score": 583
+},
+{
+"word": "poetically",
+"score": 1156
+},
+{
+"word": "poetry",
+"score": 45
+},
+{
+"word": "poets",
+"score": 349
+},
+{
+"word": "poignant",
+"score": 1957
+},
+{
+"word": "poignantly",
+"score": 2519
+},
+{
+"word": "polemic",
+"score": 143
+},
+{
+"word": "polemical",
+"score": 807
+},
+{
+"word": "polemicist",
+"score": 144
+},
+{
+"word": "polemics",
+"score": 1409
+},
+{
+"word": "polish",
+"score": 2145
+},
+{
+"word": "politeness",
+"score": 1228
+},
+{
+"word": "politician",
+"score": 581
+},
+{
+"word": "politics",
+"score": 3608
+},
+{
+"word": "pollan",
+"score": 317
+},
+{
+"word": "pomegranate",
+"score": 4261
+},
+{
+"word": "pool",
+"score": 2461
+},
+{
+"word": "poppies",
+"score": 1308
+},
+{
+"word": "poppy",
+"score": 1307
+},
+{
+"word": "populace",
+"score": 2027
+},
+{
+"word": "porch",
+"score": 2000
+},
+{
+"word": "porgy",
+"score": 2667
+},
+{
+"word": "pornography",
+"score": 183
+},
+{
+"word": "portobello",
+"score": 2142
+},
+{
+"word": "portrait",
+"score": 476
+},
+{
+"word": "portraits",
+"score": 831
+},
+{
+"word": "portraiture",
+"score": 1766
+},
+{
+"word": "portrayal",
+"score": 477
+},
+{
+"word": "position",
+"score": 653
+},
+{
+"word": "positively",
+"score": 1555
+},
+{
+"word": "postage",
+"score": 2165
+},
+{
+"word": "postcard",
+"score": 678
+},
+{
+"word": "postcards",
+"score": 693
+},
+{
+"word": "poster",
+"score": 1886
+},
+{
+"word": "posters",
+"score": 2738
+},
+{
+"word": "posthumous",
+"score": 3244
+},
+{
+"word": "postmodern",
+"score": 3479
+},
+{
+"word": "postscript",
+"score": 256
+},
+{
+"word": "postulate",
+"score": 2951
+},
+{
+"word": "postulates",
+"score": 2950
+},
+{
+"word": "postwar",
+"score": 3712
+},
+{
+"word": "pot",
+"score": 1249
+},
+{
+"word": "potato",
+"score": 3686
+},
+{
+"word": "potion",
+"score": 3942
+},
+{
+"word": "potions",
+"score": 3943
+},
+{
+"word": "potluck",
+"score": 4331
+},
+{
+"word": "potted",
+"score": 3870
+},
+{
+"word": "potter",
+"score": 1505
+},
+{
+"word": "pottery",
+"score": 4055
+},
+{
+"word": "pouch",
+"score": 2319
+},
+{
+"word": "poverty",
+"score": 3617
+},
+{
+"word": "pp",
+"score": 1310
+},
+{
+"word": "practical",
+"score": 1524
+},
+{
+"word": "practice",
+"score": 3848
+},
+{
+"word": "praying",
+"score": 3968
+},
+{
+"word": "preacher",
+"score": 988
+},
+{
+"word": "preachy",
+"score": 2613
+},
+{
+"word": "preamble",
+"score": 1792
+},
+{
+"word": "preface",
+"score": 32
+},
+{
+"word": "prejudice",
+"score": 1054
+},
+{
+"word": "premonition",
+"score": 4420
+},
+{
+"word": "prenup",
+"score": 1677
+},
+{
+"word": "preoccupancy",
+"score": 2412
+},
+{
+"word": "preoccupation",
+"score": 2411
+},
+{
+"word": "preoccupations",
+"score": 2413
+},
+{
+"word": "preorder",
+"score": 2015
+},
+{
+"word": "prequel",
+"score": 434
+},
+{
+"word": "prequels",
+"score": 4443
+},
+{
+"word": "prerogative",
+"score": 2676
+},
+{
+"word": "prescience",
+"score": 2310
+},
+{
+"word": "prescient",
+"score": 1379
+},
+{
+"word": "prescription",
+"score": 1854
+},
+{
+"word": "prescriptions",
+"score": 1853
+},
+{
+"word": "presentation",
+"score": 911
+},
+{
+"word": "preservation",
+"score": 3070
+},
+{
+"word": "press",
+"score": 4160
+},
+{
+"word": "pretty",
+"score": 2337
+},
+{
+"word": "prey",
+"score": 2668
+},
+{
+"word": "priceless",
+"score": 815
+},
+{
+"word": "priceline",
+"score": 4065
+},
+{
+"word": "primer",
+"score": 538
+},
+{
+"word": "primers",
+"score": 2226
+},
+{
+"word": "primitive",
+"score": 1326
+},
+{
+"word": "principle",
+"score": 1064
+},
+{
+"word": "principles",
+"score": 1065
+},
+{
+"word": "print",
+"score": 1186
+},
+{
+"word": "printed",
+"score": 1076
+},
+{
+"word": "printing",
+"score": 2632
+},
+{
+"word": "printout",
+"score": 2390
+},
+{
+"word": "printouts",
+"score": 2391
+},
+{
+"word": "prints",
+"score": 1240
+},
+{
+"word": "prisoner",
+"score": 3454
+},
+{
+"word": "privilege",
+"score": 2677
+},
+{
+"word": "problem",
+"score": 2584
+},
+{
+"word": "proclamation",
+"score": 2654
+},
+{
+"word": "prof",
+"score": 2880
+},
+{
+"word": "profession",
+"score": 2429
+},
+{
+"word": "professor",
+"score": 2241
+},
+{
+"word": "professors",
+"score": 2240
+},
+{
+"word": "professorship",
+"score": 3363
+},
+{
+"word": "proficiency",
+"score": 2104
+},
+{
+"word": "profiled",
+"score": 3749
+},
+{
+"word": "profitable",
+"score": 3625
+},
+{
+"word": "profundity",
+"score": 2917
+},
+{
+"word": "progress",
+"score": 4064
+},
+{
+"word": "prologue",
+"score": 1080
+},
+{
+"word": "promise",
+"score": 3213
+},
+{
+"word": "promo",
+"score": 3857
+},
+{
+"word": "pronoun",
+"score": 3082
+},
+{
+"word": "pronouncement",
+"score": 1643
+},
+{
+"word": "pronouns",
+"score": 3083
+},
+{
+"word": "proof",
+"score": 1923
+},
+{
+"word": "proofreader",
+"score": 231
+},
+{
+"word": "proofreading",
+"score": 2766
+},
+{
+"word": "proofs",
+"score": 1924
+},
+{
+"word": "prophecies",
+"score": 1195
+},
+{
+"word": "prophecy",
+"score": 1168
+},
+{
+"word": "prophesy",
+"score": 3750
+},
+{
+"word": "prophet",
+"score": 2087
+},
+{
+"word": "prophetic",
+"score": 2570
+},
+{
+"word": "prophets",
+"score": 2085
+},
+{
+"word": "prophets",
+"score": 2086
+},
+{
+"word": "proquest",
+"score": 2042
+},
+{
+"word": "prose",
+"score": 49
+},
+{
+"word": "prospectus",
+"score": 2313
+},
+{
+"word": "prospectuses",
+"score": 3549
+},
+{
+"word": "prostitute",
+"score": 1302
+},
+{
+"word": "protagonist",
+"score": 1033
+},
+{
+"word": "protest",
+"score": 844
+},
+{
+"word": "protocol",
+"score": 1203
+},
+{
+"word": "protocols",
+"score": 1204
+},
+{
+"word": "proust",
+"score": 70
+},
+{
+"word": "proust",
+"score": 71
+},
+{
+"word": "provence",
+"score": 2693
+},
+{
+"word": "provence",
+"score": 2694
+},
+{
+"word": "proverb",
+"score": 328
+},
+{
+"word": "proverbs",
+"score": 326
+},
+{
+"word": "proverbs",
+"score": 327
+},
+{
+"word": "provocative",
+"score": 4487
+},
+{
+"word": "prowler",
+"score": 4069
+},
+{
+"word": "psalm",
+"score": 174
+},
+{
+"word": "psalm",
+"score": 175
+},
+{
+"word": "psalms",
+"score": 172
+},
+{
+"word": "psalms",
+"score": 173
+},
+{
+"word": "pseudonym",
+"score": 1184
+},
+{
+"word": "psychiatrist",
+"score": 4488
+},
+{
+"word": "psychic",
+"score": 715
+},
+{
+"word": "psychoanalysis",
+"score": 870
+},
+{
+"word": "psychoanalyst",
+"score": 467
+},
+{
+"word": "psychologist",
+"score": 1721
+},
+{
+"word": "psychology",
+"score": 1213
+},
+{
+"word": "psychotherapist",
+"score": 3841
+},
+{
+"word": "publication",
+"score": 167
+},
+{
+"word": "publications",
+"score": 789
+},
+{
+"word": "publish",
+"score": 572
+},
+{
+"word": "published",
+"score": 148
+},
+{
+"word": "publisher",
+"score": 160
+},
+{
+"word": "publishers",
+"score": 262
+},
+{
+"word": "publishes",
+"score": 1258
+},
+{
+"word": "publishing",
+"score": 296
+},
+{
+"word": "pulitzer",
+"score": 962
+},
+{
+"word": "pulitzer",
+"score": 963
+},
+{
+"word": "pulp",
+"score": 501
+},
+{
+"word": "pulsation",
+"score": 3046
+},
+{
+"word": "pun",
+"score": 1535
+},
+{
+"word": "punch",
+"score": 3246
+},
+{
+"word": "punctuation",
+"score": 1861
+},
+{
+"word": "pungency",
+"score": 4491
+},
+{
+"word": "pungent",
+"score": 4257
+},
+{
+"word": "puns",
+"score": 1534
+},
+{
+"word": "pup",
+"score": 4073
+},
+{
+"word": "puppy",
+"score": 3106
+},
+{
+"word": "purgative",
+"score": 892
+},
+{
+"word": "purgatory",
+"score": 1956
+},
+{
+"word": "purity",
+"score": 1110
+},
+{
+"word": "purpose",
+"score": 3270
+},
+{
+"word": "pursuit",
+"score": 1478
+},
+{
+"word": "pushkin",
+"score": 1799
+},
+{
+"word": "pushkin",
+"score": 1800
+},
+{
+"word": "puzzle",
+"score": 1530
+},
+{
+"word": "puzzler",
+"score": 3997
+},
+{
+"word": "puzzles",
+"score": 1585
+},
+{
+"word": "pw",
+"score": 2401
+},
+{
+"word": "pygmalion",
+"score": 1487
+},
+{
+"word": "pygmalion",
+"score": 1488
+},
+{
+"word": "pyramid",
+"score": 3753
+},
+{
+"word": "pyramid",
+"score": 3754
+},
+{
+"word": "python",
+"score": 3897
+},
+{
+"word": "python",
+"score": 3898
+},
+{
+"word": "pythons",
+"score": 3896
+},
+{
+"word": "quality",
+"score": 2635
+},
+{
+"word": "quarrel",
+"score": 609
+},
+{
+"word": "quarterly",
+"score": 1801
+},
+{
+"word": "quest",
+"score": 4437
+},
+{
+"word": "questionnaire",
+"score": 3875
+},
+{
+"word": "quickie",
+"score": 3591
+},
+{
+"word": "quiescence",
+"score": 2046
+},
+{
+"word": "quiet",
+"score": 3276
+},
+{
+"word": "quilt",
+"score": 813
+},
+{
+"word": "quilter",
+"score": 2402
+},
+{
+"word": "quilting",
+"score": 2056
+},
+{
+"word": "quilts",
+"score": 1694
+},
+{
+"word": "quips",
+"score": 3526
+},
+{
+"word": "quiz",
+"score": 2236
+},
+{
+"word": "quizzes",
+"score": 2235
+},
+{
+"word": "quotable",
+"score": 3787
+},
+{
+"word": "quotation",
+"score": 412
+},
+{
+"word": "quotations",
+"score": 680
+},
+{
+"word": "quote",
+"score": 413
+},
+{
+"word": "quotes",
+"score": 2173
+},
+{
+"word": "quotidian",
+"score": 1810
+},
+{
+"word": "quran",
+"score": 570
+},
+{
+"word": "quranic",
+"score": 2520
+},
+{
+"word": "raab",
+"score": 2821
+},
+{
+"word": "rabies",
+"score": 2296
+},
+{
+"word": "radical",
+"score": 2838
+},
+{
+"word": "radicals",
+"score": 3287
+},
+{
+"word": "rag",
+"score": 3856
+},
+{
+"word": "rage",
+"score": 969
+},
+{
+"word": "ragtime",
+"score": 3855
+},
+{
+"word": "rainbow",
+"score": 4380
+},
+{
+"word": "rainbows",
+"score": 4381
+},
+{
+"word": "raise",
+"score": 2698
+},
+{
+"word": "rakoff",
+"score": 3484
+},
+{
+"word": "ramayana",
+"score": 760
+},
+{
+"word": "ramayana",
+"score": 761
+},
+{
+"word": "ramble",
+"score": 4452
+},
+{
+"word": "ramblings",
+"score": 4185
+},
+{
+"word": "randomness",
+"score": 4034
+},
+{
+"word": "ransacking",
+"score": 3512
+},
+{
+"word": "rant",
+"score": 3140
+},
+{
+"word": "ration",
+"score": 3976
+},
+{
+"word": "rationale",
+"score": 1066
+},
+{
+"word": "ravitch",
+"score": 3509
+},
+{
+"word": "read",
+"score": 145
+},
+{
+"word": "readable",
+"score": 350
+},
+{
+"word": "reader",
+"score": 233
+},
+{
+"word": "readers",
+"score": 1221
+},
+{
+"word": "readership",
+"score": 2143
+},
+{
+"word": "reading",
+"score": 162
+},
+{
+"word": "reading",
+"score": 163
+},
+{
+"word": "readings",
+"score": 3791
+},
+{
+"word": "reads",
+"score": 275
+},
+{
+"word": "realism",
+"score": 1492
+},
+{
+"word": "realist",
+"score": 1619
+},
+{
+"word": "realities",
+"score": 1050
+},
+{
+"word": "reality",
+"score": 1051
+},
+{
+"word": "realm",
+"score": 3347
+},
+{
+"word": "ream",
+"score": 3027
+},
+{
+"word": "reams",
+"score": 3028
+},
+{
+"word": "reason",
+"score": 1835
+},
+{
+"word": "reasoning",
+"score": 3850
+},
+{
+"word": "rebbe",
+"score": 3740
+},
+{
+"word": "rebellion",
+"score": 1863
+},
+{
+"word": "rebirth",
+"score": 3152
+},
+{
+"word": "rebuttal",
+"score": 3038
+},
+{
+"word": "rebutter",
+"score": 3037
+},
+{
+"word": "recall",
+"score": 273
+},
+{
+"word": "recess",
+"score": 3099
+},
+{
+"word": "recipe",
+"score": 391
+},
+{
+"word": "recipes",
+"score": 392
+},
+{
+"word": "recitation",
+"score": 161
+},
+{
+"word": "recite",
+"score": 3489
+},
+{
+"word": "reciting",
+"score": 3762
+},
+{
+"word": "reckoning",
+"score": 1434
+},
+{
+"word": "reclaiming",
+"score": 1188
+},
+{
+"word": "reclamation",
+"score": 2265
+},
+{
+"word": "recognition",
+"score": 430
+},
+{
+"word": "recollection",
+"score": 943
+},
+{
+"word": "recollections",
+"score": 941
+},
+{
+"word": "recommendation",
+"score": 3090
+},
+{
+"word": "reconditeness",
+"score": 2919
+},
+{
+"word": "recount",
+"score": 535
+},
+{
+"word": "recounted",
+"score": 4472
+},
+{
+"word": "recounting",
+"score": 1485
+},
+{
+"word": "recounts",
+"score": 534
+},
+{
+"word": "redefining",
+"score": 2925
+},
+{
+"word": "redemptive",
+"score": 3601
+},
+{
+"word": "rediscovery",
+"score": 1432
+},
+{
+"word": "redneck",
+"score": 3226
+},
+{
+"word": "redress",
+"score": 3415
+},
+{
+"word": "reductive",
+"score": 2704
+},
+{
+"word": "reference",
+"score": 4231
+},
+{
+"word": "refinement",
+"score": 1352
+},
+{
+"word": "reflection",
+"score": 191
+},
+{
+"word": "reflections",
+"score": 192
+},
+{
+"word": "reformation",
+"score": 2266
+},
+{
+"word": "reformation",
+"score": 2267
+},
+{
+"word": "refutation",
+"score": 1838
+},
+{
+"word": "regard",
+"score": 3043
+},
+{
+"word": "region",
+"score": 3348
+},
+{
+"word": "reign",
+"score": 2940
+},
+{
+"word": "reimagining",
+"score": 3305
+},
+{
+"word": "reincarnation",
+"score": 3155
+},
+{
+"word": "reinventing",
+"score": 2231
+},
+{
+"word": "reisman",
+"score": 3596
+},
+{
+"word": "reiss",
+"score": 4083
+},
+{
+"word": "reissue",
+"score": 97
+},
+{
+"word": "reissued",
+"score": 749
+},
+{
+"word": "reissues",
+"score": 2735
+},
+{
+"word": "reissuing",
+"score": 1969
+},
+{
+"word": "rejoinder",
+"score": 4467
+},
+{
+"word": "relapse",
+"score": 2949
+},
+{
+"word": "relatable",
+"score": 3756
+},
+{
+"word": "relation",
+"score": 1486
+},
+{
+"word": "relationship",
+"score": 2495
+},
+{
+"word": "relativity",
+"score": 3451
+},
+{
+"word": "release",
+"score": 4339
+},
+{
+"word": "relevance",
+"score": 4217
+},
+{
+"word": "religion",
+"score": 1946
+},
+{
+"word": "religions",
+"score": 4127
+},
+{
+"word": "relish",
+"score": 2342
+},
+{
+"word": "reluctant",
+"score": 1040
+},
+{
+"word": "remainder",
+"score": 3818
+},
+{
+"word": "remarkable",
+"score": 775
+},
+{
+"word": "remedies",
+"score": 3413
+},
+{
+"word": "remedy",
+"score": 3414
+},
+{
+"word": "remembered",
+"score": 768
+},
+{
+"word": "remembering",
+"score": 1155
+},
+{
+"word": "remembrance",
+"score": 942
+},
+{
+"word": "reminiscence",
+"score": 271
+},
+{
+"word": "reminiscences",
+"score": 272
+},
+{
+"word": "reminisces",
+"score": 1590
+},
+{
+"word": "renegade",
+"score": 4093
+},
+{
+"word": "renewing",
+"score": 3426
+},
+{
+"word": "renoir",
+"score": 2552
+},
+{
+"word": "renoir",
+"score": 2553
+},
+{
+"word": "replica",
+"score": 779
+},
+{
+"word": "report",
+"score": 293
+},
+{
+"word": "reportage",
+"score": 2178
+},
+{
+"word": "repose",
+"score": 3275
+},
+{
+"word": "reprint",
+"score": 98
+},
+{
+"word": "reprinted",
+"score": 2809
+},
+{
+"word": "reprinting",
+"score": 722
+},
+{
+"word": "reprints",
+"score": 692
+},
+{
+"word": "reproduces",
+"score": 3193
+},
+{
+"word": "reproduction",
+"score": 778
+},
+{
+"word": "reproductions",
+"score": 777
+},
+{
+"word": "republish",
+"score": 3562
+},
+{
+"word": "republished",
+"score": 1574
+},
+{
+"word": "repudiation",
+"score": 1281
+},
+{
+"word": "repugnance",
+"score": 2927
+},
+{
+"word": "requiem",
+"score": 2973
+},
+{
+"word": "requiem",
+"score": 2975
+},
+{
+"word": "reread",
+"score": 89
+},
+{
+"word": "rereading",
+"score": 66
+},
+{
+"word": "rescue",
+"score": 3068
+},
+{
+"word": "rescuing",
+"score": 2465
+},
+{
+"word": "researched",
+"score": 532
+},
+{
+"word": "researching",
+"score": 1327
+},
+{
+"word": "reservation",
+"score": 4314
+},
+{
+"word": "reservations",
+"score": 4315
+},
+{
+"word": "resignation",
+"score": 2269
+},
+{
+"word": "resilience",
+"score": 1575
+},
+{
+"word": "resist",
+"score": 2909
+},
+{
+"word": "resolution",
+"score": 1166
+},
+{
+"word": "resource",
+"score": 729
+},
+{
+"word": "retaliation",
+"score": 2115
+},
+{
+"word": "retell",
+"score": 3239
+},
+{
+"word": "retelling",
+"score": 591
+},
+{
+"word": "rethinking",
+"score": 247
+},
+{
+"word": "retold",
+"score": 2016
+},
+{
+"word": "retracing",
+"score": 3766
+},
+{
+"word": "retrospect",
+"score": 3521
+},
+{
+"word": "revealing",
+"score": 3392
+},
+{
+"word": "revelation",
+"score": 473
+},
+{
+"word": "revelation",
+"score": 474
+},
+{
+"word": "revelations",
+"score": 668
+},
+{
+"word": "revelatory",
+"score": 518
+},
+{
+"word": "revenge",
+"score": 2114
+},
+{
+"word": "reverent",
+"score": 3416
+},
+{
+"word": "reverie",
+"score": 3194
+},
+{
+"word": "reverse",
+"score": 4307
+},
+{
+"word": "review",
+"score": 718
+},
+{
+"word": "reviewer",
+"score": 235
+},
+{
+"word": "reviewers",
+"score": 3821
+},
+{
+"word": "revisionism",
+"score": 2436
+},
+{
+"word": "revisionist",
+"score": 1348
+},
+{
+"word": "revisited",
+"score": 439
+},
+{
+"word": "revisiting",
+"score": 1724
+},
+{
+"word": "revisits",
+"score": 3366
+},
+{
+"word": "revolt",
+"score": 1862
+},
+{
+"word": "revolution",
+"score": 2108
+},
+{
+"word": "revolutions",
+"score": 2109
+},
+{
+"word": "rewrite",
+"score": 1102
+},
+{
+"word": "rewrites",
+"score": 1392
+},
+{
+"word": "rewriting",
+"score": 894
+},
+{
+"word": "rewritten",
+"score": 1245
+},
+{
+"word": "rewrote",
+"score": 716
+},
+{
+"word": "rhiannon",
+"score": 4033
+},
+{
+"word": "rhyme",
+"score": 1912
+},
+{
+"word": "rhymes",
+"score": 2547
+},
+{
+"word": "rhyming",
+"score": 1693
+},
+{
+"word": "ribbon",
+"score": 3088
+},
+{
+"word": "richest",
+"score": 2406
+},
+{
+"word": "ricks",
+"score": 4188
+},
+{
+"word": "riddle",
+"score": 1647
+},
+{
+"word": "riddles",
+"score": 2569
+},
+{
+"word": "ridsdale",
+"score": 4158
+},
+{
+"word": "riesling",
+"score": 3684
+},
+{
+"word": "riesling",
+"score": 3685
+},
+{
+"word": "rif",
+"score": 2215
+},
+{
+"word": "riff",
+"score": 3867
+},
+{
+"word": "riff",
+"score": 3868
+},
+{
+"word": "riggio",
+"score": 3761
+},
+{
+"word": "rise",
+"score": 2697
+},
+{
+"word": "risen",
+"score": 1003
+},
+{
+"word": "risk",
+"score": 576
+},
+{
+"word": "riskiness",
+"score": 575
+},
+{
+"word": "rite",
+"score": 1821
+},
+{
+"word": "rites",
+"score": 1822
+},
+{
+"word": "ritual",
+"score": 1820
+},
+{
+"word": "riveting",
+"score": 1388
+},
+{
+"word": "rock",
+"score": 2260
+},
+{
+"word": "rodale",
+"score": 509
+},
+{
+"word": "rogue",
+"score": 4087
+},
+{
+"word": "rollicking",
+"score": 3710
+},
+{
+"word": "rolodex",
+"score": 1741
+},
+{
+"word": "rolodex",
+"score": 1742
+},
+{
+"word": "romance",
+"score": 556
+},
+{
+"word": "romance",
+"score": 557
+},
+{
+"word": "romances",
+"score": 641
+},
+{
+"word": "romantic",
+"score": 2485
+},
+{
+"word": "romanticism",
+"score": 555
+},
+{
+"word": "romanticist",
+"score": 2486
+},
+{
+"word": "romanticized",
+"score": 2892
+},
+{
+"word": "romantics",
+"score": 3435
+},
+{
+"word": "roosevelt",
+"score": 3937
+},
+{
+"word": "roost",
+"score": 3149
+},
+{
+"word": "root",
+"score": 1618
+},
+{
+"word": "roots",
+"score": 1615
+},
+{
+"word": "rope",
+"score": 3465
+},
+{
+"word": "rose",
+"score": 4398
+},
+{
+"word": "roses",
+"score": 4397
+},
+{
+"word": "rotation",
+"score": 2107
+},
+{
+"word": "rotella",
+"score": 4007
+},
+{
+"word": "rotter",
+"score": 1358
+},
+{
+"word": "routledge",
+"score": 651
+},
+{
+"word": "rowling",
+"score": 100
+},
+{
+"word": "rpl",
+"score": 3054
+},
+{
+"word": "rudiment",
+"score": 551
+},
+{
+"word": "rueful",
+"score": 3311
+},
+{
+"word": "ruefully",
+"score": 1697
+},
+{
+"word": "ruhlman",
+"score": 1752
+},
+{
+"word": "ruin",
+"score": 996
+},
+{
+"word": "ruined",
+"score": 2389
+},
+{
+"word": "ruins",
+"score": 998
+},
+{
+"word": "rumi",
+"score": 1375
+},
+{
+"word": "rumination",
+"score": 1604
+},
+{
+"word": "ruminations",
+"score": 1603
+},
+{
+"word": "rummage",
+"score": 3511
+},
+{
+"word": "runaway",
+"score": 2409
+},
+{
+"word": "runaways",
+"score": 2407
+},
+{
+"word": "rundle",
+"score": 3873
+},
+{
+"word": "rupa",
+"score": 828
+},
+{
+"word": "rushdie",
+"score": 298
+},
+{
+"word": "rushdie",
+"score": 299
+},
+{
+"word": "rustle",
+"score": 1982
+},
+{
+"word": "ruthie",
+"score": 4046
+},
+{
+"word": "ruthless",
+"score": 1515
+},
+{
+"word": "rye",
+"score": 1734
+},
+{
+"word": "sacred",
+"score": 2047
+},
+{
+"word": "sadness",
+"score": 457
+},
+{
+"word": "safaris",
+"score": 3056
+},
+{
+"word": "safire",
+"score": 2190
+},
+{
+"word": "saga",
+"score": 938
+},
+{
+"word": "sagan",
+"score": 4528
+},
+{
+"word": "sagas",
+"score": 1684
+},
+{
+"word": "sail",
+"score": 1716
+},
+{
+"word": "salacious",
+"score": 3518
+},
+{
+"word": "salander",
+"score": 3425
+},
+{
+"word": "salesman",
+"score": 3770
+},
+{
+"word": "salient",
+"score": 2712
+},
+{
+"word": "salinger",
+"score": 424
+},
+{
+"word": "salinger",
+"score": 425
+},
+{
+"word": "saltman",
+"score": 2867
+},
+{
+"word": "sampler",
+"score": 2656
+},
+{
+"word": "sandwich",
+"score": 3324
+},
+{
+"word": "sandwiches",
+"score": 4037
+},
+{
+"word": "sanity",
+"score": 1254
+},
+{
+"word": "sarcasm",
+"score": 1334
+},
+{
+"word": "sarcastically",
+"score": 4316
+},
+{
+"word": "sarrazin",
+"score": 3210
+},
+{
+"word": "sartre",
+"score": 339
+},
+{
+"word": "sartre",
+"score": 340
+},
+{
+"word": "sass",
+"score": 4178
+},
+{
+"word": "satan",
+"score": 4040
+},
+{
+"word": "satan",
+"score": 4041
+},
+{
+"word": "satire",
+"score": 1333
+},
+{
+"word": "satiric",
+"score": 1511
+},
+{
+"word": "satirical",
+"score": 1181
+},
+{
+"word": "satirist",
+"score": 2359
+},
+{
+"word": "satisfyingly",
+"score": 4098
+},
+{
+"word": "saving",
+"score": 3069
+},
+{
+"word": "savor",
+"score": 2341
+},
+{
+"word": "saying",
+"score": 1958
+},
+{
+"word": "sayings",
+"score": 1959
+},
+{
+"word": "scarecrow",
+"score": 4216
+},
+{
+"word": "scared",
+"score": 3657
+},
+{
+"word": "scent",
+"score": 1680
+},
+{
+"word": "schmaltzy",
+"score": 3033
+},
+{
+"word": "scholar",
+"score": 710
+},
+{
+"word": "scholarly",
+"score": 138
+},
+{
+"word": "scholars",
+"score": 1466
+},
+{
+"word": "scholastic",
+"score": 341
+},
+{
+"word": "scholastic",
+"score": 343
+},
+{
+"word": "schoolmarm",
+"score": 2278
+},
+{
+"word": "schoolmate",
+"score": 3955
+},
+{
+"word": "schoolwork",
+"score": 3295
+},
+{
+"word": "schuster",
+"score": 284
+},
+{
+"word": "schwartzmiller",
+"score": 3299
+},
+{
+"word": "scissors",
+"score": 1446
+},
+{
+"word": "scoop",
+"score": 2318
+},
+{
+"word": "score",
+"score": 3634
+},
+{
+"word": "scorecard",
+"score": 2248
+},
+{
+"word": "scout",
+"score": 336
+},
+{
+"word": "scrabble",
+"score": 3065
+},
+{
+"word": "scrabble",
+"score": 3066
+},
+{
+"word": "scrawl",
+"score": 2287
+},
+{
+"word": "scream",
+"score": 4114
+},
+{
+"word": "screaming",
+"score": 4115
+},
+{
+"word": "screech",
+"score": 4113
+},
+{
+"word": "screed",
+"score": 465
+},
+{
+"word": "screen",
+"score": 3570
+},
+{
+"word": "screenplay",
+"score": 90
+},
+{
+"word": "screenplays",
+"score": 146
+},
+{
+"word": "screenwriter",
+"score": 699
+},
+{
+"word": "screenwriters",
+"score": 2394
+},
+{
+"word": "screenwriting",
+"score": 1987
+},
+{
+"word": "scribble",
+"score": 1384
+},
+{
+"word": "scribbled",
+"score": 826
+},
+{
+"word": "scribbles",
+"score": 2393
+},
+{
+"word": "scribbling",
+"score": 871
+},
+{
+"word": "scribd",
+"score": 442
+},
+{
+"word": "scribe",
+"score": 1151
+},
+{
+"word": "scribe",
+"score": 1153
+},
+{
+"word": "scriber",
+"score": 1154
+},
+{
+"word": "scribner",
+"score": 150
+},
+{
+"word": "scrip",
+"score": 3190
+},
+{
+"word": "script",
+"score": 220
+},
+{
+"word": "scripts",
+"score": 864
+},
+{
+"word": "scriptural",
+"score": 1625
+},
+{
+"word": "scripture",
+"score": 316
+},
+{
+"word": "scriptures",
+"score": 315
+},
+{
+"word": "scriptwriter",
+"score": 1789
+},
+{
+"word": "scroll",
+"score": 1876
+},
+{
+"word": "scrolls",
+"score": 1877
+},
+{
+"word": "seabiscuit",
+"score": 1735
+},
+{
+"word": "seagull",
+"score": 3576
+},
+{
+"word": "seal",
+"score": 2166
+},
+{
+"word": "seam",
+"score": 3531
+},
+{
+"word": "season",
+"score": 2701
+},
+{
+"word": "seasons",
+"score": 2702
+},
+{
+"word": "seat",
+"score": 2050
+},
+{
+"word": "secondhand",
+"score": 2866
+},
+{
+"word": "secrecy",
+"score": 1180
+},
+{
+"word": "secret",
+"score": 230
+},
+{
+"word": "secrets",
+"score": 229
+},
+{
+"word": "sedaris",
+"score": 103
+},
+{
+"word": "seder",
+"score": 1247
+},
+{
+"word": "seder",
+"score": 1248
+},
+{
+"word": "seduction",
+"score": 258
+},
+{
+"word": "seeker",
+"score": 2517
+},
+{
+"word": "seekers",
+"score": 2518
+},
+{
+"word": "seinfeld",
+"score": 3702
+},
+{
+"word": "self-love",
+"score": 3253
+},
+{
+"word": "seller",
+"score": 443
+},
+{
+"word": "sellers",
+"score": 3682
+},
+{
+"word": "sellers",
+"score": 3683
+},
+{
+"word": "selling",
+"score": 3379
+},
+{
+"word": "semblance",
+"score": 2144
+},
+{
+"word": "semester",
+"score": 3578
+},
+{
+"word": "seminal",
+"score": 721
+},
+{
+"word": "seminar",
+"score": 1265
+},
+{
+"word": "seminars",
+"score": 2786
+},
+{
+"word": "sendak",
+"score": 404
+},
+{
+"word": "sensational",
+"score": 1988
+},
+{
+"word": "sensationalism",
+"score": 3883
+},
+{
+"word": "sensationalist",
+"score": 3355
+},
+{
+"word": "sense",
+"score": 1251
+},
+{
+"word": "senses",
+"score": 1250
+},
+{
+"word": "sensibility",
+"score": 2581
+},
+{
+"word": "sensitivity",
+"score": 2582
+},
+{
+"word": "sensualism",
+"score": 3882
+},
+{
+"word": "sentimental",
+"score": 3007
+},
+{
+"word": "sentimentality",
+"score": 4350
+},
+{
+"word": "sequel",
+"score": 394
+},
+{
+"word": "sequels",
+"score": 2185
+},
+{
+"word": "sequence",
+"score": 2175
+},
+{
+"word": "serendipitous",
+"score": 3296
+},
+{
+"word": "serendipity",
+"score": 2352
+},
+{
+"word": "serial",
+"score": 3557
+},
+{
+"word": "serialization",
+"score": 855
+},
+{
+"word": "serialized",
+"score": 422
+},
+{
+"word": "series",
+"score": 3556
+},
+{
+"word": "sermon",
+"score": 1088
+},
+{
+"word": "sermons",
+"score": 1533
+},
+{
+"word": "serpent",
+"score": 2201
+},
+{
+"word": "set",
+"score": 4407
+},
+{
+"word": "seuss",
+"score": 472
+},
+{
+"word": "sex",
+"score": 2593
+},
+{
+"word": "sexuality",
+"score": 2815
+},
+{
+"word": "shack",
+"score": 1071
+},
+{
+"word": "shade",
+"score": 1942
+},
+{
+"word": "shades",
+"score": 1943
+},
+{
+"word": "shadow",
+"score": 376
+},
+{
+"word": "shadows",
+"score": 380
+},
+{
+"word": "shakespeare",
+"score": 773
+},
+{
+"word": "shakespeare",
+"score": 774
+},
+{
+"word": "shakespearean",
+"score": 2356
+},
+{
+"word": "shakespearian",
+"score": 2357
+},
+{
+"word": "shalimar",
+"score": 3268
+},
+{
+"word": "shaman",
+"score": 1744
+},
+{
+"word": "shape",
+"score": 3187
+},
+{
+"word": "sharansky",
+"score": 1440
+},
+{
+"word": "shard",
+"score": 2335
+},
+{
+"word": "shattered",
+"score": 2227
+},
+{
+"word": "sheaf",
+"score": 4090
+},
+{
+"word": "sheet",
+"score": 4192
+},
+{
+"word": "sheff",
+"score": 3869
+},
+{
+"word": "shelf",
+"score": 1621
+},
+{
+"word": "shelves",
+"score": 1622
+},
+{
+"word": "shenk",
+"score": 4343
+},
+{
+"word": "shiller",
+"score": 4035
+},
+{
+"word": "shining",
+"score": 3062
+},
+{
+"word": "shirt",
+"score": 3741
+},
+{
+"word": "shit",
+"score": 2706
+},
+{
+"word": "shivaji",
+"score": 3586
+},
+{
+"word": "shoe",
+"score": 2992
+},
+{
+"word": "shoes",
+"score": 2991
+},
+{
+"word": "shopaholic",
+"score": 725
+},
+{
+"word": "short",
+"score": 2549
+},
+{
+"word": "shortstop",
+"score": 2550
+},
+{
+"word": "shot",
+"score": 3828
+},
+{
+"word": "showgirls",
+"score": 3598
+},
+{
+"word": "shrewdly",
+"score": 4234
+},
+{
+"word": "shuttlecock",
+"score": 3179
+},
+{
+"word": "shyamalan",
+"score": 1817
+},
+{
+"word": "shylock",
+"score": 4144
+},
+{
+"word": "shylock",
+"score": 4145
+},
+{
+"word": "sidebar",
+"score": 1452
+},
+{
+"word": "sidebars",
+"score": 1453
+},
+{
+"word": "siege",
+"score": 2186
+},
+{
+"word": "sife",
+"score": 4101
+},
+{
+"word": "sigh",
+"score": 2722
+},
+{
+"word": "sight",
+"score": 2895
+},
+{
+"word": "signet",
+"score": 4172
+},
+{
+"word": "significance",
+"score": 1113
+},
+{
+"word": "signing",
+"score": 3256
+},
+{
+"word": "signings",
+"score": 650
+},
+{
+"word": "silence",
+"score": 1178
+},
+{
+"word": "silent",
+"score": 4181
+},
+{
+"word": "silhouette",
+"score": 3402
+},
+{
+"word": "simple",
+"score": 3218
+},
+{
+"word": "simpleton",
+"score": 3217
+},
+{
+"word": "sin",
+"score": 506
+},
+{
+"word": "sin",
+"score": 507
+},
+{
+"word": "sincerely",
+"score": 3248
+},
+{
+"word": "sine",
+"score": 504
+},
+{
+"word": "sings",
+"score": 4326
+},
+{
+"word": "singularity",
+"score": 2753
+},
+{
+"word": "sinner",
+"score": 920
+},
+{
+"word": "sinners",
+"score": 3115
+},
+{
+"word": "sins",
+"score": 505
+},
+{
+"word": "sisterhood",
+"score": 1794
+},
+{
+"word": "sitcom",
+"score": 3026
+},
+{
+"word": "sixties",
+"score": 1874
+},
+{
+"word": "sixty",
+"score": 1873
+},
+{
+"word": "skeeter",
+"score": 3620
+},
+{
+"word": "sketch",
+"score": 562
+},
+{
+"word": "sketched",
+"score": 3491
+},
+{
+"word": "sketches",
+"score": 875
+},
+{
+"word": "sketching",
+"score": 2689
+},
+{
+"word": "skinny",
+"score": 2870
+},
+{
+"word": "skit",
+"score": 3119
+},
+{
+"word": "slang",
+"score": 4122
+},
+{
+"word": "slate",
+"score": 1027
+},
+{
+"word": "slave",
+"score": 1174
+},
+{
+"word": "slavery",
+"score": 463
+},
+{
+"word": "slaves",
+"score": 1175
+},
+{
+"word": "sleeping",
+"score": 2045
+},
+{
+"word": "sleuth",
+"score": 1262
+},
+{
+"word": "sleuthing",
+"score": 3695
+},
+{
+"word": "slice",
+"score": 1205
+},
+{
+"word": "slick",
+"score": 4318
+},
+{
+"word": "slip",
+"score": 2512
+},
+{
+"word": "slob",
+"score": 2645
+},
+{
+"word": "slyly",
+"score": 1400
+},
+{
+"word": "smasher",
+"score": 1374
+},
+{
+"word": "smell",
+"score": 3267
+},
+{
+"word": "smokestack",
+"score": 3547
+},
+{
+"word": "snake",
+"score": 2200
+},
+{
+"word": "snake",
+"score": 3406
+},
+{
+"word": "snakes",
+"score": 3405
+},
+{
+"word": "sneak",
+"score": 4068
+},
+{
+"word": "sneaker",
+"score": 3360
+},
+{
+"word": "snip",
+"score": 1547
+},
+{
+"word": "snippet",
+"score": 2249
+},
+{
+"word": "snippets",
+"score": 1548
+},
+{
+"word": "snooki",
+"score": 4235
+},
+{
+"word": "sociological",
+"score": 1063
+},
+{
+"word": "sociologist",
+"score": 1733
+},
+{
+"word": "sociologists",
+"score": 4295
+},
+{
+"word": "sociology",
+"score": 1715
+},
+{
+"word": "sociopolitical",
+"score": 2527
+},
+{
+"word": "soliloquy",
+"score": 503
+},
+{
+"word": "solitude",
+"score": 714
+},
+{
+"word": "soloist",
+"score": 3409
+},
+{
+"word": "solution",
+"score": 1616
+},
+{
+"word": "solzhenitsyn",
+"score": 1092
+},
+{
+"word": "solzhenitsyn",
+"score": 1093
+},
+{
+"word": "someday",
+"score": 3711
+},
+{
+"word": "son",
+"score": 615
+},
+{
+"word": "son",
+"score": 3652
+},
+{
+"word": "sonata",
+"score": 2351
+},
+{
+"word": "sondheim",
+"score": 3964
+},
+{
+"word": "sondheim",
+"score": 3965
+},
+{
+"word": "song",
+"score": 587
+},
+{
+"word": "songs",
+"score": 584
+},
+{
+"word": "songwriter",
+"score": 3198
+},
+{
+"word": "songwriters",
+"score": 4285
+},
+{
+"word": "songwriting",
+"score": 3962
+},
+{
+"word": "sontag",
+"score": 3094
+},
+{
+"word": "sontag",
+"score": 3095
+},
+{
+"word": "sorcerer",
+"score": 1402
+},
+{
+"word": "sordid",
+"score": 3504
+},
+{
+"word": "sorkin",
+"score": 3838
+},
+{
+"word": "sorrow",
+"score": 458
+},
+{
+"word": "sorrows",
+"score": 455
+},
+{
+"word": "soul",
+"score": 1545
+},
+{
+"word": "souls",
+"score": 1543
+},
+{
+"word": "soup",
+"score": 2376
+},
+{
+"word": "soups",
+"score": 2375
+},
+{
+"word": "southpeak",
+"score": 3681
+},
+{
+"word": "souvenir",
+"score": 1172
+},
+{
+"word": "souvenirs",
+"score": 3262
+},
+{
+"word": "soyinka",
+"score": 2202
+},
+{
+"word": "space",
+"score": 2055
+},
+{
+"word": "spamalot",
+"score": 3978
+},
+{
+"word": "spawn",
+"score": 4494
+},
+{
+"word": "speak",
+"score": 2872
+},
+{
+"word": "species",
+"score": 1986
+},
+{
+"word": "spectacle",
+"score": 2587
+},
+{
+"word": "spectator",
+"score": 1417
+},
+{
+"word": "speech",
+"score": 3114
+},
+{
+"word": "speeches",
+"score": 3112
+},
+{
+"word": "speechwriter",
+"score": 1474
+},
+{
+"word": "speechwriters",
+"score": 3793
+},
+{
+"word": "spell",
+"score": 1009
+},
+{
+"word": "spellbinding",
+"score": 2695
+},
+{
+"word": "spellbound",
+"score": 2246
+},
+{
+"word": "spelling",
+"score": 2524
+},
+{
+"word": "spells",
+"score": 3055
+},
+{
+"word": "spenser",
+"score": 450
+},
+{
+"word": "spenser",
+"score": 451
+},
+{
+"word": "spider",
+"score": 2652
+},
+{
+"word": "spiegelman",
+"score": 1531
+},
+{
+"word": "spiel",
+"score": 3008
+},
+{
+"word": "spielberg",
+"score": 4138
+},
+{
+"word": "spielberg",
+"score": 4139
+},
+{
+"word": "spies",
+"score": 3691
+},
+{
+"word": "spill",
+"score": 4342
+},
+{
+"word": "spiral",
+"score": 3615
+},
+{
+"word": "spirit",
+"score": 2575
+},
+{
+"word": "spiritual",
+"score": 1257
+},
+{
+"word": "spiritualism",
+"score": 1780
+},
+{
+"word": "spirituality",
+"score": 819
+},
+{
+"word": "spiritualty",
+"score": 820
+},
+{
+"word": "splendid",
+"score": 4162
+},
+{
+"word": "splendor",
+"score": 1459
+},
+{
+"word": "spoke",
+"score": 3874
+},
+{
+"word": "spoken",
+"score": 1598
+},
+{
+"word": "spokesperson",
+"score": 3212
+},
+{
+"word": "spooky",
+"score": 4076
+},
+{
+"word": "spore",
+"score": 4444
+},
+{
+"word": "springsteen",
+"score": 2785
+},
+{
+"word": "spud",
+"score": 3687
+},
+{
+"word": "spy",
+"score": 3690
+},
+{
+"word": "stack",
+"score": 3544
+},
+{
+"word": "stacks",
+"score": 3546
+},
+{
+"word": "stairs",
+"score": 3982
+},
+{
+"word": "stalin",
+"score": 4540
+},
+{
+"word": "stalin",
+"score": 4541
+},
+{
+"word": "stalk",
+"score": 2415
+},
+{
+"word": "stalking",
+"score": 2416
+},
+{
+"word": "stamp",
+"score": 2167
+},
+{
+"word": "stamps",
+"score": 2169
+},
+{
+"word": "standard",
+"score": 2811
+},
+{
+"word": "stanza",
+"score": 1097
+},
+{
+"word": "stanzas",
+"score": 1098
+},
+{
+"word": "starcraft",
+"score": 3162
+},
+{
+"word": "stardust",
+"score": 3887
+},
+{
+"word": "stationery",
+"score": 2321
+},
+{
+"word": "stead",
+"score": 2053
+},
+{
+"word": "steampunk",
+"score": 2463
+},
+{
+"word": "steinbeck",
+"score": 248
+},
+{
+"word": "steinbeck",
+"score": 249
+},
+{
+"word": "step",
+"score": 3986
+},
+{
+"word": "steps",
+"score": 3983
+},
+{
+"word": "stiglitz",
+"score": 2814
+},
+{
+"word": "sting",
+"score": 4493
+},
+{
+"word": "stitch",
+"score": 1522
+},
+{
+"word": "stitches",
+"score": 1521
+},
+{
+"word": "stockbroker",
+"score": 3801
+},
+{
+"word": "stole",
+"score": 4448
+},
+{
+"word": "stone",
+"score": 2261
+},
+{
+"word": "stone",
+"score": 2263
+},
+{
+"word": "stones",
+"score": 2262
+},
+{
+"word": "stoppard",
+"score": 738
+},
+{
+"word": "stoppard",
+"score": 739
+},
+{
+"word": "stories",
+"score": 414
+},
+{
+"word": "story",
+"score": 294
+},
+{
+"word": "storyboard",
+"score": 1754
+},
+{
+"word": "storyboards",
+"score": 2967
+},
+{
+"word": "storycorps",
+"score": 2970
+},
+{
+"word": "storyline",
+"score": 1659
+},
+{
+"word": "storyteller",
+"score": 368
+},
+{
+"word": "storytellers",
+"score": 1393
+},
+{
+"word": "storytelling",
+"score": 921
+},
+{
+"word": "storytime",
+"score": 1745
+},
+{
+"word": "stossel",
+"score": 2924
+},
+{
+"word": "stove",
+"score": 4372
+},
+{
+"word": "strangeness",
+"score": 901
+},
+{
+"word": "stranger",
+"score": 351
+},
+{
+"word": "strangers",
+"score": 352
+},
+{
+"word": "stream",
+"score": 3133
+},
+{
+"word": "streetwalker",
+"score": 4499
+},
+{
+"word": "streisand",
+"score": 2812
+},
+{
+"word": "streisand",
+"score": 2813
+},
+{
+"word": "strobel",
+"score": 3824
+},
+{
+"word": "struggle",
+"score": 595
+},
+{
+"word": "studious",
+"score": 2816
+},
+{
+"word": "stuff",
+"score": 1398
+},
+{
+"word": "stupid",
+"score": 1828
+},
+{
+"word": "styron",
+"score": 492
+},
+{
+"word": "styron",
+"score": 493
+},
+{
+"word": "subgenre",
+"score": 3552
+},
+{
+"word": "subject",
+"score": 2660
+},
+{
+"word": "subplot",
+"score": 2929
+},
+{
+"word": "subscriber",
+"score": 234
+},
+{
+"word": "subtext",
+"score": 1855
+},
+{
+"word": "subtitle",
+"score": 64
+},
+{
+"word": "subtitled",
+"score": 99
+},
+{
+"word": "suburb",
+"score": 1042
+},
+{
+"word": "suburbia",
+"score": 1041
+},
+{
+"word": "subversion",
+"score": 3618
+},
+{
+"word": "succeed",
+"score": 1020
+},
+{
+"word": "succeeding",
+"score": 2622
+},
+{
+"word": "success",
+"score": 2881
+},
+{
+"word": "successor",
+"score": 1273
+},
+{
+"word": "succinct",
+"score": 1523
+},
+{
+"word": "succinctly",
+"score": 2538
+},
+{
+"word": "suck",
+"score": 3146
+},
+{
+"word": "sucking",
+"score": 3147
+},
+{
+"word": "sucks",
+"score": 4520
+},
+{
+"word": "sudoku",
+"score": 1546
+},
+{
+"word": "sufism",
+"score": 1867
+},
+{
+"word": "sufism",
+"score": 1868
+},
+{
+"word": "suitcase",
+"score": 1826
+},
+{
+"word": "sum",
+"score": 2680
+},
+{
+"word": "summaries",
+"score": 3804
+},
+{
+"word": "summarize",
+"score": 4219
+},
+{
+"word": "summarizes",
+"score": 2006
+},
+{
+"word": "summarizing",
+"score": 1582
+},
+{
+"word": "summary",
+"score": 1795
+},
+{
+"word": "summation",
+"score": 2679
+},
+{
+"word": "sung",
+"score": 585
+},
+{
+"word": "sunglasses",
+"score": 1945
+},
+{
+"word": "sunnah",
+"score": 852
+},
+{
+"word": "sunstein",
+"score": 4124
+},
+{
+"word": "sunstone",
+"score": 4272
+},
+{
+"word": "supergrass",
+"score": 3335
+},
+{
+"word": "superheroes",
+"score": 3961
+},
+{
+"word": "supernatural",
+"score": 2999
+},
+{
+"word": "superstores",
+"score": 3918
+},
+{
+"word": "supporter",
+"score": 1034
+},
+{
+"word": "supremacy",
+"score": 2580
+},
+{
+"word": "surprised",
+"score": 3085
+},
+{
+"word": "surrealist",
+"score": 2405
+},
+{
+"word": "surrender",
+"score": 2271
+},
+{
+"word": "survival",
+"score": 1899
+},
+{
+"word": "survive",
+"score": 1623
+},
+{
+"word": "survived",
+"score": 2264
+},
+{
+"word": "surviving",
+"score": 787
+},
+{
+"word": "suskind",
+"score": 252
+},
+{
+"word": "suspense",
+"score": 834
+},
+{
+"word": "suspenseful",
+"score": 895
+},
+{
+"word": "swatch",
+"score": 3349
+},
+{
+"word": "sweet",
+"score": 3021
+},
+{
+"word": "sweet",
+"score": 3023
+},
+{
+"word": "sweetness",
+"score": 3024
+},
+{
+"word": "sweets",
+"score": 3022
+},
+{
+"word": "swindle",
+"score": 2150
+},
+{
+"word": "sword",
+"score": 3302
+},
+{
+"word": "swot",
+"score": 1419
+},
+{
+"word": "syd",
+"score": 3641
+},
+{
+"word": "syllabi",
+"score": 885
+},
+{
+"word": "syllabus",
+"score": 312
+},
+{
+"word": "symmetry",
+"score": 1728
+},
+{
+"word": "sympathy",
+"score": 1833
+},
+{
+"word": "symposium",
+"score": 3466
+},
+{
+"word": "synopsis",
+"score": 553
+},
+{
+"word": "syrah",
+"score": 4244
+},
+{
+"word": "syriana",
+"score": 4131
+},
+{
+"word": "table",
+"score": 4498
+},
+{
+"word": "tables",
+"score": 4495
+},
+{
+"word": "tablet",
+"score": 2210
+},
+{
+"word": "tabloid",
+"score": 947
+},
+{
+"word": "tabloids",
+"score": 1798
+},
+{
+"word": "taboo",
+"score": 2976
+},
+{
+"word": "tactfully",
+"score": 3694
+},
+{
+"word": "tad",
+"score": 1944
+},
+{
+"word": "tag",
+"score": 1026
+},
+{
+"word": "tagore",
+"score": 2910
+},
+{
+"word": "tagore",
+"score": 2911
+},
+{
+"word": "tail",
+"score": 381
+},
+{
+"word": "takeaway",
+"score": 3894
+},
+{
+"word": "takeout",
+"score": 3893
+},
+{
+"word": "talbott",
+"score": 3751
+},
+{
+"word": "tale",
+"score": 223
+},
+{
+"word": "taleb",
+"score": 2971
+},
+{
+"word": "tales",
+"score": 115
+},
+{
+"word": "talk",
+"score": 3580
+},
+{
+"word": "talkin",
+"score": 3362
+},
+{
+"word": "tall",
+"score": 4526
+},
+{
+"word": "talmud",
+"score": 309
+},
+{
+"word": "talmud",
+"score": 310
+},
+{
+"word": "taming",
+"score": 3467
+},
+{
+"word": "tangent",
+"score": 4004
+},
+{
+"word": "tape",
+"score": 1058
+},
+{
+"word": "tapes",
+"score": 1057
+},
+{
+"word": "tapestries",
+"score": 3524
+},
+{
+"word": "tapestry",
+"score": 3523
+},
+{
+"word": "tartar",
+"score": 1890
+},
+{
+"word": "tarzan",
+"score": 4109
+},
+{
+"word": "tarzan",
+"score": 4110
+},
+{
+"word": "taslima",
+"score": 2117
+},
+{
+"word": "taste",
+"score": 3542
+},
+{
+"word": "taster",
+"score": 2657
+},
+{
+"word": "tasting",
+"score": 3543
+},
+{
+"word": "tasty",
+"score": 3063
+},
+{
+"word": "tattle",
+"score": 3488
+},
+{
+"word": "taught",
+"score": 2610
+},
+{
+"word": "taxidermy",
+"score": 3849
+},
+{
+"word": "tea",
+"score": 3002
+},
+{
+"word": "teach",
+"score": 1978
+},
+{
+"word": "teach",
+"score": 2141
+},
+{
+"word": "teaches",
+"score": 1979
+},
+{
+"word": "teaching",
+"score": 1829
+},
+{
+"word": "teachings",
+"score": 1831
+},
+{
+"word": "teas",
+"score": 3001
+},
+{
+"word": "tease",
+"score": 2723
+},
+{
+"word": "teaser",
+"score": 2726
+},
+{
+"word": "teasers",
+"score": 2725
+},
+{
+"word": "teasingly",
+"score": 2509
+},
+{
+"word": "technique",
+"score": 2105
+},
+{
+"word": "techniques",
+"score": 2106
+},
+{
+"word": "teddy",
+"score": 3472
+},
+{
+"word": "teeth",
+"score": 2331
+},
+{
+"word": "telegram",
+"score": 3191
+},
+{
+"word": "tell",
+"score": 4292
+},
+{
+"word": "tell",
+"score": 4293
+},
+{
+"word": "telling",
+"score": 3487
+},
+{
+"word": "tellingly",
+"score": 4154
+},
+{
+"word": "temper",
+"score": 1539
+},
+{
+"word": "templar",
+"score": 2348
+},
+{
+"word": "template",
+"score": 338
+},
+{
+"word": "temptation",
+"score": 960
+},
+{
+"word": "ten",
+"score": 3729
+},
+{
+"word": "tender",
+"score": 2164
+},
+{
+"word": "tenet",
+"score": 4212
+},
+{
+"word": "tenner",
+"score": 3730
+},
+{
+"word": "terror",
+"score": 2077
+},
+{
+"word": "terrors",
+"score": 2075
+},
+{
+"word": "testament",
+"score": 600
+},
+{
+"word": "testament",
+"score": 601
+},
+{
+"word": "testimonial",
+"score": 3089
+},
+{
+"word": "testimonials",
+"score": 3646
+},
+{
+"word": "testimony",
+"score": 3091
+},
+{
+"word": "text",
+"score": 154
+},
+{
+"word": "texts",
+"score": 153
+},
+{
+"word": "textual",
+"score": 3290
+},
+{
+"word": "theatrical",
+"score": 2769
+},
+{
+"word": "them",
+"score": 1711
+},
+{
+"word": "thematically",
+"score": 1984
+},
+{
+"word": "theme",
+"score": 2616
+},
+{
+"word": "themes",
+"score": 2709
+},
+{
+"word": "theologian",
+"score": 1089
+},
+{
+"word": "theologians",
+"score": 2291
+},
+{
+"word": "theological",
+"score": 3407
+},
+{
+"word": "theologically",
+"score": 3105
+},
+{
+"word": "theology",
+"score": 1099
+},
+{
+"word": "theories",
+"score": 1790
+},
+{
+"word": "theorist",
+"score": 951
+},
+{
+"word": "theorists",
+"score": 4428
+},
+{
+"word": "theory",
+"score": 416
+},
+{
+"word": "thermodynamics",
+"score": 2312
+},
+{
+"word": "theroux",
+"score": 758
+},
+{
+"word": "thesaurus",
+"score": 640
+},
+{
+"word": "theses",
+"score": 781
+},
+{
+"word": "thesis",
+"score": 152
+},
+{
+"word": "thief",
+"score": 986
+},
+{
+"word": "thing",
+"score": 1216
+},
+{
+"word": "thinker",
+"score": 671
+},
+{
+"word": "thinking",
+"score": 1183
+},
+{
+"word": "thirst",
+"score": 2514
+},
+{
+"word": "thoreau",
+"score": 398
+},
+{
+"word": "thoreau",
+"score": 399
+},
+{
+"word": "thought",
+"score": 1516
+},
+{
+"word": "thoughts",
+"score": 1517
+},
+{
+"word": "thousand",
+"score": 2505
+},
+{
+"word": "thread",
+"score": 1274
+},
+{
+"word": "threads",
+"score": 3086
+},
+{
+"word": "thriller",
+"score": 318
+},
+{
+"word": "thrillers",
+"score": 319
+},
+{
+"word": "thrive",
+"score": 3538
+},
+{
+"word": "thriving",
+"score": 2933
+},
+{
+"word": "throne",
+"score": 733
+},
+{
+"word": "thrones",
+"score": 735
+},
+{
+"word": "thumbed",
+"score": 3293
+},
+{
+"word": "thumbprint",
+"score": 3744
+},
+{
+"word": "thyme",
+"score": 1661
+},
+{
+"word": "ticket",
+"score": 1025
+},
+{
+"word": "tickets",
+"score": 2078
+},
+{
+"word": "tickle",
+"score": 4120
+},
+{
+"word": "tidbit",
+"score": 1747
+},
+{
+"word": "tidbits",
+"score": 3541
+},
+{
+"word": "tilt",
+"score": 3110
+},
+{
+"word": "time",
+"score": 2097
+},
+{
+"word": "timeless",
+"score": 1975
+},
+{
+"word": "timelessness",
+"score": 4382
+},
+{
+"word": "tintin",
+"score": 563
+},
+{
+"word": "tirade",
+"score": 2206
+},
+{
+"word": "titillating",
+"score": 2802
+},
+{
+"word": "title",
+"score": 1557
+},
+{
+"word": "titled",
+"score": 178
+},
+{
+"word": "titles",
+"score": 1559
+},
+{
+"word": "tnr",
+"score": 3143
+},
+{
+"word": "tofu",
+"score": 3474
+},
+{
+"word": "togs",
+"score": 3087
+},
+{
+"word": "toilet",
+"score": 734
+},
+{
+"word": "token",
+"score": 2906
+},
+{
+"word": "told",
+"score": 3356
+},
+{
+"word": "tolkien",
+"score": 264
+},
+{
+"word": "tolkien",
+"score": 265
+},
+{
+"word": "tolle",
+"score": 2374
+},
+{
+"word": "tolstoy",
+"score": 155
+},
+{
+"word": "tolstoy",
+"score": 156
+},
+{
+"word": "tomahawk",
+"score": 2475
+},
+{
+"word": "tombstone",
+"score": 1035
+},
+{
+"word": "tome",
+"score": 1
+},
+{
+"word": "tomes",
+"score": 13
+},
+{
+"word": "tone",
+"score": 3984
+},
+{
+"word": "tons",
+"score": 3545
+},
+{
+"word": "toolbox",
+"score": 3249
+},
+{
+"word": "toolkit",
+"score": 2742
+},
+{
+"word": "tooth",
+"score": 2301
+},
+{
+"word": "top",
+"score": 3569
+},
+{
+"word": "topic",
+"score": 2661
+},
+{
+"word": "topics",
+"score": 4463
+},
+{
+"word": "torah",
+"score": 1483
+},
+{
+"word": "torah",
+"score": 1484
+},
+{
+"word": "torch",
+"score": 3449
+},
+{
+"word": "tormenter",
+"score": 2724
+},
+{
+"word": "touch",
+"score": 599
+},
+{
+"word": "tour",
+"score": 3560
+},
+{
+"word": "towel",
+"score": 1707
+},
+{
+"word": "trace",
+"score": 379
+},
+{
+"word": "tract",
+"score": 40
+},
+{
+"word": "tradition",
+"score": 2532
+},
+{
+"word": "traditions",
+"score": 2530
+},
+{
+"word": "tragedy",
+"score": 1078
+},
+{
+"word": "trainspotting",
+"score": 3423
+},
+{
+"word": "traitor",
+"score": 617
+},
+{
+"word": "tranquillity",
+"score": 3273
+},
+{
+"word": "transcontinental",
+"score": 3266
+},
+{
+"word": "transcribed",
+"score": 4360
+},
+{
+"word": "transcript",
+"score": 135
+},
+{
+"word": "transcripts",
+"score": 1520
+},
+{
+"word": "transfiguration",
+"score": 330
+},
+{
+"word": "transformation",
+"score": 606
+},
+{
+"word": "transformed",
+"score": 1173
+},
+{
+"word": "transforming",
+"score": 3410
+},
+{
+"word": "translated",
+"score": 1818
+},
+{
+"word": "translation",
+"score": 605
+},
+{
+"word": "translations",
+"score": 607
+},
+{
+"word": "trashy",
+"score": 3877
+},
+{
+"word": "travails",
+"score": 3528
+},
+{
+"word": "travel",
+"score": 332
+},
+{
+"word": "traveler",
+"score": 2371
+},
+{
+"word": "travelogue",
+"score": 114
+},
+{
+"word": "travelport",
+"score": 4469
+},
+{
+"word": "travels",
+"score": 333
+},
+{
+"word": "treachery",
+"score": 119
+},
+{
+"word": "treason",
+"score": 1095
+},
+{
+"word": "treasure",
+"score": 753
+},
+{
+"word": "treasures",
+"score": 752
+},
+{
+"word": "treatise",
+"score": 24
+},
+{
+"word": "trenchant",
+"score": 2088
+},
+{
+"word": "tribute",
+"score": 3092
+},
+{
+"word": "trick",
+"score": 2129
+},
+{
+"word": "tricks",
+"score": 2130
+},
+{
+"word": "trilogy",
+"score": 62
+},
+{
+"word": "trim",
+"score": 2257
+},
+{
+"word": "trip",
+"score": 2510
+},
+{
+"word": "tripadvisor",
+"score": 4544
+},
+{
+"word": "tripper",
+"score": 2511
+},
+{
+"word": "trips",
+"score": 3418
+},
+{
+"word": "triptych",
+"score": 928
+},
+{
+"word": "trivia",
+"score": 4246
+},
+{
+"word": "triviality",
+"score": 4247
+},
+{
+"word": "trivium",
+"score": 4245
+},
+{
+"word": "trollope",
+"score": 459
+},
+{
+"word": "trollope",
+"score": 460
+},
+{
+"word": "trope",
+"score": 2471
+},
+{
+"word": "tropic",
+"score": 1112
+},
+{
+"word": "trotsky",
+"score": 1085
+},
+{
+"word": "trotsky",
+"score": 1086
+},
+{
+"word": "trouble",
+"score": 2583
+},
+{
+"word": "trouser",
+"score": 4025
+},
+{
+"word": "trove",
+"score": 3825
+},
+{
+"word": "trudeau",
+"score": 4189
+},
+{
+"word": "trumbo",
+"score": 4194
+},
+{
+"word": "trumbo",
+"score": 4195
+},
+{
+"word": "trusting",
+"score": 3609
+},
+{
+"word": "truth",
+"score": 1130
+},
+{
+"word": "truth",
+"score": 1131
+},
+{
+"word": "truthful",
+"score": 3812
+},
+{
+"word": "truths",
+"score": 4301
+},
+{
+"word": "tudor",
+"score": 4237
+},
+{
+"word": "tudors",
+"score": 4236
+},
+{
+"word": "tupac",
+"score": 2484
+},
+{
+"word": "turbulence",
+"score": 742
+},
+{
+"word": "tutor",
+"score": 3742
+},
+{
+"word": "tutorial",
+"score": 2063
+},
+{
+"word": "tutorials",
+"score": 3660
+},
+{
+"word": "tutors",
+"score": 3954
+},
+{
+"word": "twain",
+"score": 140
+},
+{
+"word": "tweet",
+"score": 3421
+},
+{
+"word": "twelve",
+"score": 4169
+},
+{
+"word": "twilight",
+"score": 665
+},
+{
+"word": "twisted",
+"score": 3072
+},
+{
+"word": "tycoon",
+"score": 2422
+},
+{
+"word": "tyndale",
+"score": 923
+},
+{
+"word": "tyndale",
+"score": 924
+},
+{
+"word": "typed",
+"score": 1692
+},
+{
+"word": "typeface",
+"score": 2285
+},
+{
+"word": "typewriter",
+"score": 1161
+},
+{
+"word": "typewritten",
+"score": 526
+},
+{
+"word": "typography",
+"score": 3107
+},
+{
+"word": "tyranny",
+"score": 243
+},
+{
+"word": "u",
+"score": 3075
+},
+{
+"word": "ugly",
+"score": 2300
+},
+{
+"word": "ultimate",
+"score": 2605
+},
+{
+"word": "ulysses",
+"score": 1450
+},
+{
+"word": "ulysses",
+"score": 1451
+},
+{
+"word": "unabashedly",
+"score": 3665
+},
+{
+"word": "unabomber",
+"score": 2404
+},
+{
+"word": "uncanny",
+"score": 4454
+},
+{
+"word": "unconventional",
+"score": 4522
+},
+{
+"word": "uncovered",
+"score": 2638
+},
+{
+"word": "uncovering",
+"score": 1232
+},
+{
+"word": "uncredited",
+"score": 3098
+},
+{
+"word": "underbelly",
+"score": 2188
+},
+{
+"word": "understanding",
+"score": 1834
+},
+{
+"word": "underworld",
+"score": 4453
+},
+{
+"word": "unearths",
+"score": 4092
+},
+{
+"word": "unexamined",
+"score": 2682
+},
+{
+"word": "unexpected",
+"score": 3220
+},
+{
+"word": "unfamiliarity",
+"score": 903
+},
+{
+"word": "unfinished",
+"score": 544
+},
+{
+"word": "unflinchingly",
+"score": 2684
+},
+{
+"word": "unforgettable",
+"score": 736
+},
+{
+"word": "universe",
+"score": 1972
+},
+{
+"word": "unknown",
+"score": 2953
+},
+{
+"word": "unleashed",
+"score": 2717
+},
+{
+"word": "unlocking",
+"score": 1357
+},
+{
+"word": "unpublished",
+"score": 132
+},
+{
+"word": "unread",
+"score": 483
+},
+{
+"word": "unreadable",
+"score": 3626
+},
+{
+"word": "unsafe",
+"score": 2664
+},
+{
+"word": "unseen",
+"score": 1087
+},
+{
+"word": "unsentimental",
+"score": 1231
+},
+{
+"word": "unsparing",
+"score": 1083
+},
+{
+"word": "unstoppable",
+"score": 2653
+},
+{
+"word": "untitled",
+"score": 409
+},
+{
+"word": "untruth",
+"score": 2091
+},
+{
+"word": "unwin",
+"score": 1217
+},
+{
+"word": "unwritten",
+"score": 2468
+},
+{
+"word": "updike",
+"score": 106
+},
+{
+"word": "updike",
+"score": 107
+},
+{
+"word": "uprising",
+"score": 3400
+},
+{
+"word": "uproarious",
+"score": 2824
+},
+{
+"word": "uracil",
+"score": 3078
+},
+{
+"word": "uranium",
+"score": 3077
+},
+{
+"word": "urge",
+"score": 3047
+},
+{
+"word": "urinal",
+"score": 2778
+},
+{
+"word": "us",
+"score": 3076
+},
+{
+"word": "useless",
+"score": 3902
+},
+{
+"word": "usher",
+"score": 337
+},
+{
+"word": "usurer",
+"score": 4143
+},
+{
+"word": "utopia",
+"score": 3643
+},
+{
+"word": "utopia",
+"score": 3644
+},
+{
+"word": "utopian",
+"score": 3419
+},
+{
+"word": "utopian",
+"score": 3420
+},
+{
+"word": "vacation",
+"score": 2942
+},
+{
+"word": "valentine",
+"score": 795
+},
+{
+"word": "valentine",
+"score": 796
+},
+{
+"word": "valentines",
+"score": 2302
+},
+{
+"word": "valet",
+"score": 3589
+},
+{
+"word": "validation",
+"score": 1922
+},
+{
+"word": "vampire",
+"score": 1713
+},
+{
+"word": "vanishing",
+"score": 741
+},
+{
+"word": "vanity",
+"score": 3920
+},
+{
+"word": "variety",
+"score": 3382
+},
+{
+"word": "vcds",
+"score": 4003
+},
+{
+"word": "vegan",
+"score": 1096
+},
+{
+"word": "vegetable",
+"score": 3101
+},
+{
+"word": "vegetarian",
+"score": 1731
+},
+{
+"word": "vegetation",
+"score": 823
+},
+{
+"word": "veggie",
+"score": 3102
+},
+{
+"word": "veil",
+"score": 2071
+},
+{
+"word": "vending",
+"score": 1950
+},
+{
+"word": "vengeance",
+"score": 2445
+},
+{
+"word": "venue",
+"score": 3477
+},
+{
+"word": "veranda",
+"score": 3501
+},
+{
+"word": "verbatim",
+"score": 1032
+},
+{
+"word": "verdict",
+"score": 3859
+},
+{
+"word": "verne",
+"score": 2212
+},
+{
+"word": "verne",
+"score": 2213
+},
+{
+"word": "verse",
+"score": 83
+},
+{
+"word": "verses",
+"score": 469
+},
+{
+"word": "version",
+"score": 513
+},
+{
+"word": "verso",
+"score": 4308
+},
+{
+"word": "vertigo",
+"score": 958
+},
+{
+"word": "vicissitude",
+"score": 3103
+},
+{
+"word": "vicissitudes",
+"score": 3104
+},
+{
+"word": "videodisk",
+"score": 684
+},
+{
+"word": "videotape",
+"score": 3283
+},
+{
+"word": "videotapes",
+"score": 3282
+},
+{
+"word": "view",
+"score": 2894
+},
+{
+"word": "vignette",
+"score": 561
+},
+{
+"word": "vignettes",
+"score": 890
+},
+{
+"word": "vinegar",
+"score": 1968
+},
+{
+"word": "vintner",
+"score": 3385
+},
+{
+"word": "visionary",
+"score": 3157
+},
+{
+"word": "viswanathan",
+"score": 1084
+},
+{
+"word": "vivid",
+"score": 4336
+},
+{
+"word": "vividly",
+"score": 4532
+},
+{
+"word": "viz",
+"score": 769
+},
+{
+"word": "vocabulary",
+"score": 1253
+},
+{
+"word": "vocation",
+"score": 4240
+},
+{
+"word": "vogue",
+"score": 2035
+},
+{
+"word": "voice",
+"score": 4165
+},
+{
+"word": "voices",
+"score": 4164
+},
+{
+"word": "vol",
+"score": 1532
+},
+{
+"word": "voltaire",
+"score": 3170
+},
+{
+"word": "voltaire",
+"score": 3171
+},
+{
+"word": "volume",
+"score": 2007
+},
+{
+"word": "volumes",
+"score": 2008
+},
+{
+"word": "voluminous",
+"score": 2662
+},
+{
+"word": "vonnegut",
+"score": 123
+},
+{
+"word": "vonnegut",
+"score": 124
+},
+{
+"word": "vowell",
+"score": 4387
+},
+{
+"word": "voyage",
+"score": 508
+},
+{
+"word": "voyages",
+"score": 750
+},
+{
+"word": "wag",
+"score": 1882
+},
+{
+"word": "waitress",
+"score": 2683
+},
+{
+"word": "waking",
+"score": 2479
+},
+{
+"word": "walk",
+"score": 2744
+},
+{
+"word": "walkabout",
+"score": 3971
+},
+{
+"word": "walking",
+"score": 3034
+},
+{
+"word": "walks",
+"score": 2745
+},
+{
+"word": "wanderer",
+"score": 2651
+},
+{
+"word": "wandering",
+"score": 3231
+},
+{
+"word": "wanderings",
+"score": 3679
+},
+{
+"word": "war",
+"score": 3177
+},
+{
+"word": "warburg",
+"score": 2665
+},
+{
+"word": "warburg",
+"score": 2666
+},
+{
+"word": "wardrobe",
+"score": 1191
+},
+{
+"word": "wars",
+"score": 3178
+},
+{
+"word": "wartime",
+"score": 1607
+},
+{
+"word": "washingtonian",
+"score": 1664
+},
+{
+"word": "washingtonian",
+"score": 1665
+},
+{
+"word": "wasserstein",
+"score": 3671
+},
+{
+"word": "wasteland",
+"score": 1091
+},
+{
+"word": "watchman",
+"score": 1415
+},
+{
+"word": "watchmen",
+"score": 1414
+},
+{
+"word": "watercolor",
+"score": 802
+},
+{
+"word": "watercolors",
+"score": 801
+},
+{
+"word": "waterstone",
+"score": 187
+},
+{
+"word": "way",
+"score": 2560
+},
+{
+"word": "wealth",
+"score": 927
+},
+{
+"word": "weave",
+"score": 3612
+},
+{
+"word": "weaves",
+"score": 3613
+},
+{
+"word": "webinar",
+"score": 1911
+},
+{
+"word": "webkinz",
+"score": 2969
+},
+{
+"word": "weblog",
+"score": 1784
+},
+{
+"word": "weblogs",
+"score": 3748
+},
+{
+"word": "webpage",
+"score": 3116
+},
+{
+"word": "website",
+"score": 3462
+},
+{
+"word": "weekend",
+"score": 4196
+},
+{
+"word": "weekends",
+"score": 4197
+},
+{
+"word": "weekly",
+"score": 3436
+},
+{
+"word": "weird",
+"score": 3865
+},
+{
+"word": "wenner",
+"score": 4518
+},
+{
+"word": "western",
+"score": 1992
+},
+{
+"word": "western",
+"score": 1993
+},
+{
+"word": "westerns",
+"score": 1991
+},
+{
+"word": "while",
+"score": 1012
+},
+{
+"word": "whimsical",
+"score": 3232
+},
+{
+"word": "whimsy",
+"score": 2878
+},
+{
+"word": "whirlwind",
+"score": 2703
+},
+{
+"word": "whisper",
+"score": 1980
+},
+{
+"word": "whispers",
+"score": 1981
+},
+{
+"word": "whistle",
+"score": 1783
+},
+{
+"word": "whitbread",
+"score": 1921
+},
+{
+"word": "whiteboard",
+"score": 2618
+},
+{
+"word": "whitepaper",
+"score": 290
+},
+{
+"word": "who",
+"score": 3747
+},
+{
+"word": "whodunit",
+"score": 564
+},
+{
+"word": "whore",
+"score": 1301
+},
+{
+"word": "whoremaster",
+"score": 2131
+},
+{
+"word": "why",
+"score": 2852
+},
+{
+"word": "whys",
+"score": 2851
+},
+{
+"word": "wiccan",
+"score": 906
+},
+{
+"word": "wicked",
+"score": 1395
+},
+{
+"word": "widow",
+"score": 1347
+},
+{
+"word": "wiesel",
+"score": 529
+},
+{
+"word": "wiesel",
+"score": 530
+},
+{
+"word": "wife",
+"score": 881
+},
+{
+"word": "wig",
+"score": 3723
+},
+{
+"word": "wiki",
+"score": 1624
+},
+{
+"word": "wikipedia",
+"score": 2095
+},
+{
+"word": "wilderness",
+"score": 3004
+},
+{
+"word": "wilderness",
+"score": 3005
+},
+{
+"word": "wiley",
+"score": 1702
+},
+{
+"word": "will",
+"score": 602
+},
+{
+"word": "willow",
+"score": 3717
+},
+{
+"word": "willows",
+"score": 3716
+},
+{
+"word": "windle",
+"score": 1573
+},
+{
+"word": "wine",
+"score": 4515
+},
+{
+"word": "winemaker",
+"score": 3386
+},
+{
+"word": "wines",
+"score": 4514
+},
+{
+"word": "winfrey",
+"score": 423
+},
+{
+"word": "wingnuts",
+"score": 2731
+},
+{
+"word": "winnie",
+"score": 1880
+},
+{
+"word": "winning",
+"score": 3200
+},
+{
+"word": "wisden",
+"score": 833
+},
+{
+"word": "wisdom",
+"score": 421
+},
+{
+"word": "wisecrack",
+"score": 2030
+},
+{
+"word": "wish",
+"score": 3044
+},
+{
+"word": "wishlist",
+"score": 4332
+},
+{
+"word": "wistful",
+"score": 2094
+},
+{
+"word": "wistfully",
+"score": 3137
+},
+{
+"word": "wit",
+"score": 1537
+},
+{
+"word": "witch",
+"score": 908
+},
+{
+"word": "witchcraft",
+"score": 1416
+},
+{
+"word": "witches",
+"score": 907
+},
+{
+"word": "witty",
+"score": 975
+},
+{
+"word": "wives",
+"score": 3224
+},
+{
+"word": "wizarding",
+"score": 2573
+},
+{
+"word": "wnd",
+"score": 3946
+},
+{
+"word": "woman",
+"score": 2561
+},
+{
+"word": "womanhood",
+"score": 2563
+},
+{
+"word": "wonder",
+"score": 1480
+},
+{
+"word": "wonderful",
+"score": 2782
+},
+{
+"word": "wonders",
+"score": 3492
+},
+{
+"word": "wonkette",
+"score": 2663
+},
+{
+"word": "woolf",
+"score": 1368
+},
+{
+"word": "woolf",
+"score": 1369
+},
+{
+"word": "word",
+"score": 610
+},
+{
+"word": "wordless",
+"score": 1349
+},
+{
+"word": "wordplay",
+"score": 3403
+},
+{
+"word": "words",
+"score": 612
+},
+{
+"word": "wordsmith",
+"score": 879
+},
+{
+"word": "wordsworth",
+"score": 1330
+},
+{
+"word": "wordsworth",
+"score": 1331
+},
+{
+"word": "wordy",
+"score": 1264
+},
+{
+"word": "works",
+"score": 4416
+},
+{
+"word": "worksheet",
+"score": 934
+},
+{
+"word": "worksheets",
+"score": 935
+},
+{
+"word": "workshop",
+"score": 4241
+},
+{
+"word": "world",
+"score": 1049
+},
+{
+"word": "worldnetdaily",
+"score": 2592
+},
+{
+"word": "worlds",
+"score": 2029
+},
+{
+"word": "worldview",
+"score": 2268
+},
+{
+"word": "wrath",
+"score": 4020
+},
+{
+"word": "wrinkle",
+"score": 1169
+},
+{
+"word": "write",
+"score": 236
+},
+{
+"word": "writer",
+"score": 19
+},
+{
+"word": "writers",
+"score": 1449
+},
+{
+"word": "writes",
+"score": 523
+},
+{
+"word": "writing",
+"score": 41
+},
+{
+"word": "writings",
+"score": 42
+},
+{
+"word": "written",
+"score": 171
+},
+{
+"word": "wroblewski",
+"score": 2692
+},
+{
+"word": "wrong",
+"score": 2199
+},
+{
+"word": "wrote",
+"score": 860
+},
+{
+"word": "wry",
+"score": 2043
+},
+{
+"word": "wryly",
+"score": 830
+},
+{
+"word": "wyrd",
+"score": 3866
+},
+{
+"word": "ya",
+"score": 259
+},
+{
+"word": "yarn",
+"score": 1275
+},
+{
+"word": "yarns",
+"score": 1691
+},
+{
+"word": "year",
+"score": 1860
+},
+{
+"word": "years",
+"score": 1859
+},
+{
+"word": "yeats",
+"score": 1463
+},
+{
+"word": "yeats",
+"score": 1464
+},
+{
+"word": "yellowed",
+"score": 2098
+},
+{
+"word": "yellowing",
+"score": 2959
+},
+{
+"word": "yiddish",
+"score": 1421
+},
+{
+"word": "yiddish",
+"score": 1422
+},
+{
+"word": "yours",
+"score": 4104
+},
+{
+"word": "yourself",
+"score": 1938
+},
+{
+"word": "zeitgeist",
+"score": 3630
+},
+{
+"word": "zeitgeist",
+"score": 3631
+},
+{
+"word": "zelda",
+"score": 2184
+},
+{
+"word": "zesty",
+"score": 4393
+},
+{
+"word": "zine",
+"score": 125
+},
+{
+"word": "zinger",
+"score": 1394
+},
+{
+"word": "zinn",
+"score": 1999
+},
+{
+"word": "zionism",
+"score": 3582
+},
+{
+"word": "zionism",
+"score": 3583
+},
+{
+"word": "zohar",
+"score": 2850
+},
+{
+"word": "zombi",
+"score": 2595
+},
+{
+"word": "zombie",
+"score": 2597
+},
+{
+"word": "zombies",
+"score": 2598
+},
+{
+"word": "zondervan",
+"score": 197
+},
+{
+"word": "zora",
+"score": 3715
+},
+{
+"word": "zweig",
+"score": 4413
+},
+{
+"word": "zweig",
+"score": 4414
+}
+]
+}

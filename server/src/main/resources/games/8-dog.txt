@@ -1,0 +1,5973 @@
+{
+"hints": [
+"I have a collar but no neck, I have a tail but no body. I roam the countryside, yet never stray. What am I?",
+"I can be long or short, I can be grown but I won't be found. I can be painted or left bare, I can be round or square. What am I?",
+"I am taken from a mine, and shut up in a wooden case, from which I am never released, and yet I am used by almost every living person. What am I?"
+],
+"associations": [
+{
+"word": "aardvark",
+"score": 1186
+},
+{
+"word": "aarf",
+"score": 508
+},
+{
+"word": "aawl",
+"score": 942
+},
+{
+"word": "adoptable",
+"score": 867
+},
+{
+"word": "adoptathon",
+"score": 566
+},
+{
+"word": "affenpinscher",
+"score": 642
+},
+{
+"word": "aibo",
+"score": 1388
+},
+{
+"word": "akc",
+"score": 342
+},
+{
+"word": "akita",
+"score": 97
+},
+{
+"word": "akitas",
+"score": 168
+},
+{
+"word": "alcornites",
+"score": 550
+},
+{
+"word": "allen",
+"score": 817
+},
+{
+"word": "allerca",
+"score": 1316
+},
+{
+"word": "alligator",
+"score": 247
+},
+{
+"word": "alligators",
+"score": 1145
+},
+{
+"word": "alpaca",
+"score": 759
+},
+{
+"word": "alpacas",
+"score": 758
+},
+{
+"word": "alpo",
+"score": 902
+},
+{
+"word": "alsatian",
+"score": 58
+},
+{
+"word": "alsatian",
+"score": 59
+},
+{
+"word": "alsatians",
+"score": 298
+},
+{
+"word": "alsation",
+"score": 377
+},
+{
+"word": "alsky",
+"score": 1409
+},
+{
+"word": "anapka",
+"score": 1422
+},
+{
+"word": "animal",
+"score": 45
+},
+{
+"word": "animals",
+"score": 112
+},
+{
+"word": "animalsave",
+"score": 474
+},
+{
+"word": "animeals",
+"score": 891
+},
+{
+"word": "anteater",
+"score": 1184
+},
+{
+"word": "anupan",
+"score": 1032
+},
+{
+"word": "apdt",
+"score": 1068
+},
+{
+"word": "appaloosa",
+"score": 310
+},
+{
+"word": "appaloosa",
+"score": 311
+},
+{
+"word": "appliance",
+"score": 397
+},
+{
+"word": "apso",
+"score": 238
+},
+{
+"word": "archigo",
+"score": 546
+},
+{
+"word": "arf",
+"score": 1296
+},
+{
+"word": "arrf",
+"score": 1387
+},
+{
+"word": "arste",
+"score": 572
+},
+{
+"word": "ashera",
+"score": 990
+},
+{
+"word": "aspca",
+"score": 419
+},
+{
+"word": "astrophe",
+"score": 1306
+},
+{
+"word": "asvestas",
+"score": 1287
+},
+{
+"word": "australovenator",
+"score": 1218
+},
+{
+"word": "awsom",
+"score": 767
+},
+{
+"word": "baboon",
+"score": 846
+},
+{
+"word": "baby",
+"score": 1400
+},
+{
+"word": "babygirl",
+"score": 317
+},
+{
+"word": "babysitter",
+"score": 920
+},
+{
+"word": "badger",
+"score": 1376
+},
+{
+"word": "bagio",
+"score": 1031
+},
+{
+"word": "baierschmidt",
+"score": 333
+},
+{
+"word": "baloo",
+"score": 1390
+},
+{
+"word": "barcs",
+"score": 448
+},
+{
+"word": "bark",
+"score": 506
+},
+{
+"word": "barkery",
+"score": 587
+},
+{
+"word": "barkin",
+"score": 504
+},
+{
+"word": "barking",
+"score": 412
+},
+{
+"word": "barks",
+"score": 781
+},
+{
+"word": "barktoberfest",
+"score": 776
+},
+{
+"word": "barky",
+"score": 789
+},
+{
+"word": "basenji",
+"score": 117
+},
+{
+"word": "baskfield",
+"score": 1439
+},
+{
+"word": "bassarisk",
+"score": 1342
+},
+{
+"word": "basset",
+"score": 86
+},
+{
+"word": "bassets",
+"score": 151
+},
+{
+"word": "bassett",
+"score": 470
+},
+{
+"word": "bastard",
+"score": 368
+},
+{
+"word": "bastreri",
+"score": 1313
+},
+{
+"word": "batkis",
+"score": 890
+},
+{
+"word": "bauck",
+"score": 1093
+},
+{
+"word": "baugnon",
+"score": 1317
+},
+{
+"word": "baurile",
+"score": 1458
+},
+{
+"word": "bauston",
+"score": 676
+},
+{
+"word": "baying",
+"score": 885
+},
+{
+"word": "bcspca",
+"score": 763
+},
+{
+"word": "beagle",
+"score": 9
+},
+{
+"word": "beagles",
+"score": 134
+},
+{
+"word": "bear",
+"score": 1202
+},
+{
+"word": "beard",
+"score": 328
+},
+{
+"word": "beardie",
+"score": 1336
+},
+{
+"word": "beast",
+"score": 438
+},
+{
+"word": "beauceron",
+"score": 762
+},
+{
+"word": "beaver",
+"score": 861
+},
+{
+"word": "beesecker",
+"score": 1453
+},
+{
+"word": "behaviorist",
+"score": 570
+},
+{
+"word": "behaviourists",
+"score": 996
+},
+{
+"word": "beneful",
+"score": 339
+},
+{
+"word": "berloni",
+"score": 966
+},
+{
+"word": "bettas",
+"score": 835
+},
+{
+"word": "bettle",
+"score": 1362
+},
+{
+"word": "bichon",
+"score": 53
+},
+{
+"word": "bichons",
+"score": 127
+},
+{
+"word": "bideawee",
+"score": 516
+},
+{
+"word": "biegner",
+"score": 1254
+},
+{
+"word": "binkey",
+"score": 1442
+},
+{
+"word": "binkie",
+"score": 1367
+},
+{
+"word": "binx",
+"score": 1358
+},
+{
+"word": "bird",
+"score": 421
+},
+{
+"word": "bit",
+"score": 705
+},
+{
+"word": "biter",
+"score": 883
+},
+{
+"word": "blackbird",
+"score": 660
+},
+{
+"word": "blackie",
+"score": 755
+},
+{
+"word": "blacky",
+"score": 884
+},
+{
+"word": "blankey",
+"score": 1310
+},
+{
+"word": "blankie",
+"score": 1228
+},
+{
+"word": "blek",
+"score": 1034
+},
+{
+"word": "blondi",
+"score": 485
+},
+{
+"word": "bloodhound",
+"score": 109
+},
+{
+"word": "bloodhounds",
+"score": 955
+},
+{
+"word": "bluetick",
+"score": 276
+},
+{
+"word": "blumig",
+"score": 360
+},
+{
+"word": "boa",
+"score": 1025
+},
+{
+"word": "boar",
+"score": 547
+},
+{
+"word": "bobbie",
+"score": 1455
+},
+{
+"word": "bobcat",
+"score": 246
+},
+{
+"word": "bobo",
+"score": 819
+},
+{
+"word": "bogeyman",
+"score": 1214
+},
+{
+"word": "bokito",
+"score": 1051
+},
+{
+"word": "bomber",
+"score": 646
+},
+{
+"word": "boo",
+"score": 420
+},
+{
+"word": "booboo",
+"score": 609
+},
+{
+"word": "booger",
+"score": 1215
+},
+{
+"word": "boonie",
+"score": 560
+},
+{
+"word": "bordatella",
+"score": 719
+},
+{
+"word": "bordetella",
+"score": 1181
+},
+{
+"word": "borzoi",
+"score": 137
+},
+{
+"word": "borzois",
+"score": 970
+},
+{
+"word": "bouviers",
+"score": 1074
+},
+{
+"word": "bowlingual",
+"score": 1318
+},
+{
+"word": "boy",
+"score": 1477
+},
+{
+"word": "breed",
+"score": 489
+},
+{
+"word": "breeder",
+"score": 569
+},
+{
+"word": "breeders",
+"score": 1340
+},
+{
+"word": "breeds",
+"score": 488
+},
+{
+"word": "bretagne",
+"score": 582
+},
+{
+"word": "brindi",
+"score": 120
+},
+{
+"word": "brindle",
+"score": 239
+},
+{
+"word": "brindled",
+"score": 365
+},
+{
+"word": "brittanys",
+"score": 581
+},
+{
+"word": "britty",
+"score": 1433
+},
+{
+"word": "brookhouser",
+"score": 976
+},
+{
+"word": "bruin",
+"score": 476
+},
+{
+"word": "bruiser",
+"score": 529
+},
+{
+"word": "brunacci",
+"score": 1369
+},
+{
+"word": "brunston",
+"score": 1255
+},
+{
+"word": "brutis",
+"score": 228
+},
+{
+"word": "brutus",
+"score": 1314
+},
+{
+"word": "brutus",
+"score": 1315
+},
+{
+"word": "bspca",
+"score": 1452
+},
+{
+"word": "buddy",
+"score": 1265
+},
+{
+"word": "budgerigar",
+"score": 521
+},
+{
+"word": "budgerigars",
+"score": 849
+},
+{
+"word": "budgie",
+"score": 522
+},
+{
+"word": "budgies",
+"score": 692
+},
+{
+"word": "bugenig",
+"score": 532
+},
+{
+"word": "bull",
+"score": 426
+},
+{
+"word": "bulldozer",
+"score": 1220
+},
+{
+"word": "bullhook",
+"score": 1149
+},
+{
+"word": "bullmastiff",
+"score": 25
+},
+{
+"word": "bullmastiffs",
+"score": 73
+},
+{
+"word": "bunnies",
+"score": 725
+},
+{
+"word": "bunny",
+"score": 204
+},
+{
+"word": "burgler",
+"score": 800
+},
+{
+"word": "burguess",
+"score": 724
+},
+{
+"word": "burlap",
+"score": 1146
+},
+{
+"word": "burmese",
+"score": 798
+},
+{
+"word": "burmese",
+"score": 799
+},
+{
+"word": "burro",
+"score": 517
+},
+{
+"word": "bushwalker",
+"score": 839
+},
+{
+"word": "butt",
+"score": 219
+},
+{
+"word": "buttercup",
+"score": 1330
+},
+{
+"word": "butterscotch",
+"score": 1285
+},
+{
+"word": "buttkiss",
+"score": 1341
+},
+{
+"word": "buttocks",
+"score": 1406
+},
+{
+"word": "buzzard",
+"score": 919
+},
+{
+"word": "cad",
+"score": 253
+},
+{
+"word": "cage",
+"score": 1356
+},
+{
+"word": "cage",
+"score": 1357
+},
+{
+"word": "cageless",
+"score": 756
+},
+{
+"word": "caisha",
+"score": 1378
+},
+{
+"word": "caizza",
+"score": 576
+},
+{
+"word": "calgiano",
+"score": 752
+},
+{
+"word": "calico",
+"score": 764
+},
+{
+"word": "canids",
+"score": 1279
+},
+{
+"word": "canine",
+"score": 13
+},
+{
+"word": "canines",
+"score": 14
+},
+{
+"word": "capricorn",
+"score": 221
+},
+{
+"word": "capuchin",
+"score": 484
+},
+{
+"word": "capybara",
+"score": 808
+},
+{
+"word": "capybaras",
+"score": 809
+},
+{
+"word": "caracal",
+"score": 1019
+},
+{
+"word": "carasia",
+"score": 1414
+},
+{
+"word": "carbajales",
+"score": 873
+},
+{
+"word": "caressing",
+"score": 353
+},
+{
+"word": "caribou",
+"score": 1223
+},
+{
+"word": "carnivore",
+"score": 1269
+},
+{
+"word": "cat",
+"score": 5
+},
+{
+"word": "catbook",
+"score": 1060
+},
+{
+"word": "caterpillar",
+"score": 3
+},
+{
+"word": "catflap",
+"score": 1124
+},
+{
+"word": "catfood",
+"score": 505
+},
+{
+"word": "cathouse",
+"score": 1264
+},
+{
+"word": "catmint",
+"score": 1463
+},
+{
+"word": "catnapped",
+"score": 326
+},
+{
+"word": "catnip",
+"score": 1464
+},
+{
+"word": "cats",
+"score": 31
+},
+{
+"word": "catteries",
+"score": 700
+},
+{
+"word": "cattery",
+"score": 649
+},
+{
+"word": "cavalry",
+"score": 282
+},
+{
+"word": "cavies",
+"score": 523
+},
+{
+"word": "cavy",
+"score": 312
+},
+{
+"word": "caydee",
+"score": 1307
+},
+{
+"word": "ccspca",
+"score": 664
+},
+{
+"word": "cerberus",
+"score": 1247
+},
+{
+"word": "chaboudy",
+"score": 595
+},
+{
+"word": "cheeko",
+"score": 743
+},
+{
+"word": "cheetah",
+"score": 513
+},
+{
+"word": "cheetahs",
+"score": 1288
+},
+{
+"word": "chewey",
+"score": 434
+},
+{
+"word": "chewie",
+"score": 794
+},
+{
+"word": "chewies",
+"score": 1426
+},
+{
+"word": "chewy",
+"score": 429
+},
+{
+"word": "chicken",
+"score": 974
+},
+{
+"word": "chickens",
+"score": 973
+},
+{
+"word": "chihuahua",
+"score": 15
+},
+{
+"word": "chihuahua",
+"score": 16
+},
+{
+"word": "chihuahuas",
+"score": 99
+},
+{
+"word": "child",
+"score": 1140
+},
+{
+"word": "chimp",
+"score": 190
+},
+{
+"word": "chimpanzee",
+"score": 189
+},
+{
+"word": "chimps",
+"score": 1108
+},
+{
+"word": "chinchilla",
+"score": 620
+},
+{
+"word": "chinchillas",
+"score": 619
+},
+{
+"word": "chip",
+"score": 634
+},
+{
+"word": "chipmunk",
+"score": 1128
+},
+{
+"word": "chocobo",
+"score": 807
+},
+{
+"word": "choker",
+"score": 1157
+},
+{
+"word": "chomper",
+"score": 1012
+},
+{
+"word": "chortyk",
+"score": 401
+},
+{
+"word": "chow",
+"score": 460
+},
+{
+"word": "chows",
+"score": 462
+},
+{
+"word": "chubbs",
+"score": 1295
+},
+{
+"word": "chulo",
+"score": 1399
+},
+{
+"word": "cills",
+"score": 590
+},
+{
+"word": "cinnabun",
+"score": 277
+},
+{
+"word": "cisero",
+"score": 952
+},
+{
+"word": "cistaro",
+"score": 722
+},
+{
+"word": "citikitty",
+"score": 1251
+},
+{
+"word": "claw",
+"score": 1198
+},
+{
+"word": "cloudin",
+"score": 314
+},
+{
+"word": "clucky",
+"score": 953
+},
+{
+"word": "clydesdale",
+"score": 876
+},
+{
+"word": "clydesdale",
+"score": 877
+},
+{
+"word": "coach",
+"score": 417
+},
+{
+"word": "coati",
+"score": 392
+},
+{
+"word": "coatimundi",
+"score": 913
+},
+{
+"word": "coatis",
+"score": 1089
+},
+{
+"word": "cobianchi",
+"score": 745
+},
+{
+"word": "cobra",
+"score": 1129
+},
+{
+"word": "cock",
+"score": 202
+},
+{
+"word": "cockapoo",
+"score": 48
+},
+{
+"word": "cockapoos",
+"score": 132
+},
+{
+"word": "cockateel",
+"score": 156
+},
+{
+"word": "cockatiel",
+"score": 157
+},
+{
+"word": "cockatiels",
+"score": 579
+},
+{
+"word": "cockatoo",
+"score": 786
+},
+{
+"word": "cocker",
+"score": 96
+},
+{
+"word": "cockerel",
+"score": 1267
+},
+{
+"word": "cockerels",
+"score": 1268
+},
+{
+"word": "cockers",
+"score": 313
+},
+{
+"word": "cockroach",
+"score": 959
+},
+{
+"word": "colicheski",
+"score": 934
+},
+{
+"word": "collar",
+"score": 148
+},
+{
+"word": "collie",
+"score": 28
+},
+{
+"word": "collies",
+"score": 103
+},
+{
+"word": "companion",
+"score": 1191
+},
+{
+"word": "conheim",
+"score": 1338
+},
+{
+"word": "constrictor",
+"score": 962
+},
+{
+"word": "conure",
+"score": 654
+},
+{
+"word": "coogie",
+"score": 272
+},
+{
+"word": "coon",
+"score": 1102
+},
+{
+"word": "coonhound",
+"score": 78
+},
+{
+"word": "coonhounds",
+"score": 210
+},
+{
+"word": "copperhead",
+"score": 384
+},
+{
+"word": "corgi",
+"score": 79
+},
+{
+"word": "corgis",
+"score": 285
+},
+{
+"word": "corsos",
+"score": 957
+},
+{
+"word": "cottontail",
+"score": 986
+},
+{
+"word": "cougar",
+"score": 237
+},
+{
+"word": "cougars",
+"score": 1312
+},
+{
+"word": "couture",
+"score": 1126
+},
+{
+"word": "coutures",
+"score": 1125
+},
+{
+"word": "cow",
+"score": 748
+},
+{
+"word": "coyote",
+"score": 75
+},
+{
+"word": "coyotes",
+"score": 357
+},
+{
+"word": "crap",
+"score": 614
+},
+{
+"word": "crate",
+"score": 726
+},
+{
+"word": "creature",
+"score": 771
+},
+{
+"word": "crimefighter",
+"score": 1245
+},
+{
+"word": "critter",
+"score": 182
+},
+{
+"word": "critters",
+"score": 563
+},
+{
+"word": "croc",
+"score": 834
+},
+{
+"word": "crocodile",
+"score": 1158
+},
+{
+"word": "crocosaurus",
+"score": 1071
+},
+{
+"word": "crossbreed",
+"score": 618
+},
+{
+"word": "crossbreeds",
+"score": 656
+},
+{
+"word": "cruella",
+"score": 951
+},
+{
+"word": "cruft",
+"score": 379
+},
+{
+"word": "crufts",
+"score": 555
+},
+{
+"word": "crusier",
+"score": 1116
+},
+{
+"word": "cspca",
+"score": 1114
+},
+{
+"word": "cub",
+"score": 567
+},
+{
+"word": "cubs",
+"score": 626
+},
+{
+"word": "cuddle",
+"score": 213
+},
+{
+"word": "cuddler",
+"score": 988
+},
+{
+"word": "cuddles",
+"score": 844
+},
+{
+"word": "cuddly",
+"score": 1489
+},
+{
+"word": "cujo",
+"score": 598
+},
+{
+"word": "cunt",
+"score": 915
+},
+{
+"word": "cur",
+"score": 51
+},
+{
+"word": "curs",
+"score": 989
+},
+{
+"word": "cuy",
+"score": 1010
+},
+{
+"word": "cygnet",
+"score": 1480
+},
+{
+"word": "dachshund",
+"score": 20
+},
+{
+"word": "dachshunds",
+"score": 74
+},
+{
+"word": "dachsund",
+"score": 76
+},
+{
+"word": "daileys",
+"score": 1204
+},
+{
+"word": "dalmatian",
+"score": 55
+},
+{
+"word": "dalmatian",
+"score": 56
+},
+{
+"word": "dalmatians",
+"score": 154
+},
+{
+"word": "dalmation",
+"score": 77
+},
+{
+"word": "dalmations",
+"score": 1249
+},
+{
+"word": "dame",
+"score": 422
+},
+{
+"word": "dancosse",
+"score": 1427
+},
+{
+"word": "dandie",
+"score": 1038
+},
+{
+"word": "dane",
+"score": 949
+},
+{
+"word": "danes",
+"score": 950
+},
+{
+"word": "daphneyland",
+"score": 1420
+},
+{
+"word": "darling",
+"score": 17
+},
+{
+"word": "daschund",
+"score": 67
+},
+{
+"word": "daugereau",
+"score": 853
+},
+{
+"word": "dawg",
+"score": 1270
+},
+{
+"word": "debarking",
+"score": 1384
+},
+{
+"word": "decando",
+"score": 414
+},
+{
+"word": "declawed",
+"score": 463
+},
+{
+"word": "declawing",
+"score": 882
+},
+{
+"word": "deer",
+"score": 1239
+},
+{
+"word": "deerhound",
+"score": 209
+},
+{
+"word": "defiesta",
+"score": 1190
+},
+{
+"word": "delarrian",
+"score": 1135
+},
+{
+"word": "denardi",
+"score": 591
+},
+{
+"word": "deramaxx",
+"score": 371
+},
+{
+"word": "deserter",
+"score": 1441
+},
+{
+"word": "desex",
+"score": 294
+},
+{
+"word": "desexed",
+"score": 370
+},
+{
+"word": "desexing",
+"score": 534
+},
+{
+"word": "devocalization",
+"score": 773
+},
+{
+"word": "devocalized",
+"score": 230
+},
+{
+"word": "dewclaws",
+"score": 386
+},
+{
+"word": "dingo",
+"score": 373
+},
+{
+"word": "dingoes",
+"score": 698
+},
+{
+"word": "dingos",
+"score": 895
+},
+{
+"word": "diogi",
+"score": 912
+},
+{
+"word": "distemper",
+"score": 728
+},
+{
+"word": "doberman",
+"score": 21
+},
+{
+"word": "doberman",
+"score": 22
+},
+{
+"word": "dobermann",
+"score": 718
+},
+{
+"word": "dobermans",
+"score": 181
+},
+{
+"word": "dodger",
+"score": 173
+},
+{
+"word": "doe",
+"score": 1449
+},
+{
+"word": "dog",
+"score": 0
+},
+{
+"word": "dolphin",
+"score": 1003
+},
+{
+"word": "dolphinfish",
+"score": 1002
+},
+{
+"word": "donkey",
+"score": 331
+},
+{
+"word": "donkeys",
+"score": 1069
+},
+{
+"word": "doodad",
+"score": 398
+},
+{
+"word": "doodoo",
+"score": 1363
+},
+{
+"word": "doody",
+"score": 1130
+},
+{
+"word": "dookie",
+"score": 1373
+},
+{
+"word": "dope",
+"score": 613
+},
+{
+"word": "dosha",
+"score": 911
+},
+{
+"word": "dovelewis",
+"score": 481
+},
+{
+"word": "dozer",
+"score": 1219
+},
+{
+"word": "dratfield",
+"score": 943
+},
+{
+"word": "dribbler",
+"score": 1000
+},
+{
+"word": "driml",
+"score": 477
+},
+{
+"word": "dromedary",
+"score": 1142
+},
+{
+"word": "drool",
+"score": 836
+},
+{
+"word": "drooler",
+"score": 999
+},
+{
+"word": "drooly",
+"score": 1036
+},
+{
+"word": "drullinger",
+"score": 1172
+},
+{
+"word": "dspca",
+"score": 1382
+},
+{
+"word": "duckies",
+"score": 1033
+},
+{
+"word": "duckling",
+"score": 857
+},
+{
+"word": "ducklings",
+"score": 1328
+},
+{
+"word": "dugg",
+"score": 1096
+},
+{
+"word": "dukey",
+"score": 1394
+},
+{
+"word": "duming",
+"score": 732
+},
+{
+"word": "dun",
+"score": 690
+},
+{
+"word": "durcinka",
+"score": 158
+},
+{
+"word": "durgerian",
+"score": 894
+},
+{
+"word": "dymia",
+"score": 1334
+},
+{
+"word": "eaglebarger",
+"score": 410
+},
+{
+"word": "echidna",
+"score": 1187
+},
+{
+"word": "einsig",
+"score": 956
+},
+{
+"word": "elephant",
+"score": 716
+},
+{
+"word": "elephants",
+"score": 1016
+},
+{
+"word": "elk",
+"score": 868
+},
+{
+"word": "elkhound",
+"score": 344
+},
+{
+"word": "emu",
+"score": 512
+},
+{
+"word": "emus",
+"score": 1327
+},
+{
+"word": "enano",
+"score": 1007
+},
+{
+"word": "endal",
+"score": 841
+},
+{
+"word": "equine",
+"score": 402
+},
+{
+"word": "equines",
+"score": 403
+},
+{
+"word": "eukanuba",
+"score": 739
+},
+{
+"word": "euthanase",
+"score": 1030
+},
+{
+"word": "euthanased",
+"score": 1163
+},
+{
+"word": "euthanasia",
+"score": 1243
+},
+{
+"word": "euthanasias",
+"score": 1242
+},
+{
+"word": "euthanasing",
+"score": 720
+},
+{
+"word": "euthanise",
+"score": 958
+},
+{
+"word": "euthanised",
+"score": 736
+},
+{
+"word": "euthanising",
+"score": 984
+},
+{
+"word": "euthanization",
+"score": 1088
+},
+{
+"word": "euthanizations",
+"score": 1424
+},
+{
+"word": "euthanize",
+"score": 770
+},
+{
+"word": "euthanized",
+"score": 250
+},
+{
+"word": "euthanizes",
+"score": 1298
+},
+{
+"word": "euthanizing",
+"score": 1178
+},
+{
+"word": "euthenized",
+"score": 222
+},
+{
+"word": "faibish",
+"score": 622
+},
+{
+"word": "falcon",
+"score": 757
+},
+{
+"word": "falcor",
+"score": 350
+},
+{
+"word": "farinato",
+"score": 1488
+},
+{
+"word": "farquer",
+"score": 1258
+},
+{
+"word": "farrier",
+"score": 1256
+},
+{
+"word": "fasseas",
+"score": 1179
+},
+{
+"word": "fathead",
+"score": 1138
+},
+{
+"word": "fawks",
+"score": 1448
+},
+{
+"word": "fawn",
+"score": 689
+},
+{
+"word": "feist",
+"score": 241
+},
+{
+"word": "feline",
+"score": 72
+},
+{
+"word": "felines",
+"score": 102
+},
+{
+"word": "felv",
+"score": 1282
+},
+{
+"word": "feral",
+"score": 1383
+},
+{
+"word": "ferals",
+"score": 637
+},
+{
+"word": "ferret",
+"score": 631
+},
+{
+"word": "ferrets",
+"score": 632
+},
+{
+"word": "ferrier",
+"score": 965
+},
+{
+"word": "fetko",
+"score": 1479
+},
+{
+"word": "fidelco",
+"score": 1072
+},
+{
+"word": "fido",
+"score": 139
+},
+{
+"word": "fidos",
+"score": 338
+},
+{
+"word": "fight",
+"score": 708
+},
+{
+"word": "fiv",
+"score": 1073
+},
+{
+"word": "flea",
+"score": 322
+},
+{
+"word": "fleas",
+"score": 323
+},
+{
+"word": "flexpetz",
+"score": 643
+},
+{
+"word": "flopsy",
+"score": 541
+},
+{
+"word": "fluffball",
+"score": 526
+},
+{
+"word": "fluffy",
+"score": 175
+},
+{
+"word": "flyball",
+"score": 561
+},
+{
+"word": "fonzy",
+"score": 831
+},
+{
+"word": "forepaw",
+"score": 1079
+},
+{
+"word": "forepaws",
+"score": 1078
+},
+{
+"word": "fosterer",
+"score": 573
+},
+{
+"word": "fosterers",
+"score": 828
+},
+{
+"word": "fotas",
+"score": 679
+},
+{
+"word": "fourwheeler",
+"score": 1308
+},
+{
+"word": "fowl",
+"score": 1118
+},
+{
+"word": "fox",
+"score": 172
+},
+{
+"word": "fox",
+"score": 174
+},
+{
+"word": "foxes",
+"score": 703
+},
+{
+"word": "foxey",
+"score": 945
+},
+{
+"word": "foxhound",
+"score": 94
+},
+{
+"word": "foxhounds",
+"score": 539
+},
+{
+"word": "foxhunt",
+"score": 1164
+},
+{
+"word": "foxie",
+"score": 510
+},
+{
+"word": "foxtail",
+"score": 1150
+},
+{
+"word": "foxtails",
+"score": 1151
+},
+{
+"word": "fozzie",
+"score": 968
+},
+{
+"word": "fraidy",
+"score": 711
+},
+{
+"word": "frank",
+"score": 274
+},
+{
+"word": "frankfurter",
+"score": 1053
+},
+{
+"word": "freckle",
+"score": 259
+},
+{
+"word": "freckles",
+"score": 258
+},
+{
+"word": "frill",
+"score": 1155
+},
+{
+"word": "frisbee",
+"score": 940
+},
+{
+"word": "frisbee",
+"score": 941
+},
+{
+"word": "friskies",
+"score": 1028
+},
+{
+"word": "friskiest",
+"score": 875
+},
+{
+"word": "frize",
+"score": 1350
+},
+{
+"word": "frog",
+"score": 947
+},
+{
+"word": "furball",
+"score": 430
+},
+{
+"word": "furballs",
+"score": 588
+},
+{
+"word": "furever",
+"score": 822
+},
+{
+"word": "furless",
+"score": 494
+},
+{
+"word": "furminator",
+"score": 754
+},
+{
+"word": "furriest",
+"score": 574
+},
+{
+"word": "furry",
+"score": 248
+},
+{
+"word": "fuzzball",
+"score": 812
+},
+{
+"word": "fvha",
+"score": 1274
+},
+{
+"word": "fvrcp",
+"score": 1273
+},
+{
+"word": "gaboff",
+"score": 1419
+},
+{
+"word": "gaide",
+"score": 1024
+},
+{
+"word": "galah",
+"score": 994
+},
+{
+"word": "gamecock",
+"score": 751
+},
+{
+"word": "gamecocks",
+"score": 749
+},
+{
+"word": "gangline",
+"score": 655
+},
+{
+"word": "ganrude",
+"score": 1435
+},
+{
+"word": "garbage",
+"score": 706
+},
+{
+"word": "garwoods",
+"score": 1062
+},
+{
+"word": "gator",
+"score": 393
+},
+{
+"word": "gazewitz",
+"score": 1021
+},
+{
+"word": "geese",
+"score": 1337
+},
+{
+"word": "gelert",
+"score": 964
+},
+{
+"word": "gentling",
+"score": 1094
+},
+{
+"word": "gerbil",
+"score": 972
+},
+{
+"word": "gerbils",
+"score": 971
+},
+{
+"word": "gerthoffer",
+"score": 1275
+},
+{
+"word": "giacoppo",
+"score": 888
+},
+{
+"word": "gimpy",
+"score": 1206
+},
+{
+"word": "giraffe",
+"score": 859
+},
+{
+"word": "girl",
+"score": 1386
+},
+{
+"word": "gizmo",
+"score": 396
+},
+{
+"word": "goat",
+"score": 220
+},
+{
+"word": "goats",
+"score": 733
+},
+{
+"word": "goldendoodle",
+"score": 57
+},
+{
+"word": "goldens",
+"score": 269
+},
+{
+"word": "goldfish",
+"score": 672
+},
+{
+"word": "goose",
+"score": 1137
+},
+{
+"word": "gorilla",
+"score": 825
+},
+{
+"word": "gosling",
+"score": 503
+},
+{
+"word": "gowhari",
+"score": 556
+},
+{
+"word": "gracie",
+"score": 818
+},
+{
+"word": "grambort",
+"score": 1027
+},
+{
+"word": "grandmom",
+"score": 1152
+},
+{
+"word": "greatbanks",
+"score": 1054
+},
+{
+"word": "greyhound",
+"score": 101
+},
+{
+"word": "greyhounds",
+"score": 169
+},
+{
+"word": "griffon",
+"score": 1326
+},
+{
+"word": "griz",
+"score": 653
+},
+{
+"word": "grizzly",
+"score": 780
+},
+{
+"word": "grogans",
+"score": 372
+},
+{
+"word": "groomer",
+"score": 300
+},
+{
+"word": "groomers",
+"score": 1005
+},
+{
+"word": "groundhog",
+"score": 983
+},
+{
+"word": "growl",
+"score": 1395
+},
+{
+"word": "growling",
+"score": 1396
+},
+{
+"word": "grozdanic",
+"score": 1177
+},
+{
+"word": "grymek",
+"score": 325
+},
+{
+"word": "gryphon",
+"score": 1325
+},
+{
+"word": "gspca",
+"score": 577
+},
+{
+"word": "guidas",
+"score": 823
+},
+{
+"word": "guiff",
+"score": 1351
+},
+{
+"word": "gulbe",
+"score": 507
+},
+{
+"word": "guldbech",
+"score": 1153
+},
+{
+"word": "gull",
+"score": 1290
+},
+{
+"word": "gundberg",
+"score": 792
+},
+{
+"word": "gunny",
+"score": 1147
+},
+{
+"word": "gurchin",
+"score": 559
+},
+{
+"word": "guy",
+"score": 4
+},
+{
+"word": "habener",
+"score": 1311
+},
+{
+"word": "habursky",
+"score": 804
+},
+{
+"word": "haftings",
+"score": 601
+},
+{
+"word": "hairless",
+"score": 1262
+},
+{
+"word": "hajea",
+"score": 815
+},
+{
+"word": "halter",
+"score": 1466
+},
+{
+"word": "hampster",
+"score": 629
+},
+{
+"word": "hamster",
+"score": 211
+},
+{
+"word": "hand",
+"score": 128
+},
+{
+"word": "handler",
+"score": 418
+},
+{
+"word": "handlers",
+"score": 1104
+},
+{
+"word": "hare",
+"score": 1281
+},
+{
+"word": "havanese",
+"score": 141
+},
+{
+"word": "heartworm",
+"score": 299
+},
+{
+"word": "heartworms",
+"score": 263
+},
+{
+"word": "hedengrans",
+"score": 848
+},
+{
+"word": "hedgehog",
+"score": 502
+},
+{
+"word": "heeler",
+"score": 1451
+},
+{
+"word": "heffalump",
+"score": 810
+},
+{
+"word": "hell-kite",
+"score": 750
+},
+{
+"word": "hellhound",
+"score": 1246
+},
+{
+"word": "hellhounds",
+"score": 1371
+},
+{
+"word": "hemangiosarcoma",
+"score": 445
+},
+{
+"word": "hensiek",
+"score": 1432
+},
+{
+"word": "hickem",
+"score": 1139
+},
+{
+"word": "hickies",
+"score": 1042
+},
+{
+"word": "hihath",
+"score": 1294
+},
+{
+"word": "hindquarter",
+"score": 1405
+},
+{
+"word": "hindquarters",
+"score": 1404
+},
+{
+"word": "hippo",
+"score": 927
+},
+{
+"word": "hippo",
+"score": 928
+},
+{
+"word": "hippopotamus",
+"score": 926
+},
+{
+"word": "hoage",
+"score": 662
+},
+{
+"word": "hoagie",
+"score": 645
+},
+{
+"word": "hoarder",
+"score": 929
+},
+{
+"word": "hog",
+"score": 425
+},
+{
+"word": "homeagain",
+"score": 826
+},
+{
+"word": "hooch",
+"score": 1168
+},
+{
+"word": "hookworm",
+"score": 1161
+},
+{
+"word": "hookworms",
+"score": 1160
+},
+{
+"word": "horse",
+"score": 281
+},
+{
+"word": "horses",
+"score": 451
+},
+{
+"word": "horseworld",
+"score": 1029
+},
+{
+"word": "hotwalker",
+"score": 1319
+},
+{
+"word": "hound",
+"score": 254
+},
+{
+"word": "hounds",
+"score": 252
+},
+{
+"word": "houndsmen",
+"score": 741
+},
+{
+"word": "housebreak",
+"score": 408
+},
+{
+"word": "housebroken",
+"score": 187
+},
+{
+"word": "housecat",
+"score": 199
+},
+{
+"word": "housecats",
+"score": 358
+},
+{
+"word": "housesitter",
+"score": 824
+},
+{
+"word": "housetrained",
+"score": 144
+},
+{
+"word": "housetraining",
+"score": 138
+},
+{
+"word": "hsgb",
+"score": 1413
+},
+{
+"word": "hshv",
+"score": 378
+},
+{
+"word": "hsoy",
+"score": 279
+},
+{
+"word": "humane",
+"score": 797
+},
+{
+"word": "hunkie",
+"score": 473
+},
+{
+"word": "hunny",
+"score": 1197
+},
+{
+"word": "huntaway",
+"score": 391
+},
+{
+"word": "huskie",
+"score": 171
+},
+{
+"word": "huskies",
+"score": 162
+},
+{
+"word": "husky",
+"score": 447
+},
+{
+"word": "hybrid",
+"score": 617
+},
+{
+"word": "hydra",
+"score": 301
+},
+{
+"word": "hyena",
+"score": 519
+},
+{
+"word": "hyperflite",
+"score": 1434
+},
+{
+"word": "iceboat",
+"score": 1472
+},
+{
+"word": "idgie",
+"score": 624
+},
+{
+"word": "iguana",
+"score": 197
+},
+{
+"word": "imp",
+"score": 296
+},
+{
+"word": "informer",
+"score": 492
+},
+{
+"word": "intino",
+"score": 961
+},
+{
+"word": "intruder",
+"score": 1349
+},
+{
+"word": "isaboo",
+"score": 198
+},
+{
+"word": "ispca",
+"score": 625
+},
+{
+"word": "itsy",
+"score": 787
+},
+{
+"word": "jaguar",
+"score": 1232
+},
+{
+"word": "jameila",
+"score": 1261
+},
+{
+"word": "jaunakais",
+"score": 1057
+},
+{
+"word": "javelina",
+"score": 933
+},
+{
+"word": "javelinas",
+"score": 1040
+},
+{
+"word": "jeeter",
+"score": 688
+},
+{
+"word": "jerky",
+"score": 1103
+},
+{
+"word": "jezebelle",
+"score": 979
+},
+{
+"word": "jiggs",
+"score": 1026
+},
+{
+"word": "jindo",
+"score": 793
+},
+{
+"word": "jingle",
+"score": 1392
+},
+{
+"word": "jingles",
+"score": 1391
+},
+{
+"word": "joey",
+"score": 805
+},
+{
+"word": "joeys",
+"score": 1483
+},
+{
+"word": "jogger",
+"score": 635
+},
+{
+"word": "jspca",
+"score": 535
+},
+{
+"word": "kabbel",
+"score": 355
+},
+{
+"word": "kadell",
+"score": 747
+},
+{
+"word": "kalomiris",
+"score": 1100
+},
+{
+"word": "kameroff",
+"score": 687
+},
+{
+"word": "kandoll",
+"score": 597
+},
+{
+"word": "kangaroo",
+"score": 518
+},
+{
+"word": "kankey",
+"score": 1329
+},
+{
+"word": "karanastasis",
+"score": 126
+},
+{
+"word": "kat",
+"score": 6
+},
+{
+"word": "kazzy",
+"score": 1213
+},
+{
+"word": "keela",
+"score": 1217
+},
+{
+"word": "keeshond",
+"score": 87
+},
+{
+"word": "kelpie",
+"score": 105
+},
+{
+"word": "kelpies",
+"score": 636
+},
+{
+"word": "kelpy",
+"score": 106
+},
+{
+"word": "kennel",
+"score": 33
+},
+{
+"word": "kenneled",
+"score": 155
+},
+{
+"word": "kenneling",
+"score": 191
+},
+{
+"word": "kennelling",
+"score": 415
+},
+{
+"word": "kennels",
+"score": 188
+},
+{
+"word": "kerasote",
+"score": 1167
+},
+{
+"word": "kibble",
+"score": 321
+},
+{
+"word": "kibbles",
+"score": 320
+},
+{
+"word": "kingsnake",
+"score": 863
+},
+{
+"word": "kinkajou",
+"score": 881
+},
+{
+"word": "kittams",
+"score": 271
+},
+{
+"word": "kitten",
+"score": 30
+},
+{
+"word": "kittens",
+"score": 135
+},
+{
+"word": "kitties",
+"score": 124
+},
+{
+"word": "kitty",
+"score": 123
+},
+{
+"word": "klawender",
+"score": 1120
+},
+{
+"word": "kleedehn",
+"score": 905
+},
+{
+"word": "kloski",
+"score": 1066
+},
+{
+"word": "knight",
+"score": 280
+},
+{
+"word": "knobby",
+"score": 1457
+},
+{
+"word": "knoller",
+"score": 1407
+},
+{
+"word": "koala",
+"score": 1136
+},
+{
+"word": "kocar",
+"score": 1380
+},
+{
+"word": "komondor",
+"score": 628
+},
+{
+"word": "kongs",
+"score": 1115
+},
+{
+"word": "kovu",
+"score": 351
+},
+{
+"word": "krabloonik",
+"score": 452
+},
+{
+"word": "kriser",
+"score": 1082
+},
+{
+"word": "kritters",
+"score": 821
+},
+{
+"word": "krypto",
+"score": 1459
+},
+{
+"word": "kuddles",
+"score": 668
+},
+{
+"word": "kujo",
+"score": 600
+},
+{
+"word": "kuklachev",
+"score": 1171
+},
+{
+"word": "kyrklund",
+"score": 1423
+},
+{
+"word": "labradoodle",
+"score": 118
+},
+{
+"word": "labradoodles",
+"score": 149
+},
+{
+"word": "labrador",
+"score": 39
+},
+{
+"word": "labrador",
+"score": 40
+},
+{
+"word": "labradors",
+"score": 98
+},
+{
+"word": "ladebauche",
+"score": 404
+},
+{
+"word": "lapin",
+"score": 85
+},
+{
+"word": "larovera",
+"score": 673
+},
+{
+"word": "lass",
+"score": 315
+},
+{
+"word": "lassie",
+"score": 316
+},
+{
+"word": "lawnmower",
+"score": 1195
+},
+{
+"word": "leash",
+"score": 147
+},
+{
+"word": "leashed",
+"score": 176
+},
+{
+"word": "leashes",
+"score": 327
+},
+{
+"word": "leashing",
+"score": 286
+},
+{
+"word": "leashless",
+"score": 95
+},
+{
+"word": "legged",
+"score": 1090
+},
+{
+"word": "leggeds",
+"score": 1286
+},
+{
+"word": "lele",
+"score": 1259
+},
+{
+"word": "lemur",
+"score": 1227
+},
+{
+"word": "lentzes",
+"score": 1252
+},
+{
+"word": "leo",
+"score": 922
+},
+{
+"word": "leonberger",
+"score": 231
+},
+{
+"word": "leonbergers",
+"score": 165
+},
+{
+"word": "leopard",
+"score": 585
+},
+{
+"word": "lhasa",
+"score": 714
+},
+{
+"word": "lhasa",
+"score": 715
+},
+{
+"word": "liger",
+"score": 487
+},
+{
+"word": "ligers",
+"score": 1205
+},
+{
+"word": "limpy",
+"score": 1194
+},
+{
+"word": "lineage",
+"score": 651
+},
+{
+"word": "linkes",
+"score": 993
+},
+{
+"word": "lion",
+"score": 921
+},
+{
+"word": "lioness",
+"score": 742
+},
+{
+"word": "lions",
+"score": 1081
+},
+{
+"word": "litter",
+"score": 899
+},
+{
+"word": "litterbox",
+"score": 332
+},
+{
+"word": "litterer",
+"score": 907
+},
+{
+"word": "littermate",
+"score": 121
+},
+{
+"word": "littermates",
+"score": 478
+},
+{
+"word": "lizard",
+"score": 775
+},
+{
+"word": "llama",
+"score": 81
+},
+{
+"word": "llamas",
+"score": 479
+},
+{
+"word": "longdin",
+"score": 1182
+},
+{
+"word": "longhair",
+"score": 938
+},
+{
+"word": "longhaired",
+"score": 765
+},
+{
+"word": "looie",
+"score": 568
+},
+{
+"word": "loopey",
+"score": 648
+},
+{
+"word": "lorikeet",
+"score": 1240
+},
+{
+"word": "lovebird",
+"score": 1141
+},
+{
+"word": "lovey",
+"score": 683
+},
+{
+"word": "lubrin",
+"score": 909
+},
+{
+"word": "luckesen",
+"score": 721
+},
+{
+"word": "lulabelle",
+"score": 1257
+},
+{
+"word": "lungworm",
+"score": 768
+},
+{
+"word": "lurcher",
+"score": 69
+},
+{
+"word": "lurchers",
+"score": 235
+},
+{
+"word": "lurker",
+"score": 70
+},
+{
+"word": "lytell",
+"score": 1203
+},
+{
+"word": "macaque",
+"score": 936
+},
+{
+"word": "macaw",
+"score": 475
+},
+{
+"word": "machtiger",
+"score": 466
+},
+{
+"word": "macuk",
+"score": 1058
+},
+{
+"word": "maegdefrau",
+"score": 1225
+},
+{
+"word": "maffo",
+"score": 1412
+},
+{
+"word": "maguranis",
+"score": 524
+},
+{
+"word": "mailman",
+"score": 1004
+},
+{
+"word": "maizy",
+"score": 1092
+},
+{
+"word": "malamute",
+"score": 49
+},
+{
+"word": "malamutes",
+"score": 291
+},
+{
+"word": "malinois",
+"score": 216
+},
+{
+"word": "maltese",
+"score": 217
+},
+{
+"word": "maltese",
+"score": 737
+},
+{
+"word": "malteses",
+"score": 218
+},
+{
+"word": "maltipoo",
+"score": 114
+},
+{
+"word": "mammal",
+"score": 738
+},
+{
+"word": "mandrill",
+"score": 694
+},
+{
+"word": "mange",
+"score": 1450
+},
+{
+"word": "mangy",
+"score": 1110
+},
+{
+"word": "mansveld",
+"score": 1209
+},
+{
+"word": "marmot",
+"score": 872
+},
+{
+"word": "marsupial",
+"score": 1173
+},
+{
+"word": "martarano",
+"score": 482
+},
+{
+"word": "maryscot",
+"score": 1482
+},
+{
+"word": "mastiff",
+"score": 52
+},
+{
+"word": "mastiffs",
+"score": 143
+},
+{
+"word": "mauled",
+"score": 1418
+},
+{
+"word": "maxfund",
+"score": 318
+},
+{
+"word": "mccaughern",
+"score": 557
+},
+{
+"word": "mcspca",
+"score": 511
+},
+{
+"word": "meerkat",
+"score": 847
+},
+{
+"word": "mehs",
+"score": 987
+},
+{
+"word": "menagerie",
+"score": 1237
+},
+{
+"word": "meow",
+"score": 499
+},
+{
+"word": "meowed",
+"score": 544
+},
+{
+"word": "meowing",
+"score": 730
+},
+{
+"word": "meows",
+"score": 498
+},
+{
+"word": "merle",
+"score": 659
+},
+{
+"word": "mewed",
+"score": 1467
+},
+{
+"word": "miaow",
+"score": 874
+},
+{
+"word": "miaowing",
+"score": 593
+},
+{
+"word": "michalesko",
+"score": 713
+},
+{
+"word": "microchip",
+"score": 633
+},
+{
+"word": "microchipped",
+"score": 249
+},
+{
+"word": "microchipping",
+"score": 406
+},
+{
+"word": "miden",
+"score": 580
+},
+{
+"word": "milkbone",
+"score": 464
+},
+{
+"word": "millie",
+"score": 937
+},
+{
+"word": "missy",
+"score": 1385
+},
+{
+"word": "mitzy",
+"score": 578
+},
+{
+"word": "moggie",
+"score": 159
+},
+{
+"word": "moggies",
+"score": 160
+},
+{
+"word": "moggy",
+"score": 100
+},
+{
+"word": "mongrel",
+"score": 367
+},
+{
+"word": "mongrels",
+"score": 866
+},
+{
+"word": "monkey",
+"score": 295
+},
+{
+"word": "monkeys",
+"score": 1109
+},
+{
+"word": "moose",
+"score": 869
+},
+{
+"word": "mouser",
+"score": 465
+},
+{
+"word": "moustaki",
+"score": 1398
+},
+{
+"word": "mouthful",
+"score": 1469
+},
+{
+"word": "mouthfuls",
+"score": 1468
+},
+{
+"word": "mrfrs",
+"score": 1144
+},
+{
+"word": "mspca",
+"score": 871
+},
+{
+"word": "muffin",
+"score": 449
+},
+{
+"word": "muffy",
+"score": 433
+},
+{
+"word": "mugsy",
+"score": 266
+},
+{
+"word": "mule",
+"score": 1486
+},
+{
+"word": "munchie",
+"score": 1098
+},
+{
+"word": "muntjac",
+"score": 998
+},
+{
+"word": "musher",
+"score": 1095
+},
+{
+"word": "mustang",
+"score": 471
+},
+{
+"word": "mutilator",
+"score": 1446
+},
+{
+"word": "mutt",
+"score": 50
+},
+{
+"word": "muttley",
+"score": 740
+},
+{
+"word": "mutts",
+"score": 136
+},
+{
+"word": "muttville",
+"score": 627
+},
+{
+"word": "mwds",
+"score": 1484
+},
+{
+"word": "nachminovitch",
+"score": 354
+},
+{
+"word": "napper",
+"score": 896
+},
+{
+"word": "nappings",
+"score": 735
+},
+{
+"word": "narfstrom",
+"score": 1454
+},
+{
+"word": "ndsdf",
+"score": 870
+},
+{
+"word": "neeko",
+"score": 205
+},
+{
+"word": "neigh",
+"score": 791
+},
+{
+"word": "neighbor",
+"score": 862
+},
+{
+"word": "nermal",
+"score": 1180
+},
+{
+"word": "netboy",
+"score": 387
+},
+{
+"word": "neuter",
+"score": 1113
+},
+{
+"word": "neutered",
+"score": 349
+},
+{
+"word": "neutering",
+"score": 802
+},
+{
+"word": "neutersol",
+"score": 1039
+},
+{
+"word": "newf",
+"score": 1309
+},
+{
+"word": "newfie",
+"score": 1210
+},
+{
+"word": "newfoundland",
+"score": 227
+},
+{
+"word": "newfoundlands",
+"score": 226
+},
+{
+"word": "nhspca",
+"score": 416
+},
+{
+"word": "nibble",
+"score": 1359
+},
+{
+"word": "nibbles",
+"score": 1360
+},
+{
+"word": "nickers",
+"score": 790
+},
+{
+"word": "nicorvo",
+"score": 469
+},
+{
+"word": "nieghbors",
+"score": 1174
+},
+{
+"word": "nigger",
+"score": 1101
+},
+{
+"word": "nincompoop",
+"score": 612
+},
+{
+"word": "nipper",
+"score": 1199
+},
+{
+"word": "nizato",
+"score": 845
+},
+{
+"word": "njspca",
+"score": 1490
+},
+{
+"word": "nonsporting",
+"score": 1067
+},
+{
+"word": "nonvenomous",
+"score": 1201
+},
+{
+"word": "nowzad",
+"score": 1320
+},
+{
+"word": "nsala",
+"score": 1188
+},
+{
+"word": "nubbin",
+"score": 164
+},
+{
+"word": "nubbins",
+"score": 163
+},
+{
+"word": "nubby",
+"score": 886
+},
+{
+"word": "numbat",
+"score": 1185
+},
+{
+"word": "nutkin",
+"score": 977
+},
+{
+"word": "nutrish",
+"score": 621
+},
+{
+"word": "nutro",
+"score": 497
+},
+{
+"word": "nybble",
+"score": 1361
+},
+{
+"word": "nylabone",
+"score": 678
+},
+{
+"word": "obedience",
+"score": 428
+},
+{
+"word": "odie",
+"score": 665
+},
+{
+"word": "oinker",
+"score": 1085
+},
+{
+"word": "oinkers",
+"score": 795
+},
+{
+"word": "oozi",
+"score": 268
+},
+{
+"word": "opee",
+"score": 1462
+},
+{
+"word": "opossum",
+"score": 307
+},
+{
+"word": "opossums",
+"score": 1009
+},
+{
+"word": "orangutan",
+"score": 908
+},
+{
+"word": "oregonian",
+"score": 860
+},
+{
+"word": "oreo",
+"score": 348
+},
+{
+"word": "otter",
+"score": 829
+},
+{
+"word": "ottoboni",
+"score": 1123
+},
+{
+"word": "ovall",
+"score": 1411
+},
+{
+"word": "overbred",
+"score": 399
+},
+{
+"word": "overbreed",
+"score": 734
+},
+{
+"word": "overbreeding",
+"score": 1099
+},
+{
+"word": "owl",
+"score": 777
+},
+{
+"word": "paaws",
+"score": 616
+},
+{
+"word": "pacca",
+"score": 589
+},
+{
+"word": "pachyderm",
+"score": 889
+},
+{
+"word": "pajoe",
+"score": 1192
+},
+{
+"word": "palludan",
+"score": 1170
+},
+{
+"word": "palomino",
+"score": 906
+},
+{
+"word": "panda",
+"score": 1368
+},
+{
+"word": "pangolin",
+"score": 1183
+},
+{
+"word": "panjo",
+"score": 356
+},
+{
+"word": "panleukopenia",
+"score": 1133
+},
+{
+"word": "panther",
+"score": 1231
+},
+{
+"word": "papillon",
+"score": 93
+},
+{
+"word": "papillons",
+"score": 242
+},
+{
+"word": "parakeet",
+"score": 640
+},
+{
+"word": "parakeets",
+"score": 838
+},
+{
+"word": "parrot",
+"score": 440
+},
+{
+"word": "parrots",
+"score": 1461
+},
+{
+"word": "parvo",
+"score": 264
+},
+{
+"word": "parvovirus",
+"score": 265
+},
+{
+"word": "patootie",
+"score": 1323
+},
+{
+"word": "paw",
+"score": 129
+},
+{
+"word": "pawprint",
+"score": 292
+},
+{
+"word": "pawprints",
+"score": 442
+},
+{
+"word": "paws",
+"score": 130
+},
+{
+"word": "pawsitive",
+"score": 731
+},
+{
+"word": "pawsitively",
+"score": 684
+},
+{
+"word": "pawty",
+"score": 583
+},
+{
+"word": "pawz",
+"score": 456
+},
+{
+"word": "pdsa",
+"score": 796
+},
+{
+"word": "peafowl",
+"score": 1443
+},
+{
+"word": "peahen",
+"score": 605
+},
+{
+"word": "pebble",
+"score": 813
+},
+{
+"word": "pebbles",
+"score": 814
+},
+{
+"word": "pedestrian",
+"score": 932
+},
+{
+"word": "pedigree",
+"score": 650
+},
+{
+"word": "peetie",
+"score": 978
+},
+{
+"word": "peke",
+"score": 892
+},
+{
+"word": "pekinese",
+"score": 88
+},
+{
+"word": "pekinese",
+"score": 89
+},
+{
+"word": "pekingese",
+"score": 91
+},
+{
+"word": "pelican",
+"score": 1162
+},
+{
+"word": "penguin",
+"score": 1374
+},
+{
+"word": "penokie",
+"score": 543
+},
+{
+"word": "pentangelo",
+"score": 324
+},
+{
+"word": "peppi",
+"score": 1050
+},
+{
+"word": "person",
+"score": 1276
+},
+{
+"word": "peruyero",
+"score": 1253
+},
+{
+"word": "pet",
+"score": 18
+},
+{
+"word": "petcka",
+"score": 1056
+},
+{
+"word": "petco",
+"score": 701
+},
+{
+"word": "petey",
+"score": 527
+},
+{
+"word": "petfinder",
+"score": 1091
+},
+{
+"word": "petie",
+"score": 413
+},
+{
+"word": "petland",
+"score": 1134
+},
+{
+"word": "petmate",
+"score": 1365
+},
+{
+"word": "petplan",
+"score": 1111
+},
+{
+"word": "petruney",
+"score": 729
+},
+{
+"word": "pets",
+"score": 38
+},
+{
+"word": "petsafe",
+"score": 1476
+},
+{
+"word": "petsecure",
+"score": 1236
+},
+{
+"word": "petshotel",
+"score": 554
+},
+{
+"word": "petsmart",
+"score": 1077
+},
+{
+"word": "petted",
+"score": 262
+},
+{
+"word": "petting",
+"score": 352
+},
+{
+"word": "petunia",
+"score": 827
+},
+{
+"word": "phalanger",
+"score": 309
+},
+{
+"word": "piebald",
+"score": 1377
+},
+{
+"word": "pig",
+"score": 427
+},
+{
+"word": "pigeon",
+"score": 459
+},
+{
+"word": "pigeons",
+"score": 677
+},
+{
+"word": "piglet",
+"score": 233
+},
+{
+"word": "pigs",
+"score": 1224
+},
+{
+"word": "pinscher",
+"score": 116
+},
+{
+"word": "pinschers",
+"score": 441
+},
+{
+"word": "pirogowicz",
+"score": 1212
+},
+{
+"word": "pitbull",
+"score": 23
+},
+{
+"word": "pitbulls",
+"score": 47
+},
+{
+"word": "playmate",
+"score": 772
+},
+{
+"word": "polecat",
+"score": 832
+},
+{
+"word": "polejewski",
+"score": 784
+},
+{
+"word": "pomeranian",
+"score": 11
+},
+{
+"word": "pomeranian",
+"score": 12
+},
+{
+"word": "pomeranians",
+"score": 145
+},
+{
+"word": "ponies",
+"score": 592
+},
+{
+"word": "pony",
+"score": 395
+},
+{
+"word": "poo",
+"score": 1105
+},
+{
+"word": "pooch",
+"score": 2
+},
+{
+"word": "pooches",
+"score": 44
+},
+{
+"word": "poochie",
+"score": 177
+},
+{
+"word": "poochy",
+"score": 493
+},
+{
+"word": "poodle",
+"score": 37
+},
+{
+"word": "poodles",
+"score": 131
+},
+{
+"word": "pookey",
+"score": 639
+},
+{
+"word": "pookie",
+"score": 744
+},
+{
+"word": "pooky",
+"score": 443
+},
+{
+"word": "pool",
+"score": 122
+},
+{
+"word": "poop",
+"score": 611
+},
+{
+"word": "pooper",
+"score": 1248
+},
+{
+"word": "poopers",
+"score": 1022
+},
+{
+"word": "poopie",
+"score": 542
+},
+{
+"word": "poopsie",
+"score": 564
+},
+{
+"word": "porcupine",
+"score": 501
+},
+{
+"word": "porkchop",
+"score": 1234
+},
+{
+"word": "porker",
+"score": 436
+},
+{
+"word": "porkers",
+"score": 435
+},
+{
+"word": "porpoise",
+"score": 1408
+},
+{
+"word": "portie",
+"score": 697
+},
+{
+"word": "porties",
+"score": 255
+},
+{
+"word": "possum",
+"score": 308
+},
+{
+"word": "possums",
+"score": 1117
+},
+{
+"word": "postina",
+"score": 214
+},
+{
+"word": "pot",
+"score": 125
+},
+{
+"word": "potto",
+"score": 880
+},
+{
+"word": "presa",
+"score": 954
+},
+{
+"word": "prissy",
+"score": 1421
+},
+{
+"word": "prusci",
+"score": 900
+},
+{
+"word": "pspca",
+"score": 496
+},
+{
+"word": "puddin",
+"score": 1226
+},
+{
+"word": "puddle",
+"score": 1047
+},
+{
+"word": "puddles",
+"score": 1048
+},
+{
+"word": "pudgie",
+"score": 548
+},
+{
+"word": "pudgy",
+"score": 985
+},
+{
+"word": "pug",
+"score": 34
+},
+{
+"word": "puggle",
+"score": 119
+},
+{
+"word": "puggles",
+"score": 161
+},
+{
+"word": "puggy",
+"score": 1143
+},
+{
+"word": "pugs",
+"score": 185
+},
+{
+"word": "puller",
+"score": 1345
+},
+{
+"word": "puma",
+"score": 995
+},
+{
+"word": "punkie",
+"score": 855
+},
+{
+"word": "punkin",
+"score": 446
+},
+{
+"word": "punky",
+"score": 854
+},
+{
+"word": "pup",
+"score": 10
+},
+{
+"word": "puplight",
+"score": 1393
+},
+{
+"word": "puppies",
+"score": 32
+},
+{
+"word": "puppy",
+"score": 1
+},
+{
+"word": "puppyhood",
+"score": 140
+},
+{
+"word": "pups",
+"score": 150
+},
+{
+"word": "purebred",
+"score": 195
+},
+{
+"word": "purebreds",
+"score": 207
+},
+{
+"word": "purina",
+"score": 1370
+},
+{
+"word": "purrfect",
+"score": 520
+},
+{
+"word": "pursifull",
+"score": 1148
+},
+{
+"word": "pus",
+"score": 917
+},
+{
+"word": "pus",
+"score": 918
+},
+{
+"word": "pushinka",
+"score": 1035
+},
+{
+"word": "puss",
+"score": 916
+},
+{
+"word": "pussycat",
+"score": 682
+},
+{
+"word": "pyons",
+"score": 454
+},
+{
+"word": "python",
+"score": 680
+},
+{
+"word": "python",
+"score": 681
+},
+{
+"word": "quacky",
+"score": 1216
+},
+{
+"word": "quanrud",
+"score": 1121
+},
+{
+"word": "quarterhorse",
+"score": 289
+},
+{
+"word": "rabbit",
+"score": 84
+},
+{
+"word": "rabbits",
+"score": 201
+},
+{
+"word": "rabbity",
+"score": 753
+},
+{
+"word": "rabies",
+"score": 691
+},
+{
+"word": "raccoon",
+"score": 152
+},
+{
+"word": "raccoons",
+"score": 381
+},
+{
+"word": "racehorse",
+"score": 1230
+},
+{
+"word": "racoon",
+"score": 337
+},
+{
+"word": "racoons",
+"score": 717
+},
+{
+"word": "ramouni",
+"score": 1397
+},
+{
+"word": "rarrat",
+"score": 133
+},
+{
+"word": "rascal",
+"score": 537
+},
+{
+"word": "rat",
+"score": 491
+},
+{
+"word": "ratter",
+"score": 1440
+},
+{
+"word": "rattler",
+"score": 1112
+},
+{
+"word": "rattlers",
+"score": 898
+},
+{
+"word": "rattlesnake",
+"score": 251
+},
+{
+"word": "rattlesnakes",
+"score": 778
+},
+{
+"word": "redback",
+"score": 1250
+},
+{
+"word": "redbone",
+"score": 340
+},
+{
+"word": "redmiles",
+"score": 856
+},
+{
+"word": "rehome",
+"score": 1332
+},
+{
+"word": "rehomed",
+"score": 525
+},
+{
+"word": "rehomes",
+"score": 878
+},
+{
+"word": "rehoming",
+"score": 575
+},
+{
+"word": "reindeer",
+"score": 1222
+},
+{
+"word": "rentola",
+"score": 901
+},
+{
+"word": "reptile",
+"score": 288
+},
+{
+"word": "rerun",
+"score": 1379
+},
+{
+"word": "rescuer",
+"score": 1208
+},
+{
+"word": "retriever",
+"score": 107
+},
+{
+"word": "retrievers",
+"score": 290
+},
+{
+"word": "rexxx",
+"score": 363
+},
+{
+"word": "rhinocerous",
+"score": 1119
+},
+{
+"word": "ridgeback",
+"score": 104
+},
+{
+"word": "ridgebacks",
+"score": 540
+},
+{
+"word": "rimadyl",
+"score": 852
+},
+{
+"word": "rineker",
+"score": 480
+},
+{
+"word": "ringtail",
+"score": 1343
+},
+{
+"word": "rispca",
+"score": 270
+},
+{
+"word": "roarer",
+"score": 468
+},
+{
+"word": "roboreptile",
+"score": 1431
+},
+{
+"word": "rocko",
+"score": 693
+},
+{
+"word": "rodent",
+"score": 453
+},
+{
+"word": "rodents",
+"score": 840
+},
+{
+"word": "rogue",
+"score": 538
+},
+{
+"word": "rolo",
+"score": 584
+},
+{
+"word": "ronio",
+"score": 375
+},
+{
+"word": "rooster",
+"score": 203
+},
+{
+"word": "roosters",
+"score": 545
+},
+{
+"word": "rotter",
+"score": 223
+},
+{
+"word": "rottie",
+"score": 54
+},
+{
+"word": "rottweiler",
+"score": 7
+},
+{
+"word": "rottweiler",
+"score": 8
+},
+{
+"word": "rottweilers",
+"score": 43
+},
+{
+"word": "rottweiller",
+"score": 29
+},
+{
+"word": "rottweillers",
+"score": 62
+},
+{
+"word": "rotweiler",
+"score": 71
+},
+{
+"word": "rotweiller",
+"score": 35
+},
+{
+"word": "rscpa",
+"score": 710
+},
+{
+"word": "rspca",
+"score": 458
+},
+{
+"word": "rubbish",
+"score": 704
+},
+{
+"word": "ruff",
+"score": 1156
+},
+{
+"word": "ruffs",
+"score": 1154
+},
+{
+"word": "rufus",
+"score": 1322
+},
+{
+"word": "ruppy",
+"score": 887
+},
+{
+"word": "rusti",
+"score": 1272
+},
+{
+"word": "rvspca",
+"score": 686
+},
+{
+"word": "sabrett",
+"score": 695
+},
+{
+"word": "sachson",
+"score": 533
+},
+{
+"word": "saddlebred",
+"score": 1052
+},
+{
+"word": "saddlebreds",
+"score": 1127
+},
+{
+"word": "sadie",
+"score": 359
+},
+{
+"word": "saluki",
+"score": 243
+},
+{
+"word": "saluki",
+"score": 244
+},
+{
+"word": "samoyed",
+"score": 65
+},
+{
+"word": "samoyed",
+"score": 66
+},
+{
+"word": "samoyedic",
+"score": 64
+},
+{
+"word": "samoyeds",
+"score": 236
+},
+{
+"word": "sangberg",
+"score": 1046
+},
+{
+"word": "santuomo",
+"score": 1460
+},
+{
+"word": "sarbi",
+"score": 604
+},
+{
+"word": "sassie",
+"score": 623
+},
+{
+"word": "savior",
+"score": 1207
+},
+{
+"word": "sawhorse",
+"score": 283
+},
+{
+"word": "sayres",
+"score": 1070
+},
+{
+"word": "scab",
+"score": 490
+},
+{
+"word": "scamp",
+"score": 390
+},
+{
+"word": "scarbaby",
+"score": 1075
+},
+{
+"word": "scaredy",
+"score": 407
+},
+{
+"word": "scdoris",
+"score": 1001
+},
+{
+"word": "schatzie",
+"score": 400
+},
+{
+"word": "schipperke",
+"score": 63
+},
+{
+"word": "schmoo",
+"score": 1297
+},
+{
+"word": "schnauzer",
+"score": 19
+},
+{
+"word": "schnauzers",
+"score": 142
+},
+{
+"word": "schnoodle",
+"score": 113
+},
+{
+"word": "schottzie",
+"score": 980
+},
+{
+"word": "schreibvogel",
+"score": 531
+},
+{
+"word": "schutzhund",
+"score": 240
+},
+{
+"word": "scoobie",
+"score": 394
+},
+{
+"word": "scooby",
+"score": 278
+},
+{
+"word": "scoopy",
+"score": 746
+},
+{
+"word": "scooter",
+"score": 1473
+},
+{
+"word": "scoter",
+"score": 1474
+},
+{
+"word": "scrap",
+"score": 709
+},
+{
+"word": "scrappy",
+"score": 1023
+},
+{
+"word": "scraps",
+"score": 707
+},
+{
+"word": "scroungy",
+"score": 967
+},
+{
+"word": "scruffy",
+"score": 184
+},
+{
+"word": "scrunt",
+"score": 1333
+},
+{
+"word": "sculac",
+"score": 1107
+},
+{
+"word": "seaaca",
+"score": 472
+},
+{
+"word": "seagull",
+"score": 1291
+},
+{
+"word": "sealyham",
+"score": 1063
+},
+{
+"word": "sealyham",
+"score": 1064
+},
+{
+"word": "seamore",
+"score": 1097
+},
+{
+"word": "secaur",
+"score": 833
+},
+{
+"word": "seemore",
+"score": 1055
+},
+{
+"word": "seilers",
+"score": 1200
+},
+{
+"word": "serval",
+"score": 382
+},
+{
+"word": "servals",
+"score": 1165
+},
+{
+"word": "shaiunna",
+"score": 444
+},
+{
+"word": "shark",
+"score": 1403
+},
+{
+"word": "sharpei",
+"score": 61
+},
+{
+"word": "shawney",
+"score": 1175
+},
+{
+"word": "sheddan",
+"score": 1244
+},
+{
+"word": "sheep",
+"score": 820
+},
+{
+"word": "sheepherder",
+"score": 1304
+},
+{
+"word": "sheltie",
+"score": 24
+},
+{
+"word": "shelties",
+"score": 68
+},
+{
+"word": "shenica",
+"score": 769
+},
+{
+"word": "shep",
+"score": 608
+},
+{
+"word": "shepard",
+"score": 669
+},
+{
+"word": "shepard",
+"score": 670
+},
+{
+"word": "sheperd",
+"score": 685
+},
+{
+"word": "shephard",
+"score": 536
+},
+{
+"word": "shepherd",
+"score": 1303
+},
+{
+"word": "sheppard",
+"score": 981
+},
+{
+"word": "shiba",
+"score": 260
+},
+{
+"word": "shitzu",
+"score": 27
+},
+{
+"word": "shocinski",
+"score": 1355
+},
+{
+"word": "shorthair",
+"score": 509
+},
+{
+"word": "shorthaired",
+"score": 261
+},
+{
+"word": "shorthairs",
+"score": 500
+},
+{
+"word": "shutout",
+"score": 225
+},
+{
+"word": "shuttlecock",
+"score": 423
+},
+{
+"word": "siamang",
+"score": 1059
+},
+{
+"word": "siamese",
+"score": 553
+},
+{
+"word": "sicking",
+"score": 788
+},
+{
+"word": "siirtola",
+"score": 935
+},
+{
+"word": "siliski",
+"score": 658
+},
+{
+"word": "simian",
+"score": 1301
+},
+{
+"word": "simians",
+"score": 1300
+},
+{
+"word": "sipek",
+"score": 811
+},
+{
+"word": "skel",
+"score": 1353
+},
+{
+"word": "skidboot",
+"score": 341
+},
+{
+"word": "skijor",
+"score": 599
+},
+{
+"word": "skijorers",
+"score": 963
+},
+{
+"word": "skijoring",
+"score": 671
+},
+{
+"word": "skippy",
+"score": 607
+},
+{
+"word": "skunk",
+"score": 224
+},
+{
+"word": "skunks",
+"score": 806
+},
+{
+"word": "skyhoundz",
+"score": 830
+},
+{
+"word": "slentrol",
+"score": 923
+},
+{
+"word": "slob",
+"score": 424
+},
+{
+"word": "slobber",
+"score": 837
+},
+{
+"word": "slobbers",
+"score": 1008
+},
+{
+"word": "slobbery",
+"score": 380
+},
+{
+"word": "smokey",
+"score": 893
+},
+{
+"word": "smoochie",
+"score": 528
+},
+{
+"word": "smores",
+"score": 1401
+},
+{
+"word": "smudge",
+"score": 904
+},
+{
+"word": "snake",
+"score": 302
+},
+{
+"word": "snake",
+"score": 303
+},
+{
+"word": "snakes",
+"score": 1106
+},
+{
+"word": "snakey",
+"score": 991
+},
+{
+"word": "snausages",
+"score": 229
+},
+{
+"word": "sniffy",
+"score": 785
+},
+{
+"word": "snog",
+"score": 1339
+},
+{
+"word": "snookums",
+"score": 385
+},
+{
+"word": "snoopy",
+"score": 674
+},
+{
+"word": "snoopy",
+"score": 675
+},
+{
+"word": "snowball",
+"score": 1080
+},
+{
+"word": "snowbell",
+"score": 1221
+},
+{
+"word": "snuffle",
+"score": 431
+},
+{
+"word": "snuffled",
+"score": 1122
+},
+{
+"word": "snuffles",
+"score": 432
+},
+{
+"word": "snuggler",
+"score": 366
+},
+{
+"word": "snuggles",
+"score": 212
+},
+{
+"word": "socializer",
+"score": 969
+},
+{
+"word": "sock",
+"score": 1045
+},
+{
+"word": "socks",
+"score": 1044
+},
+{
+"word": "solsrud",
+"score": 1166
+},
+{
+"word": "solveira",
+"score": 361
+},
+{
+"word": "someone",
+"score": 1277
+},
+{
+"word": "son",
+"score": 1478
+},
+{
+"word": "spadafori",
+"score": 1324
+},
+{
+"word": "spaniel",
+"score": 60
+},
+{
+"word": "spaniels",
+"score": 82
+},
+{
+"word": "sparkie",
+"score": 647
+},
+{
+"word": "sparky",
+"score": 924
+},
+{
+"word": "spay",
+"score": 1015
+},
+{
+"word": "spayed",
+"score": 343
+},
+{
+"word": "spaying",
+"score": 1011
+},
+{
+"word": "spca",
+"score": 206
+},
+{
+"word": "spcala",
+"score": 304
+},
+{
+"word": "spcas",
+"score": 696
+},
+{
+"word": "sphynx",
+"score": 319
+},
+{
+"word": "spikey",
+"score": 766
+},
+{
+"word": "spitz",
+"score": 346
+},
+{
+"word": "spokanimal",
+"score": 215
+},
+{
+"word": "sprado",
+"score": 1271
+},
+{
+"word": "spunky",
+"score": 1169
+},
+{
+"word": "squeaker",
+"score": 1084
+},
+{
+"word": "squeakers",
+"score": 1083
+},
+{
+"word": "squirrel",
+"score": 335
+},
+{
+"word": "squirrels",
+"score": 606
+},
+{
+"word": "sspca",
+"score": 603
+},
+{
+"word": "stadelbacher",
+"score": 661
+},
+{
+"word": "staffie",
+"score": 26
+},
+{
+"word": "staffies",
+"score": 186
+},
+{
+"word": "staffordshire",
+"score": 565
+},
+{
+"word": "staffy",
+"score": 83
+},
+{
+"word": "stampy",
+"score": 1280
+},
+{
+"word": "stavaas",
+"score": 1299
+},
+{
+"word": "steed",
+"score": 1465
+},
+{
+"word": "stern",
+"score": 615
+},
+{
+"word": "stilger",
+"score": 1438
+},
+{
+"word": "stinchi",
+"score": 1475
+},
+{
+"word": "stinky",
+"score": 1331
+},
+{
+"word": "stosuy",
+"score": 232
+},
+{
+"word": "stray",
+"score": 306
+},
+{
+"word": "strays",
+"score": 305
+},
+{
+"word": "strooband",
+"score": 388
+},
+{
+"word": "stubby",
+"score": 1087
+},
+{
+"word": "studivant",
+"score": 897
+},
+{
+"word": "sulcata",
+"score": 946
+},
+{
+"word": "superdawg",
+"score": 879
+},
+{
+"word": "svas",
+"score": 1211
+},
+{
+"word": "swan",
+"score": 1415
+},
+{
+"word": "sweetheart",
+"score": 850
+},
+{
+"word": "sweetie",
+"score": 851
+},
+{
+"word": "sweetpea",
+"score": 644
+},
+{
+"word": "sweetums",
+"score": 992
+},
+{
+"word": "swiper",
+"score": 1321
+},
+{
+"word": "tabbies",
+"score": 108
+},
+{
+"word": "tabby",
+"score": 80
+},
+{
+"word": "tailwaggers",
+"score": 455
+},
+{
+"word": "tarantula",
+"score": 1283
+},
+{
+"word": "taste",
+"score": 1470
+},
+{
+"word": "tavar",
+"score": 1366
+},
+{
+"word": "taw",
+"score": 1013
+},
+{
+"word": "taws",
+"score": 1014
+},
+{
+"word": "taz",
+"score": 727
+},
+{
+"word": "tazer",
+"score": 702
+},
+{
+"word": "tazing",
+"score": 1425
+},
+{
+"word": "teethe",
+"score": 1416
+},
+{
+"word": "teethmarks",
+"score": 1266
+},
+{
+"word": "temperment",
+"score": 858
+},
+{
+"word": "terrier",
+"score": 36
+},
+{
+"word": "terriers",
+"score": 153
+},
+{
+"word": "terrior",
+"score": 903
+},
+{
+"word": "thai",
+"score": 552
+},
+{
+"word": "thoroughbred",
+"score": 196
+},
+{
+"word": "three",
+"score": 146
+},
+{
+"word": "thundershirt",
+"score": 1193
+},
+{
+"word": "tiddles",
+"score": 256
+},
+{
+"word": "tiger",
+"score": 486
+},
+{
+"word": "tigers",
+"score": 1241
+},
+{
+"word": "tigger",
+"score": 630
+},
+{
+"word": "tiggy",
+"score": 602
+},
+{
+"word": "tigress",
+"score": 1430
+},
+{
+"word": "tinkerbell",
+"score": 1335
+},
+{
+"word": "tinkerbelle",
+"score": 389
+},
+{
+"word": "tinks",
+"score": 914
+},
+{
+"word": "tinky",
+"score": 1436
+},
+{
+"word": "tippy",
+"score": 596
+},
+{
+"word": "toad",
+"score": 948
+},
+{
+"word": "toddler",
+"score": 383
+},
+{
+"word": "tom",
+"score": 193
+},
+{
+"word": "tomcat",
+"score": 192
+},
+{
+"word": "tomcats",
+"score": 362
+},
+{
+"word": "toodles",
+"score": 1389
+},
+{
+"word": "tooles",
+"score": 1447
+},
+{
+"word": "toonces",
+"score": 1302
+},
+{
+"word": "tooty",
+"score": 1487
+},
+{
+"word": "torti",
+"score": 1354
+},
+{
+"word": "tortie",
+"score": 374
+},
+{
+"word": "tortoise",
+"score": 411
+},
+{
+"word": "tosa",
+"score": 1352
+},
+{
+"word": "totis",
+"score": 200
+},
+{
+"word": "trainability",
+"score": 1086
+},
+{
+"word": "trakr",
+"score": 1176
+},
+{
+"word": "tranquilised",
+"score": 1456
+},
+{
+"word": "tranquilized",
+"score": 1196
+},
+{
+"word": "tranquillise",
+"score": 1233
+},
+{
+"word": "tranquillized",
+"score": 667
+},
+{
+"word": "trap",
+"score": 515
+},
+{
+"word": "trebatoski",
+"score": 925
+},
+{
+"word": "treeing",
+"score": 245
+},
+{
+"word": "trespasser",
+"score": 1348
+},
+{
+"word": "trively",
+"score": 450
+},
+{
+"word": "trixie",
+"score": 1481
+},
+{
+"word": "tuffy",
+"score": 1132
+},
+{
+"word": "tugger",
+"score": 1344
+},
+{
+"word": "turtle",
+"score": 843
+},
+{
+"word": "turtleneck",
+"score": 842
+},
+{
+"word": "turtura",
+"score": 774
+},
+{
+"word": "ucspca",
+"score": 334
+},
+{
+"word": "unadoptable",
+"score": 293
+},
+{
+"word": "uncaged",
+"score": 1020
+},
+{
+"word": "uncollared",
+"score": 760
+},
+{
+"word": "underbite",
+"score": 712
+},
+{
+"word": "undomesticated",
+"score": 1292
+},
+{
+"word": "unmuzzled",
+"score": 170
+},
+{
+"word": "unneutered",
+"score": 115
+},
+{
+"word": "unsocialized",
+"score": 562
+},
+{
+"word": "unspayed",
+"score": 345
+},
+{
+"word": "untrainable",
+"score": 641
+},
+{
+"word": "usal",
+"score": 1293
+},
+{
+"word": "usdaa",
+"score": 594
+},
+{
+"word": "uspca",
+"score": 723
+},
+{
+"word": "vanburch",
+"score": 1346
+},
+{
+"word": "vankavage",
+"score": 267
+},
+{
+"word": "varmint",
+"score": 1018
+},
+{
+"word": "verille",
+"score": 1410
+},
+{
+"word": "vermin",
+"score": 1017
+},
+{
+"word": "vet",
+"score": 179
+},
+{
+"word": "veteran",
+"score": 178
+},
+{
+"word": "veteranarian",
+"score": 1061
+},
+{
+"word": "veterinarian",
+"score": 180
+},
+{
+"word": "veterinarians",
+"score": 699
+},
+{
+"word": "veterinary",
+"score": 1041
+},
+{
+"word": "veternarian",
+"score": 257
+},
+{
+"word": "vets",
+"score": 1076
+},
+{
+"word": "vicktory",
+"score": 369
+},
+{
+"word": "vivi",
+"score": 1065
+},
+{
+"word": "vizsla",
+"score": 90
+},
+{
+"word": "vladae",
+"score": 1437
+},
+{
+"word": "volosen",
+"score": 483
+},
+{
+"word": "wabbits",
+"score": 1229
+},
+{
+"word": "wag",
+"score": 1444
+},
+{
+"word": "wagger",
+"score": 638
+},
+{
+"word": "waggers",
+"score": 530
+},
+{
+"word": "waggin",
+"score": 1037
+},
+{
+"word": "waggs",
+"score": 1006
+},
+{
+"word": "waggy",
+"score": 997
+},
+{
+"word": "wags",
+"score": 1445
+},
+{
+"word": "waldi",
+"score": 571
+},
+{
+"word": "walesky",
+"score": 409
+},
+{
+"word": "walker",
+"score": 930
+},
+{
+"word": "walker",
+"score": 931
+},
+{
+"word": "walkies",
+"score": 336
+},
+{
+"word": "wallaby",
+"score": 234
+},
+{
+"word": "wallaroo",
+"score": 194
+},
+{
+"word": "wantzes",
+"score": 960
+},
+{
+"word": "weenie",
+"score": 865
+},
+{
+"word": "weidenhaft",
+"score": 1402
+},
+{
+"word": "weigner",
+"score": 1347
+},
+{
+"word": "weimaraner",
+"score": 41
+},
+{
+"word": "weimaraner",
+"score": 42
+},
+{
+"word": "weimaraners",
+"score": 92
+},
+{
+"word": "weimeraner",
+"score": 297
+},
+{
+"word": "weiner",
+"score": 1260
+},
+{
+"word": "weiners",
+"score": 801
+},
+{
+"word": "weka",
+"score": 939
+},
+{
+"word": "westie",
+"score": 167
+},
+{
+"word": "wheezer",
+"score": 549
+},
+{
+"word": "whelped",
+"score": 761
+},
+{
+"word": "whelping",
+"score": 652
+},
+{
+"word": "whimpering",
+"score": 803
+},
+{
+"word": "whinny",
+"score": 1485
+},
+{
+"word": "whippet",
+"score": 347
+},
+{
+"word": "whippets",
+"score": 558
+},
+{
+"word": "whisker",
+"score": 329
+},
+{
+"word": "whiskers",
+"score": 330
+},
+{
+"word": "whorehouse",
+"score": 1263
+},
+{
+"word": "wictum",
+"score": 816
+},
+{
+"word": "wiener",
+"score": 273
+},
+{
+"word": "wiener",
+"score": 275
+},
+{
+"word": "wieners",
+"score": 1372
+},
+{
+"word": "wienie",
+"score": 1417
+},
+{
+"word": "wietholder",
+"score": 1428
+},
+{
+"word": "wildhaven",
+"score": 1235
+},
+{
+"word": "willomitzer",
+"score": 1364
+},
+{
+"word": "wimp",
+"score": 975
+},
+{
+"word": "winalot",
+"score": 405
+},
+{
+"word": "windsock",
+"score": 1043
+},
+{
+"word": "wirehaired",
+"score": 208
+},
+{
+"word": "wisconsinite",
+"score": 1375
+},
+{
+"word": "wolf",
+"score": 437
+},
+{
+"word": "wolf",
+"score": 439
+},
+{
+"word": "wolfhound",
+"score": 110
+},
+{
+"word": "wolfhounds",
+"score": 166
+},
+{
+"word": "wolfy",
+"score": 1381
+},
+{
+"word": "wombat",
+"score": 1159
+},
+{
+"word": "woobie",
+"score": 666
+},
+{
+"word": "woodchuck",
+"score": 982
+},
+{
+"word": "woof",
+"score": 376
+},
+{
+"word": "woofed",
+"score": 779
+},
+{
+"word": "woofie",
+"score": 183
+},
+{
+"word": "woofs",
+"score": 610
+},
+{
+"word": "woofstock",
+"score": 284
+},
+{
+"word": "woofy",
+"score": 657
+},
+{
+"word": "wosachlo",
+"score": 1189
+},
+{
+"word": "xolo",
+"score": 364
+},
+{
+"word": "xoloitzcuintli",
+"score": 944
+},
+{
+"word": "yanisko",
+"score": 1284
+},
+{
+"word": "yappy",
+"score": 457
+},
+{
+"word": "yaps",
+"score": 514
+},
+{
+"word": "yeller",
+"score": 467
+},
+{
+"word": "yelping",
+"score": 782
+},
+{
+"word": "yip",
+"score": 783
+},
+{
+"word": "yipped",
+"score": 551
+},
+{
+"word": "yipping",
+"score": 864
+},
+{
+"word": "yippy",
+"score": 586
+},
+{
+"word": "yorkie",
+"score": 46
+},
+{
+"word": "yorkies",
+"score": 111
+},
+{
+"word": "yowling",
+"score": 1429
+},
+{
+"word": "zebra",
+"score": 1049
+},
+{
+"word": "zhou",
+"score": 461
+},
+{
+"word": "zhuzhu",
+"score": 1305
+},
+{
+"word": "zilar",
+"score": 287
+},
+{
+"word": "ziniuk",
+"score": 1131
+},
+{
+"word": "zomm",
+"score": 1278
+},
+{
+"word": "zonkey",
+"score": 495
+},
+{
+"word": "zoo",
+"score": 1238
+},
+{
+"word": "zookeeper",
+"score": 663
+},
+{
+"word": "zookeepers",
+"score": 910
+},
+{
+"word": "zootoo",
+"score": 1289
+},
+{
+"word": "zooz",
+"score": 1471
+}
+]
+}
