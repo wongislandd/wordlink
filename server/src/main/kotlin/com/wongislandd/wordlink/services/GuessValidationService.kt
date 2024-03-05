@@ -10,7 +10,11 @@ class GuessValidationService(private val dictionaryClient: DictionaryClient) {
         return dictionaryClient.checkDictionary(word)
     }
 
+    private fun format(word: String): String {
+        return word.lowercase().replace(" ","");
+    }
+
     fun consider(word: String): String? {
-        return if (isValidWord(word)) word else null
+        return if (isValidWord(word)) format(word) else null
     }
 }
