@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import GameInfoDetails from './GameInfoDetails';
-import { Button, Stack } from '@mui/material';
+import { Stack } from '@mui/material';
 import GameStateContext from './GameStateContext';
 import './styles/GameInfo.scss';
 
