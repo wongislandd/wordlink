@@ -1,0 +1,4709 @@
+{
+"hints": [
+"I am vast and deep, filled with mysteries untold. What am I?",
+"I am home to countless creatures, from the smallest fish to the largest mammals. What am I?",
+"I have the power to calm the storm and inspire dreams. What am I?"
+],
+"associations": [
+{
+"word": "abalone",
+"score": 274
+},
+{
+"word": "abalones",
+"score": 273
+},
+{
+"word": "abyssal",
+"score": 68
+},
+{
+"word": "acex",
+"score": 677
+},
+{
+"word": "acidifies",
+"score": 945
+},
+{
+"word": "adonara",
+"score": 441
+},
+{
+"word": "advection",
+"score": 435
+},
+{
+"word": "aeolian",
+"score": 377
+},
+{
+"word": "aeolian",
+"score": 378
+},
+{
+"word": "agulhas",
+"score": 427
+},
+{
+"word": "airfoil",
+"score": 911
+},
+{
+"word": "airglow",
+"score": 470
+},
+{
+"word": "akule",
+"score": 72
+},
+{
+"word": "alacati",
+"score": 1144
+},
+{
+"word": "aleut",
+"score": 772
+},
+{
+"word": "aleutians",
+"score": 771
+},
+{
+"word": "alexandrium",
+"score": 599
+},
+{
+"word": "alga",
+"score": 717
+},
+{
+"word": "algae",
+"score": 716
+},
+{
+"word": "algaes",
+"score": 1166
+},
+{
+"word": "algalita",
+"score": 212
+},
+{
+"word": "alongshore",
+"score": 162
+},
+{
+"word": "alsek",
+"score": 757
+},
+{
+"word": "altimetry",
+"score": 1055
+},
+{
+"word": "altose",
+"score": 262
+},
+{
+"word": "alvei",
+"score": 517
+},
+{
+"word": "ameland",
+"score": 1093
+},
+{
+"word": "ammonite",
+"score": 725
+},
+{
+"word": "ammonites",
+"score": 724
+},
+{
+"word": "amorgos",
+"score": 827
+},
+{
+"word": "amphipod",
+"score": 418
+},
+{
+"word": "amphipods",
+"score": 417
+},
+{
+"word": "anatahan",
+"score": 1173
+},
+{
+"word": "anemone",
+"score": 547
+},
+{
+"word": "anemones",
+"score": 548
+},
+{
+"word": "animal",
+"score": 1050
+},
+{
+"word": "anoxic",
+"score": 519
+},
+{
+"word": "antalina",
+"score": 739
+},
+{
+"word": "antarctic",
+"score": 36
+},
+{
+"word": "antarctic",
+"score": 37
+},
+{
+"word": "antarctica",
+"score": 48
+},
+{
+"word": "antarctica",
+"score": 49
+},
+{
+"word": "antartic",
+"score": 200
+},
+{
+"word": "antartica",
+"score": 958
+},
+{
+"word": "anthropogenically",
+"score": 1063
+},
+{
+"word": "appeldoorn",
+"score": 814
+},
+{
+"word": "aquaduck",
+"score": 588
+},
+{
+"word": "aquanaut",
+"score": 1041
+},
+{
+"word": "aquanauts",
+"score": 1039
+},
+{
+"word": "aquarium",
+"score": 578
+},
+{
+"word": "aquatheater",
+"score": 476
+},
+{
+"word": "aquatic",
+"score": 366
+},
+{
+"word": "arbin",
+"score": 1031
+},
+{
+"word": "archipelagic",
+"score": 964
+},
+{
+"word": "archipelago",
+"score": 390
+},
+{
+"word": "archipelagos",
+"score": 524
+},
+{
+"word": "architectonics",
+"score": 1110
+},
+{
+"word": "arctic",
+"score": 364
+},
+{
+"word": "arctic",
+"score": 365
+},
+{
+"word": "ashore",
+"score": 1014
+},
+{
+"word": "asthenosphere",
+"score": 464
+},
+{
+"word": "atlantic",
+"score": 625
+},
+{
+"word": "atlantic",
+"score": 626
+},
+{
+"word": "atmospheric",
+"score": 591
+},
+{
+"word": "atoll",
+"score": 461
+},
+{
+"word": "auk",
+"score": 369
+},
+{
+"word": "auklet",
+"score": 216
+},
+{
+"word": "auklets",
+"score": 215
+},
+{
+"word": "auks",
+"score": 370
+},
+{
+"word": "autec",
+"score": 927
+},
+{
+"word": "avalonia",
+"score": 947
+},
+{
+"word": "bacalar",
+"score": 743
+},
+{
+"word": "backbone",
+"score": 487
+},
+{
+"word": "backstroking",
+"score": 718
+},
+{
+"word": "balyasnikov",
+"score": 256
+},
+{
+"word": "banerdt",
+"score": 1081
+},
+{
+"word": "barnacle",
+"score": 552
+},
+{
+"word": "barnacles",
+"score": 551
+},
+{
+"word": "basilosaurus",
+"score": 535
+},
+{
+"word": "basin",
+"score": 488
+},
+{
+"word": "batfish",
+"score": 1134
+},
+{
+"word": "bathymetric",
+"score": 113
+},
+{
+"word": "bathymetry",
+"score": 156
+},
+{
+"word": "bathyscaph",
+"score": 161
+},
+{
+"word": "bathyscaphe",
+"score": 160
+},
+{
+"word": "bathysphere",
+"score": 179
+},
+{
+"word": "bay",
+"score": 492
+},
+{
+"word": "baylands",
+"score": 1049
+},
+{
+"word": "bayshore",
+"score": 651
+},
+{
+"word": "bbsr",
+"score": 909
+},
+{
+"word": "beach",
+"score": 40
+},
+{
+"word": "beachbreaks",
+"score": 746
+},
+{
+"word": "beachcombing",
+"score": 878
+},
+{
+"word": "beaches",
+"score": 182
+},
+{
+"word": "beachfront",
+"score": 343
+},
+{
+"word": "beachfronts",
+"score": 1119
+},
+{
+"word": "beachgoers",
+"score": 645
+},
+{
+"word": "beachings",
+"score": 345
+},
+{
+"word": "beacon",
+"score": 1099
+},
+{
+"word": "behrenfeld",
+"score": 744
+},
+{
+"word": "beluga",
+"score": 504
+},
+{
+"word": "belugas",
+"score": 503
+},
+{
+"word": "benthic",
+"score": 101
+},
+{
+"word": "benthos",
+"score": 147
+},
+{
+"word": "berg",
+"score": 429
+},
+{
+"word": "bergs",
+"score": 428
+},
+{
+"word": "berkelmans",
+"score": 330
+},
+{
+"word": "bigeye",
+"score": 1030
+},
+{
+"word": "billabong",
+"score": 808
+},
+{
+"word": "billabongs",
+"score": 807
+},
+{
+"word": "billfishing",
+"score": 954
+},
+{
+"word": "bindschadler",
+"score": 185
+},
+{
+"word": "biogeochemical",
+"score": 575
+},
+{
+"word": "biogeographic",
+"score": 999
+},
+{
+"word": "biogeographical",
+"score": 983
+},
+{
+"word": "biogeography",
+"score": 992
+},
+{
+"word": "bioregion",
+"score": 1084
+},
+{
+"word": "biosphere",
+"score": 148
+},
+{
+"word": "biota",
+"score": 806
+},
+{
+"word": "blackfishing",
+"score": 473
+},
+{
+"word": "blenny",
+"score": 737
+},
+{
+"word": "blobfish",
+"score": 957
+},
+{
+"word": "blowhole",
+"score": 55
+},
+{
+"word": "blowholes",
+"score": 157
+},
+{
+"word": "bluebottle",
+"score": 1085
+},
+{
+"word": "bluebottles",
+"score": 1086
+},
+{
+"word": "bluefin",
+"score": 1128
+},
+{
+"word": "bluefins",
+"score": 1127
+},
+{
+"word": "bluewater",
+"score": 566
+},
+{
+"word": "boardwalk",
+"score": 1067
+},
+{
+"word": "boat",
+"score": 765
+},
+{
+"word": "boaties",
+"score": 781
+},
+{
+"word": "boatlifts",
+"score": 889
+},
+{
+"word": "boatsheds",
+"score": 670
+},
+{
+"word": "boatyard",
+"score": 763
+},
+{
+"word": "boatyards",
+"score": 762
+},
+{
+"word": "bobhouse",
+"score": 1165
+},
+{
+"word": "bodysurf",
+"score": 97
+},
+{
+"word": "boesmansgat",
+"score": 406
+},
+{
+"word": "bomber",
+"score": 1058
+},
+{
+"word": "bonefishing",
+"score": 671
+},
+{
+"word": "bonnethead",
+"score": 788
+},
+{
+"word": "bottlenose",
+"score": 619
+},
+{
+"word": "bottlenoses",
+"score": 472
+},
+{
+"word": "bottomfishing",
+"score": 541
+},
+{
+"word": "bouy",
+"score": 603
+},
+{
+"word": "bouys",
+"score": 300
+},
+{
+"word": "brackish",
+"score": 1096
+},
+{
+"word": "breakline",
+"score": 202
+},
+{
+"word": "breakwalls",
+"score": 867
+},
+{
+"word": "breakwater",
+"score": 360
+},
+{
+"word": "breakwaters",
+"score": 812
+},
+{
+"word": "breeze",
+"score": 870
+},
+{
+"word": "brevetoxin",
+"score": 399
+},
+{
+"word": "brevetoxins",
+"score": 1034
+},
+{
+"word": "briney",
+"score": 166
+},
+{
+"word": "brininess",
+"score": 252
+},
+{
+"word": "briny",
+"score": 169
+},
+{
+"word": "brook",
+"score": 424
+},
+{
+"word": "bryozoan",
+"score": 271
+},
+{
+"word": "bryozoans",
+"score": 270
+},
+{
+"word": "buesseler",
+"score": 398
+},
+{
+"word": "bulkheading",
+"score": 949
+},
+{
+"word": "buoy",
+"score": 368
+},
+{
+"word": "buoys",
+"score": 367
+},
+{
+"word": "caldera",
+"score": 543
+},
+{
+"word": "calderas",
+"score": 544
+},
+{
+"word": "caloosahatchee",
+"score": 872
+},
+{
+"word": "caloosahatchee",
+"score": 873
+},
+{
+"word": "canal",
+"score": 1069
+},
+{
+"word": "cancer",
+"score": 628
+},
+{
+"word": "canyon",
+"score": 590
+},
+{
+"word": "capelin",
+"score": 1112
+},
+{
+"word": "caplin",
+"score": 1113
+},
+{
+"word": "carcharhinus",
+"score": 1091
+},
+{
+"word": "carcharhinus",
+"score": 1092
+},
+{
+"word": "carcharias",
+"score": 916
+},
+{
+"word": "carcharias",
+"score": 917
+},
+{
+"word": "catalina",
+"score": 1000
+},
+{
+"word": "cayes",
+"score": 1017
+},
+{
+"word": "cays",
+"score": 653
+},
+{
+"word": "cenospheres",
+"score": 982
+},
+{
+"word": "cenote",
+"score": 183
+},
+{
+"word": "cetacean",
+"score": 83
+},
+{
+"word": "cetaceans",
+"score": 525
+},
+{
+"word": "chandeleurs",
+"score": 1005
+},
+{
+"word": "chelyuskin",
+"score": 798
+},
+{
+"word": "chemosynthetic",
+"score": 85
+},
+{
+"word": "chichijima",
+"score": 371
+},
+{
+"word": "chromosphere",
+"score": 463
+},
+{
+"word": "chuckchi",
+"score": 520
+},
+{
+"word": "circum",
+"score": 1060
+},
+{
+"word": "circumnavigating",
+"score": 731
+},
+{
+"word": "cladophora",
+"score": 324
+},
+{
+"word": "clathrates",
+"score": 768
+},
+{
+"word": "cliff",
+"score": 238
+},
+{
+"word": "cliffs",
+"score": 237
+},
+{
+"word": "clifftops",
+"score": 493
+},
+{
+"word": "cloudscape",
+"score": 933
+},
+{
+"word": "coast",
+"score": 53
+},
+{
+"word": "coastal",
+"score": 41
+},
+{
+"word": "coastland",
+"score": 137
+},
+{
+"word": "coastlands",
+"score": 138
+},
+{
+"word": "coastline",
+"score": 13
+},
+{
+"word": "coastlines",
+"score": 14
+},
+{
+"word": "coasts",
+"score": 128
+},
+{
+"word": "coccolithophores",
+"score": 145
+},
+{
+"word": "coelacanth",
+"score": 420
+},
+{
+"word": "coelacanths",
+"score": 419
+},
+{
+"word": "coiba",
+"score": 495
+},
+{
+"word": "coil",
+"score": 26
+},
+{
+"word": "coldwater",
+"score": 387
+},
+{
+"word": "coml",
+"score": 313
+},
+{
+"word": "companionway",
+"score": 636
+},
+{
+"word": "conch",
+"score": 891
+},
+{
+"word": "conchs",
+"score": 890
+},
+{
+"word": "conodont",
+"score": 1125
+},
+{
+"word": "conodonts",
+"score": 1126
+},
+{
+"word": "convective",
+"score": 862
+},
+{
+"word": "copepod",
+"score": 317
+},
+{
+"word": "copepods",
+"score": 356
+},
+{
+"word": "coral",
+"score": 24
+},
+{
+"word": "corals",
+"score": 111
+},
+{
+"word": "cordgrass",
+"score": 583
+},
+{
+"word": "cornflower",
+"score": 1087
+},
+{
+"word": "corryvreckan",
+"score": 490
+},
+{
+"word": "cosmos",
+"score": 515
+},
+{
+"word": "costal",
+"score": 1046
+},
+{
+"word": "cotentin",
+"score": 484
+},
+{
+"word": "cousteau",
+"score": 728
+},
+{
+"word": "cousteau",
+"score": 729
+},
+{
+"word": "cove",
+"score": 100
+},
+{
+"word": "cownose",
+"score": 1003
+},
+{
+"word": "crab",
+"score": 630
+},
+{
+"word": "crabs",
+"score": 629
+},
+{
+"word": "crays",
+"score": 974
+},
+{
+"word": "creature",
+"score": 1051
+},
+{
+"word": "creatures",
+"score": 1052
+},
+{
+"word": "creek",
+"score": 423
+},
+{
+"word": "creek",
+"score": 425
+},
+{
+"word": "crewless",
+"score": 358
+},
+{
+"word": "crinoid",
+"score": 639
+},
+{
+"word": "crinoids",
+"score": 640
+},
+{
+"word": "crustacean",
+"score": 506
+},
+{
+"word": "crustaceans",
+"score": 505
+},
+{
+"word": "crustal",
+"score": 721
+},
+{
+"word": "cryogenian",
+"score": 988
+},
+{
+"word": "cryosphere",
+"score": 501
+},
+{
+"word": "current",
+"score": 227
+},
+{
+"word": "currents",
+"score": 228
+},
+{
+"word": "cuttyhunk",
+"score": 750
+},
+{
+"word": "daggerboard",
+"score": 875
+},
+{
+"word": "daggerboards",
+"score": 876
+},
+{
+"word": "dallisgrass",
+"score": 1106
+},
+{
+"word": "damselfish",
+"score": 400
+},
+{
+"word": "dayboat",
+"score": 959
+},
+{
+"word": "deblieu",
+"score": 1071
+},
+{
+"word": "deglaciation",
+"score": 542
+},
+{
+"word": "dekendrix",
+"score": 1032
+},
+{
+"word": "deltaic",
+"score": 1044
+},
+{
+"word": "demersal",
+"score": 318
+},
+{
+"word": "deoxygenated",
+"score": 1037
+},
+{
+"word": "desalinated",
+"score": 527
+},
+{
+"word": "desalinator",
+"score": 975
+},
+{
+"word": "desalinized",
+"score": 839
+},
+{
+"word": "desert",
+"score": 1136
+},
+{
+"word": "diatom",
+"score": 384
+},
+{
+"word": "diatoms",
+"score": 385
+},
+{
+"word": "didemnum",
+"score": 614
+},
+{
+"word": "dinghy",
+"score": 224
+},
+{
+"word": "dinoflagellate",
+"score": 392
+},
+{
+"word": "dinoflagellates",
+"score": 391
+},
+{
+"word": "diporeia",
+"score": 761
+},
+{
+"word": "ditorrice",
+"score": 180
+},
+{
+"word": "dole",
+"score": 705
+},
+{
+"word": "dolphin",
+"score": 107
+},
+{
+"word": "dolphinfish",
+"score": 106
+},
+{
+"word": "dolphins",
+"score": 105
+},
+{
+"word": "dories",
+"score": 222
+},
+{
+"word": "dory",
+"score": 223
+},
+{
+"word": "downpour",
+"score": 1011
+},
+{
+"word": "downwelling",
+"score": 184
+},
+{
+"word": "dredgings",
+"score": 943
+},
+{
+"word": "drumlin",
+"score": 586
+},
+{
+"word": "drumlins",
+"score": 585
+},
+{
+"word": "duct",
+"score": 1070
+},
+{
+"word": "dugong",
+"score": 664
+},
+{
+"word": "dugongs",
+"score": 665
+},
+{
+"word": "dunce",
+"score": 856
+},
+{
+"word": "dune",
+"score": 149
+},
+{
+"word": "dunes",
+"score": 151
+},
+{
+"word": "dunlins",
+"score": 1033
+},
+{
+"word": "durgerian",
+"score": 941
+},
+{
+"word": "durrin",
+"score": 795
+},
+{
+"word": "duyfken",
+"score": 662
+},
+{
+"word": "earth",
+"score": 170
+},
+{
+"word": "earth",
+"score": 172
+},
+{
+"word": "earthlike",
+"score": 1118
+},
+{
+"word": "earthwards",
+"score": 703
+},
+{
+"word": "easterlies",
+"score": 688
+},
+{
+"word": "ebbesmeyer",
+"score": 320
+},
+{
+"word": "echinoderm",
+"score": 1024
+},
+{
+"word": "echinoderms",
+"score": 1023
+},
+{
+"word": "echosounder",
+"score": 561
+},
+{
+"word": "ecoregions",
+"score": 1065
+},
+{
+"word": "ecosystem",
+"score": 554
+},
+{
+"word": "ecosystems",
+"score": 555
+},
+{
+"word": "eddies",
+"score": 284
+},
+{
+"word": "eddy",
+"score": 282
+},
+{
+"word": "eddy",
+"score": 283
+},
+{
+"word": "eelgrass",
+"score": 88
+},
+{
+"word": "egegik",
+"score": 883
+},
+{
+"word": "eider",
+"score": 539
+},
+{
+"word": "eiders",
+"score": 540
+},
+{
+"word": "elkhorn",
+"score": 1107
+},
+{
+"word": "embarcadero",
+"score": 323
+},
+{
+"word": "embayments",
+"score": 491
+},
+{
+"word": "enceladus",
+"score": 740
+},
+{
+"word": "equator",
+"score": 208
+},
+{
+"word": "equatorial",
+"score": 562
+},
+{
+"word": "eruc",
+"score": 1148
+},
+{
+"word": "escarpment",
+"score": 1145
+},
+{
+"word": "escarpments",
+"score": 1146
+},
+{
+"word": "esker",
+"score": 706
+},
+{
+"word": "estuarial",
+"score": 444
+},
+{
+"word": "estuaries",
+"score": 19
+},
+{
+"word": "estuarine",
+"score": 35
+},
+{
+"word": "estuary",
+"score": 20
+},
+{
+"word": "everglades",
+"score": 1021
+},
+{
+"word": "everglades",
+"score": 1022
+},
+{
+"word": "ewa",
+"score": 976
+},
+{
+"word": "exosphere",
+"score": 995
+},
+{
+"word": "extrasolar",
+"score": 1143
+},
+{
+"word": "exumas",
+"score": 792
+},
+{
+"word": "faial",
+"score": 973
+},
+{
+"word": "fakahatchee",
+"score": 673
+},
+{
+"word": "farallones",
+"score": 112
+},
+{
+"word": "farallons",
+"score": 116
+},
+{
+"word": "fathom",
+"score": 351
+},
+{
+"word": "fathoms",
+"score": 352
+},
+{
+"word": "feather",
+"score": 821
+},
+{
+"word": "finback",
+"score": 499
+},
+{
+"word": "finless",
+"score": 897
+},
+{
+"word": "fiord",
+"score": 263
+},
+{
+"word": "fiords",
+"score": 93
+},
+{
+"word": "fishboat",
+"score": 337
+},
+{
+"word": "fisheries",
+"score": 996
+},
+{
+"word": "fisherman",
+"score": 880
+},
+{
+"word": "fishermens",
+"score": 881
+},
+{
+"word": "fishery",
+"score": 997
+},
+{
+"word": "fishies",
+"score": 468
+},
+{
+"word": "fjord",
+"score": 92
+},
+{
+"word": "fjords",
+"score": 616
+},
+{
+"word": "flimlin",
+"score": 846
+},
+{
+"word": "flippered",
+"score": 341
+},
+{
+"word": "floatable",
+"score": 815
+},
+{
+"word": "floatables",
+"score": 442
+},
+{
+"word": "floatie",
+"score": 733
+},
+{
+"word": "floe",
+"score": 246
+},
+{
+"word": "floes",
+"score": 290
+},
+{
+"word": "flotsam",
+"score": 991
+},
+{
+"word": "flybridge",
+"score": 961
+},
+{
+"word": "foram",
+"score": 108
+},
+{
+"word": "foraminifera",
+"score": 302
+},
+{
+"word": "foraminifera",
+"score": 303
+},
+{
+"word": "forams",
+"score": 109
+},
+{
+"word": "forecastle",
+"score": 210
+},
+{
+"word": "foredeck",
+"score": 802
+},
+{
+"word": "forepeak",
+"score": 449
+},
+{
+"word": "freedivers",
+"score": 908
+},
+{
+"word": "freshwater",
+"score": 42
+},
+{
+"word": "freshwaters",
+"score": 529
+},
+{
+"word": "frigatebirds",
+"score": 1137
+},
+{
+"word": "frogfish",
+"score": 732
+},
+{
+"word": "fulmar",
+"score": 608
+},
+{
+"word": "fulmars",
+"score": 607
+},
+{
+"word": "furnes",
+"score": 811
+},
+{
+"word": "fwri",
+"score": 712
+},
+{
+"word": "gannet",
+"score": 823
+},
+{
+"word": "gannets",
+"score": 921
+},
+{
+"word": "gastropod",
+"score": 403
+},
+{
+"word": "gastropods",
+"score": 536
+},
+{
+"word": "gayes",
+"score": 701
+},
+{
+"word": "geoduck",
+"score": 1008
+},
+{
+"word": "geoducks",
+"score": 1009
+},
+{
+"word": "geohazard",
+"score": 874
+},
+{
+"word": "geoid",
+"score": 1089
+},
+{
+"word": "geomicrobiology",
+"score": 571
+},
+{
+"word": "geomorphology",
+"score": 804
+},
+{
+"word": "geosounder",
+"score": 563
+},
+{
+"word": "geosphere",
+"score": 1158
+},
+{
+"word": "giant",
+"score": 58
+},
+{
+"word": "gimble",
+"score": 396
+},
+{
+"word": "glacier",
+"score": 130
+},
+{
+"word": "glaciers",
+"score": 129
+},
+{
+"word": "glaciologists",
+"score": 749
+},
+{
+"word": "glassy",
+"score": 1104
+},
+{
+"word": "glide",
+"score": 837
+},
+{
+"word": "gobies",
+"score": 447
+},
+{
+"word": "goby",
+"score": 448
+},
+{
+"word": "godwit",
+"score": 605
+},
+{
+"word": "godwits",
+"score": 606
+},
+{
+"word": "goldbogen",
+"score": 753
+},
+{
+"word": "gondwanaland",
+"score": 1129
+},
+{
+"word": "gondwanaland",
+"score": 1130
+},
+{
+"word": "gorgonian",
+"score": 195
+},
+{
+"word": "gorgonians",
+"score": 196
+},
+{
+"word": "grapnel",
+"score": 609
+},
+{
+"word": "graywater",
+"score": 1135
+},
+{
+"word": "ground",
+"score": 171
+},
+{
+"word": "groundfishery",
+"score": 948
+},
+{
+"word": "groundwater",
+"score": 1117
+},
+{
+"word": "groyne",
+"score": 610
+},
+{
+"word": "grunion",
+"score": 253
+},
+{
+"word": "guillemot",
+"score": 970
+},
+{
+"word": "guillemots",
+"score": 971
+},
+{
+"word": "gulf",
+"score": 667
+},
+{
+"word": "gulfweed",
+"score": 79
+},
+{
+"word": "gulleys",
+"score": 782
+},
+{
+"word": "gundalow",
+"score": 829
+},
+{
+"word": "gunnamatta",
+"score": 1056
+},
+{
+"word": "gunnel",
+"score": 634
+},
+{
+"word": "gunwale",
+"score": 635
+},
+{
+"word": "gyre",
+"score": 25
+},
+{
+"word": "gyres",
+"score": 32
+},
+{
+"word": "habitat",
+"score": 934
+},
+{
+"word": "habitats",
+"score": 935
+},
+{
+"word": "habs",
+"score": 321
+},
+{
+"word": "haena",
+"score": 774
+},
+{
+"word": "halemaumau",
+"score": 269
+},
+{
+"word": "hammerhead",
+"score": 855
+},
+{
+"word": "hammerheads",
+"score": 857
+},
+{
+"word": "hanauma",
+"score": 34
+},
+{
+"word": "hanshumaker",
+"score": 1047
+},
+{
+"word": "harbor",
+"score": 221
+},
+{
+"word": "haulout",
+"score": 987
+},
+{
+"word": "hawaiki",
+"score": 1142
+},
+{
+"word": "hawksbill",
+"score": 1169
+},
+{
+"word": "headland",
+"score": 295
+},
+{
+"word": "headlands",
+"score": 191
+},
+{
+"word": "heinerth",
+"score": 672
+},
+{
+"word": "hillgarth",
+"score": 379
+},
+{
+"word": "hindcasting",
+"score": 826
+},
+{
+"word": "hoffmayer",
+"score": 254
+},
+{
+"word": "hokulea",
+"score": 307
+},
+{
+"word": "honokohau",
+"score": 691
+},
+{
+"word": "honu",
+"score": 372
+},
+{
+"word": "hookipa",
+"score": 268
+},
+{
+"word": "hotspring",
+"score": 907
+},
+{
+"word": "huahine",
+"score": 905
+},
+{
+"word": "hull",
+"score": 632
+},
+{
+"word": "hull",
+"score": 633
+},
+{
+"word": "humboldt",
+"score": 132
+},
+{
+"word": "humboldts",
+"score": 131
+},
+{
+"word": "hummocky",
+"score": 915
+},
+{
+"word": "humpback",
+"score": 511
+},
+{
+"word": "humpbacks",
+"score": 512
+},
+{
+"word": "humuhumu",
+"score": 864
+},
+{
+"word": "hydrodynamic",
+"score": 482
+},
+{
+"word": "hydrodynamics",
+"score": 181
+},
+{
+"word": "hydrographic",
+"score": 388
+},
+{
+"word": "hydrography",
+"score": 1068
+},
+{
+"word": "hydrophone",
+"score": 925
+},
+{
+"word": "hydrophones",
+"score": 852
+},
+{
+"word": "hydropolis",
+"score": 1007
+},
+{
+"word": "hydrosphere",
+"score": 570
+},
+{
+"word": "hypersaline",
+"score": 467
+},
+{
+"word": "iceberg",
+"score": 99
+},
+{
+"word": "icebergs",
+"score": 98
+},
+{
+"word": "icecap",
+"score": 81
+},
+{
+"word": "icecaps",
+"score": 80
+},
+{
+"word": "icefall",
+"score": 445
+},
+{
+"word": "icefalls",
+"score": 446
+},
+{
+"word": "icefield",
+"score": 167
+},
+{
+"word": "icefields",
+"score": 456
+},
+{
+"word": "icescape",
+"score": 135
+},
+{
+"word": "icesheet",
+"score": 454
+},
+{
+"word": "icesheets",
+"score": 243
+},
+{
+"word": "ifremer",
+"score": 805
+},
+{
+"word": "ijsselmeer",
+"score": 726
+},
+{
+"word": "ijsselmeer",
+"score": 727
+},
+{
+"word": "imbrium",
+"score": 624
+},
+{
+"word": "inland",
+"score": 549
+},
+{
+"word": "inlands",
+"score": 299
+},
+{
+"word": "inlet",
+"score": 77
+},
+{
+"word": "inlets",
+"score": 898
+},
+{
+"word": "inshore",
+"score": 285
+},
+{
+"word": "intake",
+"score": 76
+},
+{
+"word": "intercoastal",
+"score": 178
+},
+{
+"word": "intertidal",
+"score": 15
+},
+{
+"word": "intracoastal",
+"score": 84
+},
+{
+"word": "intraplate",
+"score": 1133
+},
+{
+"word": "invertebrate",
+"score": 598
+},
+{
+"word": "invertebrates",
+"score": 597
+},
+{
+"word": "ionosphere",
+"score": 402
+},
+{
+"word": "island",
+"score": 141
+},
+{
+"word": "islands",
+"score": 140
+},
+{
+"word": "isle",
+"score": 936
+},
+{
+"word": "isobar",
+"score": 1149
+},
+{
+"word": "isobars",
+"score": 1150
+},
+{
+"word": "isopod",
+"score": 219
+},
+{
+"word": "isopods",
+"score": 218
+},
+{
+"word": "itcz",
+"score": 707
+},
+{
+"word": "ithaa",
+"score": 71
+},
+{
+"word": "jakobshavn",
+"score": 697
+},
+{
+"word": "jellyfish",
+"score": 18
+},
+{
+"word": "jetskiers",
+"score": 289
+},
+{
+"word": "jetty",
+"score": 564
+},
+{
+"word": "jewfish",
+"score": 434
+},
+{
+"word": "jiaolong",
+"score": 288
+},
+{
+"word": "jovian",
+"score": 679
+},
+{
+"word": "kaaawa",
+"score": 944
+},
+{
+"word": "kahoolawe",
+"score": 436
+},
+{
+"word": "kahoolawe",
+"score": 437
+},
+{
+"word": "kalepa",
+"score": 397
+},
+{
+"word": "kalihiwai",
+"score": 257
+},
+{
+"word": "kangerdlugssuaq",
+"score": 851
+},
+{
+"word": "karstic",
+"score": 920
+},
+{
+"word": "karsts",
+"score": 950
+},
+{
+"word": "kasatochi",
+"score": 154
+},
+{
+"word": "kattegat",
+"score": 1147
+},
+{
+"word": "kauahikaua",
+"score": 430
+},
+{
+"word": "kayak",
+"score": 1076
+},
+{
+"word": "kayakers",
+"score": 1025
+},
+{
+"word": "keawakapu",
+"score": 509
+},
+{
+"word": "keehi",
+"score": 816
+},
+{
+"word": "kelp",
+"score": 75
+},
+{
+"word": "kelps",
+"score": 188
+},
+{
+"word": "kerguelen",
+"score": 661
+},
+{
+"word": "kerguelens",
+"score": 863
+},
+{
+"word": "kewalo",
+"score": 382
+},
+{
+"word": "key",
+"score": 654
+},
+{
+"word": "kilchis",
+"score": 301
+},
+{
+"word": "kilcunda",
+"score": 1048
+},
+{
+"word": "kiteboarders",
+"score": 264
+},
+{
+"word": "kitesurfers",
+"score": 346
+},
+{
+"word": "kittiwake",
+"score": 1061
+},
+{
+"word": "kittiwakes",
+"score": 1062
+},
+{
+"word": "kleinjans",
+"score": 1159
+},
+{
+"word": "kolodziejzyk",
+"score": 720
+},
+{
+"word": "krill",
+"score": 260
+},
+{
+"word": "kualoa",
+"score": 146
+},
+{
+"word": "kuroshio",
+"score": 266
+},
+{
+"word": "kyphosis",
+"score": 510
+},
+{
+"word": "lagoon",
+"score": 5
+},
+{
+"word": "lagoons",
+"score": 201
+},
+{
+"word": "laidre",
+"score": 421
+},
+{
+"word": "lake",
+"score": 47
+},
+{
+"word": "lakebed",
+"score": 565
+},
+{
+"word": "lakes",
+"score": 723
+},
+{
+"word": "land",
+"score": 173
+},
+{
+"word": "landforms",
+"score": 267
+},
+{
+"word": "landlubber",
+"score": 245
+},
+{
+"word": "landlubbers",
+"score": 244
+},
+{
+"word": "landmass",
+"score": 432
+},
+{
+"word": "landmasses",
+"score": 431
+},
+{
+"word": "landward",
+"score": 572
+},
+{
+"word": "laniakea",
+"score": 342
+},
+{
+"word": "lanternfish",
+"score": 340
+},
+{
+"word": "latitude",
+"score": 682
+},
+{
+"word": "latitudes",
+"score": 681
+},
+{
+"word": "launiupoko",
+"score": 1100
+},
+{
+"word": "lautenbacher",
+"score": 631
+},
+{
+"word": "lava",
+"score": 133
+},
+{
+"word": "lazarette",
+"score": 404
+},
+{
+"word": "lazaretto",
+"score": 405
+},
+{
+"word": "leatherback",
+"score": 738
+},
+{
+"word": "leatherbacks",
+"score": 272
+},
+{
+"word": "levisa",
+"score": 1151
+},
+{
+"word": "lifeboat",
+"score": 1066
+},
+{
+"word": "lighthouse",
+"score": 1098
+},
+{
+"word": "lightship",
+"score": 294
+},
+{
+"word": "lightstation",
+"score": 791
+},
+{
+"word": "limpet",
+"score": 574
+},
+{
+"word": "limpets",
+"score": 573
+},
+{
+"word": "limu",
+"score": 155
+},
+{
+"word": "linesider",
+"score": 745
+},
+{
+"word": "lithosphere",
+"score": 334
+},
+{
+"word": "littnan",
+"score": 810
+},
+{
+"word": "littoral",
+"score": 637
+},
+{
+"word": "littorals",
+"score": 652
+},
+{
+"word": "liveaboards",
+"score": 477
+},
+{
+"word": "lobster",
+"score": 887
+},
+{
+"word": "lobsters",
+"score": 888
+},
+{
+"word": "lochan",
+"score": 926
+},
+{
+"word": "lohachara",
+"score": 1103
+},
+{
+"word": "loihi",
+"score": 232
+},
+{
+"word": "longboat",
+"score": 1172
+},
+{
+"word": "longfin",
+"score": 516
+},
+{
+"word": "longline",
+"score": 790
+},
+{
+"word": "longliners",
+"score": 708
+},
+{
+"word": "longlines",
+"score": 678
+},
+{
+"word": "lophelia",
+"score": 69
+},
+{
+"word": "lough",
+"score": 644
+},
+{
+"word": "loveladies",
+"score": 1163
+},
+{
+"word": "lubchenco",
+"score": 989
+},
+{
+"word": "lubchenko",
+"score": 963
+},
+{
+"word": "mabul",
+"score": 775
+},
+{
+"word": "macroalgae",
+"score": 584
+},
+{
+"word": "madaket",
+"score": 793
+},
+{
+"word": "magellanic",
+"score": 754
+},
+{
+"word": "magma",
+"score": 981
+},
+{
+"word": "magnetotail",
+"score": 526
+},
+{
+"word": "main",
+"score": 168
+},
+{
+"word": "maisu",
+"score": 741
+},
+{
+"word": "makapuu",
+"score": 209
+},
+{
+"word": "mako",
+"score": 776
+},
+{
+"word": "makos",
+"score": 777
+},
+{
+"word": "mammal",
+"score": 882
+},
+{
+"word": "manatee",
+"score": 315
+},
+{
+"word": "manatees",
+"score": 316
+},
+{
+"word": "mandushev",
+"score": 545
+},
+{
+"word": "mangrove",
+"score": 164
+},
+{
+"word": "mangroves",
+"score": 165
+},
+{
+"word": "manta",
+"score": 144
+},
+{
+"word": "mantas",
+"score": 143
+},
+{
+"word": "marina",
+"score": 557
+},
+{
+"word": "marine",
+"score": 29
+},
+{
+"word": "marine",
+"score": 30
+},
+{
+"word": "maritime",
+"score": 1153
+},
+{
+"word": "marquesas",
+"score": 82
+},
+{
+"word": "marsh",
+"score": 45
+},
+{
+"word": "marsh",
+"score": 46
+},
+{
+"word": "marshes",
+"score": 518
+},
+{
+"word": "martinhal",
+"score": 357
+},
+{
+"word": "mattusch",
+"score": 693
+},
+{
+"word": "mbari",
+"score": 363
+},
+{
+"word": "mediterranean",
+"score": 668
+},
+{
+"word": "mediterranean",
+"score": 669
+},
+{
+"word": "megafaunal",
+"score": 1161
+},
+{
+"word": "meltwater",
+"score": 559
+},
+{
+"word": "merfolk",
+"score": 1004
+},
+{
+"word": "meridional",
+"score": 913
+},
+{
+"word": "merman",
+"score": 967
+},
+{
+"word": "merman",
+"score": 969
+},
+{
+"word": "mermen",
+"score": 968
+},
+{
+"word": "mesosphere",
+"score": 853
+},
+{
+"word": "messinian",
+"score": 734
+},
+{
+"word": "mhadei",
+"score": 985
+},
+{
+"word": "microbialites",
+"score": 550
+},
+{
+"word": "microhabitats",
+"score": 828
+},
+{
+"word": "microplastics",
+"score": 735
+},
+{
+"word": "midlatitude",
+"score": 331
+},
+{
+"word": "midlatitudes",
+"score": 796
+},
+{
+"word": "midriver",
+"score": 993
+},
+{
+"word": "mlpai",
+"score": 1114
+},
+{
+"word": "moana",
+"score": 822
+},
+{
+"word": "moclips",
+"score": 414
+},
+{
+"word": "mokuleia",
+"score": 1072
+},
+{
+"word": "mollusk",
+"score": 621
+},
+{
+"word": "mollusks",
+"score": 620
+},
+{
+"word": "molokini",
+"score": 298
+},
+{
+"word": "moray",
+"score": 380
+},
+{
+"word": "morphology",
+"score": 803
+},
+{
+"word": "mosasaurs",
+"score": 478
+},
+{
+"word": "motuihe",
+"score": 660
+},
+{
+"word": "mouchon",
+"score": 389
+},
+{
+"word": "moulin",
+"score": 1077
+},
+{
+"word": "moulins",
+"score": 797
+},
+{
+"word": "mudflat",
+"score": 94
+},
+{
+"word": "mudflats",
+"score": 187
+},
+{
+"word": "mulloway",
+"score": 433
+},
+{
+"word": "multibeam",
+"score": 719
+},
+{
+"word": "multidecadal",
+"score": 813
+},
+{
+"word": "murre",
+"score": 350
+},
+{
+"word": "murrelets",
+"score": 657
+},
+{
+"word": "murres",
+"score": 349
+},
+{
+"word": "napatree",
+"score": 759
+},
+{
+"word": "napeague",
+"score": 332
+},
+{
+"word": "narwhal",
+"score": 581
+},
+{
+"word": "narwhals",
+"score": 582
+},
+{
+"word": "nautical",
+"score": 422
+},
+{
+"word": "neas",
+"score": 577
+},
+{
+"word": "necanicum",
+"score": 395
+},
+{
+"word": "nelha",
+"score": 359
+},
+{
+"word": "neptune",
+"score": 600
+},
+{
+"word": "neptune",
+"score": 601
+},
+{
+"word": "neptunian",
+"score": 800
+},
+{
+"word": "neskowin",
+"score": 560
+},
+{
+"word": "netarts",
+"score": 1152
+},
+{
+"word": "nihoa",
+"score": 103
+},
+{
+"word": "niihau",
+"score": 507
+},
+{
+"word": "ninglick",
+"score": 242
+},
+{
+"word": "noaa",
+"score": 604
+},
+{
+"word": "nobska",
+"score": 450
+},
+{
+"word": "nonillion",
+"score": 972
+},
+{
+"word": "nontidal",
+"score": 787
+},
+{
+"word": "northeaster",
+"score": 121
+},
+{
+"word": "northeasters",
+"score": 120
+},
+{
+"word": "nourishment",
+"score": 894
+},
+{
+"word": "nourishments",
+"score": 896
+},
+{
+"word": "nudibranch",
+"score": 204
+},
+{
+"word": "nudibranchs",
+"score": 309
+},
+{
+"word": "nutriment",
+"score": 895
+},
+{
+"word": "nwhi",
+"score": 203
+},
+{
+"word": "oared",
+"score": 1074
+},
+{
+"word": "oarfish",
+"score": 336
+},
+{
+"word": "ocbp",
+"score": 861
+},
+{
+"word": "ocean",
+"score": 0
+},
+{
+"word": "offshore",
+"score": 497
+},
+{
+"word": "oilskin",
+"score": 480
+},
+{
+"word": "oilskins",
+"score": 481
+},
+{
+"word": "okinotori",
+"score": 553
+},
+{
+"word": "oligotrophic",
+"score": 297
+},
+{
+"word": "onetangi",
+"score": 932
+},
+{
+"word": "open",
+"score": 912
+},
+{
+"word": "opihi",
+"score": 692
+},
+{
+"word": "orcas",
+"score": 663
+},
+{
+"word": "organism",
+"score": 922
+},
+{
+"word": "organisms",
+"score": 923
+},
+{
+"word": "ostracods",
+"score": 866
+},
+{
+"word": "otter",
+"score": 766
+},
+{
+"word": "otters",
+"score": 1162
+},
+{
+"word": "outrigger",
+"score": 675
+},
+{
+"word": "outriggers",
+"score": 676
+},
+{
+"word": "outwash",
+"score": 534
+},
+{
+"word": "overfalls",
+"score": 773
+},
+{
+"word": "overfish",
+"score": 930
+},
+{
+"word": "overwashed",
+"score": 119
+},
+{
+"word": "pacus",
+"score": 613
+},
+{
+"word": "padanaram",
+"score": 1079
+},
+{
+"word": "paddleboard",
+"score": 353
+},
+{
+"word": "paddleboarder",
+"score": 280
+},
+{
+"word": "paddleboarding",
+"score": 794
+},
+{
+"word": "paddlewheel",
+"score": 248
+},
+{
+"word": "paddlewheels",
+"score": 247
+},
+{
+"word": "paerl",
+"score": 479
+},
+{
+"word": "palaeo",
+"score": 756
+},
+{
+"word": "papenoo",
+"score": 684
+},
+{
+"word": "paramecia",
+"score": 884
+},
+{
+"word": "paramecium",
+"score": 885
+},
+{
+"word": "parasail",
+"score": 785
+},
+{
+"word": "parasailer",
+"score": 659
+},
+{
+"word": "parasailers",
+"score": 125
+},
+{
+"word": "parasails",
+"score": 786
+},
+{
+"word": "paspalum",
+"score": 1105
+},
+{
+"word": "pass",
+"score": 532
+},
+{
+"word": "pavlof",
+"score": 638
+},
+{
+"word": "pawikan",
+"score": 919
+},
+{
+"word": "paytan",
+"score": 596
+},
+{
+"word": "peahi",
+"score": 646
+},
+{
+"word": "pelagic",
+"score": 206
+},
+{
+"word": "pelagics",
+"score": 327
+},
+{
+"word": "pencarrow",
+"score": 710
+},
+{
+"word": "penguin",
+"score": 415
+},
+{
+"word": "penguins",
+"score": 416
+},
+{
+"word": "penninsula",
+"score": 1006
+},
+{
+"word": "petrel",
+"score": 965
+},
+{
+"word": "petrels",
+"score": 966
+},
+{
+"word": "phanerozoic",
+"score": 409
+},
+{
+"word": "phanerozoic",
+"score": 410
+},
+{
+"word": "phosphorescence",
+"score": 1115
+},
+{
+"word": "photosphere",
+"score": 658
+},
+{
+"word": "phytoplankton",
+"score": 249
+},
+{
+"word": "pier",
+"score": 176
+},
+{
+"word": "pikitch",
+"score": 453
+},
+{
+"word": "pinnipeds",
+"score": 918
+},
+{
+"word": "piscataqua",
+"score": 962
+},
+{
+"word": "planet",
+"score": 292
+},
+{
+"word": "planetwide",
+"score": 451
+},
+{
+"word": "plankton",
+"score": 70
+},
+{
+"word": "planktonic",
+"score": 63
+},
+{
+"word": "planktons",
+"score": 213
+},
+{
+"word": "plesiosaur",
+"score": 569
+},
+{
+"word": "plesiosaurs",
+"score": 568
+},
+{
+"word": "plume",
+"score": 820
+},
+{
+"word": "pogies",
+"score": 1116
+},
+{
+"word": "pogy",
+"score": 704
+},
+{
+"word": "pohoiki",
+"score": 847
+},
+{
+"word": "pointbreak",
+"score": 312
+},
+{
+"word": "polar",
+"score": 328
+},
+{
+"word": "polarstern",
+"score": 457
+},
+{
+"word": "poleward",
+"score": 770
+},
+{
+"word": "polynya",
+"score": 62
+},
+{
+"word": "polynyas",
+"score": 214
+},
+{
+"word": "pond",
+"score": 455
+},
+{
+"word": "popponesset",
+"score": 1083
+},
+{
+"word": "porbeagle",
+"score": 475
+},
+{
+"word": "porbeagles",
+"score": 474
+},
+{
+"word": "porpoise",
+"score": 234
+},
+{
+"word": "porpoises",
+"score": 233
+},
+{
+"word": "porpoising",
+"score": 460
+},
+{
+"word": "port",
+"score": 1154
+},
+{
+"word": "porthole",
+"score": 1156
+},
+{
+"word": "portholes",
+"score": 1155
+},
+{
+"word": "powerboaters",
+"score": 994
+},
+{
+"word": "promontories",
+"score": 411
+},
+{
+"word": "promontory",
+"score": 190
+},
+{
+"word": "pteropod",
+"score": 265
+},
+{
+"word": "pteropods",
+"score": 333
+},
+{
+"word": "puijila",
+"score": 308
+},
+{
+"word": "pumpouts",
+"score": 1035
+},
+{
+"word": "pupfish",
+"score": 748
+},
+{
+"word": "qaanaaq",
+"score": 1111
+},
+{
+"word": "quagga",
+"score": 393
+},
+{
+"word": "quaggas",
+"score": 394
+},
+{
+"word": "quahaug",
+"score": 1122
+},
+{
+"word": "quahog",
+"score": 1120
+},
+{
+"word": "quahogs",
+"score": 1121
+},
+{
+"word": "quonochontaug",
+"score": 1002
+},
+{
+"word": "raiatea",
+"score": 960
+},
+{
+"word": "raimana",
+"score": 711
+},
+{
+"word": "rainforest",
+"score": 929
+},
+{
+"word": "rangiroa",
+"score": 325
+},
+{
+"word": "ratfish",
+"score": 755
+},
+{
+"word": "rebreathers",
+"score": 835
+},
+{
+"word": "reef",
+"score": 3
+},
+{
+"word": "reefs",
+"score": 8
+},
+{
+"word": "refugia",
+"score": 760
+},
+{
+"word": "rhossili",
+"score": 1026
+},
+{
+"word": "rhumbline",
+"score": 383
+},
+{
+"word": "rignot",
+"score": 818
+},
+{
+"word": "rip",
+"score": 354
+},
+{
+"word": "riptide",
+"score": 355
+},
+{
+"word": "river",
+"score": 86
+},
+{
+"word": "riverbed",
+"score": 1029
+},
+{
+"word": "rivermouth",
+"score": 205
+},
+{
+"word": "rivers",
+"score": 401
+},
+{
+"word": "rock",
+"score": 840
+},
+{
+"word": "rock",
+"score": 841
+},
+{
+"word": "rockfishing",
+"score": 498
+},
+{
+"word": "rockpool",
+"score": 87
+},
+{
+"word": "rockpools",
+"score": 96
+},
+{
+"word": "rocks",
+"score": 842
+},
+{
+"word": "rockweed",
+"score": 344
+},
+{
+"word": "roffer",
+"score": 709
+},
+{
+"word": "rookeries",
+"score": 946
+},
+{
+"word": "rookery",
+"score": 685
+},
+{
+"word": "rowboat",
+"score": 942
+},
+{
+"word": "rusticles",
+"score": 95
+},
+{
+"word": "sailable",
+"score": 496
+},
+{
+"word": "sailboat",
+"score": 567
+},
+{
+"word": "sailboats",
+"score": 832
+},
+{
+"word": "sailfishing",
+"score": 1088
+},
+{
+"word": "sailing",
+"score": 838
+},
+{
+"word": "salinities",
+"score": 250
+},
+{
+"word": "salinity",
+"score": 319
+},
+{
+"word": "salp",
+"score": 124
+},
+{
+"word": "salps",
+"score": 123
+},
+{
+"word": "salt",
+"score": 251
+},
+{
+"word": "saltmarshes",
+"score": 110
+},
+{
+"word": "saltwater",
+"score": 102
+},
+{
+"word": "sand",
+"score": 485
+},
+{
+"word": "sand",
+"score": 486
+},
+{
+"word": "sandbank",
+"score": 153
+},
+{
+"word": "sandbanks",
+"score": 152
+},
+{
+"word": "sandbar",
+"score": 376
+},
+{
+"word": "sandbars",
+"score": 375
+},
+{
+"word": "sandfish",
+"score": 747
+},
+{
+"word": "sandspit",
+"score": 174
+},
+{
+"word": "saquatucket",
+"score": 694
+},
+{
+"word": "sargasso",
+"score": 683
+},
+{
+"word": "sargassum",
+"score": 78
+},
+{
+"word": "sarigan",
+"score": 951
+},
+{
+"word": "saronic",
+"score": 641
+},
+{
+"word": "satellite",
+"score": 293
+},
+{
+"word": "scalloper",
+"score": 877
+},
+{
+"word": "scaup",
+"score": 859
+},
+{
+"word": "scaups",
+"score": 860
+},
+{
+"word": "scheiblauer",
+"score": 217
+},
+{
+"word": "schladow",
+"score": 471
+},
+{
+"word": "schmittner",
+"score": 407
+},
+{
+"word": "school",
+"score": 90
+},
+{
+"word": "scorpionfish",
+"score": 1131
+},
+{
+"word": "scoter",
+"score": 783
+},
+{
+"word": "scoters",
+"score": 784
+},
+{
+"word": "scow",
+"score": 901
+},
+{
+"word": "scows",
+"score": 900
+},
+{
+"word": "sea",
+"score": 1
+},
+{
+"word": "seabed",
+"score": 44
+},
+{
+"word": "seabeds",
+"score": 27
+},
+{
+"word": "seabird",
+"score": 118
+},
+{
+"word": "seabirds",
+"score": 117
+},
+{
+"word": "seabottom",
+"score": 163
+},
+{
+"word": "seabound",
+"score": 335
+},
+{
+"word": "seacoasts",
+"score": 339
+},
+{
+"word": "seafaring",
+"score": 836
+},
+{
+"word": "seafloor",
+"score": 21
+},
+{
+"word": "seafloors",
+"score": 462
+},
+{
+"word": "seagrass",
+"score": 39
+},
+{
+"word": "seagrasses",
+"score": 38
+},
+{
+"word": "seahorse",
+"score": 937
+},
+{
+"word": "sealanes",
+"score": 825
+},
+{
+"word": "sealevel",
+"score": 207
+},
+{
+"word": "sealife",
+"score": 114
+},
+{
+"word": "sealions",
+"score": 1097
+},
+{
+"word": "seamount",
+"score": 7
+},
+{
+"word": "seamounts",
+"score": 115
+},
+{
+"word": "seaport",
+"score": 220
+},
+{
+"word": "seas",
+"score": 4
+},
+{
+"word": "seascape",
+"score": 142
+},
+{
+"word": "seashore",
+"score": 51
+},
+{
+"word": "seashores",
+"score": 615
+},
+{
+"word": "seasick",
+"score": 1171
+},
+{
+"word": "seasickness",
+"score": 1138
+},
+{
+"word": "seatech",
+"score": 824
+},
+{
+"word": "seawall",
+"score": 858
+},
+{
+"word": "seaward",
+"score": 43
+},
+{
+"word": "seawards",
+"score": 189
+},
+{
+"word": "seawater",
+"score": 6
+},
+{
+"word": "seawaters",
+"score": 22
+},
+{
+"word": "seaway",
+"score": 374
+},
+{
+"word": "seaways",
+"score": 373
+},
+{
+"word": "seaweed",
+"score": 338
+},
+{
+"word": "seawifs",
+"score": 281
+},
+{
+"word": "sediment",
+"score": 236
+},
+{
+"word": "sediments",
+"score": 235
+},
+{
+"word": "seiche",
+"score": 186
+},
+{
+"word": "sengekontacket",
+"score": 127
+},
+{
+"word": "sextant",
+"score": 953
+},
+{
+"word": "sextants",
+"score": 952
+},
+{
+"word": "shallows",
+"score": 211
+},
+{
+"word": "shark",
+"score": 623
+},
+{
+"word": "sharks",
+"score": 622
+},
+{
+"word": "shearwater",
+"score": 868
+},
+{
+"word": "shearwaters",
+"score": 906
+},
+{
+"word": "shilshole",
+"score": 1170
+},
+{
+"word": "ship",
+"score": 1082
+},
+{
+"word": "shipworm",
+"score": 576
+},
+{
+"word": "shipwreck",
+"score": 612
+},
+{
+"word": "shipwrecks",
+"score": 611
+},
+{
+"word": "shoal",
+"score": 91
+},
+{
+"word": "shoaling",
+"score": 764
+},
+{
+"word": "shore",
+"score": 466
+},
+{
+"word": "shorebird",
+"score": 831
+},
+{
+"word": "shorebirds",
+"score": 830
+},
+{
+"word": "shorebreak",
+"score": 150
+},
+{
+"word": "shoreline",
+"score": 16
+},
+{
+"word": "shorelines",
+"score": 61
+},
+{
+"word": "shoreside",
+"score": 546
+},
+{
+"word": "shoreward",
+"score": 31
+},
+{
+"word": "shortfin",
+"score": 528
+},
+{
+"word": "shovelhead",
+"score": 789
+},
+{
+"word": "silty",
+"score": 848
+},
+{
+"word": "silversides",
+"score": 465
+},
+{
+"word": "sirocco",
+"score": 702
+},
+{
+"word": "skagerrak",
+"score": 713
+},
+{
+"word": "skagerrak",
+"score": 714
+},
+{
+"word": "skin-diver",
+"score": 1040
+},
+{
+"word": "skokholm",
+"score": 984
+},
+{
+"word": "skua",
+"score": 690
+},
+{
+"word": "skuas",
+"score": 689
+},
+{
+"word": "slide",
+"score": 52
+},
+{
+"word": "snailfish",
+"score": 627
+},
+{
+"word": "snorkel",
+"score": 730
+},
+{
+"word": "snorkeled",
+"score": 687
+},
+{
+"word": "snorkeler",
+"score": 1090
+},
+{
+"word": "snorkelers",
+"score": 60
+},
+{
+"word": "snorkeling",
+"score": 955
+},
+{
+"word": "snorkelled",
+"score": 136
+},
+{
+"word": "snorkellers",
+"score": 558
+},
+{
+"word": "snorkelling",
+"score": 849
+},
+{
+"word": "snowcap",
+"score": 1028
+},
+{
+"word": "snowcaps",
+"score": 1027
+},
+{
+"word": "snuba",
+"score": 508
+},
+{
+"word": "snubfin",
+"score": 1043
+},
+{
+"word": "soanya",
+"score": 296
+},
+{
+"word": "sodwana",
+"score": 1139
+},
+{
+"word": "softshells",
+"score": 899
+},
+{
+"word": "sognefjord",
+"score": 513
+},
+{
+"word": "solunar",
+"score": 1164
+},
+{
+"word": "sonar",
+"score": 695
+},
+{
+"word": "sonars",
+"score": 696
+},
+{
+"word": "soundside",
+"score": 258
+},
+{
+"word": "southwesterlies",
+"score": 322
+},
+{
+"word": "spearfisherman",
+"score": 979
+},
+{
+"word": "spearfishermen",
+"score": 767
+},
+{
+"word": "spicule",
+"score": 1019
+},
+{
+"word": "spicules",
+"score": 1018
+},
+{
+"word": "spindrift",
+"score": 643
+},
+{
+"word": "spitsbergen",
+"score": 903
+},
+{
+"word": "spitzbergen",
+"score": 904
+},
+{
+"word": "spookfish",
+"score": 259
+},
+{
+"word": "sportboats",
+"score": 314
+},
+{
+"word": "sportfishers",
+"score": 500
+},
+{
+"word": "spottail",
+"score": 1132
+},
+{
+"word": "spume",
+"score": 1045
+},
+{
+"word": "squalus",
+"score": 286
+},
+{
+"word": "squalus",
+"score": 287
+},
+{
+"word": "squibnocket",
+"score": 924
+},
+{
+"word": "squid",
+"score": 381
+},
+{
+"word": "squids",
+"score": 1013
+},
+{
+"word": "ssts",
+"score": 1157
+},
+{
+"word": "starfish",
+"score": 348
+},
+{
+"word": "staudigel",
+"score": 1001
+},
+{
+"word": "stellwagen",
+"score": 408
+},
+{
+"word": "steneck",
+"score": 1073
+},
+{
+"word": "stingray",
+"score": 978
+},
+{
+"word": "stingrays",
+"score": 977
+},
+{
+"word": "stonefish",
+"score": 850
+},
+{
+"word": "strait",
+"score": 533
+},
+{
+"word": "straneo",
+"score": 736
+},
+{
+"word": "stream",
+"score": 226
+},
+{
+"word": "streambed",
+"score": 893
+},
+{
+"word": "streambeds",
+"score": 892
+},
+{
+"word": "stromatolite",
+"score": 1078
+},
+{
+"word": "struisbaai",
+"score": 1016
+},
+{
+"word": "suatoni",
+"score": 1015
+},
+{
+"word": "subantarctic",
+"score": 17
+},
+{
+"word": "subaquatic",
+"score": 483
+},
+{
+"word": "subaqueous",
+"score": 104
+},
+{
+"word": "subarctic",
+"score": 469
+},
+{
+"word": "subducted",
+"score": 426
+},
+{
+"word": "subducting",
+"score": 998
+},
+{
+"word": "subglacial",
+"score": 126
+},
+{
+"word": "submarine",
+"score": 1057
+},
+{
+"word": "submersible",
+"score": 778
+},
+{
+"word": "subpolar",
+"score": 50
+},
+{
+"word": "subseafloor",
+"score": 74
+},
+{
+"word": "subsurface",
+"score": 193
+},
+{
+"word": "subtidal",
+"score": 275
+},
+{
+"word": "subtropical",
+"score": 1059
+},
+{
+"word": "subtropics",
+"score": 715
+},
+{
+"word": "sulfidic",
+"score": 799
+},
+{
+"word": "sundiver",
+"score": 1036
+},
+{
+"word": "sunward",
+"score": 879
+},
+{
+"word": "supervolcanoes",
+"score": 1042
+},
+{
+"word": "surf",
+"score": 656
+},
+{
+"word": "surfable",
+"score": 439
+},
+{
+"word": "surface",
+"score": 910
+},
+{
+"word": "surfboard",
+"score": 1167
+},
+{
+"word": "surfline",
+"score": 159
+},
+{
+"word": "surfside",
+"score": 618
+},
+{
+"word": "swim",
+"score": 1123
+},
+{
+"word": "swiming",
+"score": 649
+},
+{
+"word": "swimming",
+"score": 1124
+},
+{
+"word": "swordfishing",
+"score": 192
+},
+{
+"word": "sydeman",
+"score": 452
+},
+{
+"word": "tahiti",
+"score": 1140
+},
+{
+"word": "tahiti",
+"score": 1141
+},
+{
+"word": "tectonics",
+"score": 1109
+},
+{
+"word": "teleconnections",
+"score": 291
+},
+{
+"word": "temperture",
+"score": 1160
+},
+{
+"word": "terschelling",
+"score": 1020
+},
+{
+"word": "tetiaroa",
+"score": 902
+},
+{
+"word": "thermocline",
+"score": 255
+},
+{
+"word": "thermohaline",
+"score": 592
+},
+{
+"word": "thewater",
+"score": 779
+},
+{
+"word": "thorthormi",
+"score": 642
+},
+{
+"word": "threadfin",
+"score": 556
+},
+{
+"word": "tidal",
+"score": 64
+},
+{
+"word": "tidally",
+"score": 261
+},
+{
+"word": "tide",
+"score": 306
+},
+{
+"word": "tideflats",
+"score": 134
+},
+{
+"word": "tideland",
+"score": 440
+},
+{
+"word": "tidelands",
+"score": 686
+},
+{
+"word": "tideline",
+"score": 304
+},
+{
+"word": "tidepool",
+"score": 28
+},
+{
+"word": "tidepools",
+"score": 23
+},
+{
+"word": "tides",
+"score": 305
+},
+{
+"word": "tidewater",
+"score": 197
+},
+{
+"word": "tidewater",
+"score": 199
+},
+{
+"word": "tidewaters",
+"score": 198
+},
+{
+"word": "titantic",
+"score": 1108
+},
+{
+"word": "toadfish",
+"score": 494
+},
+{
+"word": "topsail",
+"score": 809
+},
+{
+"word": "tradewind",
+"score": 817
+},
+{
+"word": "trembanis",
+"score": 122
+},
+{
+"word": "trepang",
+"score": 655
+},
+{
+"word": "trichodesmium",
+"score": 602
+},
+{
+"word": "trigatti",
+"score": 595
+},
+{
+"word": "trireme",
+"score": 928
+},
+{
+"word": "tropic",
+"score": 66
+},
+{
+"word": "tropical",
+"score": 194
+},
+{
+"word": "tropics",
+"score": 65
+},
+{
+"word": "tropopause",
+"score": 158
+},
+{
+"word": "troposphere",
+"score": 326
+},
+{
+"word": "tsunami",
+"score": 938
+},
+{
+"word": "tsunamis",
+"score": 939
+},
+{
+"word": "tuamotu",
+"score": 666
+},
+{
+"word": "tuamotus",
+"score": 579
+},
+{
+"word": "tubbataha",
+"score": 648
+},
+{
+"word": "tubeworm",
+"score": 769
+},
+{
+"word": "tuckernuck",
+"score": 538
+},
+{
+"word": "tugboat",
+"score": 1054
+},
+{
+"word": "tugboats",
+"score": 1053
+},
+{
+"word": "tules",
+"score": 1038
+},
+{
+"word": "tundra",
+"score": 523
+},
+{
+"word": "tunicate",
+"score": 680
+},
+{
+"word": "turbidites",
+"score": 537
+},
+{
+"word": "turnstone",
+"score": 833
+},
+{
+"word": "turnstones",
+"score": 834
+},
+{
+"word": "tursiops",
+"score": 310
+},
+{
+"word": "tursiops",
+"score": 311
+},
+{
+"word": "turtle",
+"score": 700
+},
+{
+"word": "turtleneck",
+"score": 698
+},
+{
+"word": "turtles",
+"score": 699
+},
+{
+"word": "tyrrhenian",
+"score": 443
+},
+{
+"word": "ulithi",
+"score": 580
+},
+{
+"word": "undersea",
+"score": 89
+},
+{
+"word": "underseas",
+"score": 722
+},
+{
+"word": "undertow",
+"score": 412
+},
+{
+"word": "undertows",
+"score": 413
+},
+{
+"word": "underwater",
+"score": 67
+},
+{
+"word": "unfished",
+"score": 276
+},
+{
+"word": "universe",
+"score": 514
+},
+{
+"word": "uplake",
+"score": 940
+},
+{
+"word": "upwelling",
+"score": 177
+},
+{
+"word": "upwellings",
+"score": 33
+},
+{
+"word": "urine",
+"score": 12
+},
+{
+"word": "vaquita",
+"score": 230
+},
+{
+"word": "vaquitas",
+"score": 231
+},
+{
+"word": "velafrons",
+"score": 854
+},
+{
+"word": "velicogna",
+"score": 593
+},
+{
+"word": "veniaminof",
+"score": 931
+},
+{
+"word": "vent",
+"score": 54
+},
+{
+"word": "vessel",
+"score": 819
+},
+{
+"word": "viewscapes",
+"score": 1174
+},
+{
+"word": "volcanic",
+"score": 438
+},
+{
+"word": "volcano",
+"score": 361
+},
+{
+"word": "volcanoes",
+"score": 362
+},
+{
+"word": "voyaging",
+"score": 674
+},
+{
+"word": "waiohai",
+"score": 502
+},
+{
+"word": "wakatobi",
+"score": 650
+},
+{
+"word": "walleye",
+"score": 225
+},
+{
+"word": "walrus",
+"score": 530
+},
+{
+"word": "walruses",
+"score": 531
+},
+{
+"word": "wamura",
+"score": 990
+},
+{
+"word": "washbasin",
+"score": 489
+},
+{
+"word": "wasque",
+"score": 521
+},
+{
+"word": "wategos",
+"score": 865
+},
+{
+"word": "water",
+"score": 10
+},
+{
+"word": "watercourse",
+"score": 240
+},
+{
+"word": "waterfront",
+"score": 1075
+},
+{
+"word": "waterpod",
+"score": 980
+},
+{
+"word": "waters",
+"score": 9
+},
+{
+"word": "waters",
+"score": 11
+},
+{
+"word": "waterscape",
+"score": 956
+},
+{
+"word": "waterspout",
+"score": 1010
+},
+{
+"word": "waterspouts",
+"score": 1168
+},
+{
+"word": "watertable",
+"score": 594
+},
+{
+"word": "waterway",
+"score": 241
+},
+{
+"word": "waterways",
+"score": 239
+},
+{
+"word": "waterworld",
+"score": 742
+},
+{
+"word": "wave",
+"score": 843
+},
+{
+"word": "wave",
+"score": 845
+},
+{
+"word": "waveless",
+"score": 139
+},
+{
+"word": "waves",
+"score": 844
+},
+{
+"word": "weedline",
+"score": 386
+},
+{
+"word": "weightlessly",
+"score": 329
+},
+{
+"word": "westerlies",
+"score": 751
+},
+{
+"word": "wetland",
+"score": 1094
+},
+{
+"word": "wetlands",
+"score": 1095
+},
+{
+"word": "whale",
+"score": 59
+},
+{
+"word": "whaleback",
+"score": 914
+},
+{
+"word": "whaleboat",
+"score": 458
+},
+{
+"word": "whaleboats",
+"score": 459
+},
+{
+"word": "whales",
+"score": 57
+},
+{
+"word": "whalewatching",
+"score": 277
+},
+{
+"word": "whangapoua",
+"score": 587
+},
+{
+"word": "whatipu",
+"score": 347
+},
+{
+"word": "wherry",
+"score": 647
+},
+{
+"word": "whimbrels",
+"score": 758
+},
+{
+"word": "whirlpool",
+"score": 1101
+},
+{
+"word": "whirlpools",
+"score": 1102
+},
+{
+"word": "whitecap",
+"score": 56
+},
+{
+"word": "whitecapped",
+"score": 73
+},
+{
+"word": "whitecaps",
+"score": 589
+},
+{
+"word": "whitetip",
+"score": 886
+},
+{
+"word": "whitetips",
+"score": 522
+},
+{
+"word": "whoi",
+"score": 780
+},
+{
+"word": "wildcoast",
+"score": 617
+},
+{
+"word": "willapa",
+"score": 986
+},
+{
+"word": "windsurf",
+"score": 1064
+},
+{
+"word": "witwatersrand",
+"score": 2
+},
+{
+"word": "workboat",
+"score": 1080
+},
+{
+"word": "yehliu",
+"score": 801
+},
+{
+"word": "yola",
+"score": 1012
+},
+{
+"word": "yongala",
+"score": 229
+},
+{
+"word": "zeebe",
+"score": 752
+},
+{
+"word": "zephyr",
+"score": 871
+},
+{
+"word": "zephyrs",
+"score": 869
+},
+{
+"word": "zodiac",
+"score": 279
+},
+{
+"word": "zodiacs",
+"score": 278
+},
+{
+"word": "zooplankton",
+"score": 175
+}
+]
+}

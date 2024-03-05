@@ -1,0 +1,15509 @@
+{
+"hints": [
+"I have sand but no rocks, waves but no tides. What am I?",
+"People lie on me and play in my waves. What am I?",
+"I'm a place with salty air, seagulls in flight, and shells everywhere. What am I?"
+],
+"associations": [
+{
+"word": "ab",
+"score": 3629
+},
+{
+"word": "ab",
+"score": 3631
+},
+{
+"word": "abaco",
+"score": 1098
+},
+{
+"word": "abalone",
+"score": 1471
+},
+{
+"word": "abandoned",
+"score": 2877
+},
+{
+"word": "abdominal",
+"score": 3632
+},
+{
+"word": "abode",
+"score": 1792
+},
+{
+"word": "abs",
+"score": 3630
+},
+{
+"word": "acapulco",
+"score": 450
+},
+{
+"word": "acapulco",
+"score": 451
+},
+{
+"word": "accommodation",
+"score": 2719
+},
+{
+"word": "accommodations",
+"score": 2720
+},
+{
+"word": "acquaintance",
+"score": 2591
+},
+{
+"word": "acropolis",
+"score": 3662
+},
+{
+"word": "acrylonitrile-butadiene-styrene",
+"score": 3633
+},
+{
+"word": "addle-head",
+"score": 3403
+},
+{
+"word": "address",
+"score": 1671
+},
+{
+"word": "adirondacks",
+"score": 2497
+},
+{
+"word": "adirondacks",
+"score": 2498
+},
+{
+"word": "adjustment",
+"score": 2721
+},
+{
+"word": "admiralty",
+"score": 3491
+},
+{
+"word": "adolescent",
+"score": 3523
+},
+{
+"word": "adriatic",
+"score": 792
+},
+{
+"word": "adriatic",
+"score": 793
+},
+{
+"word": "adventureland",
+"score": 3028
+},
+{
+"word": "aegean",
+"score": 2828
+},
+{
+"word": "aegean",
+"score": 2829
+},
+{
+"word": "aerobics",
+"score": 2773
+},
+{
+"word": "aerodrome",
+"score": 3391
+},
+{
+"word": "afternoon",
+"score": 1194
+},
+{
+"word": "afternoons",
+"score": 1193
+},
+{
+"word": "afterparty",
+"score": 3126
+},
+{
+"word": "agreeableness",
+"score": 1402
+},
+{
+"word": "aground",
+"score": 1865
+},
+{
+"word": "aimlessly",
+"score": 1460
+},
+{
+"word": "airboat",
+"score": 1311
+},
+{
+"word": "airfield",
+"score": 1231
+},
+{
+"word": "airport",
+"score": 1964
+},
+{
+"word": "airstrip",
+"score": 571
+},
+{
+"word": "akerman",
+"score": 3725
+},
+{
+"word": "alappuzha",
+"score": 2975
+},
+{
+"word": "albacore",
+"score": 1109
+},
+{
+"word": "albatross",
+"score": 2153
+},
+{
+"word": "alcatraz",
+"score": 2535
+},
+{
+"word": "alcoholic",
+"score": 2287
+},
+{
+"word": "alcove",
+"score": 568
+},
+{
+"word": "alga",
+"score": 1689
+},
+{
+"word": "algae",
+"score": 1688
+},
+{
+"word": "algarve",
+"score": 1763
+},
+{
+"word": "algonac",
+"score": 3473
+},
+{
+"word": "alley",
+"score": 954
+},
+{
+"word": "alleys",
+"score": 1376
+},
+{
+"word": "alleyway",
+"score": 953
+},
+{
+"word": "alleyways",
+"score": 2572
+},
+{
+"word": "alligator",
+"score": 1124
+},
+{
+"word": "alligators",
+"score": 1622
+},
+{
+"word": "ally",
+"score": 2592
+},
+{
+"word": "aloha",
+"score": 1463
+},
+{
+"word": "along",
+"score": 3801
+},
+{
+"word": "ambiance",
+"score": 2589
+},
+{
+"word": "amble",
+"score": 34
+},
+{
+"word": "ambling",
+"score": 3765
+},
+{
+"word": "amenities",
+"score": 2161
+},
+{
+"word": "amenity",
+"score": 1403
+},
+{
+"word": "amityville",
+"score": 3400
+},
+{
+"word": "amormino",
+"score": 3489
+},
+{
+"word": "amorousness",
+"score": 3356
+},
+{
+"word": "amphibious",
+"score": 2369
+},
+{
+"word": "amphitheater",
+"score": 1401
+},
+{
+"word": "amplitude",
+"score": 3396
+},
+{
+"word": "amusement",
+"score": 843
+},
+{
+"word": "amusements",
+"score": 844
+},
+{
+"word": "anchorage",
+"score": 465
+},
+{
+"word": "anchorage",
+"score": 466
+},
+{
+"word": "anchovies",
+"score": 3181
+},
+{
+"word": "anchovy",
+"score": 3182
+},
+{
+"word": "andaman",
+"score": 2700
+},
+{
+"word": "andino",
+"score": 3534
+},
+{
+"word": "andiron",
+"score": 1574
+},
+{
+"word": "andros",
+"score": 847
+},
+{
+"word": "angler",
+"score": 3339
+},
+{
+"word": "anglers",
+"score": 3340
+},
+{
+"word": "anglesey",
+"score": 2547
+},
+{
+"word": "anglesey",
+"score": 2548
+},
+{
+"word": "anguilla",
+"score": 956
+},
+{
+"word": "anguilla",
+"score": 957
+},
+{
+"word": "animal",
+"score": 1648
+},
+{
+"word": "aniston",
+"score": 1592
+},
+{
+"word": "anni",
+"score": 2240
+},
+{
+"word": "antarctic",
+"score": 2489
+},
+{
+"word": "antarctic",
+"score": 2490
+},
+{
+"word": "antebellum",
+"score": 3394
+},
+{
+"word": "anyplace",
+"score": 1956
+},
+{
+"word": "apalachicola",
+"score": 2023
+},
+{
+"word": "apalachicola",
+"score": 2024
+},
+{
+"word": "apartment",
+"score": 1386
+},
+{
+"word": "apia",
+"score": 2776
+},
+{
+"word": "apia",
+"score": 2777
+},
+{
+"word": "apopka",
+"score": 3671
+},
+{
+"word": "apparel",
+"score": 2537
+},
+{
+"word": "apron",
+"score": 3638
+},
+{
+"word": "aqaba",
+"score": 1172
+},
+{
+"word": "aqua",
+"score": 891
+},
+{
+"word": "aquaculture",
+"score": 2751
+},
+{
+"word": "aqualung",
+"score": 437
+},
+{
+"word": "aquarium",
+"score": 593
+},
+{
+"word": "aquariums",
+"score": 707
+},
+{
+"word": "aquatic",
+"score": 940
+},
+{
+"word": "aquatics",
+"score": 2257
+},
+{
+"word": "arbor",
+"score": 931
+},
+{
+"word": "arboretum",
+"score": 2293
+},
+{
+"word": "arcade",
+"score": 1607
+},
+{
+"word": "arcades",
+"score": 1608
+},
+{
+"word": "arch",
+"score": 3018
+},
+{
+"word": "archeological",
+"score": 3466
+},
+{
+"word": "arches",
+"score": 3019
+},
+{
+"word": "archipelago",
+"score": 518
+},
+{
+"word": "area",
+"score": 2454
+},
+{
+"word": "arison",
+"score": 3608
+},
+{
+"word": "artillery",
+"score": 3330
+},
+{
+"word": "artsy",
+"score": 1762
+},
+{
+"word": "arty",
+"score": 2792
+},
+{
+"word": "aruba",
+"score": 657
+},
+{
+"word": "aruba",
+"score": 658
+},
+{
+"word": "aruban",
+"score": 990
+},
+{
+"word": "ashcan",
+"score": 2545
+},
+{
+"word": "ashkelon",
+"score": 2379
+},
+{
+"word": "ashore",
+"score": 86
+},
+{
+"word": "ashram",
+"score": 2107
+},
+{
+"word": "ashtray",
+"score": 1724
+},
+{
+"word": "ashtrays",
+"score": 1740
+},
+{
+"word": "asphalt",
+"score": 2415
+},
+{
+"word": "atlantic",
+"score": 3172
+},
+{
+"word": "atlantic",
+"score": 3173
+},
+{
+"word": "atlantis",
+"score": 1152
+},
+{
+"word": "atlantis",
+"score": 1153
+},
+{
+"word": "atmosphere",
+"score": 2590
+},
+{
+"word": "atoll",
+"score": 215
+},
+{
+"word": "atolls",
+"score": 1032
+},
+{
+"word": "atom",
+"score": 3156
+},
+{
+"word": "atomizer",
+"score": 2564
+},
+{
+"word": "attraction",
+"score": 1143
+},
+{
+"word": "attractions",
+"score": 1144
+},
+{
+"word": "atvs",
+"score": 2710
+},
+{
+"word": "audrina",
+"score": 2460
+},
+{
+"word": "avalon",
+"score": 1175
+},
+{
+"word": "avenida",
+"score": 1685
+},
+{
+"word": "aventura",
+"score": 2112
+},
+{
+"word": "avenue",
+"score": 398
+},
+{
+"word": "aviary",
+"score": 2337
+},
+{
+"word": "avocado",
+"score": 3517
+},
+{
+"word": "avocados",
+"score": 3518
+},
+{
+"word": "away",
+"score": 2923
+},
+{
+"word": "aways",
+"score": 3013
+},
+{
+"word": "azalea",
+"score": 3214
+},
+{
+"word": "b",
+"score": 2386
+},
+{
+"word": "babe",
+"score": 2304
+},
+{
+"word": "babes",
+"score": 1617
+},
+{
+"word": "baboon",
+"score": 3749
+},
+{
+"word": "baboons",
+"score": 3748
+},
+{
+"word": "baby",
+"score": 1618
+},
+{
+"word": "babysitter",
+"score": 2739
+},
+{
+"word": "babysitters",
+"score": 3134
+},
+{
+"word": "babysitting",
+"score": 3359
+},
+{
+"word": "bacillus",
+"score": 2388
+},
+{
+"word": "backbone",
+"score": 28
+},
+{
+"word": "backcountry",
+"score": 663
+},
+{
+"word": "backgammon",
+"score": 3410
+},
+{
+"word": "backpacker",
+"score": 454
+},
+{
+"word": "backpackers",
+"score": 603
+},
+{
+"word": "backpacking",
+"score": 1555
+},
+{
+"word": "backsides",
+"score": 2630
+},
+{
+"word": "backwater",
+"score": 2670
+},
+{
+"word": "backwaters",
+"score": 2671
+},
+{
+"word": "backwoods",
+"score": 2411
+},
+{
+"word": "backyard",
+"score": 447
+},
+{
+"word": "backyards",
+"score": 930
+},
+{
+"word": "bag",
+"score": 3185
+},
+{
+"word": "bahamas",
+"score": 610
+},
+{
+"word": "bahamas",
+"score": 611
+},
+{
+"word": "bahamian",
+"score": 1464
+},
+{
+"word": "bahamian",
+"score": 1465
+},
+{
+"word": "bahamians",
+"score": 2123
+},
+{
+"word": "bahia",
+"score": 713
+},
+{
+"word": "baitfish",
+"score": 1235
+},
+{
+"word": "baja",
+"score": 761
+},
+{
+"word": "bakley",
+"score": 3703
+},
+{
+"word": "balboa",
+"score": 1969
+},
+{
+"word": "balboa",
+"score": 1970
+},
+{
+"word": "balconies",
+"score": 580
+},
+{
+"word": "balcony",
+"score": 444
+},
+{
+"word": "bali",
+"score": 812
+},
+{
+"word": "bali",
+"score": 813
+},
+{
+"word": "balinese",
+"score": 798
+},
+{
+"word": "balinese",
+"score": 799
+},
+{
+"word": "ball",
+"score": 1682
+},
+{
+"word": "ballfield",
+"score": 971
+},
+{
+"word": "ballfields",
+"score": 3032
+},
+{
+"word": "ballina",
+"score": 2455
+},
+{
+"word": "ballpark",
+"score": 53
+},
+{
+"word": "balmy",
+"score": 266
+},
+{
+"word": "banderas",
+"score": 1461
+},
+{
+"word": "bandon",
+"score": 1502
+},
+{
+"word": "bandstand",
+"score": 477
+},
+{
+"word": "bangle",
+"score": 2833
+},
+{
+"word": "bar",
+"score": 1212
+},
+{
+"word": "barbados",
+"score": 2227
+},
+{
+"word": "barbados",
+"score": 2228
+},
+{
+"word": "barbecue",
+"score": 187
+},
+{
+"word": "barbecued",
+"score": 1285
+},
+{
+"word": "barbecues",
+"score": 203
+},
+{
+"word": "barbecuing",
+"score": 513
+},
+{
+"word": "barbeque",
+"score": 830
+},
+{
+"word": "barbeques",
+"score": 186
+},
+{
+"word": "barbuda",
+"score": 3853
+},
+{
+"word": "barbuda",
+"score": 3854
+},
+{
+"word": "bardot",
+"score": 3047
+},
+{
+"word": "barefoot",
+"score": 305
+},
+{
+"word": "barge",
+"score": 3750
+},
+{
+"word": "barman",
+"score": 1908
+},
+{
+"word": "barn",
+"score": 2385
+},
+{
+"word": "barnacle",
+"score": 459
+},
+{
+"word": "barnacles",
+"score": 458
+},
+{
+"word": "barnegat",
+"score": 1436
+},
+{
+"word": "barra",
+"score": 3001
+},
+{
+"word": "barrack",
+"score": 1190
+},
+{
+"word": "barracks",
+"score": 1189
+},
+{
+"word": "barracuda",
+"score": 569
+},
+{
+"word": "barren",
+"score": 2173
+},
+{
+"word": "barricade",
+"score": 3098
+},
+{
+"word": "barricades",
+"score": 3096
+},
+{
+"word": "barroom",
+"score": 1214
+},
+{
+"word": "bars",
+"score": 2558
+},
+{
+"word": "bartender",
+"score": 1907
+},
+{
+"word": "base",
+"score": 2994
+},
+{
+"word": "bash",
+"score": 2585
+},
+{
+"word": "bashes",
+"score": 2872
+},
+{
+"word": "batam",
+"score": 1524
+},
+{
+"word": "batch",
+"score": 1083
+},
+{
+"word": "bath",
+"score": 776
+},
+{
+"word": "bath",
+"score": 777
+},
+{
+"word": "bathe",
+"score": 1757
+},
+{
+"word": "bather",
+"score": 17
+},
+{
+"word": "bathers",
+"score": 19
+},
+{
+"word": "bathhouse",
+"score": 154
+},
+{
+"word": "bathing",
+"score": 178
+},
+{
+"word": "bathrobe",
+"score": 1484
+},
+{
+"word": "bathrobes",
+"score": 2864
+},
+{
+"word": "bathroom",
+"score": 779
+},
+{
+"word": "bathrooms",
+"score": 1163
+},
+{
+"word": "baths",
+"score": 775
+},
+{
+"word": "bathtub",
+"score": 778
+},
+{
+"word": "bathtubs",
+"score": 1023
+},
+{
+"word": "battleship",
+"score": 867
+},
+{
+"word": "bay",
+"score": 567
+},
+{
+"word": "bayfront",
+"score": 78
+},
+{
+"word": "bayou",
+"score": 591
+},
+{
+"word": "bayous",
+"score": 1817
+},
+{
+"word": "bays",
+"score": 581
+},
+{
+"word": "bayshore",
+"score": 1001
+},
+{
+"word": "bayside",
+"score": 49
+},
+{
+"word": "bayview",
+"score": 2164
+},
+{
+"word": "baywatch",
+"score": 192
+},
+{
+"word": "bbq",
+"score": 2262
+},
+{
+"word": "beach",
+"score": 0
+},
+{
+"word": "beacon",
+"score": 50
+},
+{
+"word": "beam",
+"score": 3305
+},
+{
+"word": "beau",
+"score": 2064
+},
+{
+"word": "beaufort",
+"score": 1393
+},
+{
+"word": "beauties",
+"score": 1832
+},
+{
+"word": "beautification",
+"score": 2469
+},
+{
+"word": "beautiful",
+"score": 865
+},
+{
+"word": "beautify",
+"score": 3514
+},
+{
+"word": "beautifying",
+"score": 2087
+},
+{
+"word": "beauty",
+"score": 1733
+},
+{
+"word": "bebo",
+"score": 3771
+},
+{
+"word": "bed",
+"score": 966
+},
+{
+"word": "bedouin",
+"score": 2609
+},
+{
+"word": "bedouin",
+"score": 2610
+},
+{
+"word": "bedouins",
+"score": 3698
+},
+{
+"word": "bedroom",
+"score": 1307
+},
+{
+"word": "bedrooms",
+"score": 2029
+},
+{
+"word": "bedsore",
+"score": 3840
+},
+{
+"word": "bedsores",
+"score": 3839
+},
+{
+"word": "bedspread",
+"score": 3463
+},
+{
+"word": "behinds",
+"score": 3787
+},
+{
+"word": "bel",
+"score": 2384
+},
+{
+"word": "believer",
+"score": 2816
+},
+{
+"word": "belize",
+"score": 1925
+},
+{
+"word": "belize",
+"score": 1926
+},
+{
+"word": "belmar",
+"score": 542
+},
+{
+"word": "belonging",
+"score": 3767
+},
+{
+"word": "belongings",
+"score": 3766
+},
+{
+"word": "benidorm",
+"score": 808
+},
+{
+"word": "berm",
+"score": 601
+},
+{
+"word": "berms",
+"score": 1099
+},
+{
+"word": "bermuda",
+"score": 1701
+},
+{
+"word": "bermuda",
+"score": 1702
+},
+{
+"word": "berth",
+"score": 2660
+},
+{
+"word": "berthing",
+"score": 1353
+},
+{
+"word": "beside",
+"score": 2627
+},
+{
+"word": "bethany",
+"score": 3753
+},
+{
+"word": "bethpage",
+"score": 3689
+},
+{
+"word": "beverage",
+"score": 2358
+},
+{
+"word": "bexhill",
+"score": 3525
+},
+{
+"word": "bice",
+"score": 2165
+},
+{
+"word": "bicycle",
+"score": 1783
+},
+{
+"word": "bicycles",
+"score": 2313
+},
+{
+"word": "bicycling",
+"score": 1529
+},
+{
+"word": "bicyclists",
+"score": 2382
+},
+{
+"word": "bike",
+"score": 1784
+},
+{
+"word": "biked",
+"score": 1126
+},
+{
+"word": "biker",
+"score": 1154
+},
+{
+"word": "bikers",
+"score": 1405
+},
+{
+"word": "bikes",
+"score": 2958
+},
+{
+"word": "biking",
+"score": 588
+},
+{
+"word": "bikini",
+"score": 76
+},
+{
+"word": "bikini",
+"score": 77
+},
+{
+"word": "bikinis",
+"score": 93
+},
+{
+"word": "billabong",
+"score": 1227
+},
+{
+"word": "biloxi",
+"score": 1173
+},
+{
+"word": "biloxi",
+"score": 1174
+},
+{
+"word": "bimbo",
+"score": 3255
+},
+{
+"word": "bimini",
+"score": 624
+},
+{
+"word": "binoculars",
+"score": 3742
+},
+{
+"word": "bird",
+"score": 2868
+},
+{
+"word": "birder",
+"score": 2137
+},
+{
+"word": "birders",
+"score": 1248
+},
+{
+"word": "birdhouse",
+"score": 3704
+},
+{
+"word": "birding",
+"score": 762
+},
+{
+"word": "birdland",
+"score": 3857
+},
+{
+"word": "birdlime",
+"score": 1919
+},
+{
+"word": "birds",
+"score": 3724
+},
+{
+"word": "birdwatchers",
+"score": 1092
+},
+{
+"word": "birthday",
+"score": 3701
+},
+{
+"word": "biscayne",
+"score": 1315
+},
+{
+"word": "bish",
+"score": 3860
+},
+{
+"word": "bistro",
+"score": 1217
+},
+{
+"word": "bistros",
+"score": 1218
+},
+{
+"word": "bite",
+"score": 2506
+},
+{
+"word": "blacktop",
+"score": 828
+},
+{
+"word": "bleached",
+"score": 1991
+},
+{
+"word": "bleacher",
+"score": 3124
+},
+{
+"word": "bleachers",
+"score": 3125
+},
+{
+"word": "bleaching",
+"score": 2512
+},
+{
+"word": "bleakley",
+"score": 3196
+},
+{
+"word": "blissful",
+"score": 1410
+},
+{
+"word": "blissfully",
+"score": 2156
+},
+{
+"word": "blister",
+"score": 3610
+},
+{
+"word": "blisters",
+"score": 3609
+},
+{
+"word": "blob",
+"score": 3405
+},
+{
+"word": "blobs",
+"score": 3406
+},
+{
+"word": "blond",
+"score": 1659
+},
+{
+"word": "blonde",
+"score": 1660
+},
+{
+"word": "blondes",
+"score": 1718
+},
+{
+"word": "bluebell",
+"score": 3519
+},
+{
+"word": "blueberry",
+"score": 3602
+},
+{
+"word": "bluefish",
+"score": 870
+},
+{
+"word": "bluejacket",
+"score": 994
+},
+{
+"word": "bluff",
+"score": 302
+},
+{
+"word": "bluffs",
+"score": 301
+},
+{
+"word": "board",
+"score": 3820
+},
+{
+"word": "boarder",
+"score": 904
+},
+{
+"word": "boarders",
+"score": 905
+},
+{
+"word": "boarding",
+"score": 3262
+},
+{
+"word": "boardwalk",
+"score": 7
+},
+{
+"word": "boardwalks",
+"score": 46
+},
+{
+"word": "boat",
+"score": 221
+},
+{
+"word": "boated",
+"score": 2289
+},
+{
+"word": "boater",
+"score": 196
+},
+{
+"word": "boaters",
+"score": 197
+},
+{
+"word": "boathouse",
+"score": 417
+},
+{
+"word": "boating",
+"score": 107
+},
+{
+"word": "boatload",
+"score": 3762
+},
+{
+"word": "boatloads",
+"score": 3761
+},
+{
+"word": "boatman",
+"score": 198
+},
+{
+"word": "boats",
+"score": 396
+},
+{
+"word": "boatyard",
+"score": 182
+},
+{
+"word": "bob",
+"score": 2483
+},
+{
+"word": "bobbing",
+"score": 1835
+},
+{
+"word": "bobs",
+"score": 2482
+},
+{
+"word": "bobsled",
+"score": 2484
+},
+{
+"word": "bobtail",
+"score": 84
+},
+{
+"word": "boca",
+"score": 3095
+},
+{
+"word": "bocce",
+"score": 1604
+},
+{
+"word": "bod",
+"score": 1336
+},
+{
+"word": "bodega",
+"score": 1938
+},
+{
+"word": "bodies",
+"score": 2931
+},
+{
+"word": "bodrum",
+"score": 912
+},
+{
+"word": "body",
+"score": 2929
+},
+{
+"word": "bog",
+"score": 2116
+},
+{
+"word": "bogan",
+"score": 1928
+},
+{
+"word": "boggy",
+"score": 3623
+},
+{
+"word": "bohemian",
+"score": 1699
+},
+{
+"word": "bohemian",
+"score": 1700
+},
+{
+"word": "bolinas",
+"score": 605
+},
+{
+"word": "bollea",
+"score": 3581
+},
+{
+"word": "bolles",
+"score": 3201
+},
+{
+"word": "bolshevik",
+"score": 3552
+},
+{
+"word": "bomber",
+"score": 2450
+},
+{
+"word": "bonaire",
+"score": 901
+},
+{
+"word": "bonaire",
+"score": 902
+},
+{
+"word": "bondi",
+"score": 172
+},
+{
+"word": "bone",
+"score": 2822
+},
+{
+"word": "bonfire",
+"score": 539
+},
+{
+"word": "bonfires",
+"score": 538
+},
+{
+"word": "bongo",
+"score": 1595
+},
+{
+"word": "bongos",
+"score": 1594
+},
+{
+"word": "bonita",
+"score": 1873
+},
+{
+"word": "bonito",
+"score": 617
+},
+{
+"word": "boo",
+"score": 2867
+},
+{
+"word": "boobies",
+"score": 2534
+},
+{
+"word": "boobs",
+"score": 1631
+},
+{
+"word": "booby",
+"score": 2533
+},
+{
+"word": "boodle",
+"score": 487
+},
+{
+"word": "boogie",
+"score": 992
+},
+{
+"word": "bootee",
+"score": 2000
+},
+{
+"word": "boothbay",
+"score": 3033
+},
+{
+"word": "booties",
+"score": 1999
+},
+{
+"word": "booty",
+"score": 3383
+},
+{
+"word": "booze",
+"score": 1258
+},
+{
+"word": "boozer",
+"score": 2286
+},
+{
+"word": "boozing",
+"score": 1078
+},
+{
+"word": "boozy",
+"score": 760
+},
+{
+"word": "boracay",
+"score": 292
+},
+{
+"word": "border",
+"score": 2224
+},
+{
+"word": "bored",
+"score": 3757
+},
+{
+"word": "boron",
+"score": 2389
+},
+{
+"word": "bosporus",
+"score": 2681
+},
+{
+"word": "bosporus",
+"score": 2682
+},
+{
+"word": "bottom",
+"score": 2951
+},
+{
+"word": "bottomland",
+"score": 2950
+},
+{
+"word": "bottoms",
+"score": 2949
+},
+{
+"word": "boulder",
+"score": 1743
+},
+{
+"word": "boulder",
+"score": 1745
+},
+{
+"word": "boulders",
+"score": 1744
+},
+{
+"word": "boulevard",
+"score": 397
+},
+{
+"word": "boulevards",
+"score": 2604
+},
+{
+"word": "bouncer",
+"score": 1664
+},
+{
+"word": "bouncers",
+"score": 1665
+},
+{
+"word": "bounty",
+"score": 3397
+},
+{
+"word": "bounty",
+"score": 3398
+},
+{
+"word": "bournemouth",
+"score": 3479
+},
+{
+"word": "boutique",
+"score": 3099
+},
+{
+"word": "boutiques",
+"score": 3100
+},
+{
+"word": "bowditch",
+"score": 2771
+},
+{
+"word": "bowditch",
+"score": 2772
+},
+{
+"word": "boyfriend",
+"score": 2021
+},
+{
+"word": "boyfriends",
+"score": 2022
+},
+{
+"word": "boyzone",
+"score": 3685
+},
+{
+"word": "brac",
+"score": 950
+},
+{
+"word": "branch",
+"score": 2431
+},
+{
+"word": "branford",
+"score": 3283
+},
+{
+"word": "breaker",
+"score": 1428
+},
+{
+"word": "breakers",
+"score": 1429
+},
+{
+"word": "breakfast",
+"score": 3452
+},
+{
+"word": "breakfasts",
+"score": 3453
+},
+{
+"word": "breakwater",
+"score": 10
+},
+{
+"word": "breast",
+"score": 1632
+},
+{
+"word": "breeze",
+"score": 2499
+},
+{
+"word": "breezeway",
+"score": 1927
+},
+{
+"word": "breezy",
+"score": 1684
+},
+{
+"word": "brevard",
+"score": 2649
+},
+{
+"word": "bric-a-brac",
+"score": 2606
+},
+{
+"word": "bridlington",
+"score": 3337
+},
+{
+"word": "brielle",
+"score": 2336
+},
+{
+"word": "brig",
+"score": 1171
+},
+{
+"word": "brigantine",
+"score": 505
+},
+{
+"word": "brighton",
+"score": 2956
+},
+{
+"word": "brighton",
+"score": 2957
+},
+{
+"word": "brim",
+"score": 2274
+},
+{
+"word": "briny",
+"score": 741
+},
+{
+"word": "brixham",
+"score": 2577
+},
+{
+"word": "broad",
+"score": 1115
+},
+{
+"word": "broads",
+"score": 1114
+},
+{
+"word": "broadwater",
+"score": 1319
+},
+{
+"word": "bronte",
+"score": 2376
+},
+{
+"word": "bronte",
+"score": 2377
+},
+{
+"word": "bronzed",
+"score": 853
+},
+{
+"word": "brook",
+"score": 236
+},
+{
+"word": "brothels",
+"score": 2962
+},
+{
+"word": "browse",
+"score": 3782
+},
+{
+"word": "browsing",
+"score": 3781
+},
+{
+"word": "brunch",
+"score": 794
+},
+{
+"word": "brunches",
+"score": 795
+},
+{
+"word": "brunet",
+"score": 2733
+},
+{
+"word": "brunette",
+"score": 2734
+},
+{
+"word": "brush",
+"score": 3682
+},
+{
+"word": "bs",
+"score": 2387
+},
+{
+"word": "buccaneer",
+"score": 1407
+},
+{
+"word": "bucolic",
+"score": 3564
+},
+{
+"word": "buddies",
+"score": 3408
+},
+{
+"word": "buddy",
+"score": 2736
+},
+{
+"word": "buff",
+"score": 2136
+},
+{
+"word": "buffet",
+"score": 673
+},
+{
+"word": "buffets",
+"score": 674
+},
+{
+"word": "buggies",
+"score": 2578
+},
+{
+"word": "buggy",
+"score": 2579
+},
+{
+"word": "bulge",
+"score": 3247
+},
+{
+"word": "bulkhead",
+"score": 923
+},
+{
+"word": "bullfight",
+"score": 1909
+},
+{
+"word": "bully",
+"score": 3343
+},
+{
+"word": "bum",
+"score": 3270
+},
+{
+"word": "bums",
+"score": 1825
+},
+{
+"word": "bunch",
+"score": 2944
+},
+{
+"word": "bundchen",
+"score": 1216
+},
+{
+"word": "bungalow",
+"score": 191
+},
+{
+"word": "bungalows",
+"score": 445
+},
+{
+"word": "bunk",
+"score": 2663
+},
+{
+"word": "bunker",
+"score": 1720
+},
+{
+"word": "bunkers",
+"score": 1721
+},
+{
+"word": "bunking",
+"score": 2229
+},
+{
+"word": "bunks",
+"score": 2662
+},
+{
+"word": "bunnies",
+"score": 3161
+},
+{
+"word": "bunny",
+"score": 2342
+},
+{
+"word": "buoy",
+"score": 586
+},
+{
+"word": "buoys",
+"score": 585
+},
+{
+"word": "burger",
+"score": 3002
+},
+{
+"word": "burger",
+"score": 3280
+},
+{
+"word": "burgers",
+"score": 3003
+},
+{
+"word": "burnham",
+"score": 2089
+},
+{
+"word": "burnham",
+"score": 2090
+},
+{
+"word": "bus",
+"score": 2424
+},
+{
+"word": "bush",
+"score": 1249
+},
+{
+"word": "bush",
+"score": 1250
+},
+{
+"word": "bushes",
+"score": 1251
+},
+{
+"word": "bushland",
+"score": 246
+},
+{
+"word": "busselton",
+"score": 2392
+},
+{
+"word": "butch",
+"score": 3690
+},
+{
+"word": "butlins",
+"score": 1066
+},
+{
+"word": "butt",
+"score": 2741
+},
+{
+"word": "buttermilk",
+"score": 2730
+},
+{
+"word": "buttocks",
+"score": 1823
+},
+{
+"word": "butts",
+"score": 2742
+},
+{
+"word": "bvi",
+"score": 2532
+},
+{
+"word": "byob",
+"score": 2648
+},
+{
+"word": "byway",
+"score": 1840
+},
+{
+"word": "byways",
+"score": 3128
+},
+{
+"word": "cab",
+"score": 2766
+},
+{
+"word": "cabana",
+"score": 69
+},
+{
+"word": "cabanas",
+"score": 74
+},
+{
+"word": "cabaret",
+"score": 355
+},
+{
+"word": "cabin",
+"score": 888
+},
+{
+"word": "cabins",
+"score": 887
+},
+{
+"word": "cabo",
+"score": 276
+},
+{
+"word": "cabrillo",
+"score": 1711
+},
+{
+"word": "cactus",
+"score": 3538
+},
+{
+"word": "cad",
+"score": 1571
+},
+{
+"word": "caddy",
+"score": 2555
+},
+{
+"word": "caf",
+"score": 2876
+},
+{
+"word": "cafe",
+"score": 829
+},
+{
+"word": "cafes",
+"score": 936
+},
+{
+"word": "caicos",
+"score": 528
+},
+{
+"word": "caiman",
+"score": 820
+},
+{
+"word": "cake",
+"score": 1210
+},
+{
+"word": "cala",
+"score": 1570
+},
+{
+"word": "calamari",
+"score": 1086
+},
+{
+"word": "caloundra",
+"score": 1275
+},
+{
+"word": "camp",
+"score": 1895
+},
+{
+"word": "campaign",
+"score": 329
+},
+{
+"word": "camper",
+"score": 863
+},
+{
+"word": "campers",
+"score": 862
+},
+{
+"word": "campfire",
+"score": 972
+},
+{
+"word": "campfires",
+"score": 1394
+},
+{
+"word": "campground",
+"score": 82
+},
+{
+"word": "campgrounds",
+"score": 365
+},
+{
+"word": "camping",
+"score": 212
+},
+{
+"word": "campsite",
+"score": 68
+},
+{
+"word": "campsites",
+"score": 218
+},
+{
+"word": "campus",
+"score": 2290
+},
+{
+"word": "canal",
+"score": 293
+},
+{
+"word": "canals",
+"score": 785
+},
+{
+"word": "cancer",
+"score": 457
+},
+{
+"word": "cancun",
+"score": 838
+},
+{
+"word": "cancun",
+"score": 839
+},
+{
+"word": "candlelight",
+"score": 1730
+},
+{
+"word": "candlelit",
+"score": 1738
+},
+{
+"word": "canine",
+"score": 3303
+},
+{
+"word": "canines",
+"score": 3302
+},
+{
+"word": "cannes",
+"score": 2717
+},
+{
+"word": "cannes",
+"score": 2718
+},
+{
+"word": "canoe",
+"score": 638
+},
+{
+"word": "canoeing",
+"score": 576
+},
+{
+"word": "canoeist",
+"score": 711
+},
+{
+"word": "canoeists",
+"score": 712
+},
+{
+"word": "canoes",
+"score": 1033
+},
+{
+"word": "canoodling",
+"score": 558
+},
+{
+"word": "canopies",
+"score": 2880
+},
+{
+"word": "canopy",
+"score": 2881
+},
+{
+"word": "cantina",
+"score": 2177
+},
+{
+"word": "canyon",
+"score": 1330
+},
+{
+"word": "canyons",
+"score": 3663
+},
+{
+"word": "cape",
+"score": 877
+},
+{
+"word": "capitola",
+"score": 651
+},
+{
+"word": "cappuccino",
+"score": 2813
+},
+{
+"word": "capri",
+"score": 2015
+},
+{
+"word": "capri",
+"score": 2016
+},
+{
+"word": "captiva",
+"score": 1008
+},
+{
+"word": "car",
+"score": 1112
+},
+{
+"word": "carapace",
+"score": 1289
+},
+{
+"word": "caravan",
+"score": 3291
+},
+{
+"word": "caravans",
+"score": 3290
+},
+{
+"word": "carcase",
+"score": 3607
+},
+{
+"word": "carcass",
+"score": 3606
+},
+{
+"word": "carefree",
+"score": 608
+},
+{
+"word": "caressing",
+"score": 654
+},
+{
+"word": "caribbean",
+"score": 1522
+},
+{
+"word": "caribbean",
+"score": 1523
+},
+{
+"word": "carisbrook",
+"score": 3498
+},
+{
+"word": "carnaval",
+"score": 725
+},
+{
+"word": "carnival",
+"score": 702
+},
+{
+"word": "carnivals",
+"score": 700
+},
+{
+"word": "carousel",
+"score": 3723
+},
+{
+"word": "carousing",
+"score": 1355
+},
+{
+"word": "carpark",
+"score": 864
+},
+{
+"word": "carpinteria",
+"score": 3274
+},
+{
+"word": "carport",
+"score": 1208
+},
+{
+"word": "carriage",
+"score": 2804
+},
+{
+"word": "carriageway",
+"score": 1649
+},
+{
+"word": "carribean",
+"score": 896
+},
+{
+"word": "carteret",
+"score": 1898
+},
+{
+"word": "carwash",
+"score": 2748
+},
+{
+"word": "casbah",
+"score": 2110
+},
+{
+"word": "castaway",
+"score": 360
+},
+{
+"word": "castaways",
+"score": 3180
+},
+{
+"word": "castle",
+"score": 1056
+},
+{
+"word": "castles",
+"score": 2025
+},
+{
+"word": "casual",
+"score": 2487
+},
+{
+"word": "catalina",
+"score": 612
+},
+{
+"word": "catamaran",
+"score": 327
+},
+{
+"word": "catamarans",
+"score": 1916
+},
+{
+"word": "catskills",
+"score": 3668
+},
+{
+"word": "catskills",
+"score": 3669
+},
+{
+"word": "cattail",
+"score": 2831
+},
+{
+"word": "cattails",
+"score": 2830
+},
+{
+"word": "catwalk",
+"score": 2047
+},
+{
+"word": "catwalks",
+"score": 2889
+},
+{
+"word": "causeway",
+"score": 44
+},
+{
+"word": "cave",
+"score": 1493
+},
+{
+"word": "caves",
+"score": 1494
+},
+{
+"word": "cavorting",
+"score": 722
+},
+{
+"word": "cay",
+"score": 303
+},
+{
+"word": "caylee",
+"score": 1878
+},
+{
+"word": "cayman",
+"score": 3455
+},
+{
+"word": "caymanian",
+"score": 3005
+},
+{
+"word": "caymans",
+"score": 821
+},
+{
+"word": "cedar",
+"score": 3191
+},
+{
+"word": "cedars",
+"score": 3192
+},
+{
+"word": "ceiling",
+"score": 2322
+},
+{
+"word": "celeb",
+"score": 2716
+},
+{
+"word": "celebratory",
+"score": 3794
+},
+{
+"word": "celebs",
+"score": 2621
+},
+{
+"word": "celebuzz",
+"score": 3372
+},
+{
+"word": "cellulite",
+"score": 2325
+},
+{
+"word": "cemeteries",
+"score": 2842
+},
+{
+"word": "cemetery",
+"score": 656
+},
+{
+"word": "cenotaph",
+"score": 3054
+},
+{
+"word": "center",
+"score": 1245
+},
+{
+"word": "centerfold",
+"score": 2061
+},
+{
+"word": "cero",
+"score": 804
+},
+{
+"word": "cesspool",
+"score": 3225
+},
+{
+"word": "ceviche",
+"score": 2425
+},
+{
+"word": "chain",
+"score": 407
+},
+{
+"word": "chairlift",
+"score": 1863
+},
+{
+"word": "chalet",
+"score": 579
+},
+{
+"word": "chalets",
+"score": 578
+},
+{
+"word": "chamberpot",
+"score": 3477
+},
+{
+"word": "chancel",
+"score": 3657
+},
+{
+"word": "chantey",
+"score": 1680
+},
+{
+"word": "chaperon",
+"score": 3870
+},
+{
+"word": "chaperones",
+"score": 3869
+},
+{
+"word": "chappaquiddick",
+"score": 604
+},
+{
+"word": "chateau",
+"score": 3813
+},
+{
+"word": "checkpoint",
+"score": 2341
+},
+{
+"word": "checkpoints",
+"score": 2340
+},
+{
+"word": "cheerfulness",
+"score": 390
+},
+{
+"word": "cheeseburger",
+"score": 2516
+},
+{
+"word": "cherbourg",
+"score": 2570
+},
+{
+"word": "cherbourg",
+"score": 2571
+},
+{
+"word": "chic",
+"score": 1930
+},
+{
+"word": "chick",
+"score": 1691
+},
+{
+"word": "chicks",
+"score": 1692
+},
+{
+"word": "chiffon",
+"score": 3645
+},
+{
+"word": "child",
+"score": 3558
+},
+{
+"word": "chili",
+"score": 3811
+},
+{
+"word": "chilly",
+"score": 3810
+},
+{
+"word": "chilmark",
+"score": 1293
+},
+{
+"word": "chincoteague",
+"score": 978
+},
+{
+"word": "chow",
+"score": 2632
+},
+{
+"word": "chowder",
+"score": 2780
+},
+{
+"word": "chump",
+"score": 1116
+},
+{
+"word": "church",
+"score": 3710
+},
+{
+"word": "churchyard",
+"score": 1676
+},
+{
+"word": "cigarette",
+"score": 2744
+},
+{
+"word": "cinch",
+"score": 123
+},
+{
+"word": "circumference",
+"score": 2934
+},
+{
+"word": "circus",
+"score": 701
+},
+{
+"word": "clacton",
+"score": 1758
+},
+{
+"word": "clam",
+"score": 489
+},
+{
+"word": "clams",
+"score": 488
+},
+{
+"word": "clarkstown",
+"score": 3797
+},
+{
+"word": "clean",
+"score": 2560
+},
+{
+"word": "cleaning",
+"score": 2183
+},
+{
+"word": "cleanup",
+"score": 2185
+},
+{
+"word": "cleanups",
+"score": 2182
+},
+{
+"word": "clearing",
+"score": 2416
+},
+{
+"word": "clearwater",
+"score": 1994
+},
+{
+"word": "cleethorpes",
+"score": 1640
+},
+{
+"word": "cliff",
+"score": 116
+},
+{
+"word": "cliffs",
+"score": 115
+},
+{
+"word": "clothed",
+"score": 3111
+},
+{
+"word": "clothes",
+"score": 2538
+},
+{
+"word": "clothesline",
+"score": 2068
+},
+{
+"word": "clotheslines",
+"score": 2067
+},
+{
+"word": "cloudiness",
+"score": 3730
+},
+{
+"word": "cloudless",
+"score": 2127
+},
+{
+"word": "club",
+"score": 1601
+},
+{
+"word": "clubbers",
+"score": 922
+},
+{
+"word": "clubbing",
+"score": 320
+},
+{
+"word": "clubhouse",
+"score": 2303
+},
+{
+"word": "clubhouses",
+"score": 2517
+},
+{
+"word": "coachella",
+"score": 3871
+},
+{
+"word": "coast",
+"score": 31
+},
+{
+"word": "coastal",
+"score": 24
+},
+{
+"word": "coaster",
+"score": 2747
+},
+{
+"word": "coasters",
+"score": 3407
+},
+{
+"word": "coastguard",
+"score": 667
+},
+{
+"word": "coastguards",
+"score": 1020
+},
+{
+"word": "coastline",
+"score": 5
+},
+{
+"word": "coastlines",
+"score": 73
+},
+{
+"word": "coasts",
+"score": 181
+},
+{
+"word": "cob",
+"score": 934
+},
+{
+"word": "cobble",
+"score": 2618
+},
+{
+"word": "cobblestone",
+"score": 3234
+},
+{
+"word": "cobblestones",
+"score": 2617
+},
+{
+"word": "cobia",
+"score": 1072
+},
+{
+"word": "cockle",
+"score": 2255
+},
+{
+"word": "cockles",
+"score": 2254
+},
+{
+"word": "cocktail",
+"score": 1653
+},
+{
+"word": "cocktails",
+"score": 1654
+},
+{
+"word": "coco",
+"score": 2518
+},
+{
+"word": "coconut",
+"score": 483
+},
+{
+"word": "coconuts",
+"score": 484
+},
+{
+"word": "coed",
+"score": 3448
+},
+{
+"word": "coke",
+"score": 2284
+},
+{
+"word": "cokes",
+"score": 2285
+},
+{
+"word": "colaba",
+"score": 1802
+},
+{
+"word": "coleslaw",
+"score": 1882
+},
+{
+"word": "collar",
+"score": 788
+},
+{
+"word": "comforter",
+"score": 2212
+},
+{
+"word": "comforts",
+"score": 2162
+},
+{
+"word": "commando",
+"score": 893
+},
+{
+"word": "conch",
+"score": 639
+},
+{
+"word": "condo",
+"score": 622
+},
+{
+"word": "condominium",
+"score": 623
+},
+{
+"word": "condominiums",
+"score": 1613
+},
+{
+"word": "condos",
+"score": 1228
+},
+{
+"word": "cone",
+"score": 1914
+},
+{
+"word": "cones",
+"score": 1915
+},
+{
+"word": "coney",
+"score": 2446
+},
+{
+"word": "confederacy",
+"score": 3388
+},
+{
+"word": "congregate",
+"score": 2266
+},
+{
+"word": "congregating",
+"score": 2205
+},
+{
+"word": "congregation",
+"score": 2206
+},
+{
+"word": "conservancy",
+"score": 1782
+},
+{
+"word": "conservation",
+"score": 3122
+},
+{
+"word": "conserve",
+"score": 1259
+},
+{
+"word": "consistency",
+"score": 2930
+},
+{
+"word": "consortium",
+"score": 254
+},
+{
+"word": "consulate",
+"score": 3849
+},
+{
+"word": "convalescent",
+"score": 2678
+},
+{
+"word": "coogee",
+"score": 429
+},
+{
+"word": "cookout",
+"score": 442
+},
+{
+"word": "cookouts",
+"score": 443
+},
+{
+"word": "cooler",
+"score": 3350
+},
+{
+"word": "coolum",
+"score": 1055
+},
+{
+"word": "cooped",
+"score": 3233
+},
+{
+"word": "copacabana",
+"score": 347
+},
+{
+"word": "coral",
+"score": 328
+},
+{
+"word": "corals",
+"score": 1097
+},
+{
+"word": "cord",
+"score": 3365
+},
+{
+"word": "cordon",
+"score": 3141
+},
+{
+"word": "cordons",
+"score": 3778
+},
+{
+"word": "corduroy",
+"score": 3366
+},
+{
+"word": "corfu",
+"score": 1128
+},
+{
+"word": "cormorant",
+"score": 1398
+},
+{
+"word": "cormorants",
+"score": 1399
+},
+{
+"word": "corniche",
+"score": 180
+},
+{
+"word": "cornish",
+"score": 2643
+},
+{
+"word": "cornish",
+"score": 2644
+},
+{
+"word": "cornwall",
+"score": 3866
+},
+{
+"word": "cornwall",
+"score": 3867
+},
+{
+"word": "corolla",
+"score": 2279
+},
+{
+"word": "coromandel",
+"score": 660
+},
+{
+"word": "coronado",
+"score": 1368
+},
+{
+"word": "corrective",
+"score": 3824
+},
+{
+"word": "corrosion",
+"score": 1948
+},
+{
+"word": "corse",
+"score": 1963
+},
+{
+"word": "corsica",
+"score": 1962
+},
+{
+"word": "cot",
+"score": 2917
+},
+{
+"word": "cotswold",
+"score": 2668
+},
+{
+"word": "cotswolds",
+"score": 2667
+},
+{
+"word": "cotswolds",
+"score": 2669
+},
+{
+"word": "cottage",
+"score": 233
+},
+{
+"word": "cottages",
+"score": 190
+},
+{
+"word": "couch",
+"score": 807
+},
+{
+"word": "couches",
+"score": 1312
+},
+{
+"word": "countenance",
+"score": 2520
+},
+{
+"word": "country",
+"score": 3597
+},
+{
+"word": "countryside",
+"score": 1106
+},
+{
+"word": "couple",
+"score": 3493
+},
+{
+"word": "couples",
+"score": 3812
+},
+{
+"word": "court",
+"score": 1268
+},
+{
+"word": "courteney",
+"score": 2120
+},
+{
+"word": "courtyard",
+"score": 1269
+},
+{
+"word": "courtyards",
+"score": 3059
+},
+{
+"word": "cousteau",
+"score": 998
+},
+{
+"word": "cousteau",
+"score": 999
+},
+{
+"word": "cove",
+"score": 14
+},
+{
+"word": "coves",
+"score": 174
+},
+{
+"word": "cowes",
+"score": 1831
+},
+{
+"word": "coyote",
+"score": 3800
+},
+{
+"word": "cozumel",
+"score": 371
+},
+{
+"word": "crab",
+"score": 456
+},
+{
+"word": "crabbers",
+"score": 2486
+},
+{
+"word": "crabbing",
+"score": 129
+},
+{
+"word": "crabs",
+"score": 455
+},
+{
+"word": "cracker",
+"score": 1244
+},
+{
+"word": "craigslist",
+"score": 3677
+},
+{
+"word": "crap",
+"score": 1305
+},
+{
+"word": "crash",
+"score": 2444
+},
+{
+"word": "crater",
+"score": 3221
+},
+{
+"word": "crater",
+"score": 3222
+},
+{
+"word": "crawfish",
+"score": 3795
+},
+{
+"word": "crayfish",
+"score": 1299
+},
+{
+"word": "creche",
+"score": 1457
+},
+{
+"word": "creek",
+"score": 235
+},
+{
+"word": "creek",
+"score": 237
+},
+{
+"word": "creeks",
+"score": 1230
+},
+{
+"word": "crete",
+"score": 2502
+},
+{
+"word": "crete",
+"score": 2503
+},
+{
+"word": "crib",
+"score": 2918
+},
+{
+"word": "crist",
+"score": 2846
+},
+{
+"word": "croc",
+"score": 1157
+},
+{
+"word": "crocodile",
+"score": 1113
+},
+{
+"word": "crocodiles",
+"score": 1300
+},
+{
+"word": "crocs",
+"score": 704
+},
+{
+"word": "cronulla",
+"score": 916
+},
+{
+"word": "croquet",
+"score": 947
+},
+{
+"word": "crossan",
+"score": 3480
+},
+{
+"word": "crossing",
+"score": 1933
+},
+{
+"word": "crosswalk",
+"score": 2004
+},
+{
+"word": "crosswalks",
+"score": 1934
+},
+{
+"word": "crossword",
+"score": 2551
+},
+{
+"word": "crown",
+"score": 3744
+},
+{
+"word": "cruise",
+"score": 637
+},
+{
+"word": "cruiser",
+"score": 1037
+},
+{
+"word": "cruisers",
+"score": 1038
+},
+{
+"word": "cruises",
+"score": 1472
+},
+{
+"word": "cruisin",
+"score": 3425
+},
+{
+"word": "cruising",
+"score": 1081
+},
+{
+"word": "cruller",
+"score": 3072
+},
+{
+"word": "crustacean",
+"score": 2315
+},
+{
+"word": "crustaceans",
+"score": 2314
+},
+{
+"word": "cuddle",
+"score": 832
+},
+{
+"word": "cuddled",
+"score": 1722
+},
+{
+"word": "cuddles",
+"score": 3842
+},
+{
+"word": "cuddling",
+"score": 703
+},
+{
+"word": "cuernavaca",
+"score": 1395
+},
+{
+"word": "culvert",
+"score": 3198
+},
+{
+"word": "curbside",
+"score": 3325
+},
+{
+"word": "curfew",
+"score": 3461
+},
+{
+"word": "curfews",
+"score": 3462
+},
+{
+"word": "curler",
+"score": 2795
+},
+{
+"word": "curren",
+"score": 2108
+},
+{
+"word": "currituck",
+"score": 1411
+},
+{
+"word": "curvy",
+"score": 2602
+},
+{
+"word": "cutie",
+"score": 3868
+},
+{
+"word": "cutlet",
+"score": 1041
+},
+{
+"word": "cycling",
+"score": 3583
+},
+{
+"word": "cyclist",
+"score": 2383
+},
+{
+"word": "dab",
+"score": 630
+},
+{
+"word": "dahab",
+"score": 874
+},
+{
+"word": "dalmatian",
+"score": 1564
+},
+{
+"word": "dalmatian",
+"score": 1565
+},
+{
+"word": "dam",
+"score": 3691
+},
+{
+"word": "dame",
+"score": 1690
+},
+{
+"word": "danang",
+"score": 2976
+},
+{
+"word": "dance",
+"score": 3775
+},
+{
+"word": "dancefloor",
+"score": 2203
+},
+{
+"word": "dances",
+"score": 3814
+},
+{
+"word": "dancing",
+"score": 1912
+},
+{
+"word": "dandy",
+"score": 1517
+},
+{
+"word": "darling",
+"score": 2328
+},
+{
+"word": "dartmoor",
+"score": 1932
+},
+{
+"word": "daughter",
+"score": 2347
+},
+{
+"word": "davie",
+"score": 2875
+},
+{
+"word": "dawn",
+"score": 1029
+},
+{
+"word": "daybreak",
+"score": 1739
+},
+{
+"word": "daydreaming",
+"score": 3016
+},
+{
+"word": "deauville",
+"score": 2154
+},
+{
+"word": "debris",
+"score": 1821
+},
+{
+"word": "deck",
+"score": 618
+},
+{
+"word": "deckhand",
+"score": 1615
+},
+{
+"word": "decks",
+"score": 1043
+},
+{
+"word": "decomposing",
+"score": 3582
+},
+{
+"word": "decoration",
+"score": 533
+},
+{
+"word": "deejay",
+"score": 3037
+},
+{
+"word": "deepwater",
+"score": 2300
+},
+{
+"word": "defecate",
+"score": 1462
+},
+{
+"word": "defile",
+"score": 2083
+},
+{
+"word": "degree",
+"score": 1547
+},
+{
+"word": "deli",
+"score": 3621
+},
+{
+"word": "delicatessen",
+"score": 3620
+},
+{
+"word": "dell",
+"score": 3211
+},
+{
+"word": "delray",
+"score": 1867
+},
+{
+"word": "deltona",
+"score": 2362
+},
+{
+"word": "den",
+"score": 3361
+},
+{
+"word": "dens",
+"score": 3362
+},
+{
+"word": "dep",
+"score": 3578
+},
+{
+"word": "departer",
+"score": 3746
+},
+{
+"word": "deposit",
+"score": 3673
+},
+{
+"word": "derelict",
+"score": 1652
+},
+{
+"word": "desalination",
+"score": 2373
+},
+{
+"word": "desert",
+"score": 666
+},
+{
+"word": "deserted",
+"score": 1656
+},
+{
+"word": "deserts",
+"score": 3783
+},
+{
+"word": "desolate",
+"score": 1192
+},
+{
+"word": "destin",
+"score": 299
+},
+{
+"word": "destination",
+"score": 1668
+},
+{
+"word": "destinations",
+"score": 1670
+},
+{
+"word": "detail",
+"score": 1551
+},
+{
+"word": "dhow",
+"score": 1525
+},
+{
+"word": "diggings",
+"score": 757
+},
+{
+"word": "digression",
+"score": 1187
+},
+{
+"word": "dike",
+"score": 3692
+},
+{
+"word": "dilapidated",
+"score": 3278
+},
+{
+"word": "dilapidation",
+"score": 1365
+},
+{
+"word": "dine",
+"score": 2639
+},
+{
+"word": "dined",
+"score": 2843
+},
+{
+"word": "diner",
+"score": 1836
+},
+{
+"word": "diners",
+"score": 3512
+},
+{
+"word": "dinghies",
+"score": 1456
+},
+{
+"word": "dinghy",
+"score": 269
+},
+{
+"word": "dingle",
+"score": 3212
+},
+{
+"word": "dingo",
+"score": 1528
+},
+{
+"word": "dining",
+"score": 1703
+},
+{
+"word": "dirt",
+"score": 1765
+},
+{
+"word": "disco",
+"score": 400
+},
+{
+"word": "discos",
+"score": 399
+},
+{
+"word": "discotheque",
+"score": 621
+},
+{
+"word": "disembark",
+"score": 2199
+},
+{
+"word": "disembarked",
+"score": 3848
+},
+{
+"word": "disembarking",
+"score": 2278
+},
+{
+"word": "dish",
+"score": 3327
+},
+{
+"word": "dishes",
+"score": 3328
+},
+{
+"word": "disneyland",
+"score": 523
+},
+{
+"word": "disneyland",
+"score": 524
+},
+{
+"word": "dispersant",
+"score": 3169
+},
+{
+"word": "dispersants",
+"score": 2645
+},
+{
+"word": "ditch",
+"score": 1146
+},
+{
+"word": "ditches",
+"score": 1147
+},
+{
+"word": "dive",
+"score": 596
+},
+{
+"word": "diver",
+"score": 688
+},
+{
+"word": "divers",
+"score": 687
+},
+{
+"word": "diversion",
+"score": 988
+},
+{
+"word": "diving",
+"score": 868
+},
+{
+"word": "dnrec",
+"score": 2525
+},
+{
+"word": "dock",
+"score": 85
+},
+{
+"word": "docked",
+"score": 3154
+},
+{
+"word": "docking",
+"score": 2475
+},
+{
+"word": "docks",
+"score": 83
+},
+{
+"word": "dockside",
+"score": 541
+},
+{
+"word": "dockyard",
+"score": 772
+},
+{
+"word": "dodgeball",
+"score": 2488
+},
+{
+"word": "dodgertown",
+"score": 1145
+},
+{
+"word": "dog",
+"score": 1576
+},
+{
+"word": "doggie",
+"score": 1087
+},
+{
+"word": "doggy",
+"score": 1094
+},
+{
+"word": "dogs",
+"score": 1986
+},
+{
+"word": "doheny",
+"score": 1864
+},
+{
+"word": "dollar",
+"score": 486
+},
+{
+"word": "dolled",
+"score": 2491
+},
+{
+"word": "dolphin",
+"score": 160
+},
+{
+"word": "dolphinfish",
+"score": 159
+},
+{
+"word": "dolphins",
+"score": 161
+},
+{
+"word": "domain",
+"score": 3596
+},
+{
+"word": "donkey",
+"score": 2762
+},
+{
+"word": "donkeys",
+"score": 2761
+},
+{
+"word": "doorsill",
+"score": 2397
+},
+{
+"word": "doorstep",
+"score": 2396
+},
+{
+"word": "doorway",
+"score": 2954
+},
+{
+"word": "doorways",
+"score": 2953
+},
+{
+"word": "dope",
+"score": 1306
+},
+{
+"word": "dorado",
+"score": 2754
+},
+{
+"word": "dorado",
+"score": 2755
+},
+{
+"word": "dorm",
+"score": 3864
+},
+{
+"word": "dormitory",
+"score": 2646
+},
+{
+"word": "dorms",
+"score": 2647
+},
+{
+"word": "doted",
+"score": 2163
+},
+{
+"word": "doting",
+"score": 3603
+},
+{
+"word": "downfall",
+"score": 1367
+},
+{
+"word": "downhill",
+"score": 2854
+},
+{
+"word": "downtown",
+"score": 3556
+},
+{
+"word": "downwind",
+"score": 3152
+},
+{
+"word": "doze",
+"score": 3675
+},
+{
+"word": "dpw",
+"score": 3226
+},
+{
+"word": "dragonflies",
+"score": 2869
+},
+{
+"word": "dragonfly",
+"score": 2870
+},
+{
+"word": "draw",
+"score": 2942
+},
+{
+"word": "drawbridge",
+"score": 1276
+},
+{
+"word": "drawcard",
+"score": 2296
+},
+{
+"word": "drawers",
+"score": 1845
+},
+{
+"word": "dreamland",
+"score": 3613
+},
+{
+"word": "dredge",
+"score": 1120
+},
+{
+"word": "dredged",
+"score": 3204
+},
+{
+"word": "dredging",
+"score": 1219
+},
+{
+"word": "drenching",
+"score": 1060
+},
+{
+"word": "drifting",
+"score": 3213
+},
+{
+"word": "driftwood",
+"score": 241
+},
+{
+"word": "drink",
+"score": 1077
+},
+{
+"word": "drinking",
+"score": 1151
+},
+{
+"word": "drinks",
+"score": 2357
+},
+{
+"word": "drive",
+"score": 544
+},
+{
+"word": "drivel",
+"score": 2588
+},
+{
+"word": "driveway",
+"score": 392
+},
+{
+"word": "driveways",
+"score": 448
+},
+{
+"word": "drop",
+"score": 2823
+},
+{
+"word": "droppings",
+"score": 2509
+},
+{
+"word": "drowned",
+"score": 2353
+},
+{
+"word": "drowning",
+"score": 1356
+},
+{
+"word": "drownings",
+"score": 375
+},
+{
+"word": "drowns",
+"score": 2874
+},
+{
+"word": "drunk",
+"score": 2568
+},
+{
+"word": "drunkard",
+"score": 2567
+},
+{
+"word": "drunken",
+"score": 1486
+},
+{
+"word": "drunkenly",
+"score": 2624
+},
+{
+"word": "drunks",
+"score": 2569
+},
+{
+"word": "dubrovnik",
+"score": 857
+},
+{
+"word": "dubrovnik",
+"score": 858
+},
+{
+"word": "duck",
+"score": 2151
+},
+{
+"word": "ducks",
+"score": 2152
+},
+{
+"word": "duct",
+"score": 294
+},
+{
+"word": "dumbbell",
+"score": 1630
+},
+{
+"word": "dump",
+"score": 850
+},
+{
+"word": "dumps",
+"score": 1910
+},
+{
+"word": "dumpsite",
+"score": 849
+},
+{
+"word": "dumpster",
+"score": 1141
+},
+{
+"word": "dumpster",
+"score": 1476
+},
+{
+"word": "dumpsters",
+"score": 1142
+},
+{
+"word": "dunce",
+"score": 2395
+},
+{
+"word": "dune",
+"score": 12
+},
+{
+"word": "dunes",
+"score": 13
+},
+{
+"word": "dungeness",
+"score": 3071
+},
+{
+"word": "duplexes",
+"score": 2407
+},
+{
+"word": "durban",
+"score": 3499
+},
+{
+"word": "durban",
+"score": 3500
+},
+{
+"word": "dusk",
+"score": 734
+},
+{
+"word": "dustbins",
+"score": 2544
+},
+{
+"word": "duvet",
+"score": 1781
+},
+{
+"word": "dwelling",
+"score": 1791
+},
+{
+"word": "dwellings",
+"score": 3349
+},
+{
+"word": "easel",
+"score": 2201
+},
+{
+"word": "easiness",
+"score": 1425
+},
+{
+"word": "easter",
+"score": 3207
+},
+{
+"word": "easter",
+"score": 3208
+},
+{
+"word": "easternmost",
+"score": 1623
+},
+{
+"word": "eastham",
+"score": 787
+},
+{
+"word": "eastport",
+"score": 1480
+},
+{
+"word": "eatage",
+"score": 1267
+},
+{
+"word": "eateries",
+"score": 2530
+},
+{
+"word": "eatery",
+"score": 1931
+},
+{
+"word": "eating",
+"score": 2860
+},
+{
+"word": "eclogue",
+"score": 1161
+},
+{
+"word": "eco",
+"score": 3259
+},
+{
+"word": "ecotourism",
+"score": 1140
+},
+{
+"word": "eden",
+"score": 274
+},
+{
+"word": "edgartown",
+"score": 883
+},
+{
+"word": "edge",
+"score": 2223
+},
+{
+"word": "edgewater",
+"score": 926
+},
+{
+"word": "eel",
+"score": 3382
+},
+{
+"word": "egret",
+"score": 1982
+},
+{
+"word": "egrets",
+"score": 1983
+},
+{
+"word": "eiderdown",
+"score": 1780
+},
+{
+"word": "eilat",
+"score": 590
+},
+{
+"word": "eleuthera",
+"score": 525
+},
+{
+"word": "embankment",
+"score": 3644
+},
+{
+"word": "embankments",
+"score": 3661
+},
+{
+"word": "embarcadero",
+"score": 1389
+},
+{
+"word": "encampment",
+"score": 2665
+},
+{
+"word": "encampments",
+"score": 1896
+},
+{
+"word": "encinitas",
+"score": 1026
+},
+{
+"word": "enclave",
+"score": 1862
+},
+{
+"word": "enjoy",
+"score": 1560
+},
+{
+"word": "enjoying",
+"score": 1877
+},
+{
+"word": "enjoyment",
+"score": 2121
+},
+{
+"word": "ensenada",
+"score": 1772
+},
+{
+"word": "entertainment",
+"score": 842
+},
+{
+"word": "entertainments",
+"score": 2897
+},
+{
+"word": "entrance",
+"score": 2129
+},
+{
+"word": "entrances",
+"score": 3345
+},
+{
+"word": "entranceway",
+"score": 2170
+},
+{
+"word": "environment",
+"score": 2465
+},
+{
+"word": "epcot",
+"score": 1491
+},
+{
+"word": "equator",
+"score": 1644
+},
+{
+"word": "erosion",
+"score": 1947
+},
+{
+"word": "escape",
+"score": 2965
+},
+{
+"word": "escapism",
+"score": 2964
+},
+{
+"word": "escapist",
+"score": 2997
+},
+{
+"word": "escargot",
+"score": 1662
+},
+{
+"word": "escarpment",
+"score": 699
+},
+{
+"word": "esophagus",
+"score": 2082
+},
+{
+"word": "esplanade",
+"score": 189
+},
+{
+"word": "estate",
+"score": 3593
+},
+{
+"word": "estero",
+"score": 1552
+},
+{
+"word": "estoril",
+"score": 2574
+},
+{
+"word": "estuaries",
+"score": 332
+},
+{
+"word": "estuary",
+"score": 147
+},
+{
+"word": "eucalyptus",
+"score": 3163
+},
+{
+"word": "evening",
+"score": 2427
+},
+{
+"word": "evenings",
+"score": 2428
+},
+{
+"word": "everglades",
+"score": 851
+},
+{
+"word": "everglades",
+"score": 852
+},
+{
+"word": "evergreen",
+"score": 3736
+},
+{
+"word": "evergreens",
+"score": 3735
+},
+{
+"word": "excursion",
+"score": 1188
+},
+{
+"word": "excursions",
+"score": 1186
+},
+{
+"word": "exhibitor",
+"score": 1138
+},
+{
+"word": "exile",
+"score": 2105
+},
+{
+"word": "exmouth",
+"score": 1182
+},
+{
+"word": "expanse",
+"score": 2453
+},
+{
+"word": "expanses",
+"score": 3132
+},
+{
+"word": "expat",
+"score": 2104
+},
+{
+"word": "expats",
+"score": 2922
+},
+{
+"word": "expressway",
+"score": 1046
+},
+{
+"word": "extravagant",
+"score": 3588
+},
+{
+"word": "eyesore",
+"score": 2001
+},
+{
+"word": "eyesores",
+"score": 2002
+},
+{
+"word": "fabulous",
+"score": 2971
+},
+{
+"word": "facade",
+"score": 1562
+},
+{
+"word": "facial",
+"score": 3419
+},
+{
+"word": "facials",
+"score": 3420
+},
+{
+"word": "faeces",
+"score": 3012
+},
+{
+"word": "fairground",
+"score": 2458
+},
+{
+"word": "fairgrounds",
+"score": 2652
+},
+{
+"word": "fairhaven",
+"score": 2605
+},
+{
+"word": "fairhope",
+"score": 1798
+},
+{
+"word": "fairway",
+"score": 919
+},
+{
+"word": "fairways",
+"score": 918
+},
+{
+"word": "fairy",
+"score": 2059
+},
+{
+"word": "falmouth",
+"score": 2086
+},
+{
+"word": "fam",
+"score": 771
+},
+{
+"word": "family",
+"score": 1580
+},
+{
+"word": "fan",
+"score": 2135
+},
+{
+"word": "farmhouse",
+"score": 1719
+},
+{
+"word": "farmhouses",
+"score": 3319
+},
+{
+"word": "farming",
+"score": 3595
+},
+{
+"word": "farther",
+"score": 3496
+},
+{
+"word": "father",
+"score": 1883
+},
+{
+"word": "fauna",
+"score": 1647
+},
+{
+"word": "fay",
+"score": 2058
+},
+{
+"word": "fecal",
+"score": 3808
+},
+{
+"word": "felixstowe",
+"score": 1641
+},
+{
+"word": "fence",
+"score": 2818
+},
+{
+"word": "fenced",
+"score": 848
+},
+{
+"word": "fencing",
+"score": 2863
+},
+{
+"word": "fern",
+"score": 3160
+},
+{
+"word": "fernwood",
+"score": 3513
+},
+{
+"word": "ferries",
+"score": 753
+},
+{
+"word": "ferry",
+"score": 441
+},
+{
+"word": "festival",
+"score": 1775
+},
+{
+"word": "festivals",
+"score": 3858
+},
+{
+"word": "fests",
+"score": 3322
+},
+{
+"word": "fete",
+"score": 1776
+},
+{
+"word": "fetes",
+"score": 1777
+},
+{
+"word": "fiberglass",
+"score": 3282
+},
+{
+"word": "fibril",
+"score": 406
+},
+{
+"word": "fieldfare",
+"score": 2408
+},
+{
+"word": "filey",
+"score": 3687
+},
+{
+"word": "filmed",
+"score": 2316
+},
+{
+"word": "filth",
+"score": 3636
+},
+{
+"word": "fin",
+"score": 1532
+},
+{
+"word": "fingal",
+"score": 3865
+},
+{
+"word": "fingerstall",
+"score": 2919
+},
+{
+"word": "finish",
+"score": 1669
+},
+{
+"word": "fins",
+"score": 1606
+},
+{
+"word": "fireflies",
+"score": 2999
+},
+{
+"word": "firefly",
+"score": 3000
+},
+{
+"word": "firehouse",
+"score": 1779
+},
+{
+"word": "fireside",
+"score": 3109
+},
+{
+"word": "firework",
+"score": 3229
+},
+{
+"word": "fireworks",
+"score": 3228
+},
+{
+"word": "firm",
+"score": 1578
+},
+{
+"word": "fish",
+"score": 1469
+},
+{
+"word": "fished",
+"score": 2321
+},
+{
+"word": "fisher",
+"score": 1951
+},
+{
+"word": "fisherfolk",
+"score": 2267
+},
+{
+"word": "fisheries",
+"score": 3075
+},
+{
+"word": "fisherman",
+"score": 550
+},
+{
+"word": "fishermen",
+"score": 835
+},
+{
+"word": "fishers",
+"score": 2079
+},
+{
+"word": "fishery",
+"score": 1727
+},
+{
+"word": "fishes",
+"score": 2653
+},
+{
+"word": "fishing",
+"score": 310
+},
+{
+"word": "fishnet",
+"score": 3068
+},
+{
+"word": "fishnets",
+"score": 3067
+},
+{
+"word": "fit",
+"score": 1771
+},
+{
+"word": "fivb",
+"score": 2939
+},
+{
+"word": "five",
+"score": 1530
+},
+{
+"word": "fjord",
+"score": 1236
+},
+{
+"word": "fjords",
+"score": 1347
+},
+{
+"word": "flagler",
+"score": 1451
+},
+{
+"word": "flamingo",
+"score": 517
+},
+{
+"word": "flamingos",
+"score": 516
+},
+{
+"word": "flange",
+"score": 2275
+},
+{
+"word": "flapper",
+"score": 2656
+},
+{
+"word": "flashlight",
+"score": 3070
+},
+{
+"word": "flashlights",
+"score": 3069
+},
+{
+"word": "flat",
+"score": 1383
+},
+{
+"word": "flatcar",
+"score": 1384
+},
+{
+"word": "flatness",
+"score": 1712
+},
+{
+"word": "flats",
+"score": 1385
+},
+{
+"word": "flintstone",
+"score": 2845
+},
+{
+"word": "flintstones",
+"score": 2844
+},
+{
+"word": "flip-flop",
+"score": 314
+},
+{
+"word": "flipper",
+"score": 1048
+},
+{
+"word": "flippers",
+"score": 1047
+},
+{
+"word": "float",
+"score": 2635
+},
+{
+"word": "floating",
+"score": 1749
+},
+{
+"word": "floats",
+"score": 2634
+},
+{
+"word": "flood",
+"score": 3026
+},
+{
+"word": "floodplain",
+"score": 3149
+},
+{
+"word": "floodplains",
+"score": 3148
+},
+{
+"word": "flop",
+"score": 2239
+},
+{
+"word": "flora",
+"score": 2658
+},
+{
+"word": "florals",
+"score": 2372
+},
+{
+"word": "florida",
+"score": 2138
+},
+{
+"word": "florida",
+"score": 2139
+},
+{
+"word": "flotilla",
+"score": 2756
+},
+{
+"word": "flotsam",
+"score": 2871
+},
+{
+"word": "flounder",
+"score": 1855
+},
+{
+"word": "flowerbed",
+"score": 1340
+},
+{
+"word": "flowerbeds",
+"score": 1339
+},
+{
+"word": "fluffy",
+"score": 3852
+},
+{
+"word": "foamy",
+"score": 1801
+},
+{
+"word": "folderol",
+"score": 1358
+},
+{
+"word": "foliage",
+"score": 3039
+},
+{
+"word": "foliation",
+"score": 3038
+},
+{
+"word": "fontainebleau",
+"score": 2704
+},
+{
+"word": "footbridge",
+"score": 1470
+},
+{
+"word": "footie",
+"score": 2063
+},
+{
+"word": "footpath",
+"score": 157
+},
+{
+"word": "footpaths",
+"score": 382
+},
+{
+"word": "footprint",
+"score": 3475
+},
+{
+"word": "footprints",
+"score": 3474
+},
+{
+"word": "foreplay",
+"score": 3449
+},
+{
+"word": "foreshore",
+"score": 100
+},
+{
+"word": "forest",
+"score": 943
+},
+{
+"word": "forested",
+"score": 2026
+},
+{
+"word": "fort",
+"score": 1390
+},
+{
+"word": "fortification",
+"score": 2709
+},
+{
+"word": "fortifications",
+"score": 2708
+},
+{
+"word": "fortress",
+"score": 885
+},
+{
+"word": "forts",
+"score": 884
+},
+{
+"word": "fortune",
+"score": 2948
+},
+{
+"word": "fountain",
+"score": 1621
+},
+{
+"word": "fountains",
+"score": 1619
+},
+{
+"word": "foxhole",
+"score": 3379
+},
+{
+"word": "foxton",
+"score": 3641
+},
+{
+"word": "frank",
+"score": 1573
+},
+{
+"word": "frat",
+"score": 1510
+},
+{
+"word": "fraternity",
+"score": 1511
+},
+{
+"word": "freeport",
+"score": 3240
+},
+{
+"word": "freeway",
+"score": 1045
+},
+{
+"word": "freeways",
+"score": 1588
+},
+{
+"word": "frequented",
+"score": 2895
+},
+{
+"word": "freshwater",
+"score": 1082
+},
+{
+"word": "friend",
+"score": 2594
+},
+{
+"word": "friend",
+"score": 2596
+},
+{
+"word": "friends",
+"score": 2593
+},
+{
+"word": "fringed",
+"score": 3571
+},
+{
+"word": "frisbee",
+"score": 574
+},
+{
+"word": "frisbee",
+"score": 575
+},
+{
+"word": "frisbees",
+"score": 1886
+},
+{
+"word": "frith",
+"score": 3686
+},
+{
+"word": "frog",
+"score": 2784
+},
+{
+"word": "frogs",
+"score": 3454
+},
+{
+"word": "frolic",
+"score": 225
+},
+{
+"word": "frolicked",
+"score": 223
+},
+{
+"word": "frolicking",
+"score": 146
+},
+{
+"word": "frond",
+"score": 2125
+},
+{
+"word": "fronds",
+"score": 2124
+},
+{
+"word": "frontage",
+"score": 1563
+},
+{
+"word": "frump",
+"score": 1575
+},
+{
+"word": "fuck",
+"score": 664
+},
+{
+"word": "fun",
+"score": 2456
+},
+{
+"word": "funfair",
+"score": 917
+},
+{
+"word": "futenma",
+"score": 3785
+},
+{
+"word": "futsal",
+"score": 2711
+},
+{
+"word": "fwc",
+"score": 1466
+},
+{
+"word": "g-string",
+"score": 312
+},
+{
+"word": "gable",
+"score": 3442
+},
+{
+"word": "gable",
+"score": 3444
+},
+{
+"word": "gables",
+"score": 3443
+},
+{
+"word": "galapagos",
+"score": 2381
+},
+{
+"word": "galilee",
+"score": 1184
+},
+{
+"word": "galilee",
+"score": 1185
+},
+{
+"word": "galley",
+"score": 2476
+},
+{
+"word": "gallipoli",
+"score": 879
+},
+{
+"word": "galveston",
+"score": 746
+},
+{
+"word": "galveston",
+"score": 747
+},
+{
+"word": "ganges",
+"score": 3542
+},
+{
+"word": "ganges",
+"score": 3543
+},
+{
+"word": "gangrene",
+"score": 1805
+},
+{
+"word": "garage",
+"score": 3015
+},
+{
+"word": "garbage",
+"score": 2587
+},
+{
+"word": "garden",
+"score": 751
+},
+{
+"word": "gardens",
+"score": 752
+},
+{
+"word": "garrison",
+"score": 886
+},
+{
+"word": "gated",
+"score": 723
+},
+{
+"word": "gatlinburg",
+"score": 3536
+},
+{
+"word": "gator",
+"score": 1125
+},
+{
+"word": "gators",
+"score": 1881
+},
+{
+"word": "gatsby",
+"score": 1017
+},
+{
+"word": "gatwick",
+"score": 3733
+},
+{
+"word": "gawk",
+"score": 2978
+},
+{
+"word": "gawker",
+"score": 2399
+},
+{
+"word": "gawkers",
+"score": 2400
+},
+{
+"word": "gawking",
+"score": 1975
+},
+{
+"word": "gay",
+"score": 2899
+},
+{
+"word": "gazebo",
+"score": 421
+},
+{
+"word": "gazing",
+"score": 1301
+},
+{
+"word": "gelato",
+"score": 1786
+},
+{
+"word": "geraldton",
+"score": 3504
+},
+{
+"word": "getaway",
+"score": 259
+},
+{
+"word": "getaways",
+"score": 377
+},
+{
+"word": "ghost",
+"score": 1894
+},
+{
+"word": "giant",
+"score": 374
+},
+{
+"word": "giblin",
+"score": 3066
+},
+{
+"word": "gidget",
+"score": 1134
+},
+{
+"word": "gilly",
+"score": 3217
+},
+{
+"word": "giraffe",
+"score": 3739
+},
+{
+"word": "giraffes",
+"score": 3738
+},
+{
+"word": "girl",
+"score": 2346
+},
+{
+"word": "girlfriend",
+"score": 981
+},
+{
+"word": "girlfriends",
+"score": 982
+},
+{
+"word": "girlie",
+"score": 3577
+},
+{
+"word": "girly",
+"score": 2210
+},
+{
+"word": "gizo",
+"score": 2134
+},
+{
+"word": "glades",
+"score": 2417
+},
+{
+"word": "glamorous",
+"score": 3457
+},
+{
+"word": "glassed",
+"score": 3715
+},
+{
+"word": "glassy",
+"score": 1987
+},
+{
+"word": "glenelg",
+"score": 1737
+},
+{
+"word": "glide",
+"score": 432
+},
+{
+"word": "glider",
+"score": 3737
+},
+{
+"word": "glitterati",
+"score": 2542
+},
+{
+"word": "glitzy",
+"score": 3732
+},
+{
+"word": "globs",
+"score": 1683
+},
+{
+"word": "glynn",
+"score": 3127
+},
+{
+"word": "gnarly",
+"score": 3116
+},
+{
+"word": "goa",
+"score": 709
+},
+{
+"word": "goa",
+"score": 710
+},
+{
+"word": "goan",
+"score": 2403
+},
+{
+"word": "goer",
+"score": 3747
+},
+{
+"word": "goggles",
+"score": 2218
+},
+{
+"word": "going",
+"score": 1313
+},
+{
+"word": "goldeneye",
+"score": 3271
+},
+{
+"word": "golf",
+"score": 649
+},
+{
+"word": "golfed",
+"score": 3346
+},
+{
+"word": "golfing",
+"score": 510
+},
+{
+"word": "gomorrah",
+"score": 2908
+},
+{
+"word": "gomorrah",
+"score": 2909
+},
+{
+"word": "gondola",
+"score": 1111
+},
+{
+"word": "gondolas",
+"score": 2464
+},
+{
+"word": "goodland",
+"score": 2865
+},
+{
+"word": "goofing",
+"score": 1846
+},
+{
+"word": "goonies",
+"score": 3535
+},
+{
+"word": "goosefish",
+"score": 3338
+},
+{
+"word": "gorge",
+"score": 2084
+},
+{
+"word": "gorgeous",
+"score": 1220
+},
+{
+"word": "gorleston",
+"score": 3258
+},
+{
+"word": "gosford",
+"score": 3197
+},
+{
+"word": "gotcha",
+"score": 3667
+},
+{
+"word": "gouveia",
+"score": 2248
+},
+{
+"word": "goydos",
+"score": 3060
+},
+{
+"word": "gozo",
+"score": 1905
+},
+{
+"word": "gradient",
+"score": 362
+},
+{
+"word": "graf",
+"score": 1506
+},
+{
+"word": "graffiti",
+"score": 2523
+},
+{
+"word": "graffito",
+"score": 2522
+},
+{
+"word": "grandkids",
+"score": 2501
+},
+{
+"word": "grandparent",
+"score": 2693
+},
+{
+"word": "grandparents",
+"score": 2692
+},
+{
+"word": "grandstand",
+"score": 2961
+},
+{
+"word": "grandstands",
+"score": 2960
+},
+{
+"word": "grass",
+"score": 1264
+},
+{
+"word": "grass",
+"score": 1265
+},
+{
+"word": "grassed",
+"score": 2017
+},
+{
+"word": "grasses",
+"score": 3432
+},
+{
+"word": "grassy",
+"score": 997
+},
+{
+"word": "grave",
+"score": 1503
+},
+{
+"word": "gravel",
+"score": 1159
+},
+{
+"word": "graves",
+"score": 1504
+},
+{
+"word": "graves",
+"score": 1505
+},
+{
+"word": "gravesite",
+"score": 731
+},
+{
+"word": "gravesites",
+"score": 2903
+},
+{
+"word": "gravestone",
+"score": 3118
+},
+{
+"word": "gravestones",
+"score": 3281
+},
+{
+"word": "graveyard",
+"score": 2232
+},
+{
+"word": "graveyards",
+"score": 3822
+},
+{
+"word": "graze",
+"score": 3845
+},
+{
+"word": "grazing",
+"score": 3844
+},
+{
+"word": "greaser",
+"score": 2130
+},
+{
+"word": "green",
+"score": 2055
+},
+{
+"word": "green",
+"score": 2056
+},
+{
+"word": "greenacres",
+"score": 1127
+},
+{
+"word": "greenbelt",
+"score": 1558
+},
+{
+"word": "greenery",
+"score": 895
+},
+{
+"word": "greenhouse",
+"score": 2550
+},
+{
+"word": "greens",
+"score": 2054
+},
+{
+"word": "greenway",
+"score": 1557
+},
+{
+"word": "grill",
+"score": 2623
+},
+{
+"word": "grillroom",
+"score": 2622
+},
+{
+"word": "gringo",
+"score": 2115
+},
+{
+"word": "grog",
+"score": 1728
+},
+{
+"word": "groomers",
+"score": 2329
+},
+{
+"word": "grooving",
+"score": 3219
+},
+{
+"word": "groovy",
+"score": 2969
+},
+{
+"word": "grosso",
+"score": 3428
+},
+{
+"word": "grotto",
+"score": 1444
+},
+{
+"word": "grouper",
+"score": 973
+},
+{
+"word": "grove",
+"score": 910
+},
+{
+"word": "groves",
+"score": 909
+},
+{
+"word": "groves",
+"score": 911
+},
+{
+"word": "grub",
+"score": 3272
+},
+{
+"word": "grubs",
+"score": 3273
+},
+{
+"word": "guardrails",
+"score": 2312
+},
+{
+"word": "guest",
+"score": 2480
+},
+{
+"word": "guest",
+"score": 2481
+},
+{
+"word": "guesthouse",
+"score": 836
+},
+{
+"word": "guesthouses",
+"score": 837
+},
+{
+"word": "guestroom",
+"score": 3200
+},
+{
+"word": "guestrooms",
+"score": 3199
+},
+{
+"word": "guests",
+"score": 2478
+},
+{
+"word": "guidebook",
+"score": 1709
+},
+{
+"word": "guidebooks",
+"score": 1708
+},
+{
+"word": "guimaras",
+"score": 3231
+},
+{
+"word": "gulf",
+"score": 859
+},
+{
+"word": "gulfport",
+"score": 3501
+},
+{
+"word": "gull",
+"score": 317
+},
+{
+"word": "gullah",
+"score": 3077
+},
+{
+"word": "gullies",
+"score": 3110
+},
+{
+"word": "gulls",
+"score": 1117
+},
+{
+"word": "gully",
+"score": 1879
+},
+{
+"word": "gulmarg",
+"score": 2541
+},
+{
+"word": "gutter",
+"score": 1645
+},
+{
+"word": "gutters",
+"score": 3086
+},
+{
+"word": "gym",
+"score": 1205
+},
+{
+"word": "gymnasium",
+"score": 1204
+},
+{
+"word": "gyms",
+"score": 2378
+},
+{
+"word": "gypsy",
+"score": 1698
+},
+{
+"word": "habitat",
+"score": 2426
+},
+{
+"word": "habitats",
+"score": 2763
+},
+{
+"word": "hacienda",
+"score": 1913
+},
+{
+"word": "hadera",
+"score": 2636
+},
+{
+"word": "haidl",
+"score": 2685
+},
+{
+"word": "hairspray",
+"score": 1874
+},
+{
+"word": "halibut",
+"score": 2576
+},
+{
+"word": "hamburger",
+"score": 1900
+},
+{
+"word": "hamburgers",
+"score": 1901
+},
+{
+"word": "hamlet",
+"score": 1633
+},
+{
+"word": "hamlet",
+"score": 1634
+},
+{
+"word": "hammerhead",
+"score": 2393
+},
+{
+"word": "hammerheads",
+"score": 2394
+},
+{
+"word": "hammock",
+"score": 141
+},
+{
+"word": "hammocks",
+"score": 142
+},
+{
+"word": "hampton",
+"score": 423
+},
+{
+"word": "hamptons",
+"score": 424
+},
+{
+"word": "hanahan",
+"score": 1988
+},
+{
+"word": "hangout",
+"score": 1400
+},
+{
+"word": "hangouts",
+"score": 1169
+},
+{
+"word": "hangover",
+"score": 2723
+},
+{
+"word": "hangovers",
+"score": 2725
+},
+{
+"word": "harbor",
+"score": 117
+},
+{
+"word": "harbormaster",
+"score": 685
+},
+{
+"word": "harbors",
+"score": 2603
+},
+{
+"word": "harbour",
+"score": 633
+},
+{
+"word": "hardcourt",
+"score": 3079
+},
+{
+"word": "hardcourts",
+"score": 3478
+},
+{
+"word": "hardtop",
+"score": 3843
+},
+{
+"word": "harebell",
+"score": 3520
+},
+{
+"word": "hart",
+"score": 1396
+},
+{
+"word": "harwich",
+"score": 2188
+},
+{
+"word": "hatchling",
+"score": 1458
+},
+{
+"word": "hatchlings",
+"score": 1459
+},
+{
+"word": "hatteras",
+"score": 786
+},
+{
+"word": "haunt",
+"score": 87
+},
+{
+"word": "havelock",
+"score": 3494
+},
+{
+"word": "haven",
+"score": 2745
+},
+{
+"word": "hawaii",
+"score": 582
+},
+{
+"word": "hawaii",
+"score": 583
+},
+{
+"word": "hawaiian",
+"score": 1271
+},
+{
+"word": "hawaiian",
+"score": 1272
+},
+{
+"word": "hawaiians",
+"score": 2141
+},
+{
+"word": "hayfield",
+"score": 503
+},
+{
+"word": "hayride",
+"score": 2037
+},
+{
+"word": "hazard",
+"score": 3292
+},
+{
+"word": "hazards",
+"score": 3646
+},
+{
+"word": "hazelnut",
+"score": 933
+},
+{
+"word": "headland",
+"score": 43
+},
+{
+"word": "headstones",
+"score": 3796
+},
+{
+"word": "heaps",
+"score": 2423
+},
+{
+"word": "hearth",
+"score": 3108
+},
+{
+"word": "heath",
+"score": 3323
+},
+{
+"word": "hedge",
+"score": 2355
+},
+{
+"word": "hedgerows",
+"score": 2356
+},
+{
+"word": "hedonistic",
+"score": 1150
+},
+{
+"word": "hef",
+"score": 3769
+},
+{
+"word": "heiligendamm",
+"score": 1609
+},
+{
+"word": "helipad",
+"score": 3206
+},
+{
+"word": "heliport",
+"score": 1655
+},
+{
+"word": "hemingway",
+"score": 3446
+},
+{
+"word": "hemingway",
+"score": 3447
+},
+{
+"word": "hermanus",
+"score": 1616
+},
+{
+"word": "hermosa",
+"score": 692
+},
+{
+"word": "hero",
+"score": 1447
+},
+{
+"word": "heron",
+"score": 1448
+},
+{
+"word": "herons",
+"score": 2729
+},
+{
+"word": "herring",
+"score": 2849
+},
+{
+"word": "herzliya",
+"score": 2504
+},
+{
+"word": "hewlett",
+"score": 2695
+},
+{
+"word": "hibiscus",
+"score": 1495
+},
+{
+"word": "hideaway",
+"score": 231
+},
+{
+"word": "hideout",
+"score": 230
+},
+{
+"word": "highland",
+"score": 2270
+},
+{
+"word": "highlands",
+"score": 2514
+},
+{
+"word": "highlands",
+"score": 2515
+},
+{
+"word": "highrise",
+"score": 3728
+},
+{
+"word": "highway",
+"score": 323
+},
+{
+"word": "highways",
+"score": 1439
+},
+{
+"word": "hike",
+"score": 797
+},
+{
+"word": "hiker",
+"score": 2003
+},
+{
+"word": "hikers",
+"score": 2077
+},
+{
+"word": "hiking",
+"score": 796
+},
+{
+"word": "hill",
+"score": 681
+},
+{
+"word": "hill",
+"score": 682
+},
+{
+"word": "hills",
+"score": 683
+},
+{
+"word": "hillside",
+"score": 286
+},
+{
+"word": "hillsides",
+"score": 727
+},
+{
+"word": "hilltop",
+"score": 680
+},
+{
+"word": "hilltops",
+"score": 908
+},
+{
+"word": "hilo",
+"score": 2774
+},
+{
+"word": "hilo",
+"score": 2775
+},
+{
+"word": "hinterland",
+"score": 2412
+},
+{
+"word": "hippie",
+"score": 1667
+},
+{
+"word": "hippies",
+"score": 2896
+},
+{
+"word": "hippo",
+"score": 1535
+},
+{
+"word": "hippo",
+"score": 1536
+},
+{
+"word": "hippopotamus",
+"score": 1534
+},
+{
+"word": "hippos",
+"score": 2705
+},
+{
+"word": "hippy",
+"score": 1666
+},
+{
+"word": "hitchhike",
+"score": 1408
+},
+{
+"word": "hitchhiker",
+"score": 2852
+},
+{
+"word": "hitchhikers",
+"score": 2851
+},
+{
+"word": "hitchhiking",
+"score": 2615
+},
+{
+"word": "hobie",
+"score": 1232
+},
+{
+"word": "hogback",
+"score": 1960
+},
+{
+"word": "hogmanay",
+"score": 3063
+},
+{
+"word": "hogmanay",
+"score": 3064
+},
+{
+"word": "holdover",
+"score": 2724
+},
+{
+"word": "holiday",
+"score": 1166
+},
+{
+"word": "holidaying",
+"score": 108
+},
+{
+"word": "holidaymaker",
+"score": 219
+},
+{
+"word": "holidaymakers",
+"score": 220
+},
+{
+"word": "holidays",
+"score": 1167
+},
+{
+"word": "holloway",
+"score": 3315
+},
+{
+"word": "hollywood",
+"score": 3772
+},
+{
+"word": "hollywood",
+"score": 3773
+},
+{
+"word": "home",
+"score": 2995
+},
+{
+"word": "homeport",
+"score": 2187
+},
+{
+"word": "homes",
+"score": 3320
+},
+{
+"word": "homesites",
+"score": 2249
+},
+{
+"word": "homestead",
+"score": 3268
+},
+{
+"word": "homesteads",
+"score": 3267
+},
+{
+"word": "homosassa",
+"score": 546
+},
+{
+"word": "homosexual",
+"score": 2898
+},
+{
+"word": "honeymoon",
+"score": 428
+},
+{
+"word": "honeymooners",
+"score": 288
+},
+{
+"word": "honeymooning",
+"score": 690
+},
+{
+"word": "honeymoons",
+"score": 780
+},
+{
+"word": "honkytonk",
+"score": 595
+},
+{
+"word": "honolulu",
+"score": 3146
+},
+{
+"word": "honolulu",
+"score": 3147
+},
+{
+"word": "hookah",
+"score": 3120
+},
+{
+"word": "hopping",
+"score": 2566
+},
+{
+"word": "hopscotch",
+"score": 2820
+},
+{
+"word": "horizon",
+"score": 2294
+},
+{
+"word": "horseback",
+"score": 1959
+},
+{
+"word": "horseshoe",
+"score": 3537
+},
+{
+"word": "hosing",
+"score": 3137
+},
+{
+"word": "hostel",
+"score": 1012
+},
+{
+"word": "hostels",
+"score": 2050
+},
+{
+"word": "hotdog",
+"score": 2619
+},
+{
+"word": "hotdogs",
+"score": 2620
+},
+{
+"word": "hotel",
+"score": 597
+},
+{
+"word": "hotelier",
+"score": 2781
+},
+{
+"word": "hoteliers",
+"score": 3485
+},
+{
+"word": "hotels",
+"score": 1328
+},
+{
+"word": "hotspot",
+"score": 974
+},
+{
+"word": "hotspots",
+"score": 2263
+},
+{
+"word": "hotties",
+"score": 3351
+},
+{
+"word": "hourglass",
+"score": 3817
+},
+{
+"word": "house",
+"score": 1577
+},
+{
+"word": "houseboat",
+"score": 298
+},
+{
+"word": "houseboats",
+"score": 613
+},
+{
+"word": "housing",
+"score": 754
+},
+{
+"word": "hove",
+"score": 2414
+},
+{
+"word": "hovel",
+"score": 434
+},
+{
+"word": "hovercraft",
+"score": 3776
+},
+{
+"word": "hpu",
+"score": 3745
+},
+{
+"word": "hugging",
+"score": 2306
+},
+{
+"word": "huitre",
+"score": 769
+},
+{
+"word": "hula",
+"score": 482
+},
+{
+"word": "humid",
+"score": 2546
+},
+{
+"word": "hummingbird",
+"score": 3713
+},
+{
+"word": "hummingbirds",
+"score": 3714
+},
+{
+"word": "humpback",
+"score": 1122
+},
+{
+"word": "humpbacks",
+"score": 1123
+},
+{
+"word": "humps",
+"score": 3248
+},
+{
+"word": "hungover",
+"score": 2492
+},
+{
+"word": "hunky",
+"score": 3373
+},
+{
+"word": "hurghada",
+"score": 964
+},
+{
+"word": "hurricane",
+"score": 2258
+},
+{
+"word": "hurricanes",
+"score": 2259
+},
+{
+"word": "hut",
+"score": 549
+},
+{
+"word": "huts",
+"score": 548
+},
+{
+"word": "hwy",
+"score": 2204
+},
+{
+"word": "hyannis",
+"score": 2252
+},
+{
+"word": "hydrant",
+"score": 3332
+},
+{
+"word": "hypothermia",
+"score": 3249
+},
+{
+"word": "hyrax",
+"score": 2448
+},
+{
+"word": "ibiza",
+"score": 162
+},
+{
+"word": "ice",
+"score": 2690
+},
+{
+"word": "iceberg",
+"score": 3652
+},
+{
+"word": "icebergs",
+"score": 3651
+},
+{
+"word": "iceboat",
+"score": 2676
+},
+{
+"word": "icw",
+"score": 3563
+},
+{
+"word": "idler",
+"score": 1827
+},
+{
+"word": "idly",
+"score": 2580
+},
+{
+"word": "idyll",
+"score": 1160
+},
+{
+"word": "idyllic",
+"score": 285
+},
+{
+"word": "iguana",
+"score": 1014
+},
+{
+"word": "iguanas",
+"score": 526
+},
+{
+"word": "ilfracombe",
+"score": 1309
+},
+{
+"word": "imbibing",
+"score": 2674
+},
+{
+"word": "indoor",
+"score": 2884
+},
+{
+"word": "indoors",
+"score": 1955
+},
+{
+"word": "indulgence",
+"score": 1091
+},
+{
+"word": "inflatable",
+"score": 2370
+},
+{
+"word": "inflatables",
+"score": 1256
+},
+{
+"word": "inland",
+"score": 331
+},
+{
+"word": "inlet",
+"score": 156
+},
+{
+"word": "inlets",
+"score": 460
+},
+{
+"word": "inn",
+"score": 1013
+},
+{
+"word": "innisbrook",
+"score": 2433
+},
+{
+"word": "inns",
+"score": 1678
+},
+{
+"word": "inshore",
+"score": 213
+},
+{
+"word": "instyle",
+"score": 3716
+},
+{
+"word": "intake",
+"score": 155
+},
+{
+"word": "interface",
+"score": 802
+},
+{
+"word": "internet",
+"score": 2008
+},
+{
+"word": "interstate",
+"score": 3422
+},
+{
+"word": "interstates",
+"score": 3421
+},
+{
+"word": "intracoastal",
+"score": 113
+},
+{
+"word": "intruder",
+"score": 2940
+},
+{
+"word": "inundation",
+"score": 3027
+},
+{
+"word": "ipanema",
+"score": 509
+},
+{
+"word": "iron",
+"score": 3236
+},
+{
+"word": "ironman",
+"score": 1450
+},
+{
+"word": "irons",
+"score": 3235
+},
+{
+"word": "isla",
+"score": 2879
+},
+{
+"word": "islamorada",
+"score": 913
+},
+{
+"word": "island",
+"score": 41
+},
+{
+"word": "islander",
+"score": 557
+},
+{
+"word": "islanders",
+"score": 721
+},
+{
+"word": "islands",
+"score": 72
+},
+{
+"word": "islandwide",
+"score": 3062
+},
+{
+"word": "isle",
+"score": 64
+},
+{
+"word": "isles",
+"score": 279
+},
+{
+"word": "islet",
+"score": 252
+},
+{
+"word": "islets",
+"score": 1011
+},
+{
+"word": "isleworth",
+"score": 1291
+},
+{
+"word": "item",
+"score": 1548
+},
+{
+"word": "ixtoc",
+"score": 1752
+},
+{
+"word": "jacuzzi",
+"score": 202
+},
+{
+"word": "jaffa",
+"score": 1515
+},
+{
+"word": "jaffa",
+"score": 1516
+},
+{
+"word": "jarhead",
+"score": 3708
+},
+{
+"word": "jaunt",
+"score": 3381
+},
+{
+"word": "jaunts",
+"score": 1958
+},
+{
+"word": "jaw",
+"score": 968
+},
+{
+"word": "jaws",
+"score": 969
+},
+{
+"word": "jellyfish",
+"score": 148
+},
+{
+"word": "jersey",
+"score": 3101
+},
+{
+"word": "jersey",
+"score": 3102
+},
+{
+"word": "jetted",
+"score": 2333
+},
+{
+"word": "jetties",
+"score": 65
+},
+{
+"word": "jetting",
+"score": 2005
+},
+{
+"word": "jetty",
+"score": 11
+},
+{
+"word": "jib",
+"score": 2398
+},
+{
+"word": "jog",
+"score": 854
+},
+{
+"word": "jogger",
+"score": 478
+},
+{
+"word": "joggers",
+"score": 479
+},
+{
+"word": "jogging",
+"score": 840
+},
+{
+"word": "jogs",
+"score": 3575
+},
+{
+"word": "joy",
+"score": 3469
+},
+{
+"word": "jug",
+"score": 3131
+},
+{
+"word": "jugs",
+"score": 3130
+},
+{
+"word": "juhu",
+"score": 939
+},
+{
+"word": "jukebox",
+"score": 2759
+},
+{
+"word": "jukeboxes",
+"score": 2760
+},
+{
+"word": "jumeirah",
+"score": 3589
+},
+{
+"word": "junco",
+"score": 2409
+},
+{
+"word": "jungle",
+"score": 1327
+},
+{
+"word": "jungles",
+"score": 3153
+},
+{
+"word": "k",
+"score": 2057
+},
+{
+"word": "kahuku",
+"score": 1362
+},
+{
+"word": "kaikoura",
+"score": 875
+},
+{
+"word": "kailua",
+"score": 882
+},
+{
+"word": "kamala",
+"score": 2186
+},
+{
+"word": "kamehameha",
+"score": 3846
+},
+{
+"word": "kaneohe",
+"score": 1723
+},
+{
+"word": "kanyakumari",
+"score": 2657
+},
+{
+"word": "kapalua",
+"score": 1107
+},
+{
+"word": "kapono",
+"score": 2853
+},
+{
+"word": "karaoke",
+"score": 2835
+},
+{
+"word": "karon",
+"score": 1349
+},
+{
+"word": "karwar",
+"score": 3353
+},
+{
+"word": "kasbah",
+"score": 2111
+},
+{
+"word": "kauai",
+"score": 340
+},
+{
+"word": "kauai",
+"score": 341
+},
+{
+"word": "kava",
+"score": 3670
+},
+{
+"word": "kayak",
+"score": 214
+},
+{
+"word": "kayaker",
+"score": 1387
+},
+{
+"word": "kayakers",
+"score": 277
+},
+{
+"word": "kayaking",
+"score": 133
+},
+{
+"word": "kayaks",
+"score": 242
+},
+{
+"word": "keepsake",
+"score": 2966
+},
+{
+"word": "keira",
+"score": 1748
+},
+{
+"word": "kelp",
+"score": 511
+},
+{
+"word": "kennebunkport",
+"score": 856
+},
+{
+"word": "kennel",
+"score": 2651
+},
+{
+"word": "kennels",
+"score": 2650
+},
+{
+"word": "kerouac",
+"score": 2600
+},
+{
+"word": "kerouac",
+"score": 2601
+},
+{
+"word": "kerzner",
+"score": 3873
+},
+{
+"word": "key",
+"score": 304
+},
+{
+"word": "key",
+"score": 1581
+},
+{
+"word": "keyport",
+"score": 1318
+},
+{
+"word": "keys",
+"score": 1582
+},
+{
+"word": "keystone",
+"score": 1584
+},
+{
+"word": "khaki",
+"score": 3296
+},
+{
+"word": "khakis",
+"score": 3295
+},
+{
+"word": "kibbutz",
+"score": 732
+},
+{
+"word": "kickball",
+"score": 1747
+},
+{
+"word": "kid",
+"score": 3560
+},
+{
+"word": "kiddies",
+"score": 1344
+},
+{
+"word": "kiddy",
+"score": 1345
+},
+{
+"word": "kids",
+"score": 3559
+},
+{
+"word": "kihei",
+"score": 308
+},
+{
+"word": "kilauea",
+"score": 3624
+},
+{
+"word": "killarney",
+"score": 3256
+},
+{
+"word": "killing",
+"score": 2184
+},
+{
+"word": "kingdom",
+"score": 3599
+},
+{
+"word": "kingfish",
+"score": 805
+},
+{
+"word": "kiribati",
+"score": 2726
+},
+{
+"word": "kiribati",
+"score": 2727
+},
+{
+"word": "kiss",
+"score": 3831
+},
+{
+"word": "kisser",
+"score": 2519
+},
+{
+"word": "kisses",
+"score": 3830
+},
+{
+"word": "kissing",
+"score": 1254
+},
+{
+"word": "kite",
+"score": 2561
+},
+{
+"word": "kites",
+"score": 2749
+},
+{
+"word": "kmh",
+"score": 3326
+},
+{
+"word": "knickknack",
+"score": 2608
+},
+{
+"word": "knickknacks",
+"score": 2607
+},
+{
+"word": "knock",
+"score": 2586
+},
+{
+"word": "knoll",
+"score": 140
+},
+{
+"word": "knysna",
+"score": 1492
+},
+{
+"word": "koala",
+"score": 2114
+},
+{
+"word": "koalas",
+"score": 2113
+},
+{
+"word": "kokoda",
+"score": 2722
+},
+{
+"word": "kollam",
+"score": 3676
+},
+{
+"word": "kona",
+"score": 2655
+},
+{
+"word": "konkan",
+"score": 2800
+},
+{
+"word": "krabi",
+"score": 826
+},
+{
+"word": "krill",
+"score": 1742
+},
+{
+"word": "kula",
+"score": 3251
+},
+{
+"word": "kuta",
+"score": 749
+},
+{
+"word": "kyd",
+"score": 3561
+},
+{
+"word": "kyphosis",
+"score": 1121
+},
+{
+"word": "laffite",
+"score": 3548
+},
+{
+"word": "lafitte",
+"score": 3547
+},
+{
+"word": "lagoon",
+"score": 22
+},
+{
+"word": "lagoons",
+"score": 163
+},
+{
+"word": "laguna",
+"score": 2614
+},
+{
+"word": "lahaina",
+"score": 512
+},
+{
+"word": "laidback",
+"score": 1028
+},
+{
+"word": "lair",
+"score": 3360
+},
+{
+"word": "lake",
+"score": 60
+},
+{
+"word": "lakefront",
+"score": 173
+},
+{
+"word": "lakes",
+"score": 352
+},
+{
+"word": "lakeshore",
+"score": 102
+},
+{
+"word": "lakeside",
+"score": 101
+},
+{
+"word": "lalanne",
+"score": 2827
+},
+{
+"word": "lampedusa",
+"score": 2072
+},
+{
+"word": "lamu",
+"score": 1075
+},
+{
+"word": "lanai",
+"score": 496
+},
+{
+"word": "lanai",
+"score": 497
+},
+{
+"word": "land",
+"score": 3598
+},
+{
+"word": "land",
+"score": 3600
+},
+{
+"word": "landfall",
+"score": 2768
+},
+{
+"word": "landfill",
+"score": 2581
+},
+{
+"word": "landing",
+"score": 970
+},
+{
+"word": "landings",
+"score": 1292
+},
+{
+"word": "landscape",
+"score": 2702
+},
+{
+"word": "landscaped",
+"score": 1388
+},
+{
+"word": "landscaper",
+"score": 3076
+},
+{
+"word": "landscapes",
+"score": 2703
+},
+{
+"word": "landscaping",
+"score": 1949
+},
+{
+"word": "landslide",
+"score": 2847
+},
+{
+"word": "landslides",
+"score": 2848
+},
+{
+"word": "lane",
+"score": 3287
+},
+{
+"word": "lanes",
+"score": 3288
+},
+{
+"word": "laneway",
+"score": 825
+},
+{
+"word": "langkawi",
+"score": 1966
+},
+{
+"word": "languid",
+"score": 3065
+},
+{
+"word": "lantana",
+"score": 2508
+},
+{
+"word": "lanzarote",
+"score": 584
+},
+{
+"word": "larboard",
+"score": 800
+},
+{
+"word": "largs",
+"score": 1133
+},
+{
+"word": "lash",
+"score": 313
+},
+{
+"word": "lauderdale",
+"score": 3784
+},
+{
+"word": "lauderhill",
+"score": 3647
+},
+{
+"word": "launderette",
+"score": 1973
+},
+{
+"word": "laundromat",
+"score": 1974
+},
+{
+"word": "laundry",
+"score": 671
+},
+{
+"word": "lava",
+"score": 3354
+},
+{
+"word": "lavish",
+"score": 2528
+},
+{
+"word": "lavishness",
+"score": 1889
+},
+{
+"word": "lawn",
+"score": 616
+},
+{
+"word": "lawnmowers",
+"score": 2893
+},
+{
+"word": "lawns",
+"score": 833
+},
+{
+"word": "lax",
+"score": 3266
+},
+{
+"word": "layer",
+"score": 967
+},
+{
+"word": "lazily",
+"score": 3640
+},
+{
+"word": "lazy",
+"score": 1642
+},
+{
+"word": "lead",
+"score": 678
+},
+{
+"word": "leaf",
+"score": 3040
+},
+{
+"word": "lease",
+"score": 2441
+},
+{
+"word": "leash",
+"score": 791
+},
+{
+"word": "leashed",
+"score": 2078
+},
+{
+"word": "leashes",
+"score": 790
+},
+{
+"word": "leatherman",
+"score": 1372
+},
+{
+"word": "ledge",
+"score": 1168
+},
+{
+"word": "ledges",
+"score": 1637
+},
+{
+"word": "leech",
+"score": 3546
+},
+{
+"word": "legoland",
+"score": 1050
+},
+{
+"word": "leisure",
+"score": 774
+},
+{
+"word": "leisurely",
+"score": 594
+},
+{
+"word": "leper",
+"score": 2308
+},
+{
+"word": "lepers",
+"score": 2307
+},
+{
+"word": "lepore",
+"score": 2088
+},
+{
+"word": "lesbian",
+"score": 3815
+},
+{
+"word": "lesbian",
+"score": 3816
+},
+{
+"word": "lesbians",
+"score": 3856
+},
+{
+"word": "lettuce",
+"score": 2740
+},
+{
+"word": "leucadia",
+"score": 1847
+},
+{
+"word": "levee",
+"score": 3510
+},
+{
+"word": "lewes",
+"score": 2034
+},
+{
+"word": "liberalization",
+"score": 1424
+},
+{
+"word": "lido",
+"score": 179
+},
+{
+"word": "lifeboat",
+"score": 951
+},
+{
+"word": "lifeboats",
+"score": 1088
+},
+{
+"word": "lifeguard",
+"score": 25
+},
+{
+"word": "lifeguards",
+"score": 45
+},
+{
+"word": "lifejacket",
+"score": 1697
+},
+{
+"word": "lifejackets",
+"score": 822
+},
+{
+"word": "lifesavers",
+"score": 394
+},
+{
+"word": "lifesaving",
+"score": 662
+},
+{
+"word": "lifestyle",
+"score": 2198
+},
+{
+"word": "lighthouse",
+"score": 51
+},
+{
+"word": "lighthouses",
+"score": 418
+},
+{
+"word": "limassol",
+"score": 2790
+},
+{
+"word": "lime",
+"score": 1922
+},
+{
+"word": "limes",
+"score": 1921
+},
+{
+"word": "lincolnville",
+"score": 1731
+},
+{
+"word": "linden",
+"score": 1920
+},
+{
+"word": "linen",
+"score": 2268
+},
+{
+"word": "lingerie",
+"score": 3612
+},
+{
+"word": "lionfish",
+"score": 1971
+},
+{
+"word": "liquor",
+"score": 1257
+},
+{
+"word": "litter",
+"score": 810
+},
+{
+"word": "littering",
+"score": 921
+},
+{
+"word": "littlehampton",
+"score": 2459
+},
+{
+"word": "littoral",
+"score": 104
+},
+{
+"word": "livin",
+"score": 2955
+},
+{
+"word": "lizard",
+"score": 1546
+},
+{
+"word": "lizards",
+"score": 1545
+},
+{
+"word": "llandudno",
+"score": 1787
+},
+{
+"word": "lobster",
+"score": 641
+},
+{
+"word": "lobsterman",
+"score": 1694
+},
+{
+"word": "lobstermen",
+"score": 1693
+},
+{
+"word": "lobsters",
+"score": 1430
+},
+{
+"word": "local",
+"score": 1054
+},
+{
+"word": "locale",
+"score": 1434
+},
+{
+"word": "locales",
+"score": 1625
+},
+{
+"word": "locals",
+"score": 1053
+},
+{
+"word": "loch",
+"score": 265
+},
+{
+"word": "lodge",
+"score": 1599
+},
+{
+"word": "lodge",
+"score": 1600
+},
+{
+"word": "lodger",
+"score": 903
+},
+{
+"word": "lodges",
+"score": 2190
+},
+{
+"word": "lodging",
+"score": 756
+},
+{
+"word": "lodgings",
+"score": 758
+},
+{
+"word": "lodgment",
+"score": 755
+},
+{
+"word": "loitering",
+"score": 2013
+},
+{
+"word": "lollapalooza",
+"score": 3203
+},
+{
+"word": "lonely",
+"score": 2900
+},
+{
+"word": "longboard",
+"score": 422
+},
+{
+"word": "longingly",
+"score": 3492
+},
+{
+"word": "longshore",
+"score": 1868
+},
+{
+"word": "longwood",
+"score": 3209
+},
+{
+"word": "loo",
+"score": 3009
+},
+{
+"word": "lookout",
+"score": 1490
+},
+{
+"word": "loon",
+"score": 689
+},
+{
+"word": "loons",
+"score": 3404
+},
+{
+"word": "loos",
+"score": 995
+},
+{
+"word": "loos",
+"score": 996
+},
+{
+"word": "loot",
+"score": 1998
+},
+{
+"word": "loss",
+"score": 3550
+},
+{
+"word": "lot",
+"score": 2946
+},
+{
+"word": "lot",
+"score": 2947
+},
+{
+"word": "lotion",
+"score": 1750
+},
+{
+"word": "lotions",
+"score": 2020
+},
+{
+"word": "lots",
+"score": 2943
+},
+{
+"word": "lough",
+"score": 1626
+},
+{
+"word": "lounge",
+"score": 1290
+},
+{
+"word": "lounged",
+"score": 556
+},
+{
+"word": "lounges",
+"score": 1736
+},
+{
+"word": "lounging",
+"score": 92
+},
+{
+"word": "lout",
+"score": 2977
+},
+{
+"word": "louver",
+"score": 1531
+},
+{
+"word": "loveliest",
+"score": 2039
+},
+{
+"word": "lovely",
+"score": 1707
+},
+{
+"word": "lovemaking",
+"score": 2715
+},
+{
+"word": "lowcountry",
+"score": 2694
+},
+{
+"word": "lowestoft",
+"score": 3760
+},
+{
+"word": "luau",
+"score": 188
+},
+{
+"word": "lucie",
+"score": 3263
+},
+{
+"word": "luck",
+"score": 3293
+},
+{
+"word": "ludington",
+"score": 3024
+},
+{
+"word": "lunch",
+"score": 3456
+},
+{
+"word": "lunching",
+"score": 2074
+},
+{
+"word": "lush",
+"score": 2731
+},
+{
+"word": "luster",
+"score": 2010
+},
+{
+"word": "luxe",
+"score": 1441
+},
+{
+"word": "luxurious",
+"score": 2505
+},
+{
+"word": "luxury",
+"score": 1888
+},
+{
+"word": "lycra",
+"score": 3460
+},
+{
+"word": "mackerel",
+"score": 1422
+},
+{
+"word": "maddie",
+"score": 3674
+},
+{
+"word": "madrona",
+"score": 3369
+},
+{
+"word": "magnificence",
+"score": 3286
+},
+{
+"word": "main",
+"score": 740
+},
+{
+"word": "mainland",
+"score": 1343
+},
+{
+"word": "mainlanders",
+"score": 2434
+},
+{
+"word": "majorca",
+"score": 415
+},
+{
+"word": "majorca",
+"score": 416
+},
+{
+"word": "makena",
+"score": 3863
+},
+{
+"word": "malabar",
+"score": 3832
+},
+{
+"word": "malayo-polynesian",
+"score": 763
+},
+{
+"word": "maldives",
+"score": 425
+},
+{
+"word": "maldives",
+"score": 426
+},
+{
+"word": "maldivian",
+"score": 3566
+},
+{
+"word": "maldivian",
+"score": 3567
+},
+{
+"word": "malibu",
+"score": 253
+},
+{
+"word": "malindi",
+"score": 1130
+},
+{
+"word": "mall",
+"score": 1363
+},
+{
+"word": "mallorca",
+"score": 1746
+},
+{
+"word": "malls",
+"score": 3316
+},
+{
+"word": "mambo",
+"score": 1773
+},
+{
+"word": "mammal",
+"score": 3114
+},
+{
+"word": "manali",
+"score": 3103
+},
+{
+"word": "manasquan",
+"score": 1132
+},
+{
+"word": "manatee",
+"score": 271
+},
+{
+"word": "manatees",
+"score": 270
+},
+{
+"word": "mandurah",
+"score": 2217
+},
+{
+"word": "mangrove",
+"score": 134
+},
+{
+"word": "mangroves",
+"score": 135
+},
+{
+"word": "manicure",
+"score": 1861
+},
+{
+"word": "manicured",
+"score": 2245
+},
+{
+"word": "manicures",
+"score": 3472
+},
+{
+"word": "manly",
+"score": 2796
+},
+{
+"word": "manmade",
+"score": 2552
+},
+{
+"word": "manse",
+"score": 1814
+},
+{
+"word": "mansion",
+"score": 781
+},
+{
+"word": "mansions",
+"score": 782
+},
+{
+"word": "manteo",
+"score": 1348
+},
+{
+"word": "manzanillo",
+"score": 1848
+},
+{
+"word": "manzanita",
+"score": 3368
+},
+{
+"word": "marae",
+"score": 1427
+},
+{
+"word": "marbella",
+"score": 1005
+},
+{
+"word": "marblehead",
+"score": 3347
+},
+{
+"word": "marcelle",
+"score": 3311
+},
+{
+"word": "margarita",
+"score": 386
+},
+{
+"word": "margaritas",
+"score": 389
+},
+{
+"word": "margaritaville",
+"score": 126
+},
+{
+"word": "margate",
+"score": 263
+},
+{
+"word": "margin",
+"score": 2221
+},
+{
+"word": "marina",
+"score": 38
+},
+{
+"word": "marinas",
+"score": 61
+},
+{
+"word": "marine",
+"score": 261
+},
+{
+"word": "marine",
+"score": 262
+},
+{
+"word": "mariner",
+"score": 2167
+},
+{
+"word": "marines",
+"score": 2264
+},
+{
+"word": "marines",
+"score": 2265
+},
+{
+"word": "maritime",
+"score": 1967
+},
+{
+"word": "marlin",
+"score": 640
+},
+{
+"word": "maroochydore",
+"score": 3250
+},
+{
+"word": "marrakech",
+"score": 3078
+},
+{
+"word": "marrakesh",
+"score": 1725
+},
+{
+"word": "marrakesh",
+"score": 1726
+},
+{
+"word": "marriage",
+"score": 1554
+},
+{
+"word": "marsh",
+"score": 57
+},
+{
+"word": "marsh",
+"score": 58
+},
+{
+"word": "marshes",
+"score": 342
+},
+{
+"word": "marshland",
+"score": 501
+},
+{
+"word": "marshlands",
+"score": 1079
+},
+{
+"word": "marshy",
+"score": 476
+},
+{
+"word": "martini",
+"score": 1467
+},
+{
+"word": "martinique",
+"score": 3237
+},
+{
+"word": "martinique",
+"score": 3238
+},
+{
+"word": "martinis",
+"score": 3540
+},
+{
+"word": "marve",
+"score": 1850
+},
+{
+"word": "maryport",
+"score": 2261
+},
+{
+"word": "masada",
+"score": 3874
+},
+{
+"word": "massage",
+"score": 1918
+},
+{
+"word": "massages",
+"score": 1917
+},
+{
+"word": "masturbate",
+"score": 2769
+},
+{
+"word": "masturbating",
+"score": 2679
+},
+{
+"word": "mat",
+"score": 1713
+},
+{
+"word": "mats",
+"score": 1714
+},
+{
+"word": "mattapoisett",
+"score": 3171
+},
+{
+"word": "matting",
+"score": 2683
+},
+{
+"word": "maui",
+"score": 408
+},
+{
+"word": "maui",
+"score": 409
+},
+{
+"word": "mausoleum",
+"score": 2126
+},
+{
+"word": "mayport",
+"score": 1255
+},
+{
+"word": "mazatlan",
+"score": 1445
+},
+{
+"word": "mazatlan",
+"score": 1446
+},
+{
+"word": "mcalpin",
+"score": 1224
+},
+{
+"word": "mccanns",
+"score": 2936
+},
+{
+"word": "mcconaughey",
+"score": 827
+},
+{
+"word": "mccowen",
+"score": 3223
+},
+{
+"word": "mcmansions",
+"score": 3576
+},
+{
+"word": "meadow",
+"score": 502
+},
+{
+"word": "meadows",
+"score": 1158
+},
+{
+"word": "mearns",
+"score": 3467
+},
+{
+"word": "measure",
+"score": 1213
+},
+{
+"word": "median",
+"score": 2856
+},
+{
+"word": "medians",
+"score": 2855
+},
+{
+"word": "meditate",
+"score": 3090
+},
+{
+"word": "meditating",
+"score": 2680
+},
+{
+"word": "mediterranean",
+"score": 646
+},
+{
+"word": "mediterranean",
+"score": 647
+},
+{
+"word": "memento",
+"score": 2967
+},
+{
+"word": "memorial",
+"score": 2987
+},
+{
+"word": "menagerie",
+"score": 1837
+},
+{
+"word": "menhaden",
+"score": 3246
+},
+{
+"word": "mentone",
+"score": 1512
+},
+{
+"word": "mercieca",
+"score": 2737
+},
+{
+"word": "merimbula",
+"score": 831
+},
+{
+"word": "mermaid",
+"score": 275
+},
+{
+"word": "mermaids",
+"score": 783
+},
+{
+"word": "merrimac",
+"score": 2157
+},
+{
+"word": "merrimac",
+"score": 2158
+},
+{
+"word": "mesa",
+"score": 3798
+},
+{
+"word": "mesa",
+"score": 3799
+},
+{
+"word": "methamphetamine",
+"score": 1357
+},
+{
+"word": "metsos",
+"score": 3635
+},
+{
+"word": "meulaboh",
+"score": 2981
+},
+{
+"word": "midwinter",
+"score": 3115
+},
+{
+"word": "mile",
+"score": 3175
+},
+{
+"word": "miles",
+"score": 3176
+},
+{
+"word": "milfoil",
+"score": 1992
+},
+{
+"word": "milieu",
+"score": 2466
+},
+{
+"word": "mingling",
+"score": 3170
+},
+{
+"word": "minibike",
+"score": 2150
+},
+{
+"word": "miramar",
+"score": 551
+},
+{
+"word": "mischa",
+"score": 2993
+},
+{
+"word": "missoni",
+"score": 2666
+},
+{
+"word": "missus",
+"score": 2062
+},
+{
+"word": "moat",
+"score": 2413
+},
+{
+"word": "moisture",
+"score": 1811
+},
+{
+"word": "moisturizer",
+"score": 3756
+},
+{
+"word": "moisturizing",
+"score": 2992
+},
+{
+"word": "mojito",
+"score": 1704
+},
+{
+"word": "molding",
+"score": 2222
+},
+{
+"word": "mollusk",
+"score": 481
+},
+{
+"word": "mollusks",
+"score": 980
+},
+{
+"word": "molokai",
+"score": 1233
+},
+{
+"word": "molokai",
+"score": 1234
+},
+{
+"word": "mombasa",
+"score": 2069
+},
+{
+"word": "mombasa",
+"score": 2070
+},
+{
+"word": "montara",
+"score": 841
+},
+{
+"word": "montauk",
+"score": 183
+},
+{
+"word": "monument",
+"score": 2985
+},
+{
+"word": "monuments",
+"score": 3277
+},
+{
+"word": "mooloolaba",
+"score": 334
+},
+{
+"word": "moon",
+"score": 2048
+},
+{
+"word": "moon",
+"score": 2049
+},
+{
+"word": "mooning",
+"score": 2521
+},
+{
+"word": "moonlight",
+"score": 979
+},
+{
+"word": "moonlit",
+"score": 280
+},
+{
+"word": "moonscape",
+"score": 3437
+},
+{
+"word": "moor",
+"score": 166
+},
+{
+"word": "moor",
+"score": 167
+},
+{
+"word": "moored",
+"score": 1000
+},
+{
+"word": "mooring",
+"score": 440
+},
+{
+"word": "moorings",
+"score": 2361
+},
+{
+"word": "moorland",
+"score": 1002
+},
+{
+"word": "moors",
+"score": 632
+},
+{
+"word": "moped",
+"score": 2348
+},
+{
+"word": "moping",
+"score": 3121
+},
+{
+"word": "morgue",
+"score": 2531
+},
+{
+"word": "morning",
+"score": 3243
+},
+{
+"word": "mornings",
+"score": 3242
+},
+{
+"word": "mornington",
+"score": 2160
+},
+{
+"word": "mosman",
+"score": 2495
+},
+{
+"word": "mosque",
+"score": 3087
+},
+{
+"word": "mosquito",
+"score": 1937
+},
+{
+"word": "mosquitoes",
+"score": 3508
+},
+{
+"word": "mosquitos",
+"score": 1936
+},
+{
+"word": "moss",
+"score": 2664
+},
+{
+"word": "mote",
+"score": 3157
+},
+{
+"word": "motel",
+"score": 635
+},
+{
+"word": "motels",
+"score": 634
+},
+{
+"word": "motocross",
+"score": 2562
+},
+{
+"word": "motorbike",
+"score": 2149
+},
+{
+"word": "motorbikes",
+"score": 3450
+},
+{
+"word": "motorboat",
+"score": 354
+},
+{
+"word": "motorboats",
+"score": 736
+},
+{
+"word": "motorcycle",
+"score": 1785
+},
+{
+"word": "motorhome",
+"score": 823
+},
+{
+"word": "motorhomes",
+"score": 2959
+},
+{
+"word": "motorized",
+"score": 3129
+},
+{
+"word": "motorway",
+"score": 1118
+},
+{
+"word": "motorways",
+"score": 3441
+},
+{
+"word": "mottola",
+"score": 2973
+},
+{
+"word": "mound",
+"score": 684
+},
+{
+"word": "mountain",
+"score": 1084
+},
+{
+"word": "mountains",
+"score": 1110
+},
+{
+"word": "mountainside",
+"score": 515
+},
+{
+"word": "mountainsides",
+"score": 1537
+},
+{
+"word": "mountaintop",
+"score": 2178
+},
+{
+"word": "mountaintops",
+"score": 2140
+},
+{
+"word": "moviegoing",
+"score": 3123
+},
+{
+"word": "moxey",
+"score": 2422
+},
+{
+"word": "moxley",
+"score": 2712
+},
+{
+"word": "mpas",
+"score": 2194
+},
+{
+"word": "muck",
+"score": 2511
+},
+{
+"word": "mucky",
+"score": 890
+},
+{
+"word": "mud",
+"score": 1677
+},
+{
+"word": "mudslide",
+"score": 1544
+},
+{
+"word": "mudslides",
+"score": 2334
+},
+{
+"word": "mullet",
+"score": 1872
+},
+{
+"word": "munch",
+"score": 3481
+},
+{
+"word": "munch",
+"score": 3482
+},
+{
+"word": "munchies",
+"score": 2052
+},
+{
+"word": "munition",
+"score": 3329
+},
+{
+"word": "muskoka",
+"score": 3502
+},
+{
+"word": "mussel",
+"score": 1247
+},
+{
+"word": "mussels",
+"score": 1246
+},
+{
+"word": "mykonos",
+"score": 278
+},
+{
+"word": "myrtle",
+"score": 2888
+},
+{
+"word": "nagapattinam",
+"score": 2071
+},
+{
+"word": "naked",
+"score": 1196
+},
+{
+"word": "nakedness",
+"score": 1179
+},
+{
+"word": "nakheel",
+"score": 2251
+},
+{
+"word": "nanny",
+"score": 2311
+},
+{
+"word": "nantucket",
+"score": 467
+},
+{
+"word": "nantucket",
+"score": 468
+},
+{
+"word": "nap",
+"score": 3056
+},
+{
+"word": "naples",
+"score": 2291
+},
+{
+"word": "naples",
+"score": 2292
+},
+{
+"word": "napoleon",
+"score": 3055
+},
+{
+"word": "naps",
+"score": 3430
+},
+{
+"word": "narooma",
+"score": 1673
+},
+{
+"word": "narragansett",
+"score": 1031
+},
+{
+"word": "nassau",
+"score": 1978
+},
+{
+"word": "nassau",
+"score": 1979
+},
+{
+"word": "natatorium",
+"score": 2817
+},
+{
+"word": "nation",
+"score": 3594
+},
+{
+"word": "naturalist",
+"score": 2030
+},
+{
+"word": "naturalists",
+"score": 2031
+},
+{
+"word": "naughty",
+"score": 3440
+},
+{
+"word": "nauset",
+"score": 1569
+},
+{
+"word": "nautica",
+"score": 2894
+},
+{
+"word": "nautical",
+"score": 414
+},
+{
+"word": "naval",
+"score": 2080
+},
+{
+"word": "navy",
+"score": 1833
+},
+{
+"word": "ncl",
+"score": 3718
+},
+{
+"word": "nearby",
+"score": 1198
+},
+{
+"word": "nearshore",
+"score": 1237
+},
+{
+"word": "neck",
+"score": 2972
+},
+{
+"word": "neighborhood",
+"score": 1200
+},
+{
+"word": "neoprene",
+"score": 2159
+},
+{
+"word": "neptune",
+"score": 1875
+},
+{
+"word": "neptune",
+"score": 1876
+},
+{
+"word": "nest",
+"score": 693
+},
+{
+"word": "nesting",
+"score": 675
+},
+{
+"word": "nests",
+"score": 694
+},
+{
+"word": "net",
+"score": 2007
+},
+{
+"word": "netanya",
+"score": 2374
+},
+{
+"word": "netball",
+"score": 1808
+},
+{
+"word": "nets",
+"score": 2006
+},
+{
+"word": "netzarim",
+"score": 2102
+},
+{
+"word": "neverland",
+"score": 3601
+},
+{
+"word": "newhaven",
+"score": 1813
+},
+{
+"word": "newlywed",
+"score": 287
+},
+{
+"word": "newquay",
+"score": 346
+},
+{
+"word": "ngcuka",
+"score": 3642
+},
+{
+"word": "nias",
+"score": 1596
+},
+{
+"word": "night",
+"score": 1298
+},
+{
+"word": "nightclub",
+"score": 773
+},
+{
+"word": "nightclubs",
+"score": 356
+},
+{
+"word": "nightfall",
+"score": 2625
+},
+{
+"word": "nightlife",
+"score": 614
+},
+{
+"word": "nights",
+"score": 1597
+},
+{
+"word": "nightspot",
+"score": 625
+},
+{
+"word": "nightspots",
+"score": 508
+},
+{
+"word": "nighttime",
+"score": 1297
+},
+{
+"word": "nightwear",
+"score": 2840
+},
+{
+"word": "nincompoop",
+"score": 1304
+},
+{
+"word": "nipple",
+"score": 1382
+},
+{
+"word": "nivea",
+"score": 2791
+},
+{
+"word": "noaa",
+"score": 3729
+},
+{
+"word": "nocturnal",
+"score": 3253
+},
+{
+"word": "node",
+"score": 2479
+},
+{
+"word": "nonresident",
+"score": 2493
+},
+{
+"word": "nonresidents",
+"score": 2494
+},
+{
+"word": "nonsense",
+"score": 2661
+},
+{
+"word": "noosa",
+"score": 333
+},
+{
+"word": "nordegren",
+"score": 2338
+},
+{
+"word": "normandie",
+"score": 1567
+},
+{
+"word": "normandy",
+"score": 1566
+},
+{
+"word": "north",
+"score": 2891
+},
+{
+"word": "north",
+"score": 2892
+},
+{
+"word": "northcliffe",
+"score": 1705
+},
+{
+"word": "northernmost",
+"score": 2583
+},
+{
+"word": "northport",
+"score": 1935
+},
+{
+"word": "nourishment",
+"score": 3530
+},
+{
+"word": "nowhere",
+"score": 2673
+},
+{
+"word": "nowra",
+"score": 2367
+},
+{
+"word": "nox",
+"score": 1598
+},
+{
+"word": "nuance",
+"score": 1891
+},
+{
+"word": "nude",
+"score": 357
+},
+{
+"word": "nudes",
+"score": 2437
+},
+{
+"word": "nudge",
+"score": 855
+},
+{
+"word": "nudist",
+"score": 94
+},
+{
+"word": "nudists",
+"score": 95
+},
+{
+"word": "nudity",
+"score": 1178
+},
+{
+"word": "nungesser",
+"score": 3042
+},
+{
+"word": "nurseries",
+"score": 3252
+},
+{
+"word": "nursery",
+"score": 2549
+},
+{
+"word": "nutriment",
+"score": 3531
+},
+{
+"word": "nye",
+"score": 1100
+},
+{
+"word": "oahu",
+"score": 473
+},
+{
+"word": "oahu",
+"score": 474
+},
+{
+"word": "oar",
+"score": 3045
+},
+{
+"word": "oars",
+"score": 3046
+},
+{
+"word": "oasis",
+"score": 2746
+},
+{
+"word": "obamas",
+"score": 1869
+},
+{
+"word": "obscenity",
+"score": 3637
+},
+{
+"word": "ocean",
+"score": 40
+},
+{
+"word": "oceana",
+"score": 1016
+},
+{
+"word": "oceanfront",
+"score": 4
+},
+{
+"word": "oceanic",
+"score": 1373
+},
+{
+"word": "oceanic",
+"score": 1374
+},
+{
+"word": "oceanographer",
+"score": 1710
+},
+{
+"word": "oceanographic",
+"score": 2226
+},
+{
+"word": "oceanography",
+"score": 643
+},
+{
+"word": "oceans",
+"score": 906
+},
+{
+"word": "oceanside",
+"score": 37
+},
+{
+"word": "ocracoke",
+"score": 194
+},
+{
+"word": "offramp",
+"score": 3145
+},
+{
+"word": "offshore",
+"score": 642
+},
+{
+"word": "ogier",
+"score": 3150
+},
+{
+"word": "ogle",
+"score": 1605
+},
+{
+"word": "ogling",
+"score": 1342
+},
+{
+"word": "ogunquit",
+"score": 1076
+},
+{
+"word": "ogx",
+"score": 3694
+},
+{
+"word": "ohana",
+"score": 1105
+},
+{
+"word": "oiled",
+"score": 3254
+},
+{
+"word": "oiling",
+"score": 3625
+},
+{
+"word": "oily",
+"score": 1658
+},
+{
+"word": "okaloosa",
+"score": 3314
+},
+{
+"word": "okinawa",
+"score": 2861
+},
+{
+"word": "okinawa",
+"score": 2862
+},
+{
+"word": "okinawan",
+"score": 2260
+},
+{
+"word": "onlooker",
+"score": 2365
+},
+{
+"word": "onshore",
+"score": 876
+},
+{
+"word": "orca",
+"score": 1614
+},
+{
+"word": "orcas",
+"score": 1432
+},
+{
+"word": "orchard",
+"score": 2044
+},
+{
+"word": "orchards",
+"score": 3341
+},
+{
+"word": "ordnance",
+"score": 3331
+},
+{
+"word": "orgies",
+"score": 1628
+},
+{
+"word": "orgy",
+"score": 1627
+},
+{
+"word": "ormond",
+"score": 3041
+},
+{
+"word": "osprey",
+"score": 1996
+},
+{
+"word": "ospreys",
+"score": 2143
+},
+{
+"word": "otter",
+"score": 866
+},
+{
+"word": "otters",
+"score": 1170
+},
+{
+"word": "outback",
+"score": 846
+},
+{
+"word": "outcast",
+"score": 359
+},
+{
+"word": "outcrop",
+"score": 2556
+},
+{
+"word": "outcropping",
+"score": 2713
+},
+{
+"word": "outdoor",
+"score": 1009
+},
+{
+"word": "outdoors",
+"score": 514
+},
+{
+"word": "outdoorsy",
+"score": 1165
+},
+{
+"word": "outfall",
+"score": 686
+},
+{
+"word": "outfit",
+"score": 2807
+},
+{
+"word": "outhouse",
+"score": 1202
+},
+{
+"word": "outhouses",
+"score": 1203
+},
+{
+"word": "outrigger",
+"score": 393
+},
+{
+"word": "outskirt",
+"score": 2019
+},
+{
+"word": "outskirts",
+"score": 2018
+},
+{
+"word": "overboard",
+"score": 1527
+},
+{
+"word": "overcast",
+"score": 3731
+},
+{
+"word": "overdevelopment",
+"score": 2616
+},
+{
+"word": "overgrown",
+"score": 1591
+},
+{
+"word": "overlook",
+"score": 2998
+},
+{
+"word": "overlooking",
+"score": 2626
+},
+{
+"word": "overnights",
+"score": 2442
+},
+{
+"word": "oxnard",
+"score": 3819
+},
+{
+"word": "oyster",
+"score": 770
+},
+{
+"word": "oysters",
+"score": 768
+},
+{
+"word": "pacifica",
+"score": 2536
+},
+{
+"word": "packing",
+"score": 1556
+},
+{
+"word": "paddle",
+"score": 430
+},
+{
+"word": "paddled",
+"score": 564
+},
+{
+"word": "paddler",
+"score": 958
+},
+{
+"word": "paddlers",
+"score": 811
+},
+{
+"word": "paddles",
+"score": 2438
+},
+{
+"word": "paddling",
+"score": 204
+},
+{
+"word": "paddock",
+"score": 2172
+},
+{
+"word": "paddocks",
+"score": 2171
+},
+{
+"word": "padre",
+"score": 1884
+},
+{
+"word": "paella",
+"score": 2215
+},
+{
+"word": "pagoda",
+"score": 2699
+},
+{
+"word": "pahalgam",
+"score": 2364
+},
+{
+"word": "paignton",
+"score": 3495
+},
+{
+"word": "paintball",
+"score": 2990
+},
+{
+"word": "paintballs",
+"score": 2989
+},
+{
+"word": "paiva",
+"score": 3568
+},
+{
+"word": "pajama",
+"score": 1181
+},
+{
+"word": "pajamas",
+"score": 1706
+},
+{
+"word": "palace",
+"score": 1057
+},
+{
+"word": "palais",
+"score": 3159
+},
+{
+"word": "palatial",
+"score": 1657
+},
+{
+"word": "palisade",
+"score": 2698
+},
+{
+"word": "palisades",
+"score": 2697
+},
+{
+"word": "palm",
+"score": 534
+},
+{
+"word": "palma",
+"score": 3377
+},
+{
+"word": "palms",
+"score": 535
+},
+{
+"word": "pals",
+"score": 2735
+},
+{
+"word": "pamlico",
+"score": 3680
+},
+{
+"word": "pamlico",
+"score": 3681
+},
+{
+"word": "pamper",
+"score": 3709
+},
+{
+"word": "pampered",
+"score": 2905
+},
+{
+"word": "pampering",
+"score": 1090
+},
+{
+"word": "panaji",
+"score": 2563
+},
+{
+"word": "panama",
+"score": 3573
+},
+{
+"word": "panama",
+"score": 3574
+},
+{
+"word": "panettiere",
+"score": 2043
+},
+{
+"word": "panfish",
+"score": 3643
+},
+{
+"word": "panhandle",
+"score": 1027
+},
+{
+"word": "panoramic",
+"score": 2339
+},
+{
+"word": "pantie",
+"score": 2802
+},
+{
+"word": "panties",
+"score": 2801
+},
+{
+"word": "panty",
+"score": 3688
+},
+{
+"word": "pap",
+"score": 1380
+},
+{
+"word": "paparazzi",
+"score": 1437
+},
+{
+"word": "paparazzo",
+"score": 1438
+},
+{
+"word": "papaya",
+"score": 1603
+},
+{
+"word": "paphos",
+"score": 3720
+},
+{
+"word": "paps",
+"score": 1381
+},
+{
+"word": "parade",
+"score": 1858
+},
+{
+"word": "parades",
+"score": 1859
+},
+{
+"word": "paradise",
+"score": 272
+},
+{
+"word": "paradise",
+"score": 273
+},
+{
+"word": "paragliding",
+"score": 962
+},
+{
+"word": "paraplegic",
+"score": 3622
+},
+{
+"word": "parasailing",
+"score": 105
+},
+{
+"word": "park",
+"score": 54
+},
+{
+"word": "park",
+"score": 55
+},
+{
+"word": "parked",
+"score": 2758
+},
+{
+"word": "parking",
+"score": 1019
+},
+{
+"word": "parkland",
+"score": 824
+},
+{
+"word": "parklands",
+"score": 592
+},
+{
+"word": "parks",
+"score": 150
+},
+{
+"word": "parks",
+"score": 151
+},
+{
+"word": "parkway",
+"score": 545
+},
+{
+"word": "parkways",
+"score": 3693
+},
+{
+"word": "partaking",
+"score": 3210
+},
+{
+"word": "partied",
+"score": 871
+},
+{
+"word": "partiers",
+"score": 730
+},
+{
+"word": "partygoer",
+"score": 728
+},
+{
+"word": "partygoers",
+"score": 729
+},
+{
+"word": "partying",
+"score": 395
+},
+{
+"word": "pass",
+"score": 1320
+},
+{
+"word": "passersby",
+"score": 3618
+},
+{
+"word": "pastel",
+"score": 1839
+},
+{
+"word": "pastels",
+"score": 3279
+},
+{
+"word": "pastime",
+"score": 2247
+},
+{
+"word": "pastimes",
+"score": 2787
+},
+{
+"word": "pastorale",
+"score": 1162
+},
+{
+"word": "pasture",
+"score": 3167
+},
+{
+"word": "pathway",
+"score": 158
+},
+{
+"word": "patio",
+"score": 216
+},
+{
+"word": "patios",
+"score": 217
+},
+{
+"word": "patong",
+"score": 300
+},
+{
+"word": "patrol",
+"score": 2119
+},
+{
+"word": "patrolled",
+"score": 2241
+},
+{
+"word": "patrolling",
+"score": 3257
+},
+{
+"word": "patrols",
+"score": 3162
+},
+{
+"word": "pattaya",
+"score": 1059
+},
+{
+"word": "pavement",
+"score": 522
+},
+{
+"word": "pavements",
+"score": 1207
+},
+{
+"word": "pavilion",
+"score": 1533
+},
+{
+"word": "pavilions",
+"score": 1764
+},
+{
+"word": "paving",
+"score": 521
+},
+{
+"word": "pawl",
+"score": 1572
+},
+{
+"word": "pch",
+"score": 316
+},
+{
+"word": "peace",
+"score": 3140
+},
+{
+"word": "peaceableness",
+"score": 3265
+},
+{
+"word": "peacefulness",
+"score": 3264
+},
+{
+"word": "pearl",
+"score": 2821
+},
+{
+"word": "pearls",
+"score": 2824
+},
+{
+"word": "peasant",
+"score": 3565
+},
+{
+"word": "pebble",
+"score": 1809
+},
+{
+"word": "pebbles",
+"score": 1810
+},
+{
+"word": "pedestrian",
+"score": 1279
+},
+{
+"word": "pedestrians",
+"score": 2109
+},
+{
+"word": "pedicure",
+"score": 495
+},
+{
+"word": "pedicures",
+"score": 636
+},
+{
+"word": "peeing",
+"score": 3166
+},
+{
+"word": "pelican",
+"score": 281
+},
+{
+"word": "pelicans",
+"score": 500
+},
+{
+"word": "pembrokeshire",
+"score": 1044
+},
+{
+"word": "penguin",
+"score": 491
+},
+{
+"word": "penguins",
+"score": 492
+},
+{
+"word": "peninsula",
+"score": 98
+},
+{
+"word": "peninsular",
+"score": 325
+},
+{
+"word": "penis",
+"score": 3836
+},
+{
+"word": "pensacola",
+"score": 1473
+},
+{
+"word": "pensacola",
+"score": 1474
+},
+{
+"word": "pentecost",
+"score": 200
+},
+{
+"word": "penthouse",
+"score": 1834
+},
+{
+"word": "penthouses",
+"score": 2352
+},
+{
+"word": "pergola",
+"score": 932
+},
+{
+"word": "perimeter",
+"score": 2935
+},
+{
+"word": "perimeters",
+"score": 2933
+},
+{
+"word": "period",
+"score": 1549
+},
+{
+"word": "pet",
+"score": 2326
+},
+{
+"word": "petrillo",
+"score": 3654
+},
+{
+"word": "pets",
+"score": 2327
+},
+{
+"word": "petting",
+"score": 2051
+},
+{
+"word": "photogenic",
+"score": 3579
+},
+{
+"word": "photographed",
+"score": 1085
+},
+{
+"word": "photographing",
+"score": 2597
+},
+{
+"word": "photoshoot",
+"score": 1375
+},
+{
+"word": "phuket",
+"score": 547
+},
+{
+"word": "piazza",
+"score": 1022
+},
+{
+"word": "pickup",
+"score": 260
+},
+{
+"word": "picnic",
+"score": 125
+},
+{
+"word": "picnicker",
+"score": 111
+},
+{
+"word": "picnickers",
+"score": 112
+},
+{
+"word": "picnicking",
+"score": 119
+},
+{
+"word": "picnics",
+"score": 124
+},
+{
+"word": "picture",
+"score": 1768
+},
+{
+"word": "picturesque",
+"score": 372
+},
+{
+"word": "pier",
+"score": 6
+},
+{
+"word": "piers",
+"score": 232
+},
+{
+"word": "pika",
+"score": 2447
+},
+{
+"word": "pilchard",
+"score": 1334
+},
+{
+"word": "pile",
+"score": 1065
+},
+{
+"word": "pilings",
+"score": 1241
+},
+{
+"word": "pine",
+"score": 1514
+},
+{
+"word": "pineapple",
+"score": 1238
+},
+{
+"word": "pineapples",
+"score": 1239
+},
+{
+"word": "pinehurst",
+"score": 3385
+},
+{
+"word": "pinelands",
+"score": 1807
+},
+{
+"word": "pines",
+"score": 1513
+},
+{
+"word": "pingpong",
+"score": 3023
+},
+{
+"word": "pink",
+"score": 3740
+},
+{
+"word": "pinko",
+"score": 3741
+},
+{
+"word": "pinup",
+"score": 2779
+},
+{
+"word": "pirate",
+"score": 1406
+},
+{
+"word": "pisces",
+"score": 1468
+},
+{
+"word": "pissing",
+"score": 3459
+},
+{
+"word": "piste",
+"score": 659
+},
+{
+"word": "pit",
+"score": 975
+},
+{
+"word": "pitcairn",
+"score": 2320
+},
+{
+"word": "pitch",
+"score": 2168
+},
+{
+"word": "pjs",
+"score": 1242
+},
+{
+"word": "place",
+"score": 2283
+},
+{
+"word": "places",
+"score": 3411
+},
+{
+"word": "placid",
+"score": 2696
+},
+{
+"word": "plank",
+"score": 3821
+},
+{
+"word": "plankton",
+"score": 1818
+},
+{
+"word": "plant",
+"score": 2659
+},
+{
+"word": "plantation",
+"score": 1754
+},
+{
+"word": "plantation",
+"score": 1755
+},
+{
+"word": "plate",
+"score": 1288
+},
+{
+"word": "platter",
+"score": 3780
+},
+{
+"word": "platters",
+"score": 3779
+},
+{
+"word": "play",
+"score": 224
+},
+{
+"word": "playa",
+"score": 136
+},
+{
+"word": "playboy",
+"score": 2421
+},
+{
+"word": "playfulness",
+"score": 2457
+},
+{
+"word": "playground",
+"score": 143
+},
+{
+"word": "playgrounds",
+"score": 240
+},
+{
+"word": "playgroup",
+"score": 1794
+},
+{
+"word": "playhouse",
+"score": 3490
+},
+{
+"word": "playland",
+"score": 452
+},
+{
+"word": "playmate",
+"score": 1612
+},
+{
+"word": "playmates",
+"score": 1611
+},
+{
+"word": "playroom",
+"score": 2910
+},
+{
+"word": "playtime",
+"score": 1629
+},
+{
+"word": "plaza",
+"score": 1021
+},
+{
+"word": "plazas",
+"score": 3702
+},
+{
+"word": "pleasant",
+"score": 3386
+},
+{
+"word": "pleasure",
+"score": 3470
+},
+{
+"word": "pleasures",
+"score": 3471
+},
+{
+"word": "plush",
+"score": 2988
+},
+{
+"word": "plywood",
+"score": 2302
+},
+{
+"word": "point",
+"score": 1550
+},
+{
+"word": "poitier",
+"score": 2926
+},
+{
+"word": "poitier",
+"score": 2927
+},
+{
+"word": "policeman",
+"score": 3468
+},
+{
+"word": "polizzi",
+"score": 1409
+},
+{
+"word": "polluted",
+"score": 3392
+},
+{
+"word": "polo",
+"score": 2207
+},
+{
+"word": "polo",
+"score": 2208
+},
+{
+"word": "polynesia",
+"score": 2344
+},
+{
+"word": "polynesia",
+"score": 2345
+},
+{
+"word": "polynesian",
+"score": 764
+},
+{
+"word": "polynesian",
+"score": 765
+},
+{
+"word": "pompano",
+"score": 449
+},
+{
+"word": "pompeii",
+"score": 3401
+},
+{
+"word": "pompeii",
+"score": 3402
+},
+{
+"word": "pompoms",
+"score": 2250
+},
+{
+"word": "pond",
+"score": 255
+},
+{
+"word": "pondicherry",
+"score": 3526
+},
+{
+"word": "ponds",
+"score": 543
+},
+{
+"word": "ponies",
+"score": 3275
+},
+{
+"word": "pontoon",
+"score": 351
+},
+{
+"word": "pontoons",
+"score": 1080
+},
+{
+"word": "pony",
+"score": 3276
+},
+{
+"word": "poo",
+"score": 3431
+},
+{
+"word": "pooch",
+"score": 627
+},
+{
+"word": "pooches",
+"score": 626
+},
+{
+"word": "pool",
+"score": 256
+},
+{
+"word": "pools",
+"score": 599
+},
+{
+"word": "poolside",
+"score": 21
+},
+{
+"word": "poop",
+"score": 1302
+},
+{
+"word": "pooped",
+"score": 2065
+},
+{
+"word": "porch",
+"score": 297
+},
+{
+"word": "porches",
+"score": 420
+},
+{
+"word": "porn",
+"score": 3717
+},
+{
+"word": "porno",
+"score": 2310
+},
+{
+"word": "pornography",
+"score": 2309
+},
+{
+"word": "porpoise",
+"score": 554
+},
+{
+"word": "porpoises",
+"score": 555
+},
+{
+"word": "port",
+"score": 801
+},
+{
+"word": "portimao",
+"score": 2380
+},
+{
+"word": "portobello",
+"score": 2462
+},
+{
+"word": "portofino",
+"score": 349
+},
+{
+"word": "portrush",
+"score": 1034
+},
+{
+"word": "ports",
+"score": 2524
+},
+{
+"word": "poseidon",
+"score": 1391
+},
+{
+"word": "poseidon",
+"score": 1392
+},
+{
+"word": "posh",
+"score": 1209
+},
+{
+"word": "position",
+"score": 3412
+},
+{
+"word": "postcard",
+"score": 2331
+},
+{
+"word": "pot",
+"score": 1263
+},
+{
+"word": "potty",
+"score": 3476
+},
+{
+"word": "powdery",
+"score": 2073
+},
+{
+"word": "powerboat",
+"score": 353
+},
+{
+"word": "pram",
+"score": 2952
+},
+{
+"word": "prams",
+"score": 1961
+},
+{
+"word": "pranced",
+"score": 3390
+},
+{
+"word": "prawn",
+"score": 1498
+},
+{
+"word": "prawns",
+"score": 1778
+},
+{
+"word": "preppy",
+"score": 2349
+},
+{
+"word": "preserve",
+"score": 1260
+},
+{
+"word": "prestatyn",
+"score": 3393
+},
+{
+"word": "prettier",
+"score": 2435
+},
+{
+"word": "prettiest",
+"score": 2803
+},
+{
+"word": "prevention",
+"score": 1211
+},
+{
+"word": "prey",
+"score": 977
+},
+{
+"word": "pristine",
+"score": 873
+},
+{
+"word": "privacy",
+"score": 3093
+},
+{
+"word": "proboscis",
+"score": 2147
+},
+{
+"word": "prom",
+"score": 1602
+},
+{
+"word": "promenade",
+"score": 33
+},
+{
+"word": "promontory",
+"score": 42
+},
+{
+"word": "proms",
+"score": 2526
+},
+{
+"word": "property",
+"score": 2282
+},
+{
+"word": "proscenium",
+"score": 3639
+},
+{
+"word": "protection",
+"score": 3310
+},
+{
+"word": "provincetown",
+"score": 436
+},
+{
+"word": "prude",
+"score": 3342
+},
+{
+"word": "pub",
+"score": 1069
+},
+{
+"word": "puddle",
+"score": 1416
+},
+{
+"word": "puddles",
+"score": 1593
+},
+{
+"word": "puerto",
+"score": 1538
+},
+{
+"word": "puna",
+"score": 2354
+},
+{
+"word": "punchbowl",
+"score": 927
+},
+{
+"word": "pup",
+"score": 1716
+},
+{
+"word": "puppy",
+"score": 1717
+},
+{
+"word": "pups",
+"score": 3301
+},
+{
+"word": "pwa",
+"score": 1323
+},
+{
+"word": "pyramid",
+"score": 1487
+},
+{
+"word": "pyramid",
+"score": 1488
+},
+{
+"word": "pyramids",
+"score": 1489
+},
+{
+"word": "quaint",
+"score": 3829
+},
+{
+"word": "quarries",
+"score": 1672
+},
+{
+"word": "quarry",
+"score": 976
+},
+{
+"word": "quay",
+"score": 120
+},
+{
+"word": "queenstown",
+"score": 1789
+},
+{
+"word": "quiescence",
+"score": 3106
+},
+{
+"word": "quiksilver",
+"score": 2401
+},
+{
+"word": "quilt",
+"score": 2211
+},
+{
+"word": "ra",
+"score": 3186
+},
+{
+"word": "rabbit",
+"score": 2449
+},
+{
+"word": "raccoon",
+"score": 3416
+},
+{
+"word": "raccoons",
+"score": 3417
+},
+{
+"word": "racecourse",
+"score": 2096
+},
+{
+"word": "racetrack",
+"score": 2097
+},
+{
+"word": "raceway",
+"score": 3734
+},
+{
+"word": "racquetball",
+"score": 2857
+},
+{
+"word": "radium",
+"score": 3187
+},
+{
+"word": "raft",
+"score": 1509
+},
+{
+"word": "rafting",
+"score": 860
+},
+{
+"word": "rafts",
+"score": 1508
+},
+{
+"word": "raglan",
+"score": 1191
+},
+{
+"word": "railing",
+"score": 2811
+},
+{
+"word": "railings",
+"score": 2812
+},
+{
+"word": "raincoat",
+"score": 1240
+},
+{
+"word": "rainforest",
+"score": 872
+},
+{
+"word": "raining",
+"score": 2406
+},
+{
+"word": "rainy",
+"score": 1329
+},
+{
+"word": "ramp",
+"score": 3850
+},
+{
+"word": "rampart",
+"score": 2196
+},
+{
+"word": "ramparts",
+"score": 2195
+},
+{
+"word": "ramps",
+"score": 3851
+},
+{
+"word": "ramsgate",
+"score": 1354
+},
+{
+"word": "ramshackle",
+"score": 3807
+},
+{
+"word": "ranch",
+"score": 1223
+},
+{
+"word": "ranches",
+"score": 3855
+},
+{
+"word": "rancho",
+"score": 2974
+},
+{
+"word": "ranger",
+"score": 1180
+},
+{
+"word": "rangers",
+"score": 894
+},
+{
+"word": "rapid",
+"score": 3678
+},
+{
+"word": "rapids",
+"score": 3679
+},
+{
+"word": "ras",
+"score": 3188
+},
+{
+"word": "rasta",
+"score": 3697
+},
+{
+"word": "rastafarian",
+"score": 3696
+},
+{
+"word": "raunchy",
+"score": 3113
+},
+{
+"word": "rave",
+"score": 1940
+},
+{
+"word": "ravine",
+"score": 1643
+},
+{
+"word": "ray",
+"score": 3307
+},
+{
+"word": "rays",
+"score": 3306
+},
+{
+"word": "re",
+"score": 3304
+},
+{
+"word": "reach",
+"score": 2783
+},
+{
+"word": "rear",
+"score": 2631
+},
+{
+"word": "recliner",
+"score": 3768
+},
+{
+"word": "reclining",
+"score": 2598
+},
+{
+"word": "recourse",
+"score": 89
+},
+{
+"word": "recreation",
+"score": 987
+},
+{
+"word": "recreational",
+"score": 566
+},
+{
+"word": "recreationally",
+"score": 1860
+},
+{
+"word": "red",
+"score": 3549
+},
+{
+"word": "red",
+"score": 3553
+},
+{
+"word": "redfish",
+"score": 1822
+},
+{
+"word": "redhead",
+"score": 3112
+},
+{
+"word": "redondo",
+"score": 1042
+},
+{
+"word": "reds",
+"score": 3551
+},
+{
+"word": "redwood",
+"score": 1852
+},
+{
+"word": "redwoods",
+"score": 1854
+},
+{
+"word": "reed",
+"score": 3050
+},
+{
+"word": "reed",
+"score": 3052
+},
+{
+"word": "reeds",
+"score": 3051
+},
+{
+"word": "reedsport",
+"score": 2179
+},
+{
+"word": "reef",
+"score": 36
+},
+{
+"word": "reefs",
+"score": 66
+},
+{
+"word": "refreshment",
+"score": 986
+},
+{
+"word": "refuge",
+"score": 1953
+},
+{
+"word": "refuges",
+"score": 1954
+},
+{
+"word": "regatta",
+"score": 1324
+},
+{
+"word": "regattas",
+"score": 1325
+},
+{
+"word": "reggae",
+"score": 1559
+},
+{
+"word": "region",
+"score": 1201
+},
+{
+"word": "rehoboth",
+"score": 358
+},
+{
+"word": "relax",
+"score": 573
+},
+{
+"word": "relaxation",
+"score": 1426
+},
+{
+"word": "relaxed",
+"score": 2886
+},
+{
+"word": "relaxing",
+"score": 309
+},
+{
+"word": "reliever",
+"score": 2214
+},
+{
+"word": "rendezvous",
+"score": 3791
+},
+{
+"word": "rental",
+"score": 2440
+},
+{
+"word": "rentals",
+"score": 2439
+},
+{
+"word": "rented",
+"score": 2496
+},
+{
+"word": "repose",
+"score": 1379
+},
+{
+"word": "repository",
+"score": 2986
+},
+{
+"word": "reptile",
+"score": 2405
+},
+{
+"word": "residence",
+"score": 1793
+},
+{
+"word": "residences",
+"score": 2765
+},
+{
+"word": "residency",
+"score": 2764
+},
+{
+"word": "resident",
+"score": 3590
+},
+{
+"word": "residents",
+"score": 3591
+},
+{
+"word": "resort",
+"score": 88
+},
+{
+"word": "resorts",
+"score": 145
+},
+{
+"word": "rest",
+"score": 1423
+},
+{
+"word": "restaurant",
+"score": 1639
+},
+{
+"word": "restaurants",
+"score": 2471
+},
+{
+"word": "restful",
+"score": 2036
+},
+{
+"word": "restorative",
+"score": 3823
+},
+{
+"word": "restroom",
+"score": 1412
+},
+{
+"word": "restrooms",
+"score": 1131
+},
+{
+"word": "retirement",
+"score": 3008
+},
+{
+"word": "retreat",
+"score": 3007
+},
+{
+"word": "retreats",
+"score": 3158
+},
+{
+"word": "revel",
+"score": 2752
+},
+{
+"word": "reveler",
+"score": 1273
+},
+{
+"word": "revelers",
+"score": 1274
+},
+{
+"word": "revelry",
+"score": 2753
+},
+{
+"word": "reverie",
+"score": 3017
+},
+{
+"word": "rhinestone",
+"score": 3554
+},
+{
+"word": "rhinestones",
+"score": 3555
+},
+{
+"word": "ride",
+"score": 3022
+},
+{
+"word": "rides",
+"score": 3021
+},
+{
+"word": "ridge",
+"score": 1499
+},
+{
+"word": "ridgeline",
+"score": 1500
+},
+{
+"word": "ridges",
+"score": 2907
+},
+{
+"word": "rig",
+"score": 2805
+},
+{
+"word": "rigs",
+"score": 2808
+},
+{
+"word": "rim",
+"score": 2273
+},
+{
+"word": "rink",
+"score": 1481
+},
+{
+"word": "rinks",
+"score": 3605
+},
+{
+"word": "ritzy",
+"score": 989
+},
+{
+"word": "river",
+"score": 319
+},
+{
+"word": "riverbank",
+"score": 127
+},
+{
+"word": "riverbanks",
+"score": 324
+},
+{
+"word": "riverbed",
+"score": 345
+},
+{
+"word": "riverfront",
+"score": 834
+},
+{
+"word": "riverhead",
+"score": 1541
+},
+{
+"word": "riverine",
+"score": 2757
+},
+{
+"word": "rivers",
+"score": 1774
+},
+{
+"word": "riverside",
+"score": 206
+},
+{
+"word": "riverside",
+"score": 207
+},
+{
+"word": "riverwalk",
+"score": 462
+},
+{
+"word": "riviera",
+"score": 335
+},
+{
+"word": "riviera",
+"score": 336
+},
+{
+"word": "rnli",
+"score": 1262
+},
+{
+"word": "road",
+"score": 498
+},
+{
+"word": "roadbed",
+"score": 3080
+},
+{
+"word": "roadblock",
+"score": 3097
+},
+{
+"word": "roadhouse",
+"score": 572
+},
+{
+"word": "roading",
+"score": 1788
+},
+{
+"word": "roads",
+"score": 767
+},
+{
+"word": "roadside",
+"score": 748
+},
+{
+"word": "roadsides",
+"score": 402
+},
+{
+"word": "roadway",
+"score": 427
+},
+{
+"word": "roadways",
+"score": 527
+},
+{
+"word": "rock",
+"score": 742
+},
+{
+"word": "rock",
+"score": 743
+},
+{
+"word": "rockaway",
+"score": 1440
+},
+{
+"word": "rockers",
+"score": 1404
+},
+{
+"word": "rockfall",
+"score": 3818
+},
+{
+"word": "rockfish",
+"score": 1761
+},
+{
+"word": "rockledge",
+"score": 3497
+},
+{
+"word": "rockport",
+"score": 1760
+},
+{
+"word": "rocks",
+"score": 744
+},
+{
+"word": "rockslide",
+"score": 2053
+},
+{
+"word": "rodrigues",
+"score": 3029
+},
+{
+"word": "roller",
+"score": 2793
+},
+{
+"word": "rollers",
+"score": 2794
+},
+{
+"word": "romancing",
+"score": 3699
+},
+{
+"word": "romantic",
+"score": 2233
+},
+{
+"word": "romanticist",
+"score": 2234
+},
+{
+"word": "romping",
+"score": 2343
+},
+{
+"word": "roof",
+"score": 2323
+},
+{
+"word": "roofs",
+"score": 2324
+},
+{
+"word": "rooftop",
+"score": 1068
+},
+{
+"word": "rooftops",
+"score": 2686
+},
+{
+"word": "roosting",
+"score": 2200
+},
+{
+"word": "rope",
+"score": 2584
+},
+{
+"word": "rotter",
+"score": 1826
+},
+{
+"word": "roundabouts",
+"score": 3722
+},
+{
+"word": "rowboat",
+"score": 750
+},
+{
+"word": "rowdy",
+"score": 3344
+},
+{
+"word": "rowing",
+"score": 2202
+},
+{
+"word": "roxy",
+"score": 2557
+},
+{
+"word": "rte",
+"score": 3705
+},
+{
+"word": "rubbish",
+"score": 1359
+},
+{
+"word": "ruin",
+"score": 1364
+},
+{
+"word": "ruins",
+"score": 1366
+},
+{
+"word": "rum",
+"score": 1942
+},
+{
+"word": "rummy",
+"score": 1943
+},
+{
+"word": "runt",
+"score": 1496
+},
+{
+"word": "runway",
+"score": 1903
+},
+{
+"word": "runways",
+"score": 2500
+},
+{
+"word": "rust",
+"score": 3727
+},
+{
+"word": "rustic",
+"score": 2242
+},
+{
+"word": "rusting",
+"score": 3726
+},
+{
+"word": "rv",
+"score": 3539
+},
+{
+"word": "rvs",
+"score": 2301
+},
+{
+"word": "sachem",
+"score": 2883
+},
+{
+"word": "safari",
+"score": 330
+},
+{
+"word": "safaris",
+"score": 955
+},
+{
+"word": "safety",
+"score": 1952
+},
+{
+"word": "sagamore",
+"score": 2882
+},
+{
+"word": "sail",
+"score": 952
+},
+{
+"word": "sailboat",
+"score": 222
+},
+{
+"word": "sailboats",
+"score": 250
+},
+{
+"word": "sailfish",
+"score": 1977
+},
+{
+"word": "sailing",
+"score": 431
+},
+{
+"word": "sailor",
+"score": 993
+},
+{
+"word": "sailors",
+"score": 2220
+},
+{
+"word": "sails",
+"score": 2231
+},
+{
+"word": "saipan",
+"score": 3357
+},
+{
+"word": "saipan",
+"score": 3358
+},
+{
+"word": "salad",
+"score": 3195
+},
+{
+"word": "salalah",
+"score": 2901
+},
+{
+"word": "saliva",
+"score": 322
+},
+{
+"word": "salon",
+"score": 2654
+},
+{
+"word": "saltwater",
+"score": 463
+},
+{
+"word": "salty",
+"score": 1741
+},
+{
+"word": "samara",
+"score": 1583
+},
+{
+"word": "samui",
+"score": 655
+},
+{
+"word": "sanctuaries",
+"score": 3658
+},
+{
+"word": "sanctuary",
+"score": 3656
+},
+{
+"word": "sand",
+"score": 26
+},
+{
+"word": "sand",
+"score": 27
+},
+{
+"word": "sandal",
+"score": 494
+},
+{
+"word": "sandals",
+"score": 493
+},
+{
+"word": "sandbar",
+"score": 20
+},
+{
+"word": "sandbars",
+"score": 139
+},
+{
+"word": "sandbox",
+"score": 2243
+},
+{
+"word": "sandpiper",
+"score": 364
+},
+{
+"word": "sands",
+"score": 103
+},
+{
+"word": "sandy",
+"score": 75
+},
+{
+"word": "sangaree",
+"score": 470
+},
+{
+"word": "sangria",
+"score": 469
+},
+{
+"word": "sanibel",
+"score": 165
+},
+{
+"word": "santee",
+"score": 3193
+},
+{
+"word": "santee",
+"score": 3194
+},
+{
+"word": "santorini",
+"score": 264
+},
+{
+"word": "sanya",
+"score": 3061
+},
+{
+"word": "sard",
+"score": 1335
+},
+{
+"word": "sardine",
+"score": 1332
+},
+{
+"word": "sardines",
+"score": 1333
+},
+{
+"word": "sardinia",
+"score": 519
+},
+{
+"word": "sardinia",
+"score": 520
+},
+{
+"word": "sarina",
+"score": 2193
+},
+{
+"word": "sarong",
+"score": 540
+},
+{
+"word": "sashimi",
+"score": 3587
+},
+{
+"word": "saugatuck",
+"score": 2288
+},
+{
+"word": "sauna",
+"score": 948
+},
+{
+"word": "saunas",
+"score": 949
+},
+{
+"word": "saunterer",
+"score": 1985
+},
+{
+"word": "sausalito",
+"score": 2144
+},
+{
+"word": "savanna",
+"score": 1829
+},
+{
+"word": "savannah",
+"score": 1828
+},
+{
+"word": "savannah",
+"score": 1830
+},
+{
+"word": "sawgrass",
+"score": 2938
+},
+{
+"word": "scallop",
+"score": 1039
+},
+{
+"word": "scallops",
+"score": 1040
+},
+{
+"word": "scandal",
+"score": 1766
+},
+{
+"word": "scarlett",
+"score": 1590
+},
+{
+"word": "scavenging",
+"score": 2672
+},
+{
+"word": "scene",
+"score": 1770
+},
+{
+"word": "scenery",
+"score": 1101
+},
+{
+"word": "scenic",
+"score": 446
+},
+{
+"word": "school",
+"score": 960
+},
+{
+"word": "schoolgirl",
+"score": 2436
+},
+{
+"word": "schoolgirls",
+"score": 3058
+},
+{
+"word": "schoolies",
+"score": 110
+},
+{
+"word": "schoolyard",
+"score": 2750
+},
+{
+"word": "schooner",
+"score": 1501
+},
+{
+"word": "scituate",
+"score": 2638
+},
+{
+"word": "scooter",
+"score": 2677
+},
+{
+"word": "scorpio",
+"score": 3615
+},
+{
+"word": "scorpion",
+"score": 3614
+},
+{
+"word": "scoter",
+"score": 2675
+},
+{
+"word": "scrabble",
+"score": 3142
+},
+{
+"word": "scrabble",
+"score": 3144
+},
+{
+"word": "scrapyard",
+"score": 3458
+},
+{
+"word": "scribble",
+"score": 3143
+},
+{
+"word": "scrub",
+"score": 1253
+},
+{
+"word": "scrubland",
+"score": 726
+},
+{
+"word": "scrumptious",
+"score": 2789
+},
+{
+"word": "scuba",
+"score": 438
+},
+{
+"word": "sea",
+"score": 138
+},
+{
+"word": "seabed",
+"score": 1049
+},
+{
+"word": "seabees",
+"score": 3333
+},
+{
+"word": "seabird",
+"score": 296
+},
+{
+"word": "seabirds",
+"score": 295
+},
+{
+"word": "seabreeze",
+"score": 645
+},
+{
+"word": "seabrook",
+"score": 2445
+},
+{
+"word": "seafaring",
+"score": 433
+},
+{
+"word": "seafloor",
+"score": 1902
+},
+{
+"word": "seafood",
+"score": 817
+},
+{
+"word": "seaford",
+"score": 1568
+},
+{
+"word": "seafront",
+"score": 8
+},
+{
+"word": "seagull",
+"score": 733
+},
+{
+"word": "seagulls",
+"score": 318
+},
+{
+"word": "seam",
+"score": 965
+},
+{
+"word": "seaman",
+"score": 2350
+},
+{
+"word": "seaman",
+"score": 2351
+},
+{
+"word": "seance",
+"score": 3043
+},
+{
+"word": "seaplane",
+"score": 376
+},
+{
+"word": "seaport",
+"score": 118
+},
+{
+"word": "seaports",
+"score": 3138
+},
+{
+"word": "searcher",
+"score": 3650
+},
+{
+"word": "searchers",
+"score": 3648
+},
+{
+"word": "seas",
+"score": 403
+},
+{
+"word": "seascape",
+"score": 1521
+},
+{
+"word": "seascapes",
+"score": 1520
+},
+{
+"word": "seashell",
+"score": 152
+},
+{
+"word": "seashells",
+"score": 153
+},
+{
+"word": "seashore",
+"score": 1
+},
+{
+"word": "seasick",
+"score": 881
+},
+{
+"word": "seaside",
+"score": 3
+},
+{
+"word": "seat",
+"score": 3413
+},
+{
+"word": "seau",
+"score": 3174
+},
+{
+"word": "seaview",
+"score": 490
+},
+{
+"word": "seawall",
+"score": 39
+},
+{
+"word": "seawalls",
+"score": 164
+},
+{
+"word": "seawater",
+"score": 464
+},
+{
+"word": "seaweed",
+"score": 169
+},
+{
+"word": "seaworld",
+"score": 724
+},
+{
+"word": "secluded",
+"score": 193
+},
+{
+"word": "seclusion",
+"score": 3094
+},
+{
+"word": "section",
+"score": 2430
+},
+{
+"word": "sediment",
+"score": 2684
+},
+{
+"word": "sedimentation",
+"score": 3672
+},
+{
+"word": "sedona",
+"score": 3511
+},
+{
+"word": "seductively",
+"score": 3439
+},
+{
+"word": "seedy",
+"score": 3053
+},
+{
+"word": "seeker",
+"score": 3649
+},
+{
+"word": "seine",
+"score": 1148
+},
+{
+"word": "seine",
+"score": 1149
+},
+{
+"word": "sentosa",
+"score": 1687
+},
+{
+"word": "sepia",
+"score": 3035
+},
+{
+"word": "sepia",
+"score": 3036
+},
+{
+"word": "septic",
+"score": 2838
+},
+{
+"word": "sequoia",
+"score": 1853
+},
+{
+"word": "serene",
+"score": 2887
+},
+{
+"word": "serengeti",
+"score": 3334
+},
+{
+"word": "serengeti",
+"score": 3335
+},
+{
+"word": "serenity",
+"score": 3139
+},
+{
+"word": "set",
+"score": 2945
+},
+{
+"word": "settee",
+"score": 1799
+},
+{
+"word": "setting",
+"score": 1769
+},
+{
+"word": "settle",
+"score": 1800
+},
+{
+"word": "sewage",
+"score": 2277
+},
+{
+"word": "sexiness",
+"score": 3355
+},
+{
+"word": "seychelles",
+"score": 1586
+},
+{
+"word": "seychelles",
+"score": 1587
+},
+{
+"word": "shabbat",
+"score": 1976
+},
+{
+"word": "shack",
+"score": 435
+},
+{
+"word": "shacks",
+"score": 472
+},
+{
+"word": "shad",
+"score": 3324
+},
+{
+"word": "shade",
+"score": 1892
+},
+{
+"word": "shag",
+"score": 665
+},
+{
+"word": "shagging",
+"score": 1803
+},
+{
+"word": "shallow",
+"score": 1638
+},
+{
+"word": "shallower",
+"score": 3091
+},
+{
+"word": "shallows",
+"score": 176
+},
+{
+"word": "shamu",
+"score": 2810
+},
+{
+"word": "shank",
+"score": 1452
+},
+{
+"word": "shanties",
+"score": 2873
+},
+{
+"word": "shanty",
+"score": 1681
+},
+{
+"word": "shantytown",
+"score": 1857
+},
+{
+"word": "shantytowns",
+"score": 1856
+},
+{
+"word": "shapeless",
+"score": 3004
+},
+{
+"word": "shark",
+"score": 348
+},
+{
+"word": "sharks",
+"score": 845
+},
+{
+"word": "sharm",
+"score": 814
+},
+{
+"word": "sheepshead",
+"score": 1965
+},
+{
+"word": "shehadeh",
+"score": 3719
+},
+{
+"word": "shell",
+"score": 1286
+},
+{
+"word": "shellfish",
+"score": 480
+},
+{
+"word": "shells",
+"score": 1287
+},
+{
+"word": "shelter",
+"score": 3309
+},
+{
+"word": "shelters",
+"score": 3572
+},
+{
+"word": "shimmery",
+"score": 2788
+},
+{
+"word": "shindig",
+"score": 3809
+},
+{
+"word": "shininess",
+"score": 2009
+},
+{
+"word": "shinnecock",
+"score": 3107
+},
+{
+"word": "ship",
+"score": 2970
+},
+{
+"word": "shipboard",
+"score": 2470
+},
+{
+"word": "shipwreck",
+"score": 343
+},
+{
+"word": "shipwrecked",
+"score": 598
+},
+{
+"word": "shipwrecks",
+"score": 529
+},
+{
+"word": "shipyard",
+"score": 1195
+},
+{
+"word": "shire",
+"score": 2996
+},
+{
+"word": "shirtless",
+"score": 1024
+},
+{
+"word": "shit",
+"score": 1911
+},
+{
+"word": "shoal",
+"score": 175
+},
+{
+"word": "shoals",
+"score": 961
+},
+{
+"word": "shoeless",
+"score": 3164
+},
+{
+"word": "shop",
+"score": 2318
+},
+{
+"word": "shopping",
+"score": 3541
+},
+{
+"word": "shops",
+"score": 2319
+},
+{
+"word": "shore",
+"score": 63
+},
+{
+"word": "shorebird",
+"score": 560
+},
+{
+"word": "shorebirds",
+"score": 559
+},
+{
+"word": "shoreline",
+"score": 2
+},
+{
+"word": "shorelines",
+"score": 52
+},
+{
+"word": "shores",
+"score": 81
+},
+{
+"word": "short",
+"score": 1842
+},
+{
+"word": "shorts",
+"score": 1843
+},
+{
+"word": "shortstop",
+"score": 1844
+},
+{
+"word": "shoulder",
+"score": 602
+},
+{
+"word": "shower",
+"score": 1139
+},
+{
+"word": "showering",
+"score": 2299
+},
+{
+"word": "showers",
+"score": 3429
+},
+{
+"word": "showground",
+"score": 1610
+},
+{
+"word": "shrimp",
+"score": 1497
+},
+{
+"word": "shrimper",
+"score": 1735
+},
+{
+"word": "shrimpers",
+"score": 1734
+},
+{
+"word": "shrimping",
+"score": 1561
+},
+{
+"word": "shrimps",
+"score": 1539
+},
+{
+"word": "shrub",
+"score": 1252
+},
+{
+"word": "shrubbery",
+"score": 1790
+},
+{
+"word": "shuffleboard",
+"score": 1715
+},
+{
+"word": "shul",
+"score": 2181
+},
+{
+"word": "shuttlecock",
+"score": 2866
+},
+{
+"word": "sicily",
+"score": 2175
+},
+{
+"word": "sicily",
+"score": 2176
+},
+{
+"word": "sidewalk",
+"score": 350
+},
+{
+"word": "sidewalks",
+"score": 619
+},
+{
+"word": "siesta",
+"score": 1308
+},
+{
+"word": "sight",
+"score": 3104
+},
+{
+"word": "sighted",
+"score": 3030
+},
+{
+"word": "sighting",
+"score": 3085
+},
+{
+"word": "sightings",
+"score": 3084
+},
+{
+"word": "sightseeing",
+"score": 803
+},
+{
+"word": "sightseer",
+"score": 379
+},
+{
+"word": "sightseers",
+"score": 1093
+},
+{
+"word": "signposted",
+"score": 3585
+},
+{
+"word": "silt",
+"score": 3336
+},
+{
+"word": "sinatra",
+"score": 3751
+},
+{
+"word": "sinatra",
+"score": 3752
+},
+{
+"word": "singalong",
+"score": 3321
+},
+{
+"word": "singlet",
+"score": 3014
+},
+{
+"word": "sinkhole",
+"score": 2732
+},
+{
+"word": "sinkholes",
+"score": 3364
+},
+{
+"word": "sip",
+"score": 2850
+},
+{
+"word": "sipping",
+"score": 2468
+},
+{
+"word": "sit",
+"score": 3788
+},
+{
+"word": "site",
+"score": 2081
+},
+{
+"word": "sitter",
+"score": 3515
+},
+{
+"word": "sitter",
+"score": 3516
+},
+{
+"word": "sitting",
+"score": 3044
+},
+{
+"word": "skate",
+"score": 3451
+},
+{
+"word": "skateboard",
+"score": 1226
+},
+{
+"word": "skateboarder",
+"score": 1454
+},
+{
+"word": "skateboarders",
+"score": 1455
+},
+{
+"word": "skateboarding",
+"score": 1183
+},
+{
+"word": "skateboards",
+"score": 1225
+},
+{
+"word": "skatepark",
+"score": 475
+},
+{
+"word": "skegness",
+"score": 3371
+},
+{
+"word": "ski",
+"score": 715
+},
+{
+"word": "skidder",
+"score": 2473
+},
+{
+"word": "skied",
+"score": 3533
+},
+{
+"word": "skier",
+"score": 2132
+},
+{
+"word": "skiers",
+"score": 2133
+},
+{
+"word": "skiff",
+"score": 1229
+},
+{
+"word": "skiing",
+"score": 691
+},
+{
+"word": "skimmer",
+"score": 1206
+},
+{
+"word": "skimmers",
+"score": 3847
+},
+{
+"word": "skis",
+"score": 2189
+},
+{
+"word": "skydiving",
+"score": 3409
+},
+{
+"word": "skye",
+"score": 2912
+},
+{
+"word": "skyline",
+"score": 2295
+},
+{
+"word": "slather",
+"score": 1624
+},
+{
+"word": "slathered",
+"score": 1371
+},
+{
+"word": "sledding",
+"score": 1314
+},
+{
+"word": "sleep",
+"score": 3057
+},
+{
+"word": "sleeping",
+"score": 3105
+},
+{
+"word": "sleepover",
+"score": 869
+},
+{
+"word": "sleepovers",
+"score": 2363
+},
+{
+"word": "sleepwear",
+"score": 2839
+},
+{
+"word": "sleepy",
+"score": 2244
+},
+{
+"word": "slick",
+"score": 1351
+},
+{
+"word": "slickness",
+"score": 1350
+},
+{
+"word": "slicks",
+"score": 1352
+},
+{
+"word": "slide",
+"score": 32
+},
+{
+"word": "slime",
+"score": 3487
+},
+{
+"word": "slipper",
+"score": 2474
+},
+{
+"word": "slippers",
+"score": 2472
+},
+{
+"word": "slipstream",
+"score": 672
+},
+{
+"word": "sloop",
+"score": 3151
+},
+{
+"word": "slope",
+"score": 361
+},
+{
+"word": "slopes",
+"score": 363
+},
+{
+"word": "slough",
+"score": 1804
+},
+{
+"word": "sloughs",
+"score": 2714
+},
+{
+"word": "sludge",
+"score": 2510
+},
+{
+"word": "slum",
+"score": 2060
+},
+{
+"word": "slums",
+"score": 3367
+},
+{
+"word": "slurping",
+"score": 2101
+},
+{
+"word": "slutty",
+"score": 3659
+},
+{
+"word": "smack",
+"score": 2687
+},
+{
+"word": "smasher",
+"score": 1732
+},
+{
+"word": "smelly",
+"score": 3363
+},
+{
+"word": "smithtown",
+"score": 3872
+},
+{
+"word": "smoke",
+"score": 3793
+},
+{
+"word": "smoking",
+"score": 3792
+},
+{
+"word": "smooch",
+"score": 2688
+},
+{
+"word": "smooching",
+"score": 653
+},
+{
+"word": "snack",
+"score": 2507
+},
+{
+"word": "snacked",
+"score": 2155
+},
+{
+"word": "snacking",
+"score": 2559
+},
+{
+"word": "snacks",
+"score": 3179
+},
+{
+"word": "snail",
+"score": 1661
+},
+{
+"word": "snails",
+"score": 1663
+},
+{
+"word": "snapper",
+"score": 1243
+},
+{
+"word": "snappers",
+"score": 2335
+},
+{
+"word": "snook",
+"score": 1317
+},
+{
+"word": "snooki",
+"score": 809
+},
+{
+"word": "snooze",
+"score": 3352
+},
+{
+"word": "snoozing",
+"score": 2629
+},
+{
+"word": "snorkel",
+"score": 80
+},
+{
+"word": "snorkeling",
+"score": 15
+},
+{
+"word": "snorkelling",
+"score": 16
+},
+{
+"word": "snowbird",
+"score": 3168
+},
+{
+"word": "snowbirds",
+"score": 2410
+},
+{
+"word": "snowboard",
+"score": 2094
+},
+{
+"word": "snowboarder",
+"score": 3010
+},
+{
+"word": "snowboarders",
+"score": 3011
+},
+{
+"word": "snowboarding",
+"score": 2256
+},
+{
+"word": "snowboards",
+"score": 2095
+},
+{
+"word": "snowdonia",
+"score": 1346
+},
+{
+"word": "snowman",
+"score": 2390
+},
+{
+"word": "snowmass",
+"score": 3218
+},
+{
+"word": "snowmen",
+"score": 2391
+},
+{
+"word": "snowmobiler",
+"score": 3260
+},
+{
+"word": "snowmobilers",
+"score": 2012
+},
+{
+"word": "snowmobiling",
+"score": 1270
+},
+{
+"word": "snowshoe",
+"score": 2858
+},
+{
+"word": "snowshoeing",
+"score": 2033
+},
+{
+"word": "snowshoes",
+"score": 2859
+},
+{
+"word": "snuggle",
+"score": 2689
+},
+{
+"word": "snuggled",
+"score": 3376
+},
+{
+"word": "snuggling",
+"score": 2216
+},
+{
+"word": "soak",
+"score": 1061
+},
+{
+"word": "soaked",
+"score": 1849
+},
+{
+"word": "soaking",
+"score": 1062
+},
+{
+"word": "soapsuds",
+"score": 3707
+},
+{
+"word": "sobe",
+"score": 1435
+},
+{
+"word": "soccer",
+"score": 3294
+},
+{
+"word": "sociable",
+"score": 3177
+},
+{
+"word": "socialite",
+"score": 3464
+},
+{
+"word": "socialites",
+"score": 3465
+},
+{
+"word": "socialization",
+"score": 815
+},
+{
+"word": "socialize",
+"score": 2809
+},
+{
+"word": "socializing",
+"score": 816
+},
+{
+"word": "socials",
+"score": 3445
+},
+{
+"word": "sock",
+"score": 3827
+},
+{
+"word": "socks",
+"score": 3826
+},
+{
+"word": "sofa",
+"score": 806
+},
+{
+"word": "sofas",
+"score": 2554
+},
+{
+"word": "soggy",
+"score": 3584
+},
+{
+"word": "soi",
+"score": 2628
+},
+{
+"word": "soil",
+"score": 1767
+},
+{
+"word": "soiree",
+"score": 2937
+},
+{
+"word": "solent",
+"score": 2539
+},
+{
+"word": "solent",
+"score": 2540
+},
+{
+"word": "solitude",
+"score": 1025
+},
+{
+"word": "solomon",
+"score": 3528
+},
+{
+"word": "solomons",
+"score": 3527
+},
+{
+"word": "solomons",
+"score": 3529
+},
+{
+"word": "solstice",
+"score": 1417
+},
+{
+"word": "sombrero",
+"score": 3683
+},
+{
+"word": "sombrero",
+"score": 3684
+},
+{
+"word": "someplace",
+"score": 1421
+},
+{
+"word": "sonar",
+"score": 878
+},
+{
+"word": "sorrento",
+"score": 648
+},
+{
+"word": "soundbox",
+"score": 2932
+},
+{
+"word": "soundstage",
+"score": 3770
+},
+{
+"word": "south",
+"score": 3387
+},
+{
+"word": "south",
+"score": 3389
+},
+{
+"word": "southbank",
+"score": 3165
+},
+{
+"word": "southerly",
+"score": 3544
+},
+{
+"word": "southern",
+"score": 2911
+},
+{
+"word": "southernmost",
+"score": 1018
+},
+{
+"word": "southold",
+"score": 1880
+},
+{
+"word": "southport",
+"score": 600
+},
+{
+"word": "southside",
+"score": 2477
+},
+{
+"word": "southwold",
+"score": 925
+},
+{
+"word": "souvenir",
+"score": 3034
+},
+{
+"word": "souvenirs",
+"score": 2968
+},
+{
+"word": "spa",
+"score": 247
+},
+{
+"word": "space",
+"score": 3415
+},
+{
+"word": "spaceport",
+"score": 2253
+},
+{
+"word": "sparkler",
+"score": 2691
+},
+{
+"word": "spas",
+"score": 587
+},
+{
+"word": "spatter",
+"score": 631
+},
+{
+"word": "spectator",
+"score": 2420
+},
+{
+"word": "spectators",
+"score": 2419
+},
+{
+"word": "speedboat",
+"score": 719
+},
+{
+"word": "speedboats",
+"score": 1295
+},
+{
+"word": "speedo",
+"score": 3509
+},
+{
+"word": "spend",
+"score": 3586
+},
+{
+"word": "spillway",
+"score": 3312
+},
+{
+"word": "spinnaker",
+"score": 1542
+},
+{
+"word": "spit",
+"score": 321
+},
+{
+"word": "splash",
+"score": 629
+},
+{
+"word": "splashing",
+"score": 706
+},
+{
+"word": "splendor",
+"score": 3285
+},
+{
+"word": "splurged",
+"score": 3224
+},
+{
+"word": "sponge",
+"score": 3545
+},
+{
+"word": "spongebob",
+"score": 2038
+},
+{
+"word": "spotted",
+"score": 2225
+},
+{
+"word": "spray",
+"score": 2565
+},
+{
+"word": "spring",
+"score": 1620
+},
+{
+"word": "springwood",
+"score": 2904
+},
+{
+"word": "sprinkler",
+"score": 3317
+},
+{
+"word": "sprinklers",
+"score": 3318
+},
+{
+"word": "squaw",
+"score": 2582
+},
+{
+"word": "squid",
+"score": 759
+},
+{
+"word": "stag",
+"score": 1397
+},
+{
+"word": "stair",
+"score": 3665
+},
+{
+"word": "staircase",
+"score": 1906
+},
+{
+"word": "staircases",
+"score": 3370
+},
+{
+"word": "stairway",
+"score": 1176
+},
+{
+"word": "stairways",
+"score": 1177
+},
+{
+"word": "starfish",
+"score": 144
+},
+{
+"word": "stargazing",
+"score": 963
+},
+{
+"word": "state",
+"score": 3592
+},
+{
+"word": "stateroom",
+"score": 1806
+},
+{
+"word": "statue",
+"score": 2786
+},
+{
+"word": "staycation",
+"score": 929
+},
+{
+"word": "staying",
+"score": 3378
+},
+{
+"word": "stead",
+"score": 3414
+},
+{
+"word": "steakhouse",
+"score": 3522
+},
+{
+"word": "steakhouses",
+"score": 3521
+},
+{
+"word": "steamy",
+"score": 1946
+},
+{
+"word": "step",
+"score": 3664
+},
+{
+"word": "stern",
+"score": 1303
+},
+{
+"word": "stilt",
+"score": 1064
+},
+{
+"word": "stilts",
+"score": 1063
+},
+{
+"word": "stingray",
+"score": 387
+},
+{
+"word": "stingrays",
+"score": 388
+},
+{
+"word": "stir",
+"score": 628
+},
+{
+"word": "stonehaven",
+"score": 3655
+},
+{
+"word": "stonehenge",
+"score": 3627
+},
+{
+"word": "stonehenge",
+"score": 3628
+},
+{
+"word": "stoop",
+"score": 2041
+},
+{
+"word": "stoops",
+"score": 2040
+},
+{
+"word": "stop",
+"score": 2297
+},
+{
+"word": "stopover",
+"score": 2298
+},
+{
+"word": "stoup",
+"score": 2042
+},
+{
+"word": "straggler",
+"score": 2046
+},
+{
+"word": "stragglers",
+"score": 2045
+},
+{
+"word": "strait",
+"score": 1321
+},
+{
+"word": "straits",
+"score": 1322
+},
+{
+"word": "strand",
+"score": 404
+},
+{
+"word": "strand",
+"score": 405
+},
+{
+"word": "stranded",
+"score": 3804
+},
+{
+"word": "stranding",
+"score": 3216
+},
+{
+"word": "strapless",
+"score": 2637
+},
+{
+"word": "strawberries",
+"score": 2707
+},
+{
+"word": "strawberry",
+"score": 2706
+},
+{
+"word": "street",
+"score": 413
+},
+{
+"word": "streetlight",
+"score": 3838
+},
+{
+"word": "streetlights",
+"score": 3837
+},
+{
+"word": "streets",
+"score": 737
+},
+{
+"word": "stretch",
+"score": 2782
+},
+{
+"word": "stretches",
+"score": 3619
+},
+{
+"word": "strip",
+"score": 570
+},
+{
+"word": "stripe",
+"score": 1215
+},
+{
+"word": "striper",
+"score": 1841
+},
+{
+"word": "stripers",
+"score": 2463
+},
+{
+"word": "stripper",
+"score": 3178
+},
+{
+"word": "striptease",
+"score": 3653
+},
+{
+"word": "stroll",
+"score": 1119
+},
+{
+"word": "stroller",
+"score": 2027
+},
+{
+"word": "strollers",
+"score": 1984
+},
+{
+"word": "strolling",
+"score": 1414
+},
+{
+"word": "strolls",
+"score": 2913
+},
+{
+"word": "strumming",
+"score": 2738
+},
+{
+"word": "stumbler",
+"score": 381
+},
+{
+"word": "styrofoam",
+"score": 2640
+},
+{
+"word": "styrofoam",
+"score": 2641
+},
+{
+"word": "subdivision",
+"score": 2432
+},
+{
+"word": "submarine",
+"score": 2451
+},
+{
+"word": "submerged",
+"score": 2461
+},
+{
+"word": "submersible",
+"score": 2085
+},
+{
+"word": "subsection",
+"score": 2429
+},
+{
+"word": "subtropical",
+"score": 1361
+},
+{
+"word": "suburb",
+"score": 3190
+},
+{
+"word": "suburbia",
+"score": 3189
+},
+{
+"word": "suds",
+"score": 3706
+},
+{
+"word": "suitcase",
+"score": 3184
+},
+{
+"word": "sultry",
+"score": 2106
+},
+{
+"word": "summer",
+"score": 412
+},
+{
+"word": "summers",
+"score": 1413
+},
+{
+"word": "summertime",
+"score": 411
+},
+{
+"word": "summery",
+"score": 745
+},
+{
+"word": "sun",
+"score": 339
+},
+{
+"word": "sunbather",
+"score": 30
+},
+{
+"word": "sunbathers",
+"score": 29
+},
+{
+"word": "sunbathing",
+"score": 9
+},
+{
+"word": "sunbeds",
+"score": 1137
+},
+{
+"word": "sunblock",
+"score": 369
+},
+{
+"word": "sunburn",
+"score": 370
+},
+{
+"word": "sunburned",
+"score": 170
+},
+{
+"word": "sunburns",
+"score": 504
+},
+{
+"word": "sunday",
+"score": 337
+},
+{
+"word": "sunderbans",
+"score": 2770
+},
+{
+"word": "sundown",
+"score": 1156
+},
+{
+"word": "sungai",
+"score": 2543
+},
+{
+"word": "sunglass",
+"score": 2191
+},
+{
+"word": "sunglasses",
+"score": 2192
+},
+{
+"word": "sunken",
+"score": 1651
+},
+{
+"word": "sunlight",
+"score": 338
+},
+{
+"word": "sunlit",
+"score": 2983
+},
+{
+"word": "sunniest",
+"score": 1890
+},
+{
+"word": "sunning",
+"score": 59
+},
+{
+"word": "sunny",
+"score": 243
+},
+{
+"word": "sunrise",
+"score": 1030
+},
+{
+"word": "sunroom",
+"score": 2778
+},
+{
+"word": "sunscreen",
+"score": 258
+},
+{
+"word": "sunscreens",
+"score": 1326
+},
+{
+"word": "sunset",
+"score": 132
+},
+{
+"word": "sunsets",
+"score": 131
+},
+{
+"word": "sunshine",
+"score": 391
+},
+{
+"word": "sup",
+"score": 1035
+},
+{
+"word": "superferry",
+"score": 1968
+},
+{
+"word": "supergrass",
+"score": 1266
+},
+{
+"word": "supermodel",
+"score": 3239
+},
+{
+"word": "superyacht",
+"score": 3532
+},
+{
+"word": "supper",
+"score": 3436
+},
+{
+"word": "supporter",
+"score": 2595
+},
+{
+"word": "surf",
+"score": 23
+},
+{
+"word": "surfboard",
+"score": 106
+},
+{
+"word": "surfboards",
+"score": 149
+},
+{
+"word": "surfed",
+"score": 461
+},
+{
+"word": "surfer",
+"score": 70
+},
+{
+"word": "surfers",
+"score": 71
+},
+{
+"word": "surfing",
+"score": 62
+},
+{
+"word": "surfs",
+"score": 565
+},
+{
+"word": "surfside",
+"score": 128
+},
+{
+"word": "surroundings",
+"score": 2467
+},
+{
+"word": "sushi",
+"score": 1819
+},
+{
+"word": "suwannee",
+"score": 3375
+},
+{
+"word": "swakopmund",
+"score": 1589
+},
+{
+"word": "swallow",
+"score": 1036
+},
+{
+"word": "swam",
+"score": 1296
+},
+{
+"word": "swamp",
+"score": 924
+},
+{
+"word": "swampland",
+"score": 1369
+},
+{
+"word": "swamps",
+"score": 1543
+},
+{
+"word": "swampy",
+"score": 1294
+},
+{
+"word": "swank",
+"score": 1929
+},
+{
+"word": "swanky",
+"score": 1980
+},
+{
+"word": "swansboro",
+"score": 1331
+},
+{
+"word": "sweatpants",
+"score": 2305
+},
+{
+"word": "sweaty",
+"score": 2402
+},
+{
+"word": "sweep",
+"score": 2452
+},
+{
+"word": "swell",
+"score": 1519
+},
+{
+"word": "swells",
+"score": 1518
+},
+{
+"word": "sweltering",
+"score": 2418
+},
+{
+"word": "swim",
+"score": 195
+},
+{
+"word": "swimmer",
+"score": 18
+},
+{
+"word": "swimmers",
+"score": 615
+},
+{
+"word": "swimming",
+"score": 99
+},
+{
+"word": "swims",
+"score": 766
+},
+{
+"word": "swimsuit",
+"score": 249
+},
+{
+"word": "swimsuits",
+"score": 367
+},
+{
+"word": "swimwear",
+"score": 248
+},
+{
+"word": "swindle",
+"score": 2806
+},
+{
+"word": "swinger",
+"score": 2092
+},
+{
+"word": "swingers",
+"score": 2091
+},
+{
+"word": "swordfish",
+"score": 1370
+},
+{
+"word": "swum",
+"score": 2032
+},
+{
+"word": "sydneysiders",
+"score": 2728
+},
+{
+"word": "sympathizer",
+"score": 2213
+},
+{
+"word": "synagogue",
+"score": 1866
+},
+{
+"word": "taba",
+"score": 2553
+},
+{
+"word": "tabletop",
+"score": 1990
+},
+{
+"word": "tabletops",
+"score": 1989
+},
+{
+"word": "taboo",
+"score": 3424
+},
+{
+"word": "tabu",
+"score": 3423
+},
+{
+"word": "taco",
+"score": 2131
+},
+{
+"word": "tacos",
+"score": 3313
+},
+{
+"word": "tad",
+"score": 1893
+},
+{
+"word": "tagging",
+"score": 3220
+},
+{
+"word": "tahiti",
+"score": 267
+},
+{
+"word": "tahiti",
+"score": 268
+},
+{
+"word": "tahitian",
+"score": 306
+},
+{
+"word": "tahitian",
+"score": 307
+},
+{
+"word": "tahoe",
+"score": 2142
+},
+{
+"word": "tailgate",
+"score": 2197
+},
+{
+"word": "tailgater",
+"score": 3570
+},
+{
+"word": "tailgaters",
+"score": 3569
+},
+{
+"word": "tailgating",
+"score": 3789
+},
+{
+"word": "taj",
+"score": 3284
+},
+{
+"word": "tan",
+"score": 283
+},
+{
+"word": "tangent",
+"score": 284
+},
+{
+"word": "tanned",
+"score": 439
+},
+{
+"word": "tanning",
+"score": 1051
+},
+{
+"word": "tans",
+"score": 282
+},
+{
+"word": "taormina",
+"score": 1650
+},
+{
+"word": "tapa",
+"score": 1337
+},
+{
+"word": "tapas",
+"score": 1338
+},
+{
+"word": "tar",
+"score": 2166
+},
+{
+"word": "target",
+"score": 2743
+},
+{
+"word": "tarmac",
+"score": 1277
+},
+{
+"word": "tarmacadam",
+"score": 1278
+},
+{
+"word": "tarpaulin",
+"score": 3759
+},
+{
+"word": "tarpon",
+"score": 928
+},
+{
+"word": "tarps",
+"score": 3758
+},
+{
+"word": "tavern",
+"score": 1540
+},
+{
+"word": "taxi",
+"score": 2767
+},
+{
+"word": "taxis",
+"score": 3557
+},
+{
+"word": "tdc",
+"score": 2902
+},
+{
+"word": "teaberry",
+"score": 3833
+},
+{
+"word": "tee",
+"score": 2359
+},
+{
+"word": "teeing",
+"score": 3435
+},
+{
+"word": "teenagers",
+"score": 3524
+},
+{
+"word": "tees",
+"score": 2360
+},
+{
+"word": "telly",
+"score": 2368
+},
+{
+"word": "temple",
+"score": 2169
+},
+{
+"word": "tenby",
+"score": 819
+},
+{
+"word": "tenerife",
+"score": 738
+},
+{
+"word": "tenerife",
+"score": 739
+},
+{
+"word": "tennis",
+"score": 2271
+},
+{
+"word": "tent",
+"score": 2485
+},
+{
+"word": "tented",
+"score": 3695
+},
+{
+"word": "tents",
+"score": 3721
+},
+{
+"word": "tequesta",
+"score": 1957
+},
+{
+"word": "tequila",
+"score": 2984
+},
+{
+"word": "tern",
+"score": 606
+},
+{
+"word": "terns",
+"score": 607
+},
+{
+"word": "terrace",
+"score": 229
+},
+{
+"word": "terraced",
+"score": 3119
+},
+{
+"word": "terraces",
+"score": 720
+},
+{
+"word": "terrain",
+"score": 3763
+},
+{
+"word": "tgif",
+"score": 2118
+},
+{
+"word": "thanet",
+"score": 2513
+},
+{
+"word": "thatched",
+"score": 1074
+},
+{
+"word": "theater",
+"score": 1579
+},
+{
+"word": "thong",
+"score": 311
+},
+{
+"word": "thongs",
+"score": 315
+},
+{
+"word": "thoroughfare",
+"score": 705
+},
+{
+"word": "thoroughfares",
+"score": 1972
+},
+{
+"word": "three",
+"score": 789
+},
+{
+"word": "tiburon",
+"score": 880
+},
+{
+"word": "tidal",
+"score": 1341
+},
+{
+"word": "tide",
+"score": 937
+},
+{
+"word": "tides",
+"score": 938
+},
+{
+"word": "tiki",
+"score": 892
+},
+{
+"word": "tillamook",
+"score": 2916
+},
+{
+"word": "tilly",
+"score": 3232
+},
+{
+"word": "timeshare",
+"score": 818
+},
+{
+"word": "timeshares",
+"score": 652
+},
+{
+"word": "tipsy",
+"score": 2330
+},
+{
+"word": "tisbury",
+"score": 2117
+},
+{
+"word": "titanic",
+"score": 3133
+},
+{
+"word": "titmouse",
+"score": 3083
+},
+{
+"word": "tits",
+"score": 3082
+},
+{
+"word": "toad",
+"score": 2785
+},
+{
+"word": "toboggan",
+"score": 1851
+},
+{
+"word": "toddler",
+"score": 1197
+},
+{
+"word": "toddlers",
+"score": 1310
+},
+{
+"word": "toe",
+"score": 3434
+},
+{
+"word": "toes",
+"score": 3433
+},
+{
+"word": "tofino",
+"score": 410
+},
+{
+"word": "toga",
+"score": 1073
+},
+{
+"word": "toilet",
+"score": 1164
+},
+{
+"word": "toilets",
+"score": 1646
+},
+{
+"word": "tombstone",
+"score": 3117
+},
+{
+"word": "tonic",
+"score": 3825
+},
+{
+"word": "tons",
+"score": 1507
+},
+{
+"word": "tony",
+"score": 2011
+},
+{
+"word": "tootsie",
+"score": 3135
+},
+{
+"word": "topanga",
+"score": 2035
+},
+{
+"word": "topless",
+"score": 239
+},
+{
+"word": "topsail",
+"score": 946
+},
+{
+"word": "torbay",
+"score": 1950
+},
+{
+"word": "tornado",
+"score": 3074
+},
+{
+"word": "torquay",
+"score": 1477
+},
+{
+"word": "torso",
+"score": 2148
+},
+{
+"word": "tortola",
+"score": 471
+},
+{
+"word": "tot",
+"score": 1449
+},
+{
+"word": "tots",
+"score": 2246
+},
+{
+"word": "tourism",
+"score": 1102
+},
+{
+"word": "tourist",
+"score": 171
+},
+{
+"word": "tourists",
+"score": 366
+},
+{
+"word": "touristy",
+"score": 257
+},
+{
+"word": "tow",
+"score": 935
+},
+{
+"word": "towed",
+"score": 1475
+},
+{
+"word": "towel",
+"score": 1007
+},
+{
+"word": "towels",
+"score": 1006
+},
+{
+"word": "towing",
+"score": 1885
+},
+{
+"word": "town",
+"score": 716
+},
+{
+"word": "town",
+"score": 717
+},
+{
+"word": "towners",
+"score": 2979
+},
+{
+"word": "townhouse",
+"score": 2281
+},
+{
+"word": "towns",
+"score": 2982
+},
+{
+"word": "township",
+"score": 718
+},
+{
+"word": "townsman",
+"score": 2980
+},
+{
+"word": "track",
+"score": 1904
+},
+{
+"word": "tracksuits",
+"score": 3380
+},
+{
+"word": "tradewinds",
+"score": 609
+},
+{
+"word": "trail",
+"score": 679
+},
+{
+"word": "trailhead",
+"score": 453
+},
+{
+"word": "trailheads",
+"score": 861
+},
+{
+"word": "trails",
+"score": 1129
+},
+{
+"word": "traipsing",
+"score": 2230
+},
+{
+"word": "tramline",
+"score": 2924
+},
+{
+"word": "tramp",
+"score": 1824
+},
+{
+"word": "tramping",
+"score": 2093
+},
+{
+"word": "trampoline",
+"score": 2099
+},
+{
+"word": "trampolines",
+"score": 2332
+},
+{
+"word": "tramway",
+"score": 2925
+},
+{
+"word": "tranquil",
+"score": 784
+},
+{
+"word": "tranquility",
+"score": 1377
+},
+{
+"word": "tranquillity",
+"score": 1378
+},
+{
+"word": "transom",
+"score": 3774
+},
+{
+"word": "trash",
+"score": 1360
+},
+{
+"word": "trashy",
+"score": 1636
+},
+{
+"word": "traveler",
+"score": 3711
+},
+{
+"word": "travelers",
+"score": 3712
+},
+{
+"word": "trawler",
+"score": 1796
+},
+{
+"word": "trawlers",
+"score": 1797
+},
+{
+"word": "trawling",
+"score": 2371
+},
+{
+"word": "treadmill",
+"score": 3617
+},
+{
+"word": "treadmills",
+"score": 3616
+},
+{
+"word": "tree",
+"score": 2797
+},
+{
+"word": "tree",
+"score": 2798
+},
+{
+"word": "treehouse",
+"score": 695
+},
+{
+"word": "trees",
+"score": 2799
+},
+{
+"word": "treetops",
+"score": 3743
+},
+{
+"word": "trekker",
+"score": 3426
+},
+{
+"word": "trekkers",
+"score": 3427
+},
+{
+"word": "trekking",
+"score": 3031
+},
+{
+"word": "trendy",
+"score": 3660
+},
+{
+"word": "trespassers",
+"score": 2941
+},
+{
+"word": "trespassing",
+"score": 2276
+},
+{
+"word": "trestle",
+"score": 1089
+},
+{
+"word": "triathlete",
+"score": 3025
+},
+{
+"word": "triathletes",
+"score": 2611
+},
+{
+"word": "triathlon",
+"score": 1526
+},
+{
+"word": "triathlons",
+"score": 3202
+},
+{
+"word": "trinkets",
+"score": 2832
+},
+{
+"word": "tripadvisor",
+"score": 1696
+},
+{
+"word": "tripper",
+"score": 380
+},
+{
+"word": "trippers",
+"score": 378
+},
+{
+"word": "troiano",
+"score": 1686
+},
+{
+"word": "troon",
+"score": 2841
+},
+{
+"word": "trop",
+"score": 2575
+},
+{
+"word": "tropic",
+"score": 900
+},
+{
+"word": "tropical",
+"score": 238
+},
+{
+"word": "tropicana",
+"score": 3081
+},
+{
+"word": "tropics",
+"score": 899
+},
+{
+"word": "trpa",
+"score": 2128
+},
+{
+"word": "trunk",
+"score": 2145
+},
+{
+"word": "trunks",
+"score": 2146
+},
+{
+"word": "tryst",
+"score": 3790
+},
+{
+"word": "tsunami",
+"score": 1751
+},
+{
+"word": "tsunamis",
+"score": 1759
+},
+{
+"word": "tub",
+"score": 1478
+},
+{
+"word": "tubs",
+"score": 1479
+},
+{
+"word": "tulum",
+"score": 563
+},
+{
+"word": "tuna",
+"score": 1420
+},
+{
+"word": "tundra",
+"score": 2991
+},
+{
+"word": "turbidity",
+"score": 3006
+},
+{
+"word": "turquoise",
+"score": 983
+},
+{
+"word": "turtle",
+"score": 383
+},
+{
+"word": "turtleneck",
+"score": 384
+},
+{
+"word": "turtles",
+"score": 385
+},
+{
+"word": "tuscany",
+"score": 3244
+},
+{
+"word": "tuscany",
+"score": 3245
+},
+{
+"word": "twiggy",
+"score": 3348
+},
+{
+"word": "twilight",
+"score": 735
+},
+{
+"word": "twister",
+"score": 3073
+},
+{
+"word": "tybee",
+"score": 185
+},
+{
+"word": "ucluelet",
+"score": 1897
+},
+{
+"word": "ucsb",
+"score": 3488
+},
+{
+"word": "uke",
+"score": 1442
+},
+{
+"word": "ukulele",
+"score": 1443
+},
+{
+"word": "uluru",
+"score": 650
+},
+{
+"word": "umbrella",
+"score": 1419
+},
+{
+"word": "umbrellas",
+"score": 1418
+},
+{
+"word": "unclothed",
+"score": 1067
+},
+{
+"word": "uncw",
+"score": 3048
+},
+{
+"word": "underbrush",
+"score": 1104
+},
+{
+"word": "undergrowth",
+"score": 1103
+},
+{
+"word": "underpants",
+"score": 1679
+},
+{
+"word": "underpass",
+"score": 3395
+},
+{
+"word": "undersea",
+"score": 2573
+},
+{
+"word": "underwater",
+"score": 368
+},
+{
+"word": "underwear",
+"score": 1415
+},
+{
+"word": "undeveloped",
+"score": 2404
+},
+{
+"word": "undies",
+"score": 2366
+},
+{
+"word": "undisturbed",
+"score": 3507
+},
+{
+"word": "undressed",
+"score": 3241
+},
+{
+"word": "unimproved",
+"score": 3666
+},
+{
+"word": "uninhabited",
+"score": 485
+},
+{
+"word": "union",
+"score": 2890
+},
+{
+"word": "unkempt",
+"score": 2066
+},
+{
+"word": "unlit",
+"score": 1997
+},
+{
+"word": "unoccupied",
+"score": 3764
+},
+{
+"word": "unpaved",
+"score": 914
+},
+{
+"word": "unprotected",
+"score": 3384
+},
+{
+"word": "unsightly",
+"score": 2834
+},
+{
+"word": "unspoiled",
+"score": 184
+},
+{
+"word": "unspoilt",
+"score": 168
+},
+{
+"word": "unsupervised",
+"score": 1316
+},
+{
+"word": "unwind",
+"score": 3049
+},
+{
+"word": "upland",
+"score": 2272
+},
+{
+"word": "uplands",
+"score": 2269
+},
+{
+"word": "upmarket",
+"score": 2826
+},
+{
+"word": "upscale",
+"score": 1870
+},
+{
+"word": "upturned",
+"score": 2906
+},
+{
+"word": "upwind",
+"score": 1753
+},
+{
+"word": "urinate",
+"score": 3634
+},
+{
+"word": "urine",
+"score": 211
+},
+{
+"word": "use",
+"score": 2122
+},
+{
+"word": "uvb",
+"score": 3261
+},
+{
+"word": "uwf",
+"score": 2878
+},
+{
+"word": "vacation",
+"score": 79
+},
+{
+"word": "vacationed",
+"score": 344
+},
+{
+"word": "vacationer",
+"score": 96
+},
+{
+"word": "vacationers",
+"score": 97
+},
+{
+"word": "vacationing",
+"score": 137
+},
+{
+"word": "vacations",
+"score": 205
+},
+{
+"word": "vagrant",
+"score": 1941
+},
+{
+"word": "valet",
+"score": 2825
+},
+{
+"word": "van",
+"score": 3289
+},
+{
+"word": "vegetation",
+"score": 644
+},
+{
+"word": "venetian",
+"score": 3505
+},
+{
+"word": "venetian",
+"score": 3506
+},
+{
+"word": "venice",
+"score": 506
+},
+{
+"word": "venice",
+"score": 507
+},
+{
+"word": "vent",
+"score": 3298
+},
+{
+"word": "ventnor",
+"score": 499
+},
+{
+"word": "venue",
+"score": 1433
+},
+{
+"word": "veranda",
+"score": 201
+},
+{
+"word": "verandah",
+"score": 244
+},
+{
+"word": "verdant",
+"score": 1981
+},
+{
+"word": "vessel",
+"score": 677
+},
+{
+"word": "vibe",
+"score": 2921
+},
+{
+"word": "vibration",
+"score": 2920
+},
+{
+"word": "vicinity",
+"score": 1199
+},
+{
+"word": "vieques",
+"score": 897
+},
+{
+"word": "vieques",
+"score": 898
+},
+{
+"word": "view",
+"score": 1482
+},
+{
+"word": "vila",
+"score": 2075
+},
+{
+"word": "villa",
+"score": 121
+},
+{
+"word": "villa",
+"score": 122
+},
+{
+"word": "village",
+"score": 1635
+},
+{
+"word": "villas",
+"score": 245
+},
+{
+"word": "vineyard",
+"score": 2014
+},
+{
+"word": "vineyards",
+"score": 3155
+},
+{
+"word": "vino",
+"score": 3088
+},
+{
+"word": "visitor",
+"score": 3227
+},
+{
+"word": "vista",
+"score": 1483
+},
+{
+"word": "vistas",
+"score": 1871
+},
+{
+"word": "volcano",
+"score": 3300
+},
+{
+"word": "volcanoes",
+"score": 3299
+},
+{
+"word": "volcanology",
+"score": 3297
+},
+{
+"word": "volcom",
+"score": 3269
+},
+{
+"word": "volleyball",
+"score": 1015
+},
+{
+"word": "voyage",
+"score": 2529
+},
+{
+"word": "waders",
+"score": 1096
+},
+{
+"word": "wading",
+"score": 3700
+},
+{
+"word": "wag",
+"score": 3754
+},
+{
+"word": "wags",
+"score": 3755
+},
+{
+"word": "wahine",
+"score": 2209
+},
+{
+"word": "wahoo",
+"score": 907
+},
+{
+"word": "waialae",
+"score": 3418
+},
+{
+"word": "waianae",
+"score": 959
+},
+{
+"word": "waikiki",
+"score": 90
+},
+{
+"word": "waikiki",
+"score": 91
+},
+{
+"word": "waimea",
+"score": 1945
+},
+{
+"word": "waist",
+"score": 1453
+},
+{
+"word": "waitress",
+"score": 2836
+},
+{
+"word": "waitresses",
+"score": 2837
+},
+{
+"word": "wakeboarding",
+"score": 714
+},
+{
+"word": "waldport",
+"score": 1887
+},
+{
+"word": "walk",
+"score": 290
+},
+{
+"word": "walkabout",
+"score": 1995
+},
+{
+"word": "walkathon",
+"score": 1795
+},
+{
+"word": "walker",
+"score": 1280
+},
+{
+"word": "walker",
+"score": 1281
+},
+{
+"word": "walkers",
+"score": 1282
+},
+{
+"word": "walking",
+"score": 1729
+},
+{
+"word": "walkway",
+"score": 291
+},
+{
+"word": "walkways",
+"score": 589
+},
+{
+"word": "walrus",
+"score": 1004
+},
+{
+"word": "walruses",
+"score": 1003
+},
+{
+"word": "wanaka",
+"score": 2180
+},
+{
+"word": "wandering",
+"score": 2599
+},
+{
+"word": "wantagh",
+"score": 1155
+},
+{
+"word": "wardrobe",
+"score": 3862
+},
+{
+"word": "wardrobes",
+"score": 3861
+},
+{
+"word": "warm",
+"score": 1939
+},
+{
+"word": "warship",
+"score": 3604
+},
+{
+"word": "wash",
+"score": 668
+},
+{
+"word": "washed",
+"score": 708
+},
+{
+"word": "washes",
+"score": 669
+},
+{
+"word": "washing",
+"score": 920
+},
+{
+"word": "washout",
+"score": 670
+},
+{
+"word": "washouts",
+"score": 2238
+},
+{
+"word": "washroom",
+"score": 2236
+},
+{
+"word": "washrooms",
+"score": 2237
+},
+{
+"word": "washup",
+"score": 177
+},
+{
+"word": "wasteland",
+"score": 2174
+},
+{
+"word": "watchtower",
+"score": 1136
+},
+{
+"word": "watchtowers",
+"score": 2100
+},
+{
+"word": "water",
+"score": 208
+},
+{
+"word": "waterborne",
+"score": 3399
+},
+{
+"word": "watercourse",
+"score": 227
+},
+{
+"word": "watercraft",
+"score": 676
+},
+{
+"word": "waterfall",
+"score": 553
+},
+{
+"word": "waterfalls",
+"score": 552
+},
+{
+"word": "waterfront",
+"score": 47
+},
+{
+"word": "waterfronts",
+"score": 130
+},
+{
+"word": "waterline",
+"score": 2028
+},
+{
+"word": "waterlogged",
+"score": 3626
+},
+{
+"word": "watermark",
+"score": 2280
+},
+{
+"word": "watermelon",
+"score": 3786
+},
+{
+"word": "watermen",
+"score": 1674
+},
+{
+"word": "waterpark",
+"score": 109
+},
+{
+"word": "waterproof",
+"score": 1283
+},
+{
+"word": "waters",
+"score": 209
+},
+{
+"word": "waters",
+"score": 210
+},
+{
+"word": "waterside",
+"score": 48
+},
+{
+"word": "watersports",
+"score": 56
+},
+{
+"word": "waterway",
+"score": 228
+},
+{
+"word": "waterways",
+"score": 226
+},
+{
+"word": "wave",
+"score": 697
+},
+{
+"word": "wave",
+"score": 698
+},
+{
+"word": "waveland",
+"score": 1284
+},
+{
+"word": "waves",
+"score": 696
+},
+{
+"word": "wayside",
+"score": 401
+},
+{
+"word": "wct",
+"score": 1431
+},
+{
+"word": "weare",
+"score": 3580
+},
+{
+"word": "wedding",
+"score": 1553
+},
+{
+"word": "weddings",
+"score": 2103
+},
+{
+"word": "weed",
+"score": 2915
+},
+{
+"word": "weeds",
+"score": 2914
+},
+{
+"word": "weehawken",
+"score": 2375
+},
+{
+"word": "weekend",
+"score": 561
+},
+{
+"word": "weekends",
+"score": 562
+},
+{
+"word": "weir",
+"score": 1675
+},
+{
+"word": "wellfleet",
+"score": 889
+},
+{
+"word": "wellies",
+"score": 1058
+},
+{
+"word": "westerly",
+"score": 2885
+},
+{
+"word": "westhampton",
+"score": 1108
+},
+{
+"word": "westport",
+"score": 2219
+},
+{
+"word": "westside",
+"score": 2819
+},
+{
+"word": "wet",
+"score": 1812
+},
+{
+"word": "wetland",
+"score": 530
+},
+{
+"word": "wetlands",
+"score": 531
+},
+{
+"word": "wetsuit",
+"score": 532
+},
+{
+"word": "wetsuits",
+"score": 251
+},
+{
+"word": "weymouth",
+"score": 3308
+},
+{
+"word": "whale",
+"score": 373
+},
+{
+"word": "whales",
+"score": 620
+},
+{
+"word": "whanau",
+"score": 3611
+},
+{
+"word": "wharf",
+"score": 67
+},
+{
+"word": "wharves",
+"score": 419
+},
+{
+"word": "whipping",
+"score": 1052
+},
+{
+"word": "whirlpool",
+"score": 3803
+},
+{
+"word": "whitewater",
+"score": 2701
+},
+{
+"word": "whiting",
+"score": 915
+},
+{
+"word": "whitsundays",
+"score": 199
+},
+{
+"word": "whorehouse",
+"score": 2963
+},
+{
+"word": "wicker",
+"score": 1899
+},
+{
+"word": "wii",
+"score": 3835
+},
+{
+"word": "wild",
+"score": 2613
+},
+{
+"word": "wilderness",
+"score": 984
+},
+{
+"word": "wilderness",
+"score": 985
+},
+{
+"word": "wildflower",
+"score": 2076
+},
+{
+"word": "wildflowers",
+"score": 2642
+},
+{
+"word": "wildlife",
+"score": 1756
+},
+{
+"word": "wilds",
+"score": 2612
+},
+{
+"word": "wildwood",
+"score": 661
+},
+{
+"word": "winched",
+"score": 3802
+},
+{
+"word": "windblown",
+"score": 1944
+},
+{
+"word": "winder",
+"score": 1585
+},
+{
+"word": "windermere",
+"score": 2235
+},
+{
+"word": "windfarm",
+"score": 3230
+},
+{
+"word": "windscreens",
+"score": 3805
+},
+{
+"word": "windshield",
+"score": 3806
+},
+{
+"word": "windsock",
+"score": 3828
+},
+{
+"word": "windsurfing",
+"score": 114
+},
+{
+"word": "windswept",
+"score": 1485
+},
+{
+"word": "windward",
+"score": 1820
+},
+{
+"word": "windy",
+"score": 1261
+},
+{
+"word": "wine",
+"score": 3089
+},
+{
+"word": "winehouse",
+"score": 3562
+},
+{
+"word": "winter",
+"score": 537
+},
+{
+"word": "wintergreen",
+"score": 3834
+},
+{
+"word": "wintering",
+"score": 3205
+},
+{
+"word": "wintertime",
+"score": 536
+},
+{
+"word": "wintery",
+"score": 2928
+},
+{
+"word": "wintry",
+"score": 3841
+},
+{
+"word": "witwatersrand",
+"score": 35
+},
+{
+"word": "wollongong",
+"score": 3503
+},
+{
+"word": "wonderland",
+"score": 1135
+},
+{
+"word": "wood",
+"score": 942
+},
+{
+"word": "wood",
+"score": 944
+},
+{
+"word": "wooded",
+"score": 326
+},
+{
+"word": "wooden",
+"score": 3859
+},
+{
+"word": "woodland",
+"score": 1095
+},
+{
+"word": "woodlands",
+"score": 3183
+},
+{
+"word": "woods",
+"score": 941
+},
+{
+"word": "woodsy",
+"score": 991
+},
+{
+"word": "woodwind",
+"score": 945
+},
+{
+"word": "workshop",
+"score": 2317
+},
+{
+"word": "worshiper",
+"score": 2814
+},
+{
+"word": "worshipers",
+"score": 2815
+},
+{
+"word": "wqs",
+"score": 1010
+},
+{
+"word": "wreck",
+"score": 2443
+},
+{
+"word": "wreckage",
+"score": 3092
+},
+{
+"word": "wrecks",
+"score": 2527
+},
+{
+"word": "wyland",
+"score": 3374
+},
+{
+"word": "yacht",
+"score": 234
+},
+{
+"word": "yachting",
+"score": 289
+},
+{
+"word": "yachts",
+"score": 577
+},
+{
+"word": "yachtsman",
+"score": 1221
+},
+{
+"word": "yachtsmen",
+"score": 1222
+},
+{
+"word": "yarmouth",
+"score": 3486
+},
+{
+"word": "yarra",
+"score": 1924
+},
+{
+"word": "yarrow",
+"score": 1993
+},
+{
+"word": "yasi",
+"score": 3020
+},
+{
+"word": "yellowtail",
+"score": 1695
+},
+{
+"word": "ymca",
+"score": 3438
+},
+{
+"word": "yoga",
+"score": 2098
+},
+{
+"word": "yorkie",
+"score": 1923
+},
+{
+"word": "yucatan",
+"score": 1815
+},
+{
+"word": "yucatan",
+"score": 1816
+},
+{
+"word": "yuppie",
+"score": 3484
+},
+{
+"word": "yuppies",
+"score": 3483
+},
+{
+"word": "yurt",
+"score": 3215
+},
+{
+"word": "zandvoort",
+"score": 3777
+},
+{
+"word": "zanzibar",
+"score": 1070
+},
+{
+"word": "zanzibar",
+"score": 1071
+},
+{
+"word": "zellweger",
+"score": 3136
+},
+{
+"word": "zhou",
+"score": 2633
+},
+{
+"word": "zoo",
+"score": 1838
+}
+]
+}

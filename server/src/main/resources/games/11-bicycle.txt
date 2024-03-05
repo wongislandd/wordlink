@@ -1,0 +1,5121 @@
+{
+"hints": [
+"I have pedals and handlebars, but I'm not a vehicle. What am I?",
+"I have two wheels and can take you places, but you won't find an engine under my hood. What am I?",
+"I'm a mode of transportation that requires no fuel, just a bit of sweat and effort. What am I?"
+],
+"associations": [
+{
+"word": "achaba",
+"score": 1026
+},
+{
+"word": "ademski",
+"score": 286
+},
+{
+"word": "aerobars",
+"score": 158
+},
+{
+"word": "agv",
+"score": 1011
+},
+{
+"word": "airboard",
+"score": 698
+},
+{
+"word": "airboards",
+"score": 345
+},
+{
+"word": "airfence",
+"score": 958
+},
+{
+"word": "alaia",
+"score": 865
+},
+{
+"word": "albasini",
+"score": 1150
+},
+{
+"word": "alfine",
+"score": 634
+},
+{
+"word": "alleycat",
+"score": 764
+},
+{
+"word": "amashovashova",
+"score": 1218
+},
+{
+"word": "ambaum",
+"score": 1228
+},
+{
+"word": "amelsberg",
+"score": 934
+},
+{
+"word": "amette",
+"score": 805
+},
+{
+"word": "amtryke",
+"score": 152
+},
+{
+"word": "amtrykes",
+"score": 678
+},
+{
+"word": "analomink",
+"score": 1212
+},
+{
+"word": "anczarski",
+"score": 590
+},
+{
+"word": "andiron",
+"score": 917
+},
+{
+"word": "angliru",
+"score": 1082
+},
+{
+"word": "annadel",
+"score": 701
+},
+{
+"word": "antilocks",
+"score": 636
+},
+{
+"word": "appliance",
+"score": 989
+},
+{
+"word": "arastradero",
+"score": 788
+},
+{
+"word": "artrain",
+"score": 645
+},
+{
+"word": "atdynamics",
+"score": 935
+},
+{
+"word": "atv",
+"score": 76
+},
+{
+"word": "atving",
+"score": 1096
+},
+{
+"word": "atvs",
+"score": 302
+},
+{
+"word": "audax",
+"score": 642
+},
+{
+"word": "autobody",
+"score": 876
+},
+{
+"word": "autobus",
+"score": 793
+},
+{
+"word": "autocrossing",
+"score": 863
+},
+{
+"word": "autolib",
+"score": 986
+},
+{
+"word": "automobile",
+"score": 199
+},
+{
+"word": "autorickshaw",
+"score": 688
+},
+{
+"word": "autorickshaws",
+"score": 1072
+},
+{
+"word": "avant-garde",
+"score": 95
+},
+{
+"word": "aylesbeare",
+"score": 1022
+},
+{
+"word": "backpack",
+"score": 123
+},
+{
+"word": "backpacks",
+"score": 911
+},
+{
+"word": "backrider",
+"score": 328
+},
+{
+"word": "backroad",
+"score": 254
+},
+{
+"word": "backstedt",
+"score": 736
+},
+{
+"word": "bag",
+"score": 827
+},
+{
+"word": "bahne",
+"score": 1211
+},
+{
+"word": "bajaj",
+"score": 724
+},
+{
+"word": "bakfiets",
+"score": 84
+},
+{
+"word": "bamuwamye",
+"score": 608
+},
+{
+"word": "bandana",
+"score": 1043
+},
+{
+"word": "bandanna",
+"score": 1044
+},
+{
+"word": "bannister",
+"score": 1015
+},
+{
+"word": "barbur",
+"score": 296
+},
+{
+"word": "barefooting",
+"score": 857
+},
+{
+"word": "barge",
+"score": 1052
+},
+{
+"word": "barrow",
+"score": 395
+},
+{
+"word": "batavus",
+"score": 241
+},
+{
+"word": "batmobile",
+"score": 317
+},
+{
+"word": "batpod",
+"score": 227
+},
+{
+"word": "becak",
+"score": 174
+},
+{
+"word": "becaks",
+"score": 307
+},
+{
+"word": "bedroll",
+"score": 1277
+},
+{
+"word": "benafield",
+"score": 1260
+},
+{
+"word": "bernodin",
+"score": 823
+},
+{
+"word": "biathalon",
+"score": 1056
+},
+{
+"word": "bicas",
+"score": 67
+},
+{
+"word": "bicing",
+"score": 421
+},
+{
+"word": "bicycle",
+"score": 0
+},
+{
+"word": "bicycling",
+"score": 6
+},
+{
+"word": "bicyclist",
+"score": 24
+},
+{
+"word": "bicyclists",
+"score": 27
+},
+{
+"word": "bicyle",
+"score": 13
+},
+{
+"word": "bicyles",
+"score": 18
+},
+{
+"word": "bidons",
+"score": 1191
+},
+{
+"word": "bikable",
+"score": 244
+},
+{
+"word": "bike",
+"score": 1
+},
+{
+"word": "bikeability",
+"score": 276
+},
+{
+"word": "bikeable",
+"score": 326
+},
+{
+"word": "bikeathens",
+"score": 205
+},
+{
+"word": "bikeathon",
+"score": 524
+},
+{
+"word": "bikebiz",
+"score": 951
+},
+{
+"word": "biked",
+"score": 72
+},
+{
+"word": "bikee",
+"score": 921
+},
+{
+"word": "bikehut",
+"score": 991
+},
+{
+"word": "bikepath",
+"score": 449
+},
+{
+"word": "bikeportland",
+"score": 656
+},
+{
+"word": "biker",
+"score": 126
+},
+{
+"word": "bikeradar",
+"score": 526
+},
+{
+"word": "bikers",
+"score": 131
+},
+{
+"word": "bikes",
+"score": 7
+},
+{
+"word": "bikesafe",
+"score": 374
+},
+{
+"word": "bikeshare",
+"score": 141
+},
+{
+"word": "bikestation",
+"score": 496
+},
+{
+"word": "biketown",
+"score": 195
+},
+{
+"word": "bikeway",
+"score": 193
+},
+{
+"word": "bikeways",
+"score": 186
+},
+{
+"word": "bikeworks",
+"score": 677
+},
+{
+"word": "biking",
+"score": 9
+},
+{
+"word": "bilenky",
+"score": 972
+},
+{
+"word": "billycart",
+"score": 552
+},
+{
+"word": "biobus",
+"score": 753
+},
+{
+"word": "bionicon",
+"score": 1041
+},
+{
+"word": "bixi",
+"score": 403
+},
+{
+"word": "bladers",
+"score": 605
+},
+{
+"word": "bladium",
+"score": 1074
+},
+{
+"word": "bluesmobile",
+"score": 1201
+},
+{
+"word": "blueway",
+"score": 922
+},
+{
+"word": "bmx",
+"score": 97
+},
+{
+"word": "bmxer",
+"score": 621
+},
+{
+"word": "bmxers",
+"score": 106
+},
+{
+"word": "bmxing",
+"score": 400
+},
+{
+"word": "bmxs",
+"score": 28
+},
+{
+"word": "boat",
+"score": 635
+},
+{
+"word": "bodaboda",
+"score": 179
+},
+{
+"word": "bodyboard",
+"score": 835
+},
+{
+"word": "bodyboards",
+"score": 626
+},
+{
+"word": "bodysurfer",
+"score": 568
+},
+{
+"word": "boehly",
+"score": 408
+},
+{
+"word": "bollard",
+"score": 676
+},
+{
+"word": "bondam",
+"score": 522
+},
+{
+"word": "boneshaker",
+"score": 74
+},
+{
+"word": "borp",
+"score": 808
+},
+{
+"word": "bouldering",
+"score": 1089
+},
+{
+"word": "brain",
+"score": 498
+},
+{
+"word": "brakeless",
+"score": 173
+},
+{
+"word": "breva",
+"score": 839
+},
+{
+"word": "brim",
+"score": 1062
+},
+{
+"word": "broeder",
+"score": 868
+},
+{
+"word": "broomstick",
+"score": 655
+},
+{
+"word": "buckboard",
+"score": 518
+},
+{
+"word": "buggie",
+"score": 878
+},
+{
+"word": "buggies",
+"score": 588
+},
+{
+"word": "buggy",
+"score": 396
+},
+{
+"word": "bullbar",
+"score": 536
+},
+{
+"word": "bultaco",
+"score": 609
+},
+{
+"word": "bungee",
+"score": 943
+},
+{
+"word": "bungeed",
+"score": 1000
+},
+{
+"word": "bungees",
+"score": 944
+},
+{
+"word": "bus",
+"score": 101
+},
+{
+"word": "busbar",
+"score": 102
+},
+{
+"word": "busekist",
+"score": 856
+},
+{
+"word": "buses",
+"score": 513
+},
+{
+"word": "busks",
+"score": 1219
+},
+{
+"word": "busses",
+"score": 586
+},
+{
+"word": "cab",
+"score": 185
+},
+{
+"word": "cabi",
+"score": 575
+},
+{
+"word": "cad",
+"score": 914
+},
+{
+"word": "callemyn",
+"score": 1050
+},
+{
+"word": "caltrain",
+"score": 281
+},
+{
+"word": "camelback",
+"score": 472
+},
+{
+"word": "camelbak",
+"score": 1206
+},
+{
+"word": "camper",
+"score": 1070
+},
+{
+"word": "campervan",
+"score": 654
+},
+{
+"word": "candisc",
+"score": 357
+},
+{
+"word": "cane",
+"score": 1267
+},
+{
+"word": "cannondale",
+"score": 127
+},
+{
+"word": "canoe",
+"score": 112
+},
+{
+"word": "canoer",
+"score": 637
+},
+{
+"word": "canoers",
+"score": 1081
+},
+{
+"word": "canoes",
+"score": 630
+},
+{
+"word": "canyoneering",
+"score": 618
+},
+{
+"word": "car",
+"score": 31
+},
+{
+"word": "carabineer",
+"score": 1229
+},
+{
+"word": "carabiner",
+"score": 1139
+},
+{
+"word": "carabiners",
+"score": 1204
+},
+{
+"word": "caravan",
+"score": 298
+},
+{
+"word": "caravaned",
+"score": 1254
+},
+{
+"word": "carbineer",
+"score": 1230
+},
+{
+"word": "cardana",
+"score": 1045
+},
+{
+"word": "carfree",
+"score": 167
+},
+{
+"word": "carjacks",
+"score": 1090
+},
+{
+"word": "carless",
+"score": 789
+},
+{
+"word": "carpool",
+"score": 680
+},
+{
+"word": "carpooler",
+"score": 329
+},
+{
+"word": "carpooling",
+"score": 508
+},
+{
+"word": "carpools",
+"score": 744
+},
+{
+"word": "carrier",
+"score": 1262
+},
+{
+"word": "carryall",
+"score": 1140
+},
+{
+"word": "cars",
+"score": 376
+},
+{
+"word": "carseats",
+"score": 849
+},
+{
+"word": "carshare",
+"score": 1187
+},
+{
+"word": "carsharing",
+"score": 587
+},
+{
+"word": "cart",
+"score": 233
+},
+{
+"word": "cartridge",
+"score": 639
+},
+{
+"word": "carts",
+"score": 454
+},
+{
+"word": "casar",
+"score": 923
+},
+{
+"word": "casertino",
+"score": 763
+},
+{
+"word": "casteu",
+"score": 1268
+},
+{
+"word": "catlike",
+"score": 883
+},
+{
+"word": "cernota",
+"score": 976
+},
+{
+"word": "cervelo",
+"score": 325
+},
+{
+"word": "chainless",
+"score": 57
+},
+{
+"word": "chainring",
+"score": 467
+},
+{
+"word": "chainsaw",
+"score": 1271
+},
+{
+"word": "chairlift",
+"score": 1194
+},
+{
+"word": "chalkbot",
+"score": 1181
+},
+{
+"word": "chalouhi",
+"score": 665
+},
+{
+"word": "chamounix",
+"score": 1244
+},
+{
+"word": "chariot",
+"score": 1107
+},
+{
+"word": "chelatchie",
+"score": 1121
+},
+{
+"word": "cherriots",
+"score": 310
+},
+{
+"word": "cherrypicker",
+"score": 979
+},
+{
+"word": "chicchi",
+"score": 784
+},
+{
+"word": "chidoni",
+"score": 1039
+},
+{
+"word": "ciclavia",
+"score": 420
+},
+{
+"word": "cicle",
+"score": 211
+},
+{
+"word": "ciclo",
+"score": 1073
+},
+{
+"word": "ciclovia",
+"score": 223
+},
+{
+"word": "citybus",
+"score": 242
+},
+{
+"word": "citygo",
+"score": 1102
+},
+{
+"word": "cityryde",
+"score": 433
+},
+{
+"word": "civia",
+"score": 853
+},
+{
+"word": "cleat",
+"score": 1182
+},
+{
+"word": "clipless",
+"score": 926
+},
+{
+"word": "coaster",
+"score": 756
+},
+{
+"word": "cobble",
+"score": 629
+},
+{
+"word": "cobblestone",
+"score": 628
+},
+{
+"word": "cobblestones",
+"score": 840
+},
+{
+"word": "cog",
+"score": 624
+},
+{
+"word": "colnago",
+"score": 964
+},
+{
+"word": "commutation",
+"score": 957
+},
+{
+"word": "commuter",
+"score": 353
+},
+{
+"word": "commuters",
+"score": 1127
+},
+{
+"word": "commuting",
+"score": 956
+},
+{
+"word": "computrainer",
+"score": 222
+},
+{
+"word": "contraptions",
+"score": 988
+},
+{
+"word": "corratec",
+"score": 1042
+},
+{
+"word": "corsa",
+"score": 1223
+},
+{
+"word": "cotanche",
+"score": 897
+},
+{
+"word": "cotic",
+"score": 778
+},
+{
+"word": "cranksets",
+"score": 1120
+},
+{
+"word": "criterium",
+"score": 414
+},
+{
+"word": "criteriums",
+"score": 643
+},
+{
+"word": "crosscountry",
+"score": 1259
+},
+{
+"word": "crossing",
+"score": 738
+},
+{
+"word": "crosswalk",
+"score": 737
+},
+{
+"word": "cruiser",
+"score": 164
+},
+{
+"word": "cruizers",
+"score": 1059
+},
+{
+"word": "crusier",
+"score": 191
+},
+{
+"word": "ctrain",
+"score": 311
+},
+{
+"word": "curiak",
+"score": 253
+},
+{
+"word": "cushmans",
+"score": 661
+},
+{
+"word": "cyberbike",
+"score": 809
+},
+{
+"word": "cycle",
+"score": 176
+},
+{
+"word": "cycled",
+"score": 909
+},
+{
+"word": "cyclefest",
+"score": 336
+},
+{
+"word": "cycleops",
+"score": 399
+},
+{
+"word": "cyclepath",
+"score": 691
+},
+{
+"word": "cycler",
+"score": 213
+},
+{
+"word": "cyclers",
+"score": 456
+},
+{
+"word": "cyclery",
+"score": 109
+},
+{
+"word": "cycles",
+"score": 177
+},
+{
+"word": "cyclescheme",
+"score": 598
+},
+{
+"word": "cycleworks",
+"score": 121
+},
+{
+"word": "cycling",
+"score": 26
+},
+{
+"word": "cyclist",
+"score": 23
+},
+{
+"word": "cyclists",
+"score": 51
+},
+{
+"word": "cyclo",
+"score": 217
+},
+{
+"word": "cyclocross",
+"score": 255
+},
+{
+"word": "cyclos",
+"score": 393
+},
+{
+"word": "cyclosportive",
+"score": 773
+},
+{
+"word": "cyclothon",
+"score": 386
+},
+{
+"word": "dahon",
+"score": 200
+},
+{
+"word": "dalmac",
+"score": 40
+},
+{
+"word": "damboree",
+"score": 1064
+},
+{
+"word": "damper",
+"score": 320
+},
+{
+"word": "danfo",
+"score": 947
+},
+{
+"word": "dayliner",
+"score": 263
+},
+{
+"word": "daymak",
+"score": 959
+},
+{
+"word": "daypack",
+"score": 366
+},
+{
+"word": "degain",
+"score": 669
+},
+{
+"word": "derailer",
+"score": 192
+},
+{
+"word": "derailleur",
+"score": 321
+},
+{
+"word": "derailleurs",
+"score": 413
+},
+{
+"word": "derny",
+"score": 385
+},
+{
+"word": "devinci",
+"score": 1149
+},
+{
+"word": "dhers",
+"score": 746
+},
+{
+"word": "dickey",
+"score": 422
+},
+{
+"word": "dinghy",
+"score": 604
+},
+{
+"word": "dirico",
+"score": 1113
+},
+{
+"word": "dirtbike",
+"score": 43
+},
+{
+"word": "dirtbikes",
+"score": 322
+},
+{
+"word": "dismounting",
+"score": 1222
+},
+{
+"word": "dispagna",
+"score": 1095
+},
+{
+"word": "dodgem",
+"score": 436
+},
+{
+"word": "dog",
+"score": 916
+},
+{
+"word": "downhilling",
+"score": 427
+},
+{
+"word": "driftboat",
+"score": 1006
+},
+{
+"word": "drive",
+"score": 246
+},
+{
+"word": "driveaway",
+"score": 1273
+},
+{
+"word": "duathlons",
+"score": 872
+},
+{
+"word": "duckie",
+"score": 339
+},
+{
+"word": "durangoan",
+"score": 869
+},
+{
+"word": "dynacraft",
+"score": 1276
+},
+{
+"word": "dziewior",
+"score": 877
+},
+{
+"word": "easyriders",
+"score": 803
+},
+{
+"word": "ebike",
+"score": 846
+},
+{
+"word": "ebikes",
+"score": 98
+},
+{
+"word": "ecobici",
+"score": 406
+},
+{
+"word": "ecoride",
+"score": 1130
+},
+{
+"word": "electrathon",
+"score": 525
+},
+{
+"word": "elliptigo",
+"score": 42
+},
+{
+"word": "eneloop",
+"score": 1092
+},
+{
+"word": "ergos",
+"score": 593
+},
+{
+"word": "eruc",
+"score": 282
+},
+{
+"word": "escalator",
+"score": 768
+},
+{
+"word": "escooter",
+"score": 368
+},
+{
+"word": "etape",
+"score": 710
+},
+{
+"word": "eurobike",
+"score": 572
+},
+{
+"word": "eurobungy",
+"score": 437
+},
+{
+"word": "euser",
+"score": 419
+},
+{
+"word": "exercycle",
+"score": 463
+},
+{
+"word": "exile",
+"score": 687
+},
+{
+"word": "experienceplus",
+"score": 895
+},
+{
+"word": "fare",
+"score": 685
+},
+{
+"word": "farecards",
+"score": 1234
+},
+{
+"word": "farmdale",
+"score": 779
+},
+{
+"word": "fink",
+"score": 770
+},
+{
+"word": "firetruck",
+"score": 99
+},
+{
+"word": "fivefingers",
+"score": 1085
+},
+{
+"word": "fixie",
+"score": 73
+},
+{
+"word": "fixies",
+"score": 111
+},
+{
+"word": "flange",
+"score": 1060
+},
+{
+"word": "flatboat",
+"score": 1053
+},
+{
+"word": "flatcar",
+"score": 470
+},
+{
+"word": "flatcars",
+"score": 471
+},
+{
+"word": "floatie",
+"score": 1264
+},
+{
+"word": "flowertown",
+"score": 754
+},
+{
+"word": "fomite",
+"score": 69
+},
+{
+"word": "footbag",
+"score": 965
+},
+{
+"word": "footon",
+"score": 929
+},
+{
+"word": "footpath",
+"score": 1164
+},
+{
+"word": "footpeg",
+"score": 549
+},
+{
+"word": "forklift",
+"score": 464
+},
+{
+"word": "fothen",
+"score": 1213
+},
+{
+"word": "fourwheeler",
+"score": 221
+},
+{
+"word": "frameset",
+"score": 1093
+},
+{
+"word": "framesets",
+"score": 225
+},
+{
+"word": "franges",
+"score": 997
+},
+{
+"word": "frank",
+"score": 918
+},
+{
+"word": "freeride",
+"score": 1007
+},
+{
+"word": "freerider",
+"score": 824
+},
+{
+"word": "freewheeler",
+"score": 666
+},
+{
+"word": "freewheelers",
+"score": 458
+},
+{
+"word": "freewheelin",
+"score": 432
+},
+{
+"word": "freightliner",
+"score": 712
+},
+{
+"word": "freiker",
+"score": 190
+},
+{
+"word": "fretigne",
+"score": 969
+},
+{
+"word": "frisbee",
+"score": 901
+},
+{
+"word": "frisbee",
+"score": 902
+},
+{
+"word": "frontloader",
+"score": 1029
+},
+{
+"word": "froomin",
+"score": 1249
+},
+{
+"word": "frump",
+"score": 913
+},
+{
+"word": "funplex",
+"score": 966
+},
+{
+"word": "fuzie",
+"score": 1258
+},
+{
+"word": "gadabout",
+"score": 1197
+},
+{
+"word": "gadret",
+"score": 439
+},
+{
+"word": "ganrude",
+"score": 847
+},
+{
+"word": "garage",
+"score": 517
+},
+{
+"word": "gearing",
+"score": 297
+},
+{
+"word": "genius",
+"score": 500
+},
+{
+"word": "geocache",
+"score": 907
+},
+{
+"word": "getabout",
+"score": 323
+},
+{
+"word": "ghisallo",
+"score": 1002
+},
+{
+"word": "glider",
+"score": 906
+},
+{
+"word": "gocycle",
+"score": 434
+},
+{
+"word": "goldwing",
+"score": 157
+},
+{
+"word": "gondola",
+"score": 584
+},
+{
+"word": "granfondo",
+"score": 138
+},
+{
+"word": "gravin",
+"score": 762
+},
+{
+"word": "greenbelt",
+"score": 509
+},
+{
+"word": "greenride",
+"score": 1133
+},
+{
+"word": "greenway",
+"score": 510
+},
+{
+"word": "greenways",
+"score": 520
+},
+{
+"word": "groese",
+"score": 1145
+},
+{
+"word": "gruppetto",
+"score": 653
+},
+{
+"word": "gruppo",
+"score": 852
+},
+{
+"word": "gsxr",
+"score": 537
+},
+{
+"word": "guiderail",
+"score": 1110
+},
+{
+"word": "guiderails",
+"score": 363
+},
+{
+"word": "gunlock",
+"score": 1220
+},
+{
+"word": "hampsten",
+"score": 933
+},
+{
+"word": "handbag",
+"score": 826
+},
+{
+"word": "handbike",
+"score": 334
+},
+{
+"word": "handcar",
+"score": 224
+},
+{
+"word": "handcart",
+"score": 232
+},
+{
+"word": "handcarts",
+"score": 811
+},
+{
+"word": "handcrank",
+"score": 284
+},
+{
+"word": "handcycle",
+"score": 71
+},
+{
+"word": "handcycles",
+"score": 68
+},
+{
+"word": "handcycling",
+"score": 479
+},
+{
+"word": "handcyclists",
+"score": 278
+},
+{
+"word": "handgrips",
+"score": 962
+},
+{
+"word": "handle",
+"score": 963
+},
+{
+"word": "handlebar",
+"score": 30
+},
+{
+"word": "handlebars",
+"score": 29
+},
+{
+"word": "handrail",
+"score": 1014
+},
+{
+"word": "hardtail",
+"score": 937
+},
+{
+"word": "hardtails",
+"score": 1183
+},
+{
+"word": "harley",
+"score": 505
+},
+{
+"word": "harleys",
+"score": 229
+},
+{
+"word": "haselbacher",
+"score": 1111
+},
+{
+"word": "hashknife",
+"score": 1035
+},
+{
+"word": "hassiak",
+"score": 820
+},
+{
+"word": "haybales",
+"score": 444
+},
+{
+"word": "hayrack",
+"score": 448
+},
+{
+"word": "haywagon",
+"score": 331
+},
+{
+"word": "headcam",
+"score": 619
+},
+{
+"word": "headlamp",
+"score": 1004
+},
+{
+"word": "headlight",
+"score": 576
+},
+{
+"word": "heely",
+"score": 855
+},
+{
+"word": "heelys",
+"score": 900
+},
+{
+"word": "helment",
+"score": 455
+},
+{
+"word": "helmet",
+"score": 139
+},
+{
+"word": "helmetless",
+"score": 729
+},
+{
+"word": "helmets",
+"score": 301
+},
+{
+"word": "helmsburg",
+"score": 886
+},
+{
+"word": "herpa",
+"score": 936
+},
+{
+"word": "hertz",
+"score": 178
+},
+{
+"word": "hestler",
+"score": 1274
+},
+{
+"word": "hiace",
+"score": 904
+},
+{
+"word": "highway",
+"score": 1019
+},
+{
+"word": "highwire",
+"score": 1162
+},
+{
+"word": "hike",
+"score": 1033
+},
+{
+"word": "hiking",
+"score": 1032
+},
+{
+"word": "hillclimbing",
+"score": 560
+},
+{
+"word": "hilliest",
+"score": 611
+},
+{
+"word": "hitchhiker",
+"score": 1256
+},
+{
+"word": "hitchhiking",
+"score": 735
+},
+{
+"word": "hobby",
+"score": 672
+},
+{
+"word": "hobbyhorse",
+"score": 673
+},
+{
+"word": "hodaka",
+"score": 638
+},
+{
+"word": "hog",
+"score": 928
+},
+{
+"word": "hogback",
+"score": 580
+},
+{
+"word": "hogs",
+"score": 927
+},
+{
+"word": "honda",
+"score": 730
+},
+{
+"word": "hooptie",
+"score": 646
+},
+{
+"word": "horrillo",
+"score": 1080
+},
+{
+"word": "horseback",
+"score": 579
+},
+{
+"word": "horsedrawn",
+"score": 251
+},
+{
+"word": "horseless",
+"score": 1209
+},
+{
+"word": "horseshoe",
+"score": 340
+},
+{
+"word": "hostler",
+"score": 1126
+},
+{
+"word": "hotrod",
+"score": 1143
+},
+{
+"word": "hottmann",
+"score": 1144
+},
+{
+"word": "houchard",
+"score": 757
+},
+{
+"word": "hounschell",
+"score": 870
+},
+{
+"word": "houseboat",
+"score": 1021
+},
+{
+"word": "hoverboard",
+"score": 671
+},
+{
+"word": "hovercraft",
+"score": 862
+},
+{
+"word": "hubless",
+"score": 719
+},
+{
+"word": "huffy",
+"score": 475
+},
+{
+"word": "humancar",
+"score": 574
+},
+{
+"word": "humvee",
+"score": 248
+},
+{
+"word": "humvee",
+"score": 249
+},
+{
+"word": "ibike",
+"score": 812
+},
+{
+"word": "ibot",
+"score": 748
+},
+{
+"word": "iceboat",
+"score": 3
+},
+{
+"word": "idiotarod",
+"score": 650
+},
+{
+"word": "imba",
+"score": 1069
+},
+{
+"word": "indygo",
+"score": 1175
+},
+{
+"word": "innertubes",
+"score": 1024
+},
+{
+"word": "intamin",
+"score": 713
+},
+{
+"word": "interbike",
+"score": 794
+},
+{
+"word": "interurban",
+"score": 709
+},
+{
+"word": "inuma",
+"score": 1012
+},
+{
+"word": "invertigo",
+"score": 582
+},
+{
+"word": "irmiger",
+"score": 212
+},
+{
+"word": "ishaug",
+"score": 1245
+},
+{
+"word": "isotruss",
+"score": 1199
+},
+{
+"word": "italjet",
+"score": 786
+},
+{
+"word": "ixi",
+"score": 165
+},
+{
+"word": "jacueline",
+"score": 469
+},
+{
+"word": "jamis",
+"score": 182
+},
+{
+"word": "jart",
+"score": 990
+},
+{
+"word": "jaywalked",
+"score": 632
+},
+{
+"word": "jaywalking",
+"score": 821
+},
+{
+"word": "jeep",
+"score": 210
+},
+{
+"word": "jeepney",
+"score": 415
+},
+{
+"word": "jetski",
+"score": 187
+},
+{
+"word": "jinrikisha",
+"score": 55
+},
+{
+"word": "jitney",
+"score": 351
+},
+{
+"word": "jitneys",
+"score": 708
+},
+{
+"word": "jog",
+"score": 557
+},
+{
+"word": "jogger",
+"score": 230
+},
+{
+"word": "joggers",
+"score": 272
+},
+{
+"word": "jogging",
+"score": 235
+},
+{
+"word": "jogmen",
+"score": 817
+},
+{
+"word": "johnboat",
+"score": 494
+},
+{
+"word": "joyriders",
+"score": 1265
+},
+{
+"word": "julich",
+"score": 1250
+},
+{
+"word": "jumpseat",
+"score": 1232
+},
+{
+"word": "junker",
+"score": 1116
+},
+{
+"word": "junkers",
+"score": 1115
+},
+{
+"word": "junkers",
+"score": 1117
+},
+{
+"word": "juskaitis",
+"score": 1027
+},
+{
+"word": "kalkhoff",
+"score": 514
+},
+{
+"word": "karapoti",
+"score": 1023
+},
+{
+"word": "kart",
+"score": 275
+},
+{
+"word": "kaukonahua",
+"score": 1020
+},
+{
+"word": "kawasaki",
+"score": 1109
+},
+{
+"word": "kayak",
+"score": 45
+},
+{
+"word": "kayaking",
+"score": 271
+},
+{
+"word": "kayaks",
+"score": 214
+},
+{
+"word": "keewahdin",
+"score": 1084
+},
+{
+"word": "keizur",
+"score": 1179
+},
+{
+"word": "kermesse",
+"score": 1155
+},
+{
+"word": "kickboard",
+"score": 960
+},
+{
+"word": "kickboards",
+"score": 905
+},
+{
+"word": "kickstand",
+"score": 365
+},
+{
+"word": "kickstands",
+"score": 364
+},
+{
+"word": "kimmeytown",
+"score": 534
+},
+{
+"word": "kite",
+"score": 245
+},
+{
+"word": "kiteboard",
+"score": 258
+},
+{
+"word": "kiteboarding",
+"score": 801
+},
+{
+"word": "kivilev",
+"score": 259
+},
+{
+"word": "kleynen",
+"score": 1086
+},
+{
+"word": "kneeboard",
+"score": 696
+},
+{
+"word": "knobbies",
+"score": 161
+},
+{
+"word": "kocinski",
+"score": 1168
+},
+{
+"word": "kolodziejzyk",
+"score": 270
+},
+{
+"word": "kombi",
+"score": 625
+},
+{
+"word": "kompan",
+"score": 1208
+},
+{
+"word": "konovalovas",
+"score": 850
+},
+{
+"word": "kraynick",
+"score": 774
+},
+{
+"word": "krupiarz",
+"score": 1156
+},
+{
+"word": "ktm",
+"score": 473
+},
+{
+"word": "ktms",
+"score": 1217
+},
+{
+"word": "kuota",
+"score": 290
+},
+{
+"word": "kymco",
+"score": 405
+},
+{
+"word": "lacbc",
+"score": 171
+},
+{
+"word": "lakebottom",
+"score": 1184
+},
+{
+"word": "lambretta",
+"score": 739
+},
+{
+"word": "lambrettas",
+"score": 485
+},
+{
+"word": "lampost",
+"score": 273
+},
+{
+"word": "lamppost",
+"score": 925
+},
+{
+"word": "landrover",
+"score": 887
+},
+{
+"word": "landspeeder",
+"score": 732
+},
+{
+"word": "lasabre",
+"score": 532
+},
+{
+"word": "lawnmower",
+"score": 32
+},
+{
+"word": "lawnmowers",
+"score": 1136
+},
+{
+"word": "leafblower",
+"score": 468
+},
+{
+"word": "leetran",
+"score": 1202
+},
+{
+"word": "leisurely",
+"score": 1017
+},
+{
+"word": "leki",
+"score": 462
+},
+{
+"word": "leukemans",
+"score": 659
+},
+{
+"word": "lexpress",
+"score": 663
+},
+{
+"word": "lezyne",
+"score": 620
+},
+{
+"word": "lightpole",
+"score": 631
+},
+{
+"word": "lightpost",
+"score": 346
+},
+{
+"word": "lightrail",
+"score": 379
+},
+{
+"word": "livestrong",
+"score": 814
+},
+{
+"word": "lokomat",
+"score": 1205
+},
+{
+"word": "longboard",
+"score": 136
+},
+{
+"word": "longboarding",
+"score": 392
+},
+{
+"word": "longboards",
+"score": 143
+},
+{
+"word": "longsjo",
+"score": 1158
+},
+{
+"word": "lopossa",
+"score": 1094
+},
+{
+"word": "lowrider",
+"score": 358
+},
+{
+"word": "lowriders",
+"score": 1225
+},
+{
+"word": "luge",
+"score": 1134
+},
+{
+"word": "luges",
+"score": 1135
+},
+{
+"word": "luging",
+"score": 452
+},
+{
+"word": "madone",
+"score": 765
+},
+{
+"word": "malendoski",
+"score": 864
+},
+{
+"word": "manlift",
+"score": 725
+},
+{
+"word": "manpowered",
+"score": 443
+},
+{
+"word": "marmotte",
+"score": 1200
+},
+{
+"word": "marshrutka",
+"score": 1142
+},
+{
+"word": "massaglia",
+"score": 1216
+},
+{
+"word": "massbike",
+"score": 124
+},
+{
+"word": "mavic",
+"score": 978
+},
+{
+"word": "mazama",
+"score": 539
+},
+{
+"word": "mazamas",
+"score": 538
+},
+{
+"word": "meddin",
+"score": 1253
+},
+{
+"word": "megamoto",
+"score": 681
+},
+{
+"word": "megaramp",
+"score": 861
+},
+{
+"word": "melrosegate",
+"score": 830
+},
+{
+"word": "mengin",
+"score": 564
+},
+{
+"word": "merrimon",
+"score": 845
+},
+{
+"word": "merrydale",
+"score": 1257
+},
+{
+"word": "metrobus",
+"score": 597
+},
+{
+"word": "metrobuses",
+"score": 647
+},
+{
+"word": "metrocard",
+"score": 478
+},
+{
+"word": "metromover",
+"score": 819
+},
+{
+"word": "metropass",
+"score": 1163
+},
+{
+"word": "metropool",
+"score": 892
+},
+{
+"word": "microbus",
+"score": 617
+},
+{
+"word": "microbuses",
+"score": 1009
+},
+{
+"word": "microcar",
+"score": 810
+},
+{
+"word": "microcars",
+"score": 908
+},
+{
+"word": "midcity",
+"score": 1129
+},
+{
+"word": "milelong",
+"score": 562
+},
+{
+"word": "mind",
+"score": 499
+},
+{
+"word": "miniature",
+"score": 994
+},
+{
+"word": "minibike",
+"score": 12
+},
+{
+"word": "minibikes",
+"score": 75
+},
+{
+"word": "minibus",
+"score": 569
+},
+{
+"word": "minimoto",
+"score": 135
+},
+{
+"word": "minitruck",
+"score": 280
+},
+{
+"word": "minivan",
+"score": 198
+},
+{
+"word": "minkema",
+"score": 806
+},
+{
+"word": "minvan",
+"score": 375
+},
+{
+"word": "mobike",
+"score": 119
+},
+{
+"word": "mobikes",
+"score": 316
+},
+{
+"word": "mochila",
+"score": 261
+},
+{
+"word": "moerenhout",
+"score": 1207
+},
+{
+"word": "molue",
+"score": 1057
+},
+{
+"word": "monachil",
+"score": 1266
+},
+{
+"word": "mongoose",
+"score": 1058
+},
+{
+"word": "moninger",
+"score": 1091
+},
+{
+"word": "monoski",
+"score": 289
+},
+{
+"word": "montra",
+"score": 1246
+},
+{
+"word": "moonbuggy",
+"score": 733
+},
+{
+"word": "moped",
+"score": 10
+},
+{
+"word": "mopeds",
+"score": 49
+},
+{
+"word": "mordarsky",
+"score": 974
+},
+{
+"word": "motability",
+"score": 344
+},
+{
+"word": "motard",
+"score": 226
+},
+{
+"word": "motocross",
+"score": 540
+},
+{
+"word": "motocrosser",
+"score": 1269
+},
+{
+"word": "motocrossers",
+"score": 486
+},
+{
+"word": "motocycle",
+"score": 16
+},
+{
+"word": "motocycles",
+"score": 108
+},
+{
+"word": "motoczysz",
+"score": 1226
+},
+{
+"word": "motor",
+"score": 450
+},
+{
+"word": "motorbike",
+"score": 11
+},
+{
+"word": "motorbiker",
+"score": 1171
+},
+{
+"word": "motorbikers",
+"score": 476
+},
+{
+"word": "motorbikes",
+"score": 122
+},
+{
+"word": "motorbiking",
+"score": 154
+},
+{
+"word": "motorboat",
+"score": 262
+},
+{
+"word": "motorcar",
+"score": 555
+},
+{
+"word": "motorcross",
+"score": 324
+},
+{
+"word": "motorcycle",
+"score": 2
+},
+{
+"word": "motorcycled",
+"score": 219
+},
+{
+"word": "motorcycles",
+"score": 39
+},
+{
+"word": "motorcycling",
+"score": 169
+},
+{
+"word": "motorcyclist",
+"score": 114
+},
+{
+"word": "motorcyclists",
+"score": 113
+},
+{
+"word": "motorcylce",
+"score": 22
+},
+{
+"word": "motorcyle",
+"score": 21
+},
+{
+"word": "motorcyles",
+"score": 216
+},
+{
+"word": "motorcylist",
+"score": 287
+},
+{
+"word": "motorcylists",
+"score": 446
+},
+{
+"word": "motorhome",
+"score": 1018
+},
+{
+"word": "motorised",
+"score": 758
+},
+{
+"word": "motorist",
+"score": 268
+},
+{
+"word": "motorized",
+"score": 146
+},
+{
+"word": "motorless",
+"score": 411
+},
+{
+"word": "motorscooter",
+"score": 17
+},
+{
+"word": "motorscooters",
+"score": 692
+},
+{
+"word": "motorycle",
+"score": 41
+},
+{
+"word": "mototaxi",
+"score": 277
+},
+{
+"word": "motoworld",
+"score": 987
+},
+{
+"word": "mountainbike",
+"score": 129
+},
+{
+"word": "mountainbikers",
+"score": 1013
+},
+{
+"word": "mountainbiking",
+"score": 561
+},
+{
+"word": "mountaineering",
+"score": 1243
+},
+{
+"word": "mower",
+"score": 81
+},
+{
+"word": "mowers",
+"score": 589
+},
+{
+"word": "mtb",
+"score": 180
+},
+{
+"word": "mudguard",
+"score": 833
+},
+{
+"word": "mudguards",
+"score": 834
+},
+{
+"word": "muenzer",
+"score": 1248
+},
+{
+"word": "muffler",
+"score": 318
+},
+{
+"word": "mugger",
+"score": 1048
+},
+{
+"word": "muggers",
+"score": 1047
+},
+{
+"word": "mulhaupt",
+"score": 999
+},
+{
+"word": "multicab",
+"score": 1189
+},
+{
+"word": "multicabs",
+"score": 1178
+},
+{
+"word": "multisport",
+"score": 697
+},
+{
+"word": "multistrada",
+"score": 700
+},
+{
+"word": "multivehicle",
+"score": 264
+},
+{
+"word": "nahbs",
+"score": 424
+},
+{
+"word": "nanocar",
+"score": 361
+},
+{
+"word": "nbda",
+"score": 890
+},
+{
+"word": "nemba",
+"score": 941
+},
+{
+"word": "niebusch",
+"score": 1128
+},
+{
+"word": "nightster",
+"score": 720
+},
+{
+"word": "nirve",
+"score": 83
+},
+{
+"word": "niterider",
+"score": 600
+},
+{
+"word": "nmg",
+"score": 970
+},
+{
+"word": "noerper",
+"score": 1247
+},
+{
+"word": "nonmotorized",
+"score": 128
+},
+{
+"word": "nonriders",
+"score": 274
+},
+{
+"word": "nozal",
+"score": 807
+},
+{
+"word": "nudge",
+"score": 558
+},
+{
+"word": "nunchucks",
+"score": 704
+},
+{
+"word": "nustep",
+"score": 775
+},
+{
+"word": "nuvinci",
+"score": 772
+},
+{
+"word": "obree",
+"score": 859
+},
+{
+"word": "offroad",
+"score": 749
+},
+{
+"word": "offroaders",
+"score": 715
+},
+{
+"word": "offroading",
+"score": 759
+},
+{
+"word": "ohrv",
+"score": 950
+},
+{
+"word": "ohvs",
+"score": 1198
+},
+{
+"word": "okada",
+"score": 188
+},
+{
+"word": "okadas",
+"score": 651
+},
+{
+"word": "omloop",
+"score": 1170
+},
+{
+"word": "optibike",
+"score": 125
+},
+{
+"word": "orbea",
+"score": 260
+},
+{
+"word": "orthodics",
+"score": 945
+},
+{
+"word": "orvs",
+"score": 795
+},
+{
+"word": "otesha",
+"score": 848
+},
+{
+"word": "outspokin",
+"score": 1152
+},
+{
+"word": "overshiner",
+"score": 707
+},
+{
+"word": "oxcart",
+"score": 397
+},
+{
+"word": "oxcarts",
+"score": 530
+},
+{
+"word": "paceline",
+"score": 236
+},
+{
+"word": "packhorse",
+"score": 932
+},
+{
+"word": "paddle",
+"score": 664
+},
+{
+"word": "paddleboard",
+"score": 953
+},
+{
+"word": "paddleboards",
+"score": 931
+},
+{
+"word": "paddleboat",
+"score": 657
+},
+{
+"word": "paddleboats",
+"score": 515
+},
+{
+"word": "panhandler",
+"score": 1173
+},
+{
+"word": "panhead",
+"score": 315
+},
+{
+"word": "pannier",
+"score": 159
+},
+{
+"word": "panniers",
+"score": 160
+},
+{
+"word": "pantoll",
+"score": 1105
+},
+{
+"word": "paperboy",
+"score": 1174
+},
+{
+"word": "parachuter",
+"score": 837
+},
+{
+"word": "parachutist",
+"score": 838
+},
+{
+"word": "paraglider",
+"score": 961
+},
+{
+"word": "paragliding",
+"score": 528
+},
+{
+"word": "paramotor",
+"score": 523
+},
+{
+"word": "parasail",
+"score": 717
+},
+{
+"word": "parasailing",
+"score": 529
+},
+{
+"word": "parasails",
+"score": 718
+},
+{
+"word": "parkour",
+"score": 818
+},
+{
+"word": "paseos",
+"score": 516
+},
+{
+"word": "passage",
+"score": 546
+},
+{
+"word": "passenger",
+"score": 163
+},
+{
+"word": "passerby",
+"score": 891
+},
+{
+"word": "passeron",
+"score": 684
+},
+{
+"word": "pathway",
+"score": 1165
+},
+{
+"word": "pavement",
+"score": 501
+},
+{
+"word": "paving",
+"score": 502
+},
+{
+"word": "pawl",
+"score": 915
+},
+{
+"word": "payloader",
+"score": 771
+},
+{
+"word": "pbot",
+"score": 426
+},
+{
+"word": "pedal",
+"score": 207
+},
+{
+"word": "pedaled",
+"score": 44
+},
+{
+"word": "pedaler",
+"score": 148
+},
+{
+"word": "pedalers",
+"score": 147
+},
+{
+"word": "pedaling",
+"score": 50
+},
+{
+"word": "pedallers",
+"score": 410
+},
+{
+"word": "pedalling",
+"score": 215
+},
+{
+"word": "pedalpalooza",
+"score": 347
+},
+{
+"word": "pedals",
+"score": 206
+},
+{
+"word": "pedego",
+"score": 153
+},
+{
+"word": "pedestrain",
+"score": 563
+},
+{
+"word": "pedestrains",
+"score": 622
+},
+{
+"word": "pedestrian",
+"score": 117
+},
+{
+"word": "pedestrianism",
+"score": 1083
+},
+{
+"word": "pedestrians",
+"score": 431
+},
+{
+"word": "pedicab",
+"score": 54
+},
+{
+"word": "pedicabs",
+"score": 250
+},
+{
+"word": "pednet",
+"score": 189
+},
+{
+"word": "peleton",
+"score": 1124
+},
+{
+"word": "pelotonia",
+"score": 554
+},
+{
+"word": "perambulator",
+"score": 377
+},
+{
+"word": "peraud",
+"score": 594
+},
+{
+"word": "phillycarshare",
+"score": 1038
+},
+{
+"word": "phinneys",
+"score": 888
+},
+{
+"word": "pickup",
+"score": 640
+},
+{
+"word": "piil",
+"score": 899
+},
+{
+"word": "pillion",
+"score": 133
+},
+{
+"word": "pillions",
+"score": 132
+},
+{
+"word": "pinarello",
+"score": 668
+},
+{
+"word": "pirogue",
+"score": 571
+},
+{
+"word": "piton",
+"score": 1238
+},
+{
+"word": "place",
+"score": 1099
+},
+{
+"word": "plaything",
+"score": 993
+},
+{
+"word": "playworld",
+"score": 867
+},
+{
+"word": "pokewalker",
+"score": 1214
+},
+{
+"word": "pollacheck",
+"score": 33
+},
+{
+"word": "poma",
+"score": 1151
+},
+{
+"word": "pontoon",
+"score": 1154
+},
+{
+"word": "pootle",
+"score": 1185
+},
+{
+"word": "popemobile",
+"score": 767
+},
+{
+"word": "pothole",
+"score": 1180
+},
+{
+"word": "potholed",
+"score": 741
+},
+{
+"word": "powerboat",
+"score": 813
+},
+{
+"word": "powerchair",
+"score": 218
+},
+{
+"word": "powercranks",
+"score": 504
+},
+{
+"word": "powersport",
+"score": 689
+},
+{
+"word": "powertap",
+"score": 903
+},
+{
+"word": "pozzovivo",
+"score": 1146
+},
+{
+"word": "prairietown",
+"score": 527
+},
+{
+"word": "pram",
+"score": 885
+},
+{
+"word": "precita",
+"score": 799
+},
+{
+"word": "prosthesis",
+"score": 893
+},
+{
+"word": "prostitute",
+"score": 984
+},
+{
+"word": "pulk",
+"score": 866
+},
+{
+"word": "pumgo",
+"score": 58
+},
+{
+"word": "pushbike",
+"score": 25
+},
+{
+"word": "pushbikes",
+"score": 36
+},
+{
+"word": "pushcart",
+"score": 314
+},
+{
+"word": "pushchair",
+"score": 240
+},
+{
+"word": "qbp",
+"score": 465
+},
+{
+"word": "quadbike",
+"score": 107
+},
+{
+"word": "quadbikes",
+"score": 531
+},
+{
+"word": "quadding",
+"score": 481
+},
+{
+"word": "quadricycle",
+"score": 348
+},
+{
+"word": "quantya",
+"score": 841
+},
+{
+"word": "racebike",
+"score": 350
+},
+{
+"word": "racewalking",
+"score": 423
+},
+{
+"word": "rack",
+"score": 389
+},
+{
+"word": "ragali",
+"score": 851
+},
+{
+"word": "ragbrai",
+"score": 194
+},
+{
+"word": "rail",
+"score": 543
+},
+{
+"word": "railing",
+"score": 545
+},
+{
+"word": "rails",
+"score": 544
+},
+{
+"word": "randonee",
+"score": 880
+},
+{
+"word": "randonnee",
+"score": 1252
+},
+{
+"word": "rapha",
+"score": 616
+},
+{
+"word": "recpath",
+"score": 662
+},
+{
+"word": "recumbent",
+"score": 156
+},
+{
+"word": "recumbents",
+"score": 89
+},
+{
+"word": "recyclery",
+"score": 1051
+},
+{
+"word": "reflector",
+"score": 844
+},
+{
+"word": "reflectors",
+"score": 843
+},
+{
+"word": "rengstorff",
+"score": 1159
+},
+{
+"word": "retul",
+"score": 425
+},
+{
+"word": "reverchon",
+"score": 973
+},
+{
+"word": "riblon",
+"score": 633
+},
+{
+"word": "rickshaw",
+"score": 56
+},
+{
+"word": "rickshaws",
+"score": 578
+},
+{
+"word": "ridable",
+"score": 787
+},
+{
+"word": "ride",
+"score": 247
+},
+{
+"word": "rideable",
+"score": 641
+},
+{
+"word": "ridefinders",
+"score": 829
+},
+{
+"word": "rider",
+"score": 162
+},
+{
+"word": "riders",
+"score": 269
+},
+{
+"word": "rides",
+"score": 535
+},
+{
+"word": "rideshare",
+"score": 920
+},
+{
+"word": "ridesharing",
+"score": 924
+},
+{
+"word": "riding",
+"score": 203
+},
+{
+"word": "rim",
+"score": 1063
+},
+{
+"word": "rims",
+"score": 1061
+},
+{
+"word": "rivergreenway",
+"score": 533
+},
+{
+"word": "roa",
+"score": 1118
+},
+{
+"word": "roadeo",
+"score": 507
+},
+{
+"word": "roadlok",
+"score": 1193
+},
+{
+"word": "roadmaster",
+"score": 512
+},
+{
+"word": "rocinante",
+"score": 370
+},
+{
+"word": "rockers",
+"score": 130
+},
+{
+"word": "rollerama",
+"score": 930
+},
+{
+"word": "rollerblade",
+"score": 34
+},
+{
+"word": "rollerblade",
+"score": 35
+},
+{
+"word": "rollerbladed",
+"score": 220
+},
+{
+"word": "rollerblader",
+"score": 110
+},
+{
+"word": "rollerbladers",
+"score": 343
+},
+{
+"word": "rollerblades",
+"score": 46
+},
+{
+"word": "rollerblading",
+"score": 151
+},
+{
+"word": "rollerskate",
+"score": 474
+},
+{
+"word": "rollerskates",
+"score": 338
+},
+{
+"word": "roskopp",
+"score": 175
+},
+{
+"word": "rossmeyer",
+"score": 998
+},
+{
+"word": "rototiller",
+"score": 418
+},
+{
+"word": "roubaix",
+"score": 751
+},
+{
+"word": "rowboat",
+"score": 603
+},
+{
+"word": "rucksack",
+"score": 727
+},
+{
+"word": "ruebling",
+"score": 1028
+},
+{
+"word": "rundle",
+"score": 488
+},
+{
+"word": "rv",
+"score": 780
+},
+{
+"word": "saddle",
+"score": 493
+},
+{
+"word": "saddleback",
+"score": 492
+},
+{
+"word": "saddlebag",
+"score": 682
+},
+{
+"word": "saddlebags",
+"score": 683
+},
+{
+"word": "sailboat",
+"score": 581
+},
+{
+"word": "sainct",
+"score": 971
+},
+{
+"word": "samtrans",
+"score": 1034
+},
+{
+"word": "sandles",
+"score": 1104
+},
+{
+"word": "saunterer",
+"score": 60
+},
+{
+"word": "savano",
+"score": 723
+},
+{
+"word": "sawhorse",
+"score": 896
+},
+{
+"word": "sawzall",
+"score": 1177
+},
+{
+"word": "scheldeprijs",
+"score": 1071
+},
+{
+"word": "schelin",
+"score": 1169
+},
+{
+"word": "schellville",
+"score": 955
+},
+{
+"word": "schlek",
+"score": 740
+},
+{
+"word": "schoendorfer",
+"score": 1188
+},
+{
+"word": "schoolbus",
+"score": 490
+},
+{
+"word": "schwin",
+"score": 252
+},
+{
+"word": "schwinn",
+"score": 52
+},
+{
+"word": "schwinns",
+"score": 257
+},
+{
+"word": "scooter",
+"score": 4
+},
+{
+"word": "scooterette",
+"score": 503
+},
+{
+"word": "scooterettes",
+"score": 208
+},
+{
+"word": "scootering",
+"score": 354
+},
+{
+"word": "scooterist",
+"score": 506
+},
+{
+"word": "scooterists",
+"score": 197
+},
+{
+"word": "scooters",
+"score": 19
+},
+{
+"word": "scooting",
+"score": 912
+},
+{
+"word": "scooty",
+"score": 166
+},
+{
+"word": "scoter",
+"score": 5
+},
+{
+"word": "scrambler",
+"score": 711
+},
+{
+"word": "seadoo",
+"score": 731
+},
+{
+"word": "seatbelt",
+"score": 1016
+},
+{
+"word": "segway",
+"score": 37
+},
+{
+"word": "segway",
+"score": 38
+},
+{
+"word": "segways",
+"score": 92
+},
+{
+"word": "semitractor",
+"score": 497
+},
+{
+"word": "semitrucks",
+"score": 585
+},
+{
+"word": "senizergues",
+"score": 610
+},
+{
+"word": "serotta",
+"score": 355
+},
+{
+"word": "seube",
+"score": 1138
+},
+{
+"word": "shahum",
+"score": 352
+},
+{
+"word": "sharbonno",
+"score": 1101
+},
+{
+"word": "sharrow",
+"score": 120
+},
+{
+"word": "sharrows",
+"score": 283
+},
+{
+"word": "shimano",
+"score": 333
+},
+{
+"word": "shoe",
+"score": 341
+},
+{
+"word": "shoelace",
+"score": 884
+},
+{
+"word": "shoes",
+"score": 1100
+},
+{
+"word": "shoprider",
+"score": 292
+},
+{
+"word": "shoulderless",
+"score": 1157
+},
+{
+"word": "showshoes",
+"score": 288
+},
+{
+"word": "sidecar",
+"score": 660
+},
+{
+"word": "sidesaddle",
+"score": 734
+},
+{
+"word": "sidewalk",
+"score": 265
+},
+{
+"word": "sidewalkers",
+"score": 1231
+},
+{
+"word": "sidewalks",
+"score": 860
+},
+{
+"word": "sidne",
+"score": 372
+},
+{
+"word": "silencer",
+"score": 319
+},
+{
+"word": "singlespeed",
+"score": 145
+},
+{
+"word": "singletrack",
+"score": 1036
+},
+{
+"word": "skate",
+"score": 565
+},
+{
+"word": "skateboard",
+"score": 8
+},
+{
+"word": "skateboarded",
+"score": 378
+},
+{
+"word": "skateboarder",
+"score": 144
+},
+{
+"word": "skateboarders",
+"score": 201
+},
+{
+"word": "skateboarding",
+"score": 85
+},
+{
+"word": "skateboards",
+"score": 53
+},
+{
+"word": "skatepark",
+"score": 477
+},
+{
+"word": "skateparks",
+"score": 898
+},
+{
+"word": "skates",
+"score": 566
+},
+{
+"word": "skatewave",
+"score": 511
+},
+{
+"word": "skerbeck",
+"score": 992
+},
+{
+"word": "ski",
+"score": 238
+},
+{
+"word": "skidoo",
+"score": 231
+},
+{
+"word": "skidoos",
+"score": 521
+},
+{
+"word": "skiis",
+"score": 461
+},
+{
+"word": "skil",
+"score": 690
+},
+{
+"word": "skimboard",
+"score": 293
+},
+{
+"word": "skimboards",
+"score": 750
+},
+{
+"word": "skinsuit",
+"score": 777
+},
+{
+"word": "skinsuits",
+"score": 556
+},
+{
+"word": "skis",
+"score": 239
+},
+{
+"word": "skitching",
+"score": 77
+},
+{
+"word": "skybridges",
+"score": 1055
+},
+{
+"word": "skyride",
+"score": 306
+},
+{
+"word": "skytran",
+"score": 670
+},
+{
+"word": "slackline",
+"score": 416
+},
+{
+"word": "slacklining",
+"score": 550
+},
+{
+"word": "sled",
+"score": 291
+},
+{
+"word": "sledder",
+"score": 882
+},
+{
+"word": "sledders",
+"score": 881
+},
+{
+"word": "sleds",
+"score": 721
+},
+{
+"word": "sleigh",
+"score": 398
+},
+{
+"word": "smartbike",
+"score": 202
+},
+{
+"word": "smartcar",
+"score": 313
+},
+{
+"word": "sneaker",
+"score": 769
+},
+{
+"word": "sneakers",
+"score": 828
+},
+{
+"word": "snowblower",
+"score": 435
+},
+{
+"word": "snowblowing",
+"score": 792
+},
+{
+"word": "snowboard",
+"score": 155
+},
+{
+"word": "snowboarding",
+"score": 1270
+},
+{
+"word": "snowboards",
+"score": 312
+},
+{
+"word": "snowkiting",
+"score": 742
+},
+{
+"word": "snowmachine",
+"score": 330
+},
+{
+"word": "snowmachiners",
+"score": 879
+},
+{
+"word": "snowmachines",
+"score": 412
+},
+{
+"word": "snowmobile",
+"score": 80
+},
+{
+"word": "snowplow",
+"score": 541
+},
+{
+"word": "snowplowed",
+"score": 1108
+},
+{
+"word": "snowshed",
+"score": 1076
+},
+{
+"word": "snowshoe",
+"score": 279
+},
+{
+"word": "snowshoeing",
+"score": 791
+},
+{
+"word": "snowshoes",
+"score": 349
+},
+{
+"word": "snowsuit",
+"score": 613
+},
+{
+"word": "snowthrower",
+"score": 782
+},
+{
+"word": "snurfer",
+"score": 591
+},
+{
+"word": "softails",
+"score": 373
+},
+{
+"word": "softtail",
+"score": 1123
+},
+{
+"word": "soleckshaw",
+"score": 196
+},
+{
+"word": "solorider",
+"score": 305
+},
+{
+"word": "sorca",
+"score": 910
+},
+{
+"word": "soulcycle",
+"score": 760
+},
+{
+"word": "specialized",
+"score": 1030
+},
+{
+"word": "speeder",
+"score": 1172
+},
+{
+"word": "splitboard",
+"score": 675
+},
+{
+"word": "spoke",
+"score": 487
+},
+{
+"word": "spokes",
+"score": 489
+},
+{
+"word": "sportbike",
+"score": 402
+},
+{
+"word": "sportbikes",
+"score": 1005
+},
+{
+"word": "sportives",
+"score": 371
+},
+{
+"word": "sportsbike",
+"score": 714
+},
+{
+"word": "sportsbikes",
+"score": 1141
+},
+{
+"word": "sportsmobile",
+"score": 836
+},
+{
+"word": "sportsters",
+"score": 949
+},
+{
+"word": "sprocket",
+"score": 623
+},
+{
+"word": "sprockets",
+"score": 1098
+},
+{
+"word": "sram",
+"score": 815
+},
+{
+"word": "srts",
+"score": 409
+},
+{
+"word": "stableman",
+"score": 1125
+},
+{
+"word": "stairlift",
+"score": 519
+},
+{
+"word": "stairmaster",
+"score": 380
+},
+{
+"word": "stamsnijder",
+"score": 460
+},
+{
+"word": "stationwagon",
+"score": 842
+},
+{
+"word": "steed",
+"score": 457
+},
+{
+"word": "steeds",
+"score": 1031
+},
+{
+"word": "steet",
+"score": 875
+},
+{
+"word": "stenke",
+"score": 1176
+},
+{
+"word": "stepstool",
+"score": 816
+},
+{
+"word": "stieda",
+"score": 1065
+},
+{
+"word": "stihl",
+"score": 1236
+},
+{
+"word": "stoplight",
+"score": 1068
+},
+{
+"word": "stoppie",
+"score": 401
+},
+{
+"word": "stoppies",
+"score": 726
+},
+{
+"word": "stradalli",
+"score": 417
+},
+{
+"word": "straphanger",
+"score": 699
+},
+{
+"word": "street",
+"score": 606
+},
+{
+"word": "streetbike",
+"score": 428
+},
+{
+"word": "streetcar",
+"score": 90
+},
+{
+"word": "streetcars",
+"score": 694
+},
+{
+"word": "streetfilms",
+"score": 1239
+},
+{
+"word": "streetsweeper",
+"score": 702
+},
+{
+"word": "strida",
+"score": 716
+},
+{
+"word": "string",
+"score": 299
+},
+{
+"word": "stroget",
+"score": 1066
+},
+{
+"word": "strohsal",
+"score": 612
+},
+{
+"word": "stroller",
+"score": 59
+},
+{
+"word": "strollers",
+"score": 442
+},
+{
+"word": "stumpjumper",
+"score": 658
+},
+{
+"word": "stunters",
+"score": 781
+},
+{
+"word": "stuntwars",
+"score": 980
+},
+{
+"word": "subaru",
+"score": 1008
+},
+{
+"word": "suburu",
+"score": 596
+},
+{
+"word": "suntran",
+"score": 1075
+},
+{
+"word": "superbike",
+"score": 1077
+},
+{
+"word": "superbikes",
+"score": 797
+},
+{
+"word": "superbus",
+"score": 873
+},
+{
+"word": "superdrome",
+"score": 1227
+},
+{
+"word": "supermotard",
+"score": 946
+},
+{
+"word": "supermoto",
+"score": 567
+},
+{
+"word": "surfboard",
+"score": 134
+},
+{
+"word": "surfboards",
+"score": 1137
+},
+{
+"word": "surfliner",
+"score": 595
+},
+{
+"word": "surrey",
+"score": 103
+},
+{
+"word": "surrey",
+"score": 104
+},
+{
+"word": "surreys",
+"score": 105
+},
+{
+"word": "suv",
+"score": 332
+},
+{
+"word": "suzuki",
+"score": 1272
+},
+{
+"word": "swaissi",
+"score": 1119
+},
+{
+"word": "sweetgall",
+"score": 674
+},
+{
+"word": "swingarms",
+"score": 874
+},
+{
+"word": "swobo",
+"score": 337
+},
+{
+"word": "sxv",
+"score": 1196
+},
+{
+"word": "sybian",
+"score": 802
+},
+{
+"word": "szauter",
+"score": 1078
+},
+{
+"word": "tailboard",
+"score": 359
+},
+{
+"word": "tailgate",
+"score": 360
+},
+{
+"word": "tailwaggers",
+"score": 1025
+},
+{
+"word": "takkies",
+"score": 1195
+},
+{
+"word": "tamien",
+"score": 1087
+},
+{
+"word": "tart",
+"score": 985
+},
+{
+"word": "taxi",
+"score": 267
+},
+{
+"word": "taxicab",
+"score": 184
+},
+{
+"word": "taxis",
+"score": 940
+},
+{
+"word": "tennies",
+"score": 747
+},
+{
+"word": "testteam",
+"score": 599
+},
+{
+"word": "theodolite",
+"score": 548
+},
+{
+"word": "thivener",
+"score": 234
+},
+{
+"word": "timoni",
+"score": 790
+},
+{
+"word": "toboggan",
+"score": 453
+},
+{
+"word": "tobogganers",
+"score": 1215
+},
+{
+"word": "toboggans",
+"score": 1049
+},
+{
+"word": "todson",
+"score": 577
+},
+{
+"word": "tonga",
+"score": 614
+},
+{
+"word": "tonga",
+"score": 615
+},
+{
+"word": "tongas",
+"score": 939
+},
+{
+"word": "toodling",
+"score": 825
+},
+{
+"word": "topeak",
+"score": 285
+},
+{
+"word": "toters",
+"score": 1263
+},
+{
+"word": "touratech",
+"score": 1132
+},
+{
+"word": "tourer",
+"score": 968
+},
+{
+"word": "tourist",
+"score": 967
+},
+{
+"word": "towbar",
+"score": 948
+},
+{
+"word": "towbars",
+"score": 573
+},
+{
+"word": "towpath",
+"score": 983
+},
+{
+"word": "towtruck",
+"score": 648
+},
+{
+"word": "toy",
+"score": 995
+},
+{
+"word": "toyswap",
+"score": 1010
+},
+{
+"word": "trabi",
+"score": 388
+},
+{
+"word": "track",
+"score": 542
+},
+{
+"word": "trackday",
+"score": 1106
+},
+{
+"word": "trackdays",
+"score": 800
+},
+{
+"word": "tractor",
+"score": 168
+},
+{
+"word": "tractortrailer",
+"score": 304
+},
+{
+"word": "trailbike",
+"score": 66
+},
+{
+"word": "trailheads",
+"score": 785
+},
+{
+"word": "trailnet",
+"score": 137
+},
+{
+"word": "train",
+"score": 300
+},
+{
+"word": "tram",
+"score": 602
+},
+{
+"word": "tramcar",
+"score": 335
+},
+{
+"word": "trampoline",
+"score": 429
+},
+{
+"word": "trampolines",
+"score": 1255
+},
+{
+"word": "tramway",
+"score": 601
+},
+{
+"word": "transalp",
+"score": 745
+},
+{
+"word": "transfort",
+"score": 1190
+},
+{
+"word": "transit",
+"score": 547
+},
+{
+"word": "transmilenio",
+"score": 766
+},
+{
+"word": "transportation",
+"score": 686
+},
+{
+"word": "transportational",
+"score": 1242
+},
+{
+"word": "travelator",
+"score": 1079
+},
+{
+"word": "travelchoice",
+"score": 695
+},
+{
+"word": "travelsmart",
+"score": 1210
+},
+{
+"word": "travelwise",
+"score": 1224
+},
+{
+"word": "treadles",
+"score": 1203
+},
+{
+"word": "treadmill",
+"score": 1240
+},
+{
+"word": "treadmills",
+"score": 1241
+},
+{
+"word": "treestand",
+"score": 627
+},
+{
+"word": "trek",
+"score": 480
+},
+{
+"word": "triathalons",
+"score": 369
+},
+{
+"word": "triathlete",
+"score": 1167
+},
+{
+"word": "triathlon",
+"score": 438
+},
+{
+"word": "triathlons",
+"score": 592
+},
+{
+"word": "tricycle",
+"score": 15
+},
+{
+"word": "tricycles",
+"score": 100
+},
+{
+"word": "trike",
+"score": 20
+},
+{
+"word": "trikes",
+"score": 118
+},
+{
+"word": "trikke",
+"score": 82
+},
+{
+"word": "trimet",
+"score": 977
+},
+{
+"word": "trishaw",
+"score": 78
+},
+{
+"word": "trishaws",
+"score": 798
+},
+{
+"word": "trisikad",
+"score": 47
+},
+{
+"word": "trolley",
+"score": 91
+},
+{
+"word": "trolly",
+"score": 367
+},
+{
+"word": "trotro",
+"score": 722
+},
+{
+"word": "truck",
+"score": 150
+},
+{
+"word": "turchino",
+"score": 1112
+},
+{
+"word": "tuscobia",
+"score": 954
+},
+{
+"word": "twike",
+"score": 570
+},
+{
+"word": "twowheeler",
+"score": 62
+},
+{
+"word": "unclipping",
+"score": 831
+},
+{
+"word": "underseat",
+"score": 1088
+},
+{
+"word": "unicycle",
+"score": 14
+},
+{
+"word": "unicycles",
+"score": 93
+},
+{
+"word": "unicycling",
+"score": 181
+},
+{
+"word": "unicyclist",
+"score": 140
+},
+{
+"word": "unicyclists",
+"score": 387
+},
+{
+"word": "univega",
+"score": 327
+},
+{
+"word": "unmotorized",
+"score": 445
+},
+{
+"word": "unstrap",
+"score": 559
+},
+{
+"word": "uspro",
+"score": 1003
+},
+{
+"word": "vagabonding",
+"score": 1166
+},
+{
+"word": "van",
+"score": 94
+},
+{
+"word": "vango",
+"score": 776
+},
+{
+"word": "vanguard",
+"score": 96
+},
+{
+"word": "vanpool",
+"score": 149
+},
+{
+"word": "vanpooling",
+"score": 404
+},
+{
+"word": "vanpools",
+"score": 743
+},
+{
+"word": "vans",
+"score": 1067
+},
+{
+"word": "vechicle",
+"score": 243
+},
+{
+"word": "vechile",
+"score": 256
+},
+{
+"word": "vectrix",
+"score": 1251
+},
+{
+"word": "vehcile",
+"score": 228
+},
+{
+"word": "vehical",
+"score": 1261
+},
+{
+"word": "vehicle",
+"score": 70
+},
+{
+"word": "vehicles",
+"score": 551
+},
+{
+"word": "vehicular",
+"score": 441
+},
+{
+"word": "vehilce",
+"score": 172
+},
+{
+"word": "velib",
+"score": 342
+},
+{
+"word": "velo",
+"score": 209
+},
+{
+"word": "velocipede",
+"score": 61
+},
+{
+"word": "velodrome",
+"score": 495
+},
+{
+"word": "velodromes",
+"score": 942
+},
+{
+"word": "velomini",
+"score": 362
+},
+{
+"word": "velomobile",
+"score": 48
+},
+{
+"word": "velonews",
+"score": 644
+},
+{
+"word": "veloswap",
+"score": 170
+},
+{
+"word": "verbrugghe",
+"score": 832
+},
+{
+"word": "versys",
+"score": 981
+},
+{
+"word": "vervecken",
+"score": 1235
+},
+{
+"word": "vespa",
+"score": 86
+},
+{
+"word": "vespa",
+"score": 87
+},
+{
+"word": "vespas",
+"score": 356
+},
+{
+"word": "vessel",
+"score": 482
+},
+{
+"word": "villafria",
+"score": 783
+},
+{
+"word": "visschedyk",
+"score": 1131
+},
+{
+"word": "vmoto",
+"score": 652
+},
+{
+"word": "vulcanizer",
+"score": 705
+},
+{
+"word": "vyrus",
+"score": 996
+},
+{
+"word": "waba",
+"score": 1147
+},
+{
+"word": "wagon",
+"score": 407
+},
+{
+"word": "wakeboard",
+"score": 459
+},
+{
+"word": "wakeboards",
+"score": 679
+},
+{
+"word": "walk",
+"score": 309
+},
+{
+"word": "walkable",
+"score": 982
+},
+{
+"word": "walkboston",
+"score": 583
+},
+{
+"word": "walker",
+"score": 115
+},
+{
+"word": "walker",
+"score": 116
+},
+{
+"word": "walkers",
+"score": 889
+},
+{
+"word": "walking",
+"score": 308
+},
+{
+"word": "walkstyles",
+"score": 204
+},
+{
+"word": "walktober",
+"score": 796
+},
+{
+"word": "wallrides",
+"score": 938
+},
+{
+"word": "waltzer",
+"score": 1103
+},
+{
+"word": "wanship",
+"score": 1037
+},
+{
+"word": "washka",
+"score": 952
+},
+{
+"word": "watercraft",
+"score": 483
+},
+{
+"word": "waterski",
+"score": 822
+},
+{
+"word": "waterskis",
+"score": 752
+},
+{
+"word": "waverunner",
+"score": 440
+},
+{
+"word": "waverunners",
+"score": 755
+},
+{
+"word": "wealing",
+"score": 1186
+},
+{
+"word": "weedeater",
+"score": 1054
+},
+{
+"word": "wegmann",
+"score": 1275
+},
+{
+"word": "weinermobile",
+"score": 384
+},
+{
+"word": "wetsuit",
+"score": 1114
+},
+{
+"word": "weyrens",
+"score": 693
+},
+{
+"word": "wheel",
+"score": 391
+},
+{
+"word": "wheelbarrow",
+"score": 394
+},
+{
+"word": "wheelchair",
+"score": 79
+},
+{
+"word": "wheelchairs",
+"score": 294
+},
+{
+"word": "wheeled",
+"score": 447
+},
+{
+"word": "wheeler",
+"score": 63
+},
+{
+"word": "wheeler",
+"score": 65
+},
+{
+"word": "wheelers",
+"score": 237
+},
+{
+"word": "wheelie",
+"score": 303
+},
+{
+"word": "wheelies",
+"score": 703
+},
+{
+"word": "wheelmen",
+"score": 142
+},
+{
+"word": "wheels",
+"score": 390
+},
+{
+"word": "wheelwork",
+"score": 382
+},
+{
+"word": "wheelworks",
+"score": 381
+},
+{
+"word": "wheelwright",
+"score": 64
+},
+{
+"word": "wheely",
+"score": 266
+},
+{
+"word": "wienermobile",
+"score": 1192
+},
+{
+"word": "wilier",
+"score": 761
+},
+{
+"word": "windmill",
+"score": 607
+},
+{
+"word": "windrock",
+"score": 1046
+},
+{
+"word": "wissbroecker",
+"score": 667
+},
+{
+"word": "wittmack",
+"score": 1148
+},
+{
+"word": "wocher",
+"score": 649
+},
+{
+"word": "wompatuck",
+"score": 1237
+},
+{
+"word": "wordin",
+"score": 894
+},
+{
+"word": "worksman",
+"score": 383
+},
+{
+"word": "wynen",
+"score": 1161
+},
+{
+"word": "xchallenge",
+"score": 858
+},
+{
+"word": "xebras",
+"score": 466
+},
+{
+"word": "ximeno",
+"score": 1221
+},
+{
+"word": "xmods",
+"score": 1040
+},
+{
+"word": "xterra",
+"score": 706
+},
+{
+"word": "xtracycle",
+"score": 88
+},
+{
+"word": "yahama",
+"score": 295
+},
+{
+"word": "yaktrax",
+"score": 804
+},
+{
+"word": "yamaha",
+"score": 1001
+},
+{
+"word": "ycap",
+"score": 1122
+},
+{
+"word": "yikebike",
+"score": 183
+},
+{
+"word": "yolobus",
+"score": 553
+},
+{
+"word": "zabriskie",
+"score": 1097
+},
+{
+"word": "zapino",
+"score": 728
+},
+{
+"word": "zegeer",
+"score": 430
+},
+{
+"word": "zerotracer",
+"score": 854
+},
+{
+"word": "zipcars",
+"score": 1153
+},
+{
+"word": "zipline",
+"score": 975
+},
+{
+"word": "ziplines",
+"score": 1233
+},
+{
+"word": "zipwire",
+"score": 451
+},
+{
+"word": "zmotion",
+"score": 484
+},
+{
+"word": "zorb",
+"score": 491
+},
+{
+"word": "zorbing",
+"score": 919
+},
+{
+"word": "zumo",
+"score": 871
+},
+{
+"word": "zyro",
+"score": 1160
+}
+]
+}
