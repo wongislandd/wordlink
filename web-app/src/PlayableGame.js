@@ -45,7 +45,6 @@ const PlayableGame = ({gameDetails}) => {
   
     return (
       <div className='playableGame'>
-        <header className='header'>Guess a word</header>
         <GuessInput onGuess={handleNewGuess} />
         <History history={guessHistory} gameDetails={gameDetails}/>
       </div>

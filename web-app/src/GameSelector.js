@@ -48,7 +48,6 @@ const GameSelector = ({onSelectionChange}) => {
 
     return (
     <div className='gameSelector'>
-      <header className='header'>Select a game to play!</header>
         <FormControl fullWidth>
         <InputLabel id="game-id-select-label">GameId</InputLabel>
         <Select

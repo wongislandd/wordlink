@@ -1,19 +1,20 @@
-import List from '@mui/material/List';
-import ListItem from '@mui/material/ListItem';
-import ListItemText from '@mui/material/ListItemText';
+import { useContext } from 'react';
+import GameInfoDetails from './GameInfoDetails';
+import { Button, Stack } from '@mui/material';
+import GameStateContext from './GameStateContext';
+import './styles/GameInfo.scss';
 
+export default function GameInfo() {
 
-const GameInfo = ({selectedGameDetails}) => {
-    return (
-        <List sx={{ width: '100%', maxWidth: 360 }}>
-        <ListItem>
-          <ListItemText primary="GameId" secondary={selectedGameDetails.gameId} />
-        </ListItem>
-        <ListItem>
-          <ListItemText primary="Known associations" secondary={selectedGameDetails.totalAssociations} />
-        </ListItem>
-      </List>
-    );
-  }
-  
-export default GameInfo;
+  const { gameState } = useContext(GameStateContext)
+
+  return (
+    <div className='game-info'>
+      { gameState.selectedGameDetails ? 
+        <Stack className="side-padding" spacing={3}>
+            <GameInfoDetails selectedGameDetails={gameState.selectedGameDetails}/>
+        </Stack> : "" 
+      }
+    </div>
+  );
+}
