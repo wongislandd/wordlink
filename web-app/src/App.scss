@@ -1,3 +1,9 @@
+:root {
+  --smallScreenSize: 768px;
+}
+
+$smallScreenSize: 768px;
+
 .App {
   text-align: center;
 }
@@ -167,8 +173,6 @@
   display: flex; /* Use Flexbox */
   flex-direction: column; /* Stack children vertically */
   justify-content: space-between; /* Space between items, pushing the last item to the bottom */
-  height: 100%; /* Takes up full height of its parent, adjust as necessary */
-  border: 1px solid #000; /* Just to show the container's boundary, optional */
 }
 
 body, html {
@@ -182,13 +186,20 @@ body, html {
 .container {
   display: flex;
   height: 100vh;
+
+  @media screen and (max-width: $smallScreenSize) {
+    flex-direction: column;
+  }
 }
 
 .side-panel {
   width: 15%;
   background-color: #77dd77; /* Example color */
   /* Ensure the side panel fills the vertical space */
-  height: 100%;
+  
+  @media screen and (max-width: $smallScreenSize) {
+    width: auto;
+  }
 }
 
 .main-content {

@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import Game from './Game';
 import HowToPlay from './HowToPlay';
 import SidePanel from './SidePanel';
