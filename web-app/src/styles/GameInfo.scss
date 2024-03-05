@@ -1,5 +1,12 @@
+@import './Global.scss';
+
 .game-info {
+    display: block;
     position: absolute;
     top: 0;
     left: 0;
+
+    @media screen and (max-width: $smallScreenSize) {
+        display: none;
+    }
 }

@@ -48,7 +48,8 @@
   color: black; /* Set text color to white for contrast; adjust as needed */
   padding: 20px;
   margin: 10px 0;
-  width: 50vh; /* Fixed width */
+  max-width: 500px;
+  width: 75vw;
   height: 2vh; /* Fixed height */
   display: flex;
   justify-content: space-between; /* Aligns children on opposite ends */
@@ -79,7 +80,8 @@
 }
 
 .guessInput {
-  width: 50vh;
+  max-width: 548px;
+  width: calc(75vw + 48px);
 }
 
 .game {
@@ -124,7 +126,8 @@
 
 .loadingIndicator {
   height: 2vh;
-  width: 50vh;
+  max-width: 548px;
+  width: calc(75vw + 48px);
 }
 
 .list-container {

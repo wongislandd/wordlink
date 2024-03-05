@@ -11,7 +11,7 @@ export default function GameInfo() {
   return (
     <div className='game-info'>
       { gameState.selectedGameDetails ? 
-        <Stack className="side-padding" spacing={3}>
+        <Stack spacing={3}>
             <GameInfoDetails selectedGameDetails={gameState.selectedGameDetails}/>
         </Stack> : "" 
       }
