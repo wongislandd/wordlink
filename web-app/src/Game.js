@@ -49,7 +49,7 @@ const Game = ({ hint, setHint }) => {
         { gameState.selectedGameDetails ? 
             <div className='game__actions'>
               <Button disabled={hint} variant="contained" onClick={getHint}>Get hint</Button>
-              <Button variant="contained" onClick={resetGame}>Restart</Button>
+              <Button variant="contained" onClick={resetGame}>New Game</Button>
             </div>
           : ''
         }
