@@ -55,7 +55,7 @@ When I was in school, I loved messing with React. It was my first taste of front
 ## Automated Deployment (CI/CD)
 Github actions is seriously cool. It took me a bunch of trial/error but I was able to setup the spring server and react app to deploy themselves on new commits. This was a nice touch that made this feel like the real deal.
 
-### Whole Project Context and Takeaways
+## Whole Project Context and Takeaways
 I was getting a craving to just try making something. It didn't need to be anything groundbreaking, I just wanted to benchmark my current skills as a developer. I'll probably do something similar again in a few years. Admittedly, I'm taking a massive amount of inspiration from [Contexto](https://contexto.me/). Having this reference allowed me to focus on the technical implementation over product requirements. I held myself to not look into Contexto's implementation. Not that the information is readily available anywhere, but I wanted to figure the system design part of this out myself.
 
 Working professionally on software has really improved my skills over the past few years. Three years ago I worked on [this capstone project](https://github.com/wongislandd/GerrymanderingWebApp) with two other students over the course of a semester (4-ish months). I worked on this project on/off over like 4 days. Although the scope was considerably smaller, I feel if I was tasked with the same capstone project, I could probably knock it out on my own in a week or two. I'm really excited to continue to grow my skills. Thanks for reading through this journal-like README!
