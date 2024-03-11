@@ -52,6 +52,12 @@ When I was in school, I loved messing with React. It was my first taste of front
 2. Working on this solidified my belief that code really is just code when it comes to design patterns. Whatever you bundle it in, build a package or framework around it in, some design principles just work everywhere. I've been working professionally on Android for around 3 years now, and I feel I was able to pick up React Hooks so quickly because it was pretty similar to LiveData in Android, or the consumer/producer pattern anywhere. Same thing goes for making network calls, handling synchronous functionality, etc.
 3. ChatGPT is seriously powerful when it comes to casual web-development. I feel like there's just so many resources online about web-dev that ChatGPT can just serve as the ultimate aggregator. Basically all my css-styling was written by ChatGPT, big fan.
 
+Wordlink is mobile friendly!
+<img width="403" alt="image" src="https://github.com/wongislandd/wordlink/assets/46093907/950d2c88-d506-4c48-9210-eee9fe9e1feb">
+
+
+
+
 ## Automated Deployment (CI/CD)
 Github actions is seriously cool. It took me a bunch of trial/error but I was able to setup the spring server and react app to deploy themselves on new commits. This was a nice touch that made this feel like the real deal.
 
