@@ -42,6 +42,7 @@ This is the core of the whole game. Give me a word and tell me what game your pl
 ### Small Optimizations/Decisions
 1. Reading and parsing large files can be expensive, and ultimately slow down the user experience. I'm caching the reads of the files into GameFiles. I have a `WeirdCache` which was written by ChatGPT 😉. It stores the 2 latest entries into a list and pushes out the old when new ones come in. If I'm identifying game X's file and it's already in the cache, I'll just take it from there.
 2. The abstraction of the gameId to the game file and resulting target word is intentional. I don't want the client to ever know about the answer word until they guess it. Not in the traffic or anything, is that overkill security on a casual game? Maybe. The mapping is only known by the server.
+3. I learned a bit about valid HTTPS when deploying this, the server is in a JAR being hosted by Azure, so it's handling this for me now. But I previously had this in just in a VM with a self-signed certificate and was seeing a bunch of security warnings/errors. TLDR, getting a trusted authority to host https is not simple/cheap.
 
 ## Web app (React)
 
@@ -53,6 +54,7 @@ When I was in school, I loved messing with React. It was my first taste of front
 3. ChatGPT is seriously powerful when it comes to casual web-development. I feel like there's just so many resources online about web-dev that ChatGPT can just serve as the ultimate aggregator. Basically all my css-styling was written by ChatGPT, big fan.
 
 Wordlink is mobile friendly!
+
 <img width="403" alt="image" src="https://github.com/wongislandd/wordlink/assets/46093907/950d2c88-d506-4c48-9210-eee9fe9e1feb">
 
 
