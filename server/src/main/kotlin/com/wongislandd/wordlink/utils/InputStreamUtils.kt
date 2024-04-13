@@ -16,7 +16,7 @@ object InputStreamUtils {
     private val LOGGER: Logger = LoggerFactory.getLogger(this::class.java.simpleName)
     private val gson = Gson()
 
-    fun     parseStream(inputStream: InputStream): GameFile? {
+    fun parseStream(inputStream: InputStream): GameFile? {
         try {
             val reader = InputStreamReader(inputStream)
             val gameFile = gson.fromJson(reader, GameFile::class.java)

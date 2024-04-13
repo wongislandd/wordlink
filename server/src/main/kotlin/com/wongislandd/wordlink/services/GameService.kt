@@ -35,6 +35,7 @@ class GameService(private val resourceLoader: ResourceLoader): BaseLogger() {
         // Check if we have this in the cache
         val cachedResult = weirdCache.get(gameId)
         if (cachedResult != null) {
+            LOGGER.info("Using cached game!")
             return cachedResult
         }
         val associatedStream = findInputStream(gameId)
