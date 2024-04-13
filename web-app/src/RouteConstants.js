@@ -1,6 +1,8 @@
 // Adjust this if testing locally
-const USING_LOCAL_SERVER = process.env.NODE_ENV === "development"
-const USING_HTTP = process.env.NODE_ENV === "development"
+const USE_PROD_OVERRIDE = true 
+
+const USING_LOCAL_SERVER = process.env.NODE_ENV === "development" && !USE_PROD_OVERRIDE
+const USING_HTTP = process.env.NODE_ENV === "development" && !USE_PROD_OVERRIDE
 
 const REMOTE_BASE_URL = "wordlink.azurewebsites.net"
 const LOCAL_BASE_URL = "localhost:8080"
