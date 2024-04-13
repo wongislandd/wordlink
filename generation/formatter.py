@@ -1,8 +1,26 @@
 import re
 import nltk
+import sys
+import logging
+from IPython.display import display
+from logging import StreamHandler
 from nltk.corpus import wordnet as wn
 
-nltk.download('wordnet')
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+# Create a StreamHandler to redirect logging output to Jupyter Notebook
+handler = StreamHandler(sys.stdout)
+handler.setLevel(logging.INFO)
+
+# Attach the StreamHandler to the logger
+logger = logging.getLogger()
+logger.addHandler(handler)
+
+# Optionally, you can remove any existing handlers to avoid duplicate logs
+logger.handlers = [handler]
+
+
+# nltk.download('wordnet')
 
 def is_valid_word(word):
     return bool(re.match(r'^[a-zA-Z\-]+$', word))
@@ -10,24 +28,45 @@ def is_valid_word(word):
 # Completely invalidate words
 def validate(similarWord, targetWord, knownWords) -> bool:
     if not is_valid_word(similarWord):
+        logging.info(similarWord + " is not a valid word!")
         return False
     if similarWord in knownWords:
+        logging.info(similarWord + " is not a valid word!")
         return False
     if targetWord in similarWord:
+        logging.info(similarWord + " is not a valid word!")
         return False
     else:
         return True
 
 # Use synsets to get more words from each match (this kinda inflates our numbers)
+#DEPRECATED
 def expandWord(originalWord):
+    print("ORIGINAL WORD IS " +originalWord + " --------------------------------------")
     results = set()
     results.add(originalWord)
     synsets = wn.synsets(originalWord, pos="n")
     if len(synsets) == 0:
         return results
     for synset in synsets:
+        print("Adding " + synset.lemmas()[0].name() + " to consideration.")
         results.add(synset.lemmas()[0].name())
     return results
+
+def expandWordWithModel(wordToExpand, model):
+    numExtraWords = 2
+    logging.info("Trying to expand " + wordToExpand)
+    similarityResults = model.most_similar(wordToExpand, numExtraWords)
+    newWords = []
+    for similarResult in similarityResults:
+        word = similarResult[0].lower()
+        logging.info("Expanded " + str(wordToExpand) + " is similar to " + word)
+        if word != wordToExpand:
+            newWords.append(word)
+    return newWords
+
+def test():
+    logging.info("THIS IS AN INFO MESSAGE")
 
 # Enforce conventions (e.g no spaces, underscores, etc.)
 def clean(word) -> str:
@@ -45,18 +84,21 @@ def sort(wordAndScores):
     return wordAndScores
 
 
-def formatResults(targetWord, similarities):
+def formatResults(targetWord, similarities, model):
+    logging.info("STARTING FORMAT RESULTS")
     result = [[targetWord, 0]]
     knownWords = set()
     count = 1
     # Goes in order of similarity
+    logging.info("Similar words " + str(similarities))
     for similarity in similarities:
         similarWord = similarity[0].lower()
         # Skip words that are the same, probably should skip plural too (?)
         if validate(similarWord, targetWord, knownWords):
-            for expandedWord in expandWord(similarWord):
+            for expandedWord in expandWordWithModel(similarWord, model):
                 cleanedWord = clean(expandedWord)
                 if validate(expandedWord, targetWord, knownWords):
+                    logging.info("Absorbing " + expandedWord)
                     result.append([cleanedWord, count])
                     knownWords.add(expandedWord)
                     count += 1

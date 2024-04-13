@@ -6,6 +6,27 @@ import re
 
 from dotenv import load_dotenv
 
+import sys
+import logging
+from IPython.display import display
+from logging import StreamHandler
+from nltk.corpus import wordnet as wn
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+# Create a StreamHandler to redirect logging output to Jupyter Notebook
+handler = StreamHandler(sys.stdout)
+handler.setLevel(logging.INFO)
+
+# Attach the StreamHandler to the logger
+logger = logging.getLogger()
+logger.addHandler(handler)
+
+# Optionally, you can remove any existing handlers to avoid duplicate logs
+logger.handlers = [handler]
+
+
+
 # Load secret .env file
 load_dotenv()
 
@@ -16,7 +37,7 @@ client = OpenAI(api_key=os.getenv('OPEN_AI_KEY'))
 
 def generate_target_words(numWords):
     alreadyGeneratedWords = str(identifyAlreadyGeneratedGames())
-    print("Avoiding existing words:" + alreadyGeneratedWords)
+    logging.info("Asking GPT 3.5...")
     response = client.chat.completions.create(
         model="gpt-3.5-turbo-0125",
         response_format={"type": "json_object"},
@@ -34,6 +55,7 @@ def generate_target_words(numWords):
     try:
         # This can potentially lead to duplicates, we'll solve it later
         content = response.choices[0].message.content
+        logging.info(content)
         jsonForm = json.loads(content)
         return jsonForm['candidates']
     except:
@@ -51,4 +73,4 @@ def identifyAlreadyGeneratedGames():
     return words
 
 if __name__ == '__main__':
-    print(generate_target_words())
+    print(generate_target_words(1))
