@@ -17,11 +17,9 @@ const GameSelector = ({ onSelectionChange }) => {
     axios.get(GET_GAME_IDS_ROUTE)
       .then(res => {
         if (res.data != null) {
-          console.log(res.data)
           setGameIdOptions(res.data)
         }
       }).catch(error => {
-        console.log(error)
         alert("Could not fetch game list")
       }).finally(() => setLoading(false))
   }, [setLoading]
@@ -30,14 +28,12 @@ const GameSelector = ({ onSelectionChange }) => {
   const grabSelectedGameDetails = () => {
     setLoading(true)
     axios.get(GET_GAME_DETAILS_ROUTE, {
-      params: { gameId: localSelection }
+      params: { gameId: localSelection - 1 }
     }).then(res => {
       if (res.data != null) {
-        console.log(res.data)
         onSelectionChange(res.data)
       }
     }).catch(error => {
-      console.log(error)
       alert("Could not fetch game details")
     }
     ).finally(() => setLoading(false))
@@ -59,12 +55,12 @@ const GameSelector = ({ onSelectionChange }) => {
           onChange={e => handleChange(e)}
         >
           {gameIdOptions.map(gameId => {
-            return <MenuItem key={gameId} value={gameId}>{gameId}</MenuItem>
+            return <MenuItem key={gameId + 1} value={gameId + 1}>{gameId + 1}</MenuItem>
           })}
         </Select>
       </FormControl>
       <div className='padding-top'>
-        <Button variant="contained" onClick={(e) => grabSelectedGameDetails()}>Start</Button>
+        <Button variant="contained" onClick={(e) => grabSelectedGameDetails()} className="game-selector__button">Start</Button>
       </div>
     </div>
   );

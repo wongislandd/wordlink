@@ -1,7 +1,12 @@
+@import '../../../styles/main.scss';
+
 .game-selector {
     display: flex;
     flex-direction: column;
     min-width: 20vh;
     align-items: center;
-    /* Center horizontally for all content types */
+
+    &__button {
+        background-color: $primaryBackground !important;
+    }
 }

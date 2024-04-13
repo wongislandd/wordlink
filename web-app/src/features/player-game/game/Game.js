@@ -48,8 +48,8 @@ const Game = ({ hint, setHint }) => {
       <h2 className='header'>{gameState.selectedGameDetails ? 'Guess a word' : 'Select a game to play!'}</h2>
       {gameState.selectedGameDetails ?
         <div className='game__actions'>
-          <Button disabled={hint} variant="contained" onClick={getHint}>Get hint</Button>
-          <Button variant="contained" onClick={resetGame}>New Game</Button>
+          <Button disabled={hint} variant="contained" className="game__actions-button" onClick={getHint}>Get hint</Button>
+          <Button variant="contained" onClick={resetGame} className="game__actions-button">New Game</Button>
         </div>
         : ''
       }
