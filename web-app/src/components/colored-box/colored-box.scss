@@ -1,0 +1,53 @@
+.colored-box {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: black;
+  padding: 24px;
+  margin: 10px 0;
+  max-width: 548px;
+  width: calc(75vw + 48px);
+  height: 2vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: 'ellipsis';
+  white-space: nowrap;
+  border-radius: 8px;
+  border: 4px solid black;
+
+  .text-overflow {
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+
+  .score {
+    margin-left: 16px;
+  }
+}
+
+
+/* Enhanced glowing effect with gold color and size change */
+@keyframes glow-animation {
+
+  0%,
+  100% {
+    box-shadow: 0 0 8px rgba(255, 215, 0, 0.6);
+    /* Gold glow, less intense */
+    transform: scale(1);
+    /* Original size */
+  }
+
+  50% {
+    box-shadow: 0 0 25px rgba(255, 215, 0, 0.9);
+    /* Gold glow, more intense */
+    transform: scale(1.05);
+    /* Slightly larger */
+  }
+}
+
+.glowing {
+  border: 4px solid transparent;
+  animation: glow-animation 2s infinite alternate;
+}

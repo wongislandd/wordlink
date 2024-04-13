@@ -1,8 +1,9 @@
 import { TextField } from '@mui/material';
 import { useContext, useState } from 'react';
-import GameStateContext from './GameStateContext';
+import GameStateContext from '../../../provider/game-state/GameStateContext';
+import './guess-input.scss';
 
-export default function GuessInput({onGuess}) {
+export default function GuessInput({ onGuess }) {
     const [input, setInput] = useState('');
     const { guessHistory } = useContext(GameStateContext)
     console.log(guessHistory)
@@ -46,8 +47,8 @@ export default function GuessInput({onGuess}) {
     };
     return (
         <form onSubmit={handleSubmit}>
-            <div id="mainInput" className="guessInput">
-                <TextField fullWidth onChange={(e) => setInput(e.target.value)} value={input} label="Guess" variant="outlined"/>
+            <div id="mainInput" className="guess-input">
+                <TextField fullWidth onChange={(e) => setInput(e.target.value)} value={input} label="Guess" variant="outlined" />
             </div>
         </form>
     )

@@ -1,257 +1,56 @@
-@import './styles/Global.scss';
+@import './styles/colors';
 
-.App {
+.app {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #c5c8ce;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.header {
-  font-family: 'Comic Sans MS', cursive, sans-serif; /* Maintaining the playful font */
-  color: #000000; /* Changing the color to black */
-  font-size: 32px; /* Increasing the font size for more emphasis */
-  padding: 15px 25px; /* Adjusting padding for the increased font size */
-  margin-bottom: 25px; /* Adjusting space below the header */
-  display: inline-block;
-  transition: transform 0.2s ease-in-out;
-}
-
-.paddingTop {
-  padding-top: 16px;
-}
-
-
-.colored-box {
-  font-family: 'Comic Sans MS', cursive, sans-serif; /* Maintaining the playful font */
-  font-weight: bold; /* Makes the text bold */
-  font-size: 1.2em; /* Sets the font size to medium. Adjust the value as needed */
-  color: black; /* Set text color to white for contrast; adjust as needed */
-  padding: 20px;
-  margin: 10px 0;
-  max-width: 500px;
-  width: 75vw;
-  height: 2vh; /* Fixed height */
-  display: flex;
-  justify-content: space-between; /* Aligns children on opposite ends */
-  align-items: center;
-  overflow: hidden; /* Prevents text from overflowing */
-  text-overflow: 'ellipsis'; /* Adds an ellipsis if the text overflows */
-  white-space: nowrap; /* Keeps the text on a single line */
-  border-radius: 8px; /* Rounds the edges */
-  border: 4px solid black;
-}
-
-/* Enhanced glowing effect with gold color and size change */
-@keyframes glow-animation {
-  0%, 100% {
-    box-shadow: 0 0 8px rgba(255, 215, 0, 0.6); /* Gold glow, less intense */
-    transform: scale(1); /* Original size */
-  }
-  50% {
-    box-shadow: 0 0 25px rgba(255, 215, 0, 0.9); /* Gold glow, more intense */
-    transform: scale(1.05); /* Slightly larger */
-  }
-}
-
-/* Applying the animation */
-.glowing {
-  border: 4px solid transparent;
-  animation: glow-animation 2s infinite alternate;
-}
-
-.guessInput {
-  max-width: 548px;
-  width: calc(75vw + 48px);
-}
-
-.game {
-  display: flex;
-  flex-direction: column;
-  justify-content: center; /* Center vertically */
-  align-items: center; /* Center horizontally for all content types */
-  text-align: center; /* Center text for inline/inline-block elements */
-}
-
-.playableGame {
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* Center horizontally for all content types */
-}
-
-.gameSelector {
-  display: flex;
-  flex-direction: column;
-  min-width: 20vh;
-  align-items: center; /* Center horizontally for all content types */
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-.input-error {
-  animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
-  /* Optional: add a border or background color to highlight the error */
-  border-color: red;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-.loadingIndicator {
-  height: 2vh;
-  max-width: 548px;
-  width: calc(75vw + 48px);
-}
-
-.list-container {
-  flex-grow: 1; /* Make the list container take up the remaining space */
-  overflow-y: auto; /* Enable vertical scrolling */
-}
-
-@keyframes shake {
-  0%, 100% {
-    transform: translateX(0);
-  }
-  10%, 30%, 50%, 70%, 90% {
-    transform: translateX(-10px);
-  }
-  20%, 40%, 60%, 80% {
-    transform: translateX(10px);
-  }
-}
-
-/* Keyframes for the shine effect */
-@keyframes shine {
-  0% {
-    background-position: top right;
-  }
-  100% {
-    background-position: top left;
-  }
-}
-
-.side-panel-container {
-  display: flex; /* Use Flexbox */
-  flex-direction: column; /* Stack children vertically */
-  justify-content: space-between; /* Space between items, pushing the last item to the bottom */
-}
-
-body, html {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-  width: 100%;
 }
 
 .container {
   display: flex;
-  height: 100vh;
+  height: calc(100vh - 64px);
 
   @media screen and (max-width: $smallScreenSize) {
     flex-direction: column;
   }
 }
 
-.side-panel {
-  width: 15%;
-  background-color: $primaryBackground;
-  /* Ensure the side panel fills the vertical space */
-  
-  @media screen and (max-width: $smallScreenSize) {
-    width: auto;
-  }
-}
-
 .main-content {
   position: relative;
-  /* Ensure the main content fills the remaining horizontal space */
-  background-color: #f8f8f7; /* Example color */
-  /* Add some padding if you want to ensure content doesn't touch the edges */
+  background-color: #f8f8f7;
   padding: 20px;
-  box-sizing: border-box; /* Include padding in the element's total width and height */
+  box-sizing: border-box;
 }
 
-/* Directly style the centered content without additional containers */
-.centered-content {
-  /* No specific width; content width dictates size */
-  display: inline-block; /* Inline-block for the content itself */
-  /* Ensures text within the centered content is aligned */
-  text-align: left; 
-}
-
-/* This wrapper centers the .centered-content horizontally */
 .main-content-wrapper {
-  background-color: #f8f8f7; /* Example color */
+  background-color: #f8f8f7;
   text-align: center;
   width: 100%;
-  /* Fill the vertical space, align content to start */
   height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
 }
 
-.left-align {
-  display: inline-block; /* or 'block', depending on your layout needs */
-  text-align: left;
-  width: 100%; /* Ensure it's set to 100% or another specific width if using block or inline-block */
-}
-
-.side-padding {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.icon-button {
-  color: white !important;
-}
-
 /* This styles the scrollbar track (the part the scrollbar moves along) */
 ::-webkit-scrollbar-track {
-  background-color: #f0f0f0; /* light grey, consider changing to match your game's theme */
-  border-radius: 10px; /* rounded corners */
+  background-color: #f0f0f0;
+  border-radius: 10px;
 }
 
 /* This styles the scrollbar handle */
 ::-webkit-scrollbar-thumb {
-  background-color: #888; /* dark grey, adjust as needed */
-  border-radius: 10px; /* rounded corners */
-  border: 3px solid #f0f0f0; /* same as track color for a unified look */
+  background-color: #888;
+  border-radius: 10px;
+  border: 3px solid #f0f0f0;
+  /* same as track color for a unified look */
 }
 
 /* This changes the scrollbar handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #555; /* darker grey, adjust for hover effect */
+  background-color: #555;
+  /* darker grey, adjust for hover effect */
 }
 
 /* This styles the scrollbar itself (width, etc.) */
 ::-webkit-scrollbar {
-  width: 12px; /* adjust as needed */
+  width: 12px;
 }
