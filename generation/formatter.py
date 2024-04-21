@@ -5,7 +5,7 @@ from nltk.corpus import wordnet as wn
 nltk.download('wordnet')
 
 def is_valid_word(word):
-    return bool(re.match(r'^[a-zA-Z\-]+$', word))
+    return bool(re.match(r'^[a-zA-Z]+$', word))
 
 # Completely invalidate words
 def validate(similarWord, targetWord, knownWords) -> bool:
@@ -20,9 +20,10 @@ def validate(similarWord, targetWord, knownWords) -> bool:
 
 # Use synsets to get more words from each match (this kinda inflates our numbers)
 def expandWord(originalWord):
+    cleanedWord = clean(originalWord)
     results = set()
-    results.add(originalWord)
-    synsets = wn.synsets(originalWord, pos="n")
+    results.add(cleanedWord)
+    synsets = wn.synsets(cleanedWord, pos="n")
     if len(synsets) == 0:
         return results
     for synset in synsets:
@@ -35,6 +36,7 @@ def clean(word) -> str:
     return nounify(word).split("_")[0].lower()
 
 def nounify(word) -> str:
+    # TODO
     return word
 
 # Sort the games alphabetically to optimize searching, each word should have the proper index
@@ -51,14 +53,14 @@ def formatResults(targetWord, similarities):
     count = 1
     # Goes in order of similarity
     for similarity in similarities:
-        similarWord = similarity[0].lower()
-        # Skip words that are the same, probably should skip plural too (?)
+        similarWord = similarity[0]
         if validate(similarWord, targetWord, knownWords):
+            # Skip words that are the same, probably should skip plural too (?)
             for expandedWord in expandWord(similarWord):
                 cleanedWord = clean(expandedWord)
-                if validate(expandedWord, targetWord, knownWords):
+                if validate(cleanedWord, targetWord, knownWords):
                     result.append([cleanedWord, count])
-                    knownWords.add(expandedWord)
+                    knownWords.add(cleanedWord)
                     count += 1
     return sort(result)
 
