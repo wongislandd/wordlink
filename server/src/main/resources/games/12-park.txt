@@ -1,0 +1,4353 @@
+{
+"hints": [
+"I have trees without roots, and leaves without branches. I am visited most in the evening, yet no one can enter me. What am I?",
+"I can be found between you and a shady spot. Some like to take a break there, while others prefer to exercise. What am I?",
+"I have swings but no one to push them, I have slides but no one to slide down them. What am I?"
+],
+"associations": [
+{
+"word": "aboretum",
+"score": 543
+},
+{
+"word": "abutter",
+"score": 704
+},
+{
+"word": "abutters",
+"score": 703
+},
+{
+"word": "accessway",
+"score": 15
+},
+{
+"word": "accessways",
+"score": 229
+},
+{
+"word": "accotink",
+"score": 657
+},
+{
+"word": "acre",
+"score": 106
+},
+{
+"word": "acre",
+"score": 107
+},
+{
+"word": "aeromarine",
+"score": 205
+},
+{
+"word": "aghaming",
+"score": 91
+},
+{
+"word": "agreeableness",
+"score": 98
+},
+{
+"word": "agritopia",
+"score": 797
+},
+{
+"word": "airboarding",
+"score": 579
+},
+{
+"word": "akkulam",
+"score": 1032
+},
+{
+"word": "albanir",
+"score": 1033
+},
+{
+"word": "alimagnet",
+"score": 531
+},
+{
+"word": "alladale",
+"score": 333
+},
+{
+"word": "alleygates",
+"score": 824
+},
+{
+"word": "amamoor",
+"score": 1062
+},
+{
+"word": "amble",
+"score": 26
+},
+{
+"word": "amenity",
+"score": 99
+},
+{
+"word": "amenties",
+"score": 350
+},
+{
+"word": "ameriplex",
+"score": 623
+},
+{
+"word": "amphitheater",
+"score": 37
+},
+{
+"word": "ampitheater",
+"score": 16
+},
+{
+"word": "ampitheatre",
+"score": 460
+},
+{
+"word": "amusement",
+"score": 826
+},
+{
+"word": "amusements",
+"score": 827
+},
+{
+"word": "annadel",
+"score": 269
+},
+{
+"word": "ansonborough",
+"score": 909
+},
+{
+"word": "anzelmo",
+"score": 167
+},
+{
+"word": "aonbs",
+"score": 729
+},
+{
+"word": "apcoa",
+"score": 162
+},
+{
+"word": "aptucxet",
+"score": 975
+},
+{
+"word": "aquadome",
+"score": 59
+},
+{
+"word": "aqualand",
+"score": 239
+},
+{
+"word": "aquarena",
+"score": 70
+},
+{
+"word": "aquarium",
+"score": 1012
+},
+{
+"word": "aquatic",
+"score": 1073
+},
+{
+"word": "aquatica",
+"score": 634
+},
+{
+"word": "arastradero",
+"score": 635
+},
+{
+"word": "arboretum",
+"score": 18
+},
+{
+"word": "arborway",
+"score": 414
+},
+{
+"word": "ardenwood",
+"score": 298
+},
+{
+"word": "area",
+"score": 302
+},
+{
+"word": "ascarate",
+"score": 983
+},
+{
+"word": "assateague",
+"score": 700
+},
+{
+"word": "astroland",
+"score": 1041
+},
+{
+"word": "astroworld",
+"score": 62
+},
+{
+"word": "attraction",
+"score": 115
+},
+{
+"word": "attractions",
+"score": 114
+},
+{
+"word": "atving",
+"score": 505
+},
+{
+"word": "aullwood",
+"score": 1016
+},
+{
+"word": "autojumble",
+"score": 766
+},
+{
+"word": "auwahi",
+"score": 697
+},
+{
+"word": "avenham",
+"score": 527
+},
+{
+"word": "avenue",
+"score": 178
+},
+{
+"word": "aviary",
+"score": 428
+},
+{
+"word": "awaysis",
+"score": 469
+},
+{
+"word": "babisz",
+"score": 646
+},
+{
+"word": "backland",
+"score": 290
+},
+{
+"word": "backyard",
+"score": 881
+},
+{
+"word": "badasch",
+"score": 872
+},
+{
+"word": "ballfield",
+"score": 12
+},
+{
+"word": "ballfields",
+"score": 10
+},
+{
+"word": "balmaha",
+"score": 146
+},
+{
+"word": "bamberton",
+"score": 1052
+},
+{
+"word": "bandhavgarh",
+"score": 877
+},
+{
+"word": "bandshell",
+"score": 217
+},
+{
+"word": "bandstand",
+"score": 341
+},
+{
+"word": "bannerghatta",
+"score": 958
+},
+{
+"word": "barloga",
+"score": 322
+},
+{
+"word": "baseyard",
+"score": 613
+},
+{
+"word": "bathhouse",
+"score": 823
+},
+{
+"word": "batiquitos",
+"score": 463
+},
+{
+"word": "bayfront",
+"score": 223
+},
+{
+"word": "baylands",
+"score": 67
+},
+{
+"word": "bayshore",
+"score": 965
+},
+{
+"word": "baywalk",
+"score": 158
+},
+{
+"word": "bbowt",
+"score": 1031
+},
+{
+"word": "beach",
+"score": 53
+},
+{
+"word": "beachfront",
+"score": 561
+},
+{
+"word": "beachline",
+"score": 1020
+},
+{
+"word": "beachwalk",
+"score": 768
+},
+{
+"word": "bearizona",
+"score": 49
+},
+{
+"word": "beavermead",
+"score": 218
+},
+{
+"word": "beltzville",
+"score": 781
+},
+{
+"word": "benchlands",
+"score": 359
+},
+{
+"word": "benezette",
+"score": 601
+},
+{
+"word": "berewick",
+"score": 712
+},
+{
+"word": "berm",
+"score": 540
+},
+{
+"word": "berming",
+"score": 855
+},
+{
+"word": "bernish",
+"score": 935
+},
+{
+"word": "bewilderwood",
+"score": 573
+},
+{
+"word": "bhitarkanika",
+"score": 1067
+},
+{
+"word": "biffy",
+"score": 1053
+},
+{
+"word": "bikefest",
+"score": 753
+},
+{
+"word": "bikepath",
+"score": 56
+},
+{
+"word": "bikeway",
+"score": 133
+},
+{
+"word": "bikeways",
+"score": 401
+},
+{
+"word": "bioblitz",
+"score": 916
+},
+{
+"word": "biodome",
+"score": 254
+},
+{
+"word": "bjola",
+"score": 691
+},
+{
+"word": "blandair",
+"score": 236
+},
+{
+"word": "blonia",
+"score": 204
+},
+{
+"word": "blonie",
+"score": 528
+},
+{
+"word": "blossomwood",
+"score": 960
+},
+{
+"word": "blueway",
+"score": 238
+},
+{
+"word": "blueways",
+"score": 121
+},
+{
+"word": "bluffland",
+"score": 163
+},
+{
+"word": "blufftop",
+"score": 893
+},
+{
+"word": "bmx",
+"score": 961
+},
+{
+"word": "boardwalk",
+"score": 39
+},
+{
+"word": "boardwalks",
+"score": 273
+},
+{
+"word": "boathouse",
+"score": 328
+},
+{
+"word": "boatsheds",
+"score": 459
+},
+{
+"word": "bonniebrook",
+"score": 372
+},
+{
+"word": "bosque",
+"score": 180
+},
+{
+"word": "bothy",
+"score": 903
+},
+{
+"word": "boulevard",
+"score": 179
+},
+{
+"word": "braelinn",
+"score": 611
+},
+{
+"word": "branch",
+"score": 296
+},
+{
+"word": "branchton",
+"score": 529
+},
+{
+"word": "branchwood",
+"score": 336
+},
+{
+"word": "breakheart",
+"score": 104
+},
+{
+"word": "breakwater",
+"score": 1005
+},
+{
+"word": "breitenbush",
+"score": 181
+},
+{
+"word": "bridleway",
+"score": 396
+},
+{
+"word": "bridleways",
+"score": 825
+},
+{
+"word": "brightleaf",
+"score": 627
+},
+{
+"word": "broadmarsh",
+"score": 382
+},
+{
+"word": "broadwaters",
+"score": 883
+},
+{
+"word": "brockhole",
+"score": 629
+},
+{
+"word": "brolis",
+"score": 963
+},
+{
+"word": "brook",
+"score": 252
+},
+{
+"word": "buckroe",
+"score": 620
+},
+{
+"word": "buehlhorn",
+"score": 899
+},
+{
+"word": "bulgarmarsh",
+"score": 164
+},
+{
+"word": "bumbleburg",
+"score": 66
+},
+{
+"word": "bumpouts",
+"score": 1017
+},
+{
+"word": "bunaken",
+"score": 773
+},
+{
+"word": "bunert",
+"score": 1030
+},
+{
+"word": "burrendong",
+"score": 1063
+},
+{
+"word": "bushland",
+"score": 870
+},
+{
+"word": "bwcaw",
+"score": 129
+},
+{
+"word": "cableway",
+"score": 482
+},
+{
+"word": "cageless",
+"score": 603
+},
+{
+"word": "camelbeach",
+"score": 168
+},
+{
+"word": "campground",
+"score": 2
+},
+{
+"word": "campgrounds",
+"score": 11
+},
+{
+"word": "camping",
+"score": 83
+},
+{
+"word": "campland",
+"score": 465
+},
+{
+"word": "campsite",
+"score": 1
+},
+{
+"word": "campsites",
+"score": 33
+},
+{
+"word": "canal",
+"score": 549
+},
+{
+"word": "canalside",
+"score": 330
+},
+{
+"word": "canalway",
+"score": 722
+},
+{
+"word": "canatara",
+"score": 467
+},
+{
+"word": "car",
+"score": 868
+},
+{
+"word": "carlsborg",
+"score": 1055
+},
+{
+"word": "carnival",
+"score": 113
+},
+{
+"word": "caroga",
+"score": 580
+},
+{
+"word": "carousel",
+"score": 970
+},
+{
+"word": "carpools",
+"score": 1078
+},
+{
+"word": "cartway",
+"score": 291
+},
+{
+"word": "casmere",
+"score": 695
+},
+{
+"word": "causeway",
+"score": 345
+},
+{
+"word": "cedarmere",
+"score": 913
+},
+{
+"word": "cemetery",
+"score": 36
+},
+{
+"word": "center",
+"score": 790
+},
+{
+"word": "centeroo",
+"score": 183
+},
+{
+"word": "centroplex",
+"score": 617
+},
+{
+"word": "chadakoin",
+"score": 769
+},
+{
+"word": "chalkwell",
+"score": 817
+},
+{
+"word": "chasewater",
+"score": 410
+},
+{
+"word": "cheaha",
+"score": 530
+},
+{
+"word": "cherriots",
+"score": 1076
+},
+{
+"word": "chillingham",
+"score": 661
+},
+{
+"word": "chintimini",
+"score": 365
+},
+{
+"word": "chuckery",
+"score": 858
+},
+{
+"word": "cinch",
+"score": 199
+},
+{
+"word": "city",
+"score": 196
+},
+{
+"word": "citydeck",
+"score": 265
+},
+{
+"word": "citygarden",
+"score": 316
+},
+{
+"word": "cityowned",
+"score": 761
+},
+{
+"word": "claimjumper",
+"score": 235
+},
+{
+"word": "claireville",
+"score": 966
+},
+{
+"word": "claystone",
+"score": 989
+},
+{
+"word": "cloffocks",
+"score": 392
+},
+{
+"word": "club",
+"score": 707
+},
+{
+"word": "cobbossee",
+"score": 738
+},
+{
+"word": "cochituate",
+"score": 1054
+},
+{
+"word": "cocohatchee",
+"score": 696
+},
+{
+"word": "colcleaser",
+"score": 853
+},
+{
+"word": "commando",
+"score": 127
+},
+{
+"word": "concessionaire",
+"score": 227
+},
+{
+"word": "concessioner",
+"score": 228
+},
+{
+"word": "congamond",
+"score": 689
+},
+{
+"word": "conservancy",
+"score": 150
+},
+{
+"word": "conserve",
+"score": 263
+},
+{
+"word": "cooroibah",
+"score": 649
+},
+{
+"word": "corridor",
+"score": 654
+},
+{
+"word": "cosmeston",
+"score": 778
+},
+{
+"word": "country",
+"score": 1000
+},
+{
+"word": "cove",
+"score": 110
+},
+{
+"word": "cpzs",
+"score": 812
+},
+{
+"word": "creche",
+"score": 750
+},
+{
+"word": "creek",
+"score": 251
+},
+{
+"word": "creek",
+"score": 253
+},
+{
+"word": "creekmoor",
+"score": 765
+},
+{
+"word": "creekside",
+"score": 802
+},
+{
+"word": "creekwalk",
+"score": 208
+},
+{
+"word": "criglersville",
+"score": 991
+},
+{
+"word": "crown",
+"score": 804
+},
+{
+"word": "ctrain",
+"score": 820
+},
+{
+"word": "culdesac",
+"score": 355
+},
+{
+"word": "cvnp",
+"score": 430
+},
+{
+"word": "cyclepath",
+"score": 230
+},
+{
+"word": "cycleway",
+"score": 272
+},
+{
+"word": "cycleways",
+"score": 286
+},
+{
+"word": "dalron",
+"score": 801
+},
+{
+"word": "davistown",
+"score": 1057
+},
+{
+"word": "daylighted",
+"score": 203
+},
+{
+"word": "deannex",
+"score": 767
+},
+{
+"word": "debaliviere",
+"score": 640
+},
+{
+"word": "deerhaven",
+"score": 1059
+},
+{
+"word": "delawanna",
+"score": 1010
+},
+{
+"word": "dell",
+"score": 860
+},
+{
+"word": "dells",
+"score": 859
+},
+{
+"word": "denneys",
+"score": 1047
+},
+{
+"word": "deshner",
+"score": 111
+},
+{
+"word": "devictor",
+"score": 327
+},
+{
+"word": "dhikala",
+"score": 686
+},
+{
+"word": "diggerland",
+"score": 946
+},
+{
+"word": "discoveryland",
+"score": 918
+},
+{
+"word": "disneyland",
+"score": 405
+},
+{
+"word": "disneyland",
+"score": 406
+},
+{
+"word": "disneyquest",
+"score": 234
+},
+{
+"word": "disneysea",
+"score": 128
+},
+{
+"word": "distance",
+"score": 361
+},
+{
+"word": "disused",
+"score": 647
+},
+{
+"word": "ditmanson",
+"score": 297
+},
+{
+"word": "diversion",
+"score": 8
+},
+{
+"word": "dobrinishte",
+"score": 725
+},
+{
+"word": "dockton",
+"score": 314
+},
+{
+"word": "domain",
+"score": 997
+},
+{
+"word": "dosewallips",
+"score": 285
+},
+{
+"word": "downtown",
+"score": 523
+},
+{
+"word": "drainfield",
+"score": 544
+},
+{
+"word": "driveway",
+"score": 625
+},
+{
+"word": "driveways",
+"score": 809
+},
+{
+"word": "drusillas",
+"score": 553
+},
+{
+"word": "duckpond",
+"score": 933
+},
+{
+"word": "duct",
+"score": 550
+},
+{
+"word": "duffyfield",
+"score": 1084
+},
+{
+"word": "dump",
+"score": 480
+},
+{
+"word": "dumpsite",
+"score": 479
+},
+{
+"word": "dune",
+"score": 755
+},
+{
+"word": "duneland",
+"score": 219
+},
+{
+"word": "dunes",
+"score": 756
+},
+{
+"word": "dunrovin",
+"score": 1022
+},
+{
+"word": "dunthorpe",
+"score": 1066
+},
+{
+"word": "durlston",
+"score": 986
+},
+{
+"word": "dussindale",
+"score": 890
+},
+{
+"word": "easement",
+"score": 1043
+},
+{
+"word": "easing",
+"score": 1044
+},
+{
+"word": "eastbrooke",
+"score": 436
+},
+{
+"word": "eastpointe",
+"score": 552
+},
+{
+"word": "ecola",
+"score": 759
+},
+{
+"word": "ecotourist",
+"score": 745
+},
+{
+"word": "edgeway",
+"score": 147
+},
+{
+"word": "elachee",
+"score": 170
+},
+{
+"word": "elapp",
+"score": 1036
+},
+{
+"word": "elitch",
+"score": 516
+},
+{
+"word": "elkhead",
+"score": 1081
+},
+{
+"word": "ellisdale",
+"score": 866
+},
+{
+"word": "elvaton",
+"score": 972
+},
+{
+"word": "entertainment",
+"score": 828
+},
+{
+"word": "entrance",
+"score": 429
+},
+{
+"word": "entranceway",
+"score": 751
+},
+{
+"word": "epcal",
+"score": 124
+},
+{
+"word": "erddig",
+"score": 304
+},
+{
+"word": "esplanade",
+"score": 288
+},
+{
+"word": "esplanades",
+"score": 287
+},
+{
+"word": "estate",
+"score": 996
+},
+{
+"word": "estero",
+"score": 1070
+},
+{
+"word": "eurong",
+"score": 994
+},
+{
+"word": "exclosure",
+"score": 838
+},
+{
+"word": "expressway",
+"score": 257
+},
+{
+"word": "eyesore",
+"score": 504
+},
+{
+"word": "faehner",
+"score": 1069
+},
+{
+"word": "fairground",
+"score": 24
+},
+{
+"word": "fairgrounds",
+"score": 43
+},
+{
+"word": "fakahatchee",
+"score": 976
+},
+{
+"word": "fallkill",
+"score": 618
+},
+{
+"word": "fallschase",
+"score": 953
+},
+{
+"word": "fallsville",
+"score": 435
+},
+{
+"word": "fargate",
+"score": 537
+},
+{
+"word": "farming",
+"score": 999
+},
+{
+"word": "fazeley",
+"score": 1058
+},
+{
+"word": "fearrey",
+"score": 1034
+},
+{
+"word": "fejervary",
+"score": 562
+},
+{
+"word": "felbrigg",
+"score": 173
+},
+{
+"word": "fenced",
+"score": 52
+},
+{
+"word": "fenceless",
+"score": 705
+},
+{
+"word": "fencerows",
+"score": 932
+},
+{
+"word": "fernbank",
+"score": 914
+},
+{
+"word": "fernery",
+"score": 731
+},
+{
+"word": "fernkloof",
+"score": 476
+},
+{
+"word": "fernway",
+"score": 692
+},
+{
+"word": "fieldhouses",
+"score": 663
+},
+{
+"word": "firestation",
+"score": 151
+},
+{
+"word": "fixup",
+"score": 749
+},
+{
+"word": "flood",
+"score": 1026
+},
+{
+"word": "floodplain",
+"score": 879
+},
+{
+"word": "florewood",
+"score": 619
+},
+{
+"word": "floriade",
+"score": 723
+},
+{
+"word": "flowage",
+"score": 1025
+},
+{
+"word": "flowerbed",
+"score": 990
+},
+{
+"word": "flowertown",
+"score": 865
+},
+{
+"word": "flowrider",
+"score": 1046
+},
+{
+"word": "fluter",
+"score": 785
+},
+{
+"word": "follensby",
+"score": 241
+},
+{
+"word": "footbridge",
+"score": 569
+},
+{
+"word": "footpath",
+"score": 46
+},
+{
+"word": "footpaths",
+"score": 69
+},
+{
+"word": "footway",
+"score": 940
+},
+{
+"word": "foping",
+"score": 987
+},
+{
+"word": "foreshore",
+"score": 653
+},
+{
+"word": "foreshores",
+"score": 652
+},
+{
+"word": "forest",
+"score": 418
+},
+{
+"word": "forestbrook",
+"score": 742
+},
+{
+"word": "forthside",
+"score": 819
+},
+{
+"word": "fountain",
+"score": 283
+},
+{
+"word": "frimand",
+"score": 485
+},
+{
+"word": "frontcountry",
+"score": 268
+},
+{
+"word": "frrpd",
+"score": 982
+},
+{
+"word": "funfair",
+"score": 112
+},
+{
+"word": "funfairs",
+"score": 491
+},
+{
+"word": "funland",
+"score": 950
+},
+{
+"word": "funplex",
+"score": 100
+},
+{
+"word": "funtasia",
+"score": 892
+},
+{
+"word": "gamelands",
+"score": 47
+},
+{
+"word": "garage",
+"score": 352
+},
+{
+"word": "garages",
+"score": 353
+},
+{
+"word": "garden",
+"score": 175
+},
+{
+"word": "gardens",
+"score": 174
+},
+{
+"word": "gardenwalk",
+"score": 225
+},
+{
+"word": "garrapata",
+"score": 604
+},
+{
+"word": "garwacke",
+"score": 656
+},
+{
+"word": "gazebo",
+"score": 152
+},
+{
+"word": "germonds",
+"score": 717
+},
+{
+"word": "ggnra",
+"score": 32
+},
+{
+"word": "gillmoss",
+"score": 667
+},
+{
+"word": "glastenbury",
+"score": 222
+},
+{
+"word": "glenmere",
+"score": 736
+},
+{
+"word": "glenoaks",
+"score": 954
+},
+{
+"word": "glenshire",
+"score": 510
+},
+{
+"word": "gliderport",
+"score": 1040
+},
+{
+"word": "globeville",
+"score": 721
+},
+{
+"word": "glynllifon",
+"score": 1068
+},
+{
+"word": "gmug",
+"score": 807
+},
+{
+"word": "golfland",
+"score": 906
+},
+{
+"word": "gonarezhou",
+"score": 274
+},
+{
+"word": "gondola",
+"score": 869
+},
+{
+"word": "goodrington",
+"score": 344
+},
+{
+"word": "goosepond",
+"score": 407
+},
+{
+"word": "gorongosa",
+"score": 489
+},
+{
+"word": "gorumara",
+"score": 959
+},
+{
+"word": "grassless",
+"score": 1013
+},
+{
+"word": "grassy",
+"score": 962
+},
+{
+"word": "graveyard",
+"score": 1045
+},
+{
+"word": "greenbelt",
+"score": 6
+},
+{
+"word": "greenbelts",
+"score": 515
+},
+{
+"word": "greeneway",
+"score": 399
+},
+{
+"word": "greenscape",
+"score": 270
+},
+{
+"word": "greenspace",
+"score": 13
+},
+{
+"word": "greenspaces",
+"score": 40
+},
+{
+"word": "greensward",
+"score": 221
+},
+{
+"word": "greenway",
+"score": 5
+},
+{
+"word": "greenways",
+"score": 337
+},
+{
+"word": "groyne",
+"score": 1006
+},
+{
+"word": "gsmnp",
+"score": 438
+},
+{
+"word": "habitat",
+"score": 776
+},
+{
+"word": "hagstette",
+"score": 321
+},
+{
+"word": "hahamongna",
+"score": 676
+},
+{
+"word": "hakatere",
+"score": 470
+},
+{
+"word": "halbeath",
+"score": 434
+},
+{
+"word": "hamsterley",
+"score": 747
+},
+{
+"word": "harbins",
+"score": 458
+},
+{
+"word": "harborwalk",
+"score": 206
+},
+{
+"word": "harbourfront",
+"score": 900
+},
+{
+"word": "hardstanding",
+"score": 79
+},
+{
+"word": "harlinsdale",
+"score": 317
+},
+{
+"word": "hartbrook",
+"score": 884
+},
+{
+"word": "harveston",
+"score": 683
+},
+{
+"word": "hashawha",
+"score": 247
+},
+{
+"word": "haverthwaite",
+"score": 666
+},
+{
+"word": "hayfield",
+"score": 94
+},
+{
+"word": "haymeadow",
+"score": 873
+},
+{
+"word": "heatherbrae",
+"score": 746
+},
+{
+"word": "heeia",
+"score": 1035
+},
+{
+"word": "hellroaring",
+"score": 262
+},
+{
+"word": "hermanville",
+"score": 760
+},
+{
+"word": "heronry",
+"score": 259
+},
+{
+"word": "highbanks",
+"score": 166
+},
+{
+"word": "highway",
+"score": 684
+},
+{
+"word": "higlin",
+"score": 471
+},
+{
+"word": "hillmoor",
+"score": 856
+},
+{
+"word": "hippodrome",
+"score": 758
+},
+{
+"word": "hodney",
+"score": 590
+},
+{
+"word": "hogadon",
+"score": 726
+},
+{
+"word": "hohokam",
+"score": 833
+},
+{
+"word": "hollingbury",
+"score": 792
+},
+{
+"word": "hollywild",
+"score": 852
+},
+{
+"word": "homolovi",
+"score": 144
+},
+{
+"word": "honeygo",
+"score": 364
+},
+{
+"word": "hopyard",
+"score": 630
+},
+{
+"word": "horcajo",
+"score": 902
+},
+{
+"word": "horsefair",
+"score": 714
+},
+{
+"word": "horsemarket",
+"score": 597
+},
+{
+"word": "horseneck",
+"score": 416
+},
+{
+"word": "hostel",
+"score": 709
+},
+{
+"word": "hovenweep",
+"score": 857
+},
+{
+"word": "huntfield",
+"score": 248
+},
+{
+"word": "hvaler",
+"score": 184
+},
+{
+"word": "ichetucknee",
+"score": 474
+},
+{
+"word": "ikego",
+"score": 487
+},
+{
+"word": "inholding",
+"score": 688
+},
+{
+"word": "inholdings",
+"score": 888
+},
+{
+"word": "interesection",
+"score": 875
+},
+{
+"word": "interlocken",
+"score": 560
+},
+{
+"word": "ioco",
+"score": 793
+},
+{
+"word": "ivywild",
+"score": 35
+},
+{
+"word": "jacobsburg",
+"score": 775
+},
+{
+"word": "jarveys",
+"score": 439
+},
+{
+"word": "jaunakais",
+"score": 376
+},
+{
+"word": "jellystone",
+"score": 38
+},
+{
+"word": "jordanelle",
+"score": 602
+},
+{
+"word": "jungala",
+"score": 930
+},
+{
+"word": "kaiteriteri",
+"score": 878
+},
+{
+"word": "kanapaha",
+"score": 679
+},
+{
+"word": "kanopolis",
+"score": 910
+},
+{
+"word": "karijini",
+"score": 68
+},
+{
+"word": "kechnec",
+"score": 904
+},
+{
+"word": "kejimkujik",
+"score": 320
+},
+{
+"word": "kennekuk",
+"score": 117
+},
+{
+"word": "kennywood",
+"score": 981
+},
+{
+"word": "kernel",
+"score": 791
+},
+{
+"word": "kiddieland",
+"score": 1039
+},
+{
+"word": "kidspace",
+"score": 311
+},
+{
+"word": "kidsville",
+"score": 119
+},
+{
+"word": "kincora",
+"score": 536
+},
+{
+"word": "kingdom",
+"score": 1003
+},
+{
+"word": "kliebe",
+"score": 125
+},
+{
+"word": "kloof",
+"score": 1077
+},
+{
+"word": "knoebels",
+"score": 64
+},
+{
+"word": "kobrock",
+"score": 600
+},
+{
+"word": "koellermeier",
+"score": 915
+},
+{
+"word": "kohora",
+"score": 848
+},
+{
+"word": "kokee",
+"score": 457
+},
+{
+"word": "kopachuck",
+"score": 25
+},
+{
+"word": "kopje",
+"score": 829
+},
+{
+"word": "koppie",
+"score": 830
+},
+{
+"word": "kruea",
+"score": 473
+},
+{
+"word": "kualoa",
+"score": 867
+},
+{
+"word": "ladygrove",
+"score": 810
+},
+{
+"word": "lagoon",
+"score": 338
+},
+{
+"word": "lake",
+"score": 54
+},
+{
+"word": "lakefront",
+"score": 122
+},
+{
+"word": "lakefronts",
+"score": 123
+},
+{
+"word": "lakepoint",
+"score": 789
+},
+{
+"word": "lakes",
+"score": 912
+},
+{
+"word": "lakeshore",
+"score": 157
+},
+{
+"word": "lakeside",
+"score": 156
+},
+{
+"word": "lakesides",
+"score": 508
+},
+{
+"word": "lakewalk",
+"score": 506
+},
+{
+"word": "lambridge",
+"score": 923
+},
+{
+"word": "land",
+"score": 998
+},
+{
+"word": "land",
+"score": 1004
+},
+{
+"word": "landscaped",
+"score": 108
+},
+{
+"word": "landscaping",
+"score": 576
+},
+{
+"word": "landuse",
+"score": 1060
+},
+{
+"word": "laneway",
+"score": 685
+},
+{
+"word": "laneways",
+"score": 945
+},
+{
+"word": "lansing",
+"score": 943
+},
+{
+"word": "lansings",
+"score": 942
+},
+{
+"word": "lantau",
+"score": 1056
+},
+{
+"word": "larksfield",
+"score": 582
+},
+{
+"word": "larwill",
+"score": 1014
+},
+{
+"word": "lawned",
+"score": 519
+},
+{
+"word": "laybys",
+"score": 390
+},
+{
+"word": "ldnpa",
+"score": 461
+},
+{
+"word": "lead",
+"score": 71
+},
+{
+"word": "leashless",
+"score": 93
+},
+{
+"word": "legoland",
+"score": 242
+},
+{
+"word": "leisureland",
+"score": 861
+},
+{
+"word": "lenado",
+"score": 446
+},
+{
+"word": "letort",
+"score": 149
+},
+{
+"word": "libertyland",
+"score": 594
+},
+{
+"word": "lido",
+"score": 261
+},
+{
+"word": "lightrail",
+"score": 772
+},
+{
+"word": "linoff",
+"score": 668
+},
+{
+"word": "lionshead",
+"score": 172
+},
+{
+"word": "llanarthne",
+"score": 244
+},
+{
+"word": "lochside",
+"score": 670
+},
+{
+"word": "lodge",
+"score": 708
+},
+{
+"word": "lodge",
+"score": 710
+},
+{
+"word": "lodmoor",
+"score": 307
+},
+{
+"word": "looff",
+"score": 542
+},
+{
+"word": "lullwater",
+"score": 177
+},
+{
+"word": "lumphini",
+"score": 468
+},
+{
+"word": "mackerricher",
+"score": 82
+},
+{
+"word": "majete",
+"score": 105
+},
+{
+"word": "makoshika",
+"score": 554
+},
+{
+"word": "makuleke",
+"score": 324
+},
+{
+"word": "malaekahana",
+"score": 397
+},
+{
+"word": "mall",
+"score": 450
+},
+{
+"word": "mamzar",
+"score": 908
+},
+{
+"word": "mannsdale",
+"score": 715
+},
+{
+"word": "manzoline",
+"score": 992
+},
+{
+"word": "marahau",
+"score": 798
+},
+{
+"word": "marane",
+"score": 694
+},
+{
+"word": "marcheano",
+"score": 622
+},
+{
+"word": "marina",
+"score": 19
+},
+{
+"word": "marineland",
+"score": 101
+},
+{
+"word": "marineland",
+"score": 102
+},
+{
+"word": "markeaton",
+"score": 752
+},
+{
+"word": "marymoor",
+"score": 258
+},
+{
+"word": "mastrick",
+"score": 748
+},
+{
+"word": "matchams",
+"score": 951
+},
+{
+"word": "matiatia",
+"score": 292
+},
+{
+"word": "mattakeesett",
+"score": 988
+},
+{
+"word": "mauao",
+"score": 728
+},
+{
+"word": "maxair",
+"score": 395
+},
+{
+"word": "maysfield",
+"score": 308
+},
+{
+"word": "mccamly",
+"score": 889
+},
+{
+"word": "mcvetty",
+"score": 161
+},
+{
+"word": "meadow",
+"score": 95
+},
+{
+"word": "meadowhill",
+"score": 131
+},
+{
+"word": "meadowland",
+"score": 424
+},
+{
+"word": "memorial",
+"score": 77
+},
+{
+"word": "menagerie",
+"score": 42
+},
+{
+"word": "menantico",
+"score": 289
+},
+{
+"word": "merrimon",
+"score": 243
+},
+{
+"word": "metrorail",
+"score": 911
+},
+{
+"word": "metrozoo",
+"score": 323
+},
+{
+"word": "mgahinga",
+"score": 572
+},
+{
+"word": "michillinda",
+"score": 727
+},
+{
+"word": "midmountain",
+"score": 929
+},
+{
+"word": "midway",
+"score": 885
+},
+{
+"word": "midway",
+"score": 886
+},
+{
+"word": "midways",
+"score": 887
+},
+{
+"word": "mikumi",
+"score": 671
+},
+{
+"word": "millersylvania",
+"score": 60
+},
+{
+"word": "millpond",
+"score": 806
+},
+{
+"word": "millrace",
+"score": 484
+},
+{
+"word": "millsite",
+"score": 784
+},
+{
+"word": "millswood",
+"score": 514
+},
+{
+"word": "millyard",
+"score": 595
+},
+{
+"word": "miniland",
+"score": 278
+},
+{
+"word": "minnekhada",
+"score": 720
+},
+{
+"word": "minnewanka",
+"score": 421
+},
+{
+"word": "minsi",
+"score": 699
+},
+{
+"word": "minvilla",
+"score": 706
+},
+{
+"word": "mirabay",
+"score": 456
+},
+{
+"word": "mittersill",
+"score": 931
+},
+{
+"word": "mixeduse",
+"score": 275
+},
+{
+"word": "mkhuze",
+"score": 813
+},
+{
+"word": "mocciae",
+"score": 509
+},
+{
+"word": "monument",
+"score": 78
+},
+{
+"word": "monuments",
+"score": 947
+},
+{
+"word": "moodenbaugh",
+"score": 507
+},
+{
+"word": "moonridge",
+"score": 379
+},
+{
+"word": "moreleta",
+"score": 1011
+},
+{
+"word": "motat",
+"score": 432
+},
+{
+"word": "motorplex",
+"score": 250
+},
+{
+"word": "mournes",
+"score": 659
+},
+{
+"word": "mprb",
+"score": 332
+},
+{
+"word": "mudhole",
+"score": 571
+},
+{
+"word": "muga",
+"score": 92
+},
+{
+"word": "multistorey",
+"score": 145
+},
+{
+"word": "multiuse",
+"score": 558
+},
+{
+"word": "murf",
+"score": 1072
+},
+{
+"word": "museum",
+"score": 65
+},
+{
+"word": "nagarhole",
+"score": 941
+},
+{
+"word": "nahanton",
+"score": 702
+},
+{
+"word": "namadgi",
+"score": 741
+},
+{
+"word": "nameri",
+"score": 606
+},
+{
+"word": "nation",
+"score": 1002
+},
+{
+"word": "ndoki",
+"score": 925
+},
+{
+"word": "neigbhorhood",
+"score": 871
+},
+{
+"word": "neighborhood",
+"score": 584
+},
+{
+"word": "nieghborhood",
+"score": 137
+},
+{
+"word": "nimisila",
+"score": 305
+},
+{
+"word": "nimkin",
+"score": 97
+},
+{
+"word": "nonmotorized",
+"score": 148
+},
+{
+"word": "nonquon",
+"score": 1009
+},
+{
+"word": "northend",
+"score": 176
+},
+{
+"word": "northlake",
+"score": 840
+},
+{
+"word": "nub",
+"score": 681
+},
+{
+"word": "nubble",
+"score": 682
+},
+{
+"word": "nymore",
+"score": 607
+},
+{
+"word": "oakwoods",
+"score": 664
+},
+{
+"word": "oatland",
+"score": 165
+},
+{
+"word": "oceanarium",
+"score": 388
+},
+{
+"word": "oceanway",
+"score": 1037
+},
+{
+"word": "oconaluftee",
+"score": 587
+},
+{
+"word": "ofway",
+"score": 834
+},
+{
+"word": "ohanapecosh",
+"score": 140
+},
+{
+"word": "ohrv",
+"score": 475
+},
+{
+"word": "ohv",
+"score": 762
+},
+{
+"word": "ohvs",
+"score": 422
+},
+{
+"word": "okahumpka",
+"score": 349
+},
+{
+"word": "olifants",
+"score": 650
+},
+{
+"word": "olompali",
+"score": 978
+},
+{
+"word": "opechee",
+"score": 624
+},
+{
+"word": "openair",
+"score": 120
+},
+{
+"word": "opoutama",
+"score": 757
+},
+{
+"word": "oprd",
+"score": 777
+},
+{
+"word": "orv",
+"score": 980
+},
+{
+"word": "orvs",
+"score": 384
+},
+{
+"word": "osmington",
+"score": 743
+},
+{
+"word": "osmp",
+"score": 716
+},
+{
+"word": "otterspool",
+"score": 306
+},
+{
+"word": "ouabache",
+"score": 331
+},
+{
+"word": "oudekraal",
+"score": 842
+},
+{
+"word": "overdevelop",
+"score": 260
+},
+{
+"word": "oversnow",
+"score": 426
+},
+{
+"word": "oxpens",
+"score": 75
+},
+{
+"word": "pachaug",
+"score": 639
+},
+{
+"word": "packsaddle",
+"score": 559
+},
+{
+"word": "paddleboats",
+"score": 526
+},
+{
+"word": "pahaska",
+"score": 503
+},
+{
+"word": "pakowhai",
+"score": 898
+},
+{
+"word": "palamar",
+"score": 342
+},
+{
+"word": "panthertown",
+"score": 412
+},
+{
+"word": "pantoll",
+"score": 169
+},
+{
+"word": "pantops",
+"score": 927
+},
+{
+"word": "pardall",
+"score": 423
+},
+{
+"word": "park",
+"score": 0
+},
+{
+"word": "pasagshak",
+"score": 373
+},
+{
+"word": "paseos",
+"score": 138
+},
+{
+"word": "pathway",
+"score": 45
+},
+{
+"word": "pauba",
+"score": 713
+},
+{
+"word": "pavilion",
+"score": 17
+},
+{
+"word": "pavilions",
+"score": 403
+},
+{
+"word": "pavillion",
+"score": 312
+},
+{
+"word": "pavillions",
+"score": 551
+},
+{
+"word": "pawtuckaway",
+"score": 763
+},
+{
+"word": "paynetown",
+"score": 368
+},
+{
+"word": "pedestrian",
+"score": 610
+},
+{
+"word": "pedestrianise",
+"score": 921
+},
+{
+"word": "pedway",
+"score": 608
+},
+{
+"word": "pedways",
+"score": 346
+},
+{
+"word": "penmet",
+"score": 402
+},
+{
+"word": "pepperhill",
+"score": 938
+},
+{
+"word": "picnic",
+"score": 200
+},
+{
+"word": "picnicker",
+"score": 377
+},
+{
+"word": "picnickers",
+"score": 378
+},
+{
+"word": "picnicking",
+"score": 408
+},
+{
+"word": "picnics",
+"score": 897
+},
+{
+"word": "pier",
+"score": 118
+},
+{
+"word": "pinery",
+"score": 687
+},
+{
+"word": "pinewald",
+"score": 780
+},
+{
+"word": "pit",
+"score": 614
+},
+{
+"word": "pittong",
+"score": 917
+},
+{
+"word": "playfield",
+"score": 130
+},
+{
+"word": "playfields",
+"score": 141
+},
+{
+"word": "playground",
+"score": 4
+},
+{
+"word": "playgrounds",
+"score": 132
+},
+{
+"word": "playland",
+"score": 356
+},
+{
+"word": "playlands",
+"score": 1008
+},
+{
+"word": "playscape",
+"score": 48
+},
+{
+"word": "playscapes",
+"score": 88
+},
+{
+"word": "playspace",
+"score": 466
+},
+{
+"word": "playworld",
+"score": 675
+},
+{
+"word": "plaza",
+"score": 20
+},
+{
+"word": "plazas",
+"score": 849
+},
+{
+"word": "pleasureland",
+"score": 194
+},
+{
+"word": "plitvice",
+"score": 648
+},
+{
+"word": "pogonip",
+"score": 821
+},
+{
+"word": "polipoli",
+"score": 209
+},
+{
+"word": "pond",
+"score": 189
+},
+{
+"word": "ponderlodge",
+"score": 928
+},
+{
+"word": "pondless",
+"score": 538
+},
+{
+"word": "ponds",
+"score": 795
+},
+{
+"word": "pondside",
+"score": 598
+},
+{
+"word": "pontaluna",
+"score": 567
+},
+{
+"word": "ponterril",
+"score": 1050
+},
+{
+"word": "poolhouse",
+"score": 445
+},
+{
+"word": "portaventura",
+"score": 643
+},
+{
+"word": "portland",
+"score": 500
+},
+{
+"word": "portlands",
+"score": 499
+},
+{
+"word": "powdermill",
+"score": 971
+},
+{
+"word": "prairietown",
+"score": 926
+},
+{
+"word": "preserve",
+"score": 264
+},
+{
+"word": "presny",
+"score": 374
+},
+{
+"word": "prey",
+"score": 615
+},
+{
+"word": "promenade",
+"score": 27
+},
+{
+"word": "promenades",
+"score": 415
+},
+{
+"word": "pulag",
+"score": 718
+},
+{
+"word": "pull-off",
+"score": 389
+},
+{
+"word": "pumalin",
+"score": 631
+},
+{
+"word": "pumphouse",
+"score": 605
+},
+{
+"word": "punakaiki",
+"score": 1049
+},
+{
+"word": "purnululu",
+"score": 811
+},
+{
+"word": "pymatuning",
+"score": 197
+},
+{
+"word": "qpws",
+"score": 891
+},
+{
+"word": "quad",
+"score": 363
+},
+{
+"word": "quadding",
+"score": 621
+},
+{
+"word": "quarry",
+"score": 616
+},
+{
+"word": "quarterline",
+"score": 1051
+},
+{
+"word": "quarterpath",
+"score": 155
+},
+{
+"word": "quincunx",
+"score": 1028
+},
+{
+"word": "racetrack",
+"score": 419
+},
+{
+"word": "raceway",
+"score": 420
+},
+{
+"word": "rachowicz",
+"score": 956
+},
+{
+"word": "railbed",
+"score": 310
+},
+{
+"word": "railyard",
+"score": 973
+},
+{
+"word": "ramada",
+"score": 74
+},
+{
+"word": "ramadas",
+"score": 30
+},
+{
+"word": "ranchette",
+"score": 1074
+},
+{
+"word": "ranger",
+"score": 431
+},
+{
+"word": "rangers",
+"score": 126
+},
+{
+"word": "rathtrevor",
+"score": 319
+},
+{
+"word": "ravine",
+"score": 478
+},
+{
+"word": "ravines",
+"score": 477
+},
+{
+"word": "recpath",
+"score": 246
+},
+{
+"word": "recplex",
+"score": 1023
+},
+{
+"word": "recreation",
+"score": 7
+},
+{
+"word": "recreational",
+"score": 55
+},
+{
+"word": "recreationalists",
+"score": 534
+},
+{
+"word": "recreationists",
+"score": 398
+},
+{
+"word": "redeveloped",
+"score": 794
+},
+{
+"word": "refreshment",
+"score": 9
+},
+{
+"word": "region",
+"score": 585
+},
+{
+"word": "relandscaped",
+"score": 31
+},
+{
+"word": "rengstorff",
+"score": 451
+},
+{
+"word": "rennovated",
+"score": 693
+},
+{
+"word": "replatted",
+"score": 455
+},
+{
+"word": "replatting",
+"score": 882
+},
+{
+"word": "repository",
+"score": 76
+},
+{
+"word": "resaca",
+"score": 574
+},
+{
+"word": "resited",
+"score": 425
+},
+{
+"word": "restroom",
+"score": 977
+},
+{
+"word": "restrooms",
+"score": 232
+},
+{
+"word": "rethemed",
+"score": 779
+},
+{
+"word": "revegetate",
+"score": 488
+},
+{
+"word": "revegetated",
+"score": 557
+},
+{
+"word": "reverchon",
+"score": 843
+},
+{
+"word": "revitilization",
+"score": 939
+},
+{
+"word": "rightof",
+"score": 1082
+},
+{
+"word": "ringinglow",
+"score": 644
+},
+{
+"word": "riverbank",
+"score": 191
+},
+{
+"word": "rivercane",
+"score": 351
+},
+{
+"word": "riverfront",
+"score": 63
+},
+{
+"word": "riverfronts",
+"score": 701
+},
+{
+"word": "rivergreenway",
+"score": 44
+},
+{
+"word": "riverlife",
+"score": 109
+},
+{
+"word": "riverplex",
+"score": 787
+},
+{
+"word": "riverpointe",
+"score": 744
+},
+{
+"word": "riverquarium",
+"score": 846
+},
+{
+"word": "riverscape",
+"score": 280
+},
+{
+"word": "riversedge",
+"score": 771
+},
+{
+"word": "riverside",
+"score": 192
+},
+{
+"word": "riverside",
+"score": 193
+},
+{
+"word": "riversides",
+"score": 651
+},
+{
+"word": "rivertrail",
+"score": 782
+},
+{
+"word": "riverwalk",
+"score": 29
+},
+{
+"word": "riverwalks",
+"score": 367
+},
+{
+"word": "riverway",
+"score": 28
+},
+{
+"word": "rmnp",
+"score": 301
+},
+{
+"word": "roadway",
+"score": 444
+},
+{
+"word": "rockwall",
+"score": 669
+},
+{
+"word": "rollerblade",
+"score": 591
+},
+{
+"word": "rollerblade",
+"score": 592
+},
+{
+"word": "rollerblading",
+"score": 512
+},
+{
+"word": "rollerdrome",
+"score": 533
+},
+{
+"word": "rondevlei",
+"score": 520
+},
+{
+"word": "ronto",
+"score": 318
+},
+{
+"word": "rosevale",
+"score": 609
+},
+{
+"word": "roundabouts",
+"score": 969
+},
+{
+"word": "routeburn",
+"score": 1007
+},
+{
+"word": "ruhenstroth",
+"score": 698
+},
+{
+"word": "saasveld",
+"score": 1024
+},
+{
+"word": "sacklin",
+"score": 730
+},
+{
+"word": "saddleridge",
+"score": 658
+},
+{
+"word": "sagewillow",
+"score": 441
+},
+{
+"word": "saltholme",
+"score": 381
+},
+{
+"word": "samlarc",
+"score": 850
+},
+{
+"word": "sanbona",
+"score": 949
+},
+{
+"word": "sandbaai",
+"score": 343
+},
+{
+"word": "sandbox",
+"score": 299
+},
+{
+"word": "sandpit",
+"score": 300
+},
+{
+"word": "sandpits",
+"score": 586
+},
+{
+"word": "sandspit",
+"score": 202
+},
+{
+"word": "sapperton",
+"score": 411
+},
+{
+"word": "sarasbaug",
+"score": 1048
+},
+{
+"word": "scaleybark",
+"score": 831
+},
+{
+"word": "scenic",
+"score": 1029
+},
+{
+"word": "sceusi",
+"score": 665
+},
+{
+"word": "schexnailder",
+"score": 660
+},
+{
+"word": "schlitterbahn",
+"score": 245
+},
+{
+"word": "schoolyard",
+"score": 673
+},
+{
+"word": "schoolyards",
+"score": 674
+},
+{
+"word": "seafront",
+"score": 195
+},
+{
+"word": "seafronts",
+"score": 711
+},
+{
+"word": "seaparc",
+"score": 1038
+},
+{
+"word": "seascape",
+"score": 521
+},
+{
+"word": "seashore",
+"score": 139
+},
+{
+"word": "seawalk",
+"score": 21
+},
+{
+"word": "seaworld",
+"score": 800
+},
+{
+"word": "section",
+"score": 295
+},
+{
+"word": "selcra",
+"score": 937
+},
+{
+"word": "seltzer",
+"score": 734
+},
+{
+"word": "seltzers",
+"score": 735
+},
+{
+"word": "sesfontein",
+"score": 880
+},
+{
+"word": "shadowlawn",
+"score": 733
+},
+{
+"word": "shakarparian",
+"score": 593
+},
+{
+"word": "shartenberg",
+"score": 518
+},
+{
+"word": "shawfair",
+"score": 404
+},
+{
+"word": "shawneeland",
+"score": 546
+},
+{
+"word": "sheepmount",
+"score": 486
+},
+{
+"word": "shellmound",
+"score": 315
+},
+{
+"word": "shelterhouse",
+"score": 14
+},
+{
+"word": "shijingshan",
+"score": 334
+},
+{
+"word": "shinewater",
+"score": 599
+},
+{
+"word": "shoppingtown",
+"score": 783
+},
+{
+"word": "shopton",
+"score": 525
+},
+{
+"word": "shorefront",
+"score": 135
+},
+{
+"word": "shoreline",
+"score": 413
+},
+{
+"word": "shorne",
+"score": 847
+},
+{
+"word": "shoulder",
+"score": 539
+},
+{
+"word": "showfield",
+"score": 255
+},
+{
+"word": "showground",
+"score": 210
+},
+{
+"word": "showgrounds",
+"score": 400
+},
+{
+"word": "showmobile",
+"score": 96
+},
+{
+"word": "shukert",
+"score": 796
+},
+{
+"word": "sidewalk",
+"score": 564
+},
+{
+"word": "sidewalks",
+"score": 563
+},
+{
+"word": "sideyard",
+"score": 774
+},
+{
+"word": "siebeneicher",
+"score": 370
+},
+{
+"word": "silverlakes",
+"score": 23
+},
+{
+"word": "sinnemahoning",
+"score": 490
+},
+{
+"word": "sinnissippi",
+"score": 231
+},
+{
+"word": "sipcot",
+"score": 570
+},
+{
+"word": "site",
+"score": 839
+},
+{
+"word": "sjothun",
+"score": 385
+},
+{
+"word": "skateable",
+"score": 335
+},
+{
+"word": "skateway",
+"score": 87
+},
+{
+"word": "skifield",
+"score": 770
+},
+{
+"word": "skybridges",
+"score": 581
+},
+{
+"word": "skyride",
+"score": 329
+},
+{
+"word": "slackbuie",
+"score": 952
+},
+{
+"word": "smokemont",
+"score": 142
+},
+{
+"word": "snoasis",
+"score": 818
+},
+{
+"word": "snowcoach",
+"score": 190
+},
+{
+"word": "snowcoaches",
+"score": 517
+},
+{
+"word": "snowdome",
+"score": 633
+},
+{
+"word": "snowplay",
+"score": 34
+},
+{
+"word": "snowshed",
+"score": 347
+},
+{
+"word": "snowskate",
+"score": 383
+},
+{
+"word": "snra",
+"score": 936
+},
+{
+"word": "soakzone",
+"score": 276
+},
+{
+"word": "soundside",
+"score": 339
+},
+{
+"word": "soundwalls",
+"score": 894
+},
+{
+"word": "southend",
+"score": 922
+},
+{
+"word": "space",
+"score": 360
+},
+{
+"word": "spaces",
+"score": 362
+},
+{
+"word": "spatto",
+"score": 309
+},
+{
+"word": "spenceville",
+"score": 786
+},
+{
+"word": "sperrgebiet",
+"score": 366
+},
+{
+"word": "sphere",
+"score": 303
+},
+{
+"word": "splashpad",
+"score": 3
+},
+{
+"word": "splashtown",
+"score": 103
+},
+{
+"word": "sportsfield",
+"score": 626
+},
+{
+"word": "sportsfields",
+"score": 277
+},
+{
+"word": "sportsground",
+"score": 240
+},
+{
+"word": "sportsgrounds",
+"score": 437
+},
+{
+"word": "sportsplex",
+"score": 84
+},
+{
+"word": "sprayground",
+"score": 159
+},
+{
+"word": "spraygrounds",
+"score": 85
+},
+{
+"word": "spring",
+"score": 284
+},
+{
+"word": "squannacook",
+"score": 985
+},
+{
+"word": "squilchuck",
+"score": 233
+},
+{
+"word": "stadium",
+"score": 188
+},
+{
+"word": "staffopoulos",
+"score": 498
+},
+{
+"word": "state",
+"score": 1001
+},
+{
+"word": "stavres",
+"score": 841
+},
+{
+"word": "steetley",
+"score": 454
+},
+{
+"word": "steinwehr",
+"score": 216
+},
+{
+"word": "stokesay",
+"score": 393
+},
+{
+"word": "stonefields",
+"score": 502
+},
+{
+"word": "stonehammer",
+"score": 845
+},
+{
+"word": "stonycreek",
+"score": 1015
+},
+{
+"word": "storyland",
+"score": 1042
+},
+{
+"word": "street",
+"score": 944
+},
+{
+"word": "streetcar",
+"score": 211
+},
+{
+"word": "streetscape",
+"score": 979
+},
+{
+"word": "streetscaping",
+"score": 993
+},
+{
+"word": "streetscene",
+"score": 957
+},
+{
+"word": "subdivision",
+"score": 294
+},
+{
+"word": "subdivison",
+"score": 279
+},
+{
+"word": "subdivisons",
+"score": 596
+},
+{
+"word": "subdivsion",
+"score": 739
+},
+{
+"word": "subsection",
+"score": 293
+},
+{
+"word": "sugarlands",
+"score": 642
+},
+{
+"word": "summerlake",
+"score": 313
+},
+{
+"word": "sunnidale",
+"score": 905
+},
+{
+"word": "sunsphere",
+"score": 662
+},
+{
+"word": "sunsplash",
+"score": 86
+},
+{
+"word": "surrey",
+"score": 815
+},
+{
+"word": "surrey",
+"score": 816
+},
+{
+"word": "surreys",
+"score": 814
+},
+{
+"word": "svelund",
+"score": 566
+},
+{
+"word": "svetahor",
+"score": 920
+},
+{
+"word": "swannery",
+"score": 524
+},
+{
+"word": "swedetown",
+"score": 655
+},
+{
+"word": "swicklas",
+"score": 369
+},
+{
+"word": "switzgable",
+"score": 545
+},
+{
+"word": "sylamore",
+"score": 1061
+},
+{
+"word": "szcodronski",
+"score": 89
+},
+{
+"word": "talacre",
+"score": 271
+},
+{
+"word": "tanhouse",
+"score": 497
+},
+{
+"word": "tarlair",
+"score": 501
+},
+{
+"word": "tarmaced",
+"score": 394
+},
+{
+"word": "tarrywile",
+"score": 116
+},
+{
+"word": "taughannock",
+"score": 1065
+},
+{
+"word": "tawd",
+"score": 955
+},
+{
+"word": "tawharanui",
+"score": 340
+},
+{
+"word": "teewah",
+"score": 678
+},
+{
+"word": "tenaja",
+"score": 565
+},
+{
+"word": "tenkiller",
+"score": 874
+},
+{
+"word": "tenter",
+"score": 1079
+},
+{
+"word": "tenters",
+"score": 1080
+},
+{
+"word": "tequesquite",
+"score": 548
+},
+{
+"word": "tettegouche",
+"score": 805
+},
+{
+"word": "thickthorn",
+"score": 547
+},
+{
+"word": "thingvellir",
+"score": 1083
+},
+{
+"word": "thornby",
+"score": 555
+},
+{
+"word": "thoroughfare",
+"score": 371
+},
+{
+"word": "throughfare",
+"score": 934
+},
+{
+"word": "throughway",
+"score": 511
+},
+{
+"word": "throughways",
+"score": 256
+},
+{
+"word": "tibidabo",
+"score": 737
+},
+{
+"word": "tideland",
+"score": 588
+},
+{
+"word": "tikitapu",
+"score": 589
+},
+{
+"word": "tilgate",
+"score": 964
+},
+{
+"word": "tinside",
+"score": 182
+},
+{
+"word": "tmnp",
+"score": 226
+},
+{
+"word": "tobesofkee",
+"score": 672
+},
+{
+"word": "tolay",
+"score": 249
+},
+{
+"word": "topstone",
+"score": 612
+},
+{
+"word": "tortuguero",
+"score": 386
+},
+{
+"word": "toryglen",
+"score": 822
+},
+{
+"word": "tourmobile",
+"score": 492
+},
+{
+"word": "town",
+"score": 495
+},
+{
+"word": "town",
+"score": 496
+},
+{
+"word": "township",
+"score": 494
+},
+{
+"word": "townshipwide",
+"score": 637
+},
+{
+"word": "townsite",
+"score": 325
+},
+{
+"word": "towpath",
+"score": 513
+},
+{
+"word": "trail",
+"score": 72
+},
+{
+"word": "trailhead",
+"score": 22
+},
+{
+"word": "trailheads",
+"score": 61
+},
+{
+"word": "trailnet",
+"score": 442
+},
+{
+"word": "trails",
+"score": 73
+},
+{
+"word": "trailside",
+"score": 391
+},
+{
+"word": "trailway",
+"score": 185
+},
+{
+"word": "trailways",
+"score": 143
+},
+{
+"word": "tram",
+"score": 214
+},
+{
+"word": "tramcar",
+"score": 213
+},
+{
+"word": "tramway",
+"score": 212
+},
+{
+"word": "transitway",
+"score": 535
+},
+{
+"word": "trashmore",
+"score": 153
+},
+{
+"word": "travous",
+"score": 449
+},
+{
+"word": "trebah",
+"score": 754
+},
+{
+"word": "treed",
+"score": 281
+},
+{
+"word": "treetop",
+"score": 803
+},
+{
+"word": "trelissick",
+"score": 732
+},
+{
+"word": "trevarno",
+"score": 462
+},
+{
+"word": "tridge",
+"score": 387
+},
+{
+"word": "trolley",
+"score": 724
+},
+{
+"word": "troublefield",
+"score": 740
+},
+{
+"word": "tuhey",
+"score": 443
+},
+{
+"word": "tumamoc",
+"score": 844
+},
+{
+"word": "tumf",
+"score": 632
+},
+{
+"word": "turf",
+"score": 220
+},
+{
+"word": "tuscawilla",
+"score": 224
+},
+{
+"word": "tuzigoot",
+"score": 198
+},
+{
+"word": "twanoh",
+"score": 690
+},
+{
+"word": "tweetsie",
+"score": 578
+},
+{
+"word": "tynehead",
+"score": 267
+},
+{
+"word": "tyrrelstown",
+"score": 907
+},
+{
+"word": "udawalawe",
+"score": 924
+},
+{
+"word": "umore",
+"score": 808
+},
+{
+"word": "underpass",
+"score": 266
+},
+{
+"word": "underpasses",
+"score": 1085
+},
+{
+"word": "unfenced",
+"score": 481
+},
+{
+"word": "unicorporated",
+"score": 483
+},
+{
+"word": "unmowed",
+"score": 440
+},
+{
+"word": "unplatted",
+"score": 719
+},
+{
+"word": "upzoned",
+"score": 764
+},
+{
+"word": "useppa",
+"score": 1027
+},
+{
+"word": "vancouvercenter",
+"score": 948
+},
+{
+"word": "vandalur",
+"score": 799
+},
+{
+"word": "verdemont",
+"score": 160
+},
+{
+"word": "verlot",
+"score": 282
+},
+{
+"word": "vicinity",
+"score": 583
+},
+{
+"word": "viewscape",
+"score": 433
+},
+{
+"word": "viewscapes",
+"score": 641
+},
+{
+"word": "viewshed",
+"score": 677
+},
+{
+"word": "viex",
+"score": 186
+},
+{
+"word": "vinewood",
+"score": 862
+},
+{
+"word": "vinp",
+"score": 638
+},
+{
+"word": "virungas",
+"score": 447
+},
+{
+"word": "visionland",
+"score": 90
+},
+{
+"word": "voelcker",
+"score": 984
+},
+{
+"word": "vondelinde",
+"score": 354
+},
+{
+"word": "vourderis",
+"score": 968
+},
+{
+"word": "vrany",
+"score": 568
+},
+{
+"word": "vredehoek",
+"score": 1075
+},
+{
+"word": "waldameer",
+"score": 51
+},
+{
+"word": "walk",
+"score": 58
+},
+{
+"word": "walkable",
+"score": 895
+},
+{
+"word": "walkway",
+"score": 57
+},
+{
+"word": "walkways",
+"score": 154
+},
+{
+"word": "walldogs",
+"score": 636
+},
+{
+"word": "wanoga",
+"score": 577
+},
+{
+"word": "wanuskewin",
+"score": 556
+},
+{
+"word": "wasena",
+"score": 81
+},
+{
+"word": "waterbody",
+"score": 967
+},
+{
+"word": "watercourse",
+"score": 453
+},
+{
+"word": "waterfront",
+"score": 50
+},
+{
+"word": "watermead",
+"score": 532
+},
+{
+"word": "waterplay",
+"score": 134
+},
+{
+"word": "waterscape",
+"score": 522
+},
+{
+"word": "waterslide",
+"score": 348
+},
+{
+"word": "waterslides",
+"score": 326
+},
+{
+"word": "watertower",
+"score": 832
+},
+{
+"word": "waterview",
+"score": 896
+},
+{
+"word": "waterway",
+"score": 452
+},
+{
+"word": "waterwood",
+"score": 1019
+},
+{
+"word": "wayside",
+"score": 358
+},
+{
+"word": "waysides",
+"score": 357
+},
+{
+"word": "weaversville",
+"score": 375
+},
+{
+"word": "wekiwa",
+"score": 80
+},
+{
+"word": "westfir",
+"score": 901
+},
+{
+"word": "westside",
+"score": 575
+},
+{
+"word": "westworld",
+"score": 448
+},
+{
+"word": "wetland",
+"score": 215
+},
+{
+"word": "wetlands",
+"score": 493
+},
+{
+"word": "whalom",
+"score": 136
+},
+{
+"word": "whinlatter",
+"score": 876
+},
+{
+"word": "whitlingham",
+"score": 201
+},
+{
+"word": "whizzgo",
+"score": 1021
+},
+{
+"word": "widewater",
+"score": 427
+},
+{
+"word": "wienerstube",
+"score": 788
+},
+{
+"word": "wilderness",
+"score": 863
+},
+{
+"word": "wilderness",
+"score": 864
+},
+{
+"word": "wildernest",
+"score": 187
+},
+{
+"word": "wildlife",
+"score": 836
+},
+{
+"word": "wildwood",
+"score": 464
+},
+{
+"word": "willamalane",
+"score": 1018
+},
+{
+"word": "willawong",
+"score": 919
+},
+{
+"word": "winnequah",
+"score": 207
+},
+{
+"word": "winnicut",
+"score": 1064
+},
+{
+"word": "woldumar",
+"score": 851
+},
+{
+"word": "wompatuck",
+"score": 380
+},
+{
+"word": "wonderland",
+"score": 995
+},
+{
+"word": "wonderworks",
+"score": 171
+},
+{
+"word": "wooded",
+"score": 409
+},
+{
+"word": "woodland",
+"score": 417
+},
+{
+"word": "woodline",
+"score": 835
+},
+{
+"word": "woolaroc",
+"score": 1071
+},
+{
+"word": "wrnf",
+"score": 837
+},
+{
+"word": "wupatki",
+"score": 237
+},
+{
+"word": "xcaret",
+"score": 472
+},
+{
+"word": "xemxija",
+"score": 645
+},
+{
+"word": "xeriscaped",
+"score": 680
+},
+{
+"word": "yard",
+"score": 974
+},
+{
+"word": "yeoor",
+"score": 541
+},
+{
+"word": "zoo",
+"score": 41
+},
+{
+"word": "zoomazium",
+"score": 854
+},
+{
+"word": "zwicks",
+"score": 628
+}
+]
+}
