@@ -2,11 +2,8 @@ import re
 from gensim.models.keyedvectors import KeyedVectors
 from logging import Logger
 
-# [('parks', 0.7697824835777283), ('Park', 0.613426685333252), ('superintendent_Dave_Uberuaga', 0.5954588055610657), ('skate_park', 0.5911567211151123), ('parkland', 0.5799823999404907), ('Kohler_Andrae', 0.5719486474990845), ('campground', 0.5696098804473877), ('Taraji_Henson_knocked', 0.5658068060874939), ('Castaway_Cove', 0.5577318668365479), ('skateboard_park', 0.5547470450401306)]
-# [('parks', 0.8084913492202759), ('mini-park', 0.7792015671730042), ('park.', 0.7655825018882751), ('park-', 0.7648172974586487), ('car-park', 0.7393319606781006), ('playpark', 0.7369222640991211), ('parkside', 0.7366726398468018), ('eco-park', 0.7325339317321777), ('self-park', 0.7237145900726318), ('cark', 0.717343270778656)]
-
 def is_valid_word(word):
-    return bool(re.match(r'^[a-zA-Z\-]+$', word))
+    return bool(re.match(r'^[a-zA-Z]+$', word))
 
 
 # Completely invalidate words
@@ -75,7 +72,7 @@ def sort(wordAndScores):
     return wordAndScores
 
 
-def formatResults(target_word: str, initial_associations, word2vec: KeyedVectors, logger: Logger):
+def formatResults(target_word: str, initial_associations, word2vec: KeyedVectors, logger: Logger, should_sort = True):
     all_base_words = get_words_from_associations(initial_associations)
     logger.info("Staring with " + str(all_base_words))
     final_result = [[target_word, 0]]
@@ -96,7 +93,10 @@ def formatResults(target_word: str, initial_associations, word2vec: KeyedVectors
                     final_result.append([cleaned_word, count])
                     known_words.add(expandedWord)
                     count += 1
-    return sort(final_result)
+    if (should_sort):
+        return sort(final_result)
+    else:
+        return final_result
 
 
 testWord = "king"

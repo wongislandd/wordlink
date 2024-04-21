@@ -1,0 +1,133 @@
+{
+    "hints": [],
+    "associations": [
+        {
+            "word": "park",
+            "score": 0
+        },
+        {
+            "word": "street",
+            "score": 1
+        },
+        {
+            "word": "phoenix",
+            "score": 2
+        },
+        {
+            "word": "hall",
+            "score": 3
+        },
+        {
+            "word": "center",
+            "score": 4
+        },
+        {
+            "word": "hill",
+            "score": 5
+        },
+        {
+            "word": "square",
+            "score": 6
+        },
+        {
+            "word": "mountain",
+            "score": 7
+        },
+        {
+            "word": "road",
+            "score": 8
+        },
+        {
+            "word": "tower",
+            "score": 9
+        },
+        {
+            "word": "garden",
+            "score": 10
+        },
+        {
+            "word": "town",
+            "score": 11
+        },
+        {
+            "word": "east",
+            "score": 12
+        },
+        {
+            "word": "coast",
+            "score": 13
+        },
+        {
+            "word": "south",
+            "score": 14
+        },
+        {
+            "word": "home",
+            "score": 15
+        },
+        {
+            "word": "next",
+            "score": 16
+        },
+        {
+            "word": "house",
+            "score": 17
+        },
+        {
+            "word": "from",
+            "score": 18
+        },
+        {
+            "word": "at",
+            "score": 19
+        },
+        {
+            "word": "city",
+            "score": 20
+        },
+        {
+            "word": "london",
+            "score": 21
+        },
+        {
+            "word": "singapore",
+            "score": 22
+        },
+        {
+            "word": "sydney",
+            "score": 23
+        },
+        {
+            "word": "melbourne",
+            "score": 24
+        },
+        {
+            "word": "houston",
+            "score": 25
+        },
+        {
+            "word": "orleans",
+            "score": 26
+        },
+        {
+            "word": "chicago",
+            "score": 27
+        },
+        {
+            "word": "detroit",
+            "score": 28
+        },
+        {
+            "word": "brooklyn",
+            "score": 29
+        },
+        {
+            "word": "west",
+            "score": 30
+        },
+        {
+            "word": "north",
+            "score": 31
+        }
+    ]
+}
