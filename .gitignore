@@ -1,3 +1,4 @@
 *.idea
 *.env
 generation/.env
+generation/.ipynb_checkpoints/
