@@ -37,21 +37,22 @@ num_words_to_expand_to = 5
 # I have a similar word, walk
 # I want to take walk and expand it
 def expandWord(base_similar_word, base_similar_word_confidence, word2vec: KeyedVectors, logger: Logger) -> list[str]:
+    cleaned_similar_word = clean(base_similar_word)
     results = set()
-    results.add(base_similar_word)
+    results.add(cleaned_similar_word)
     if base_similar_word_confidence < confidence_threshold_for_expansion:
-        logger.info("[Word Expansion] Not expanding " + base_similar_word + " due to confidence level.")
+        logger.info("[Word Expansion] Not expanding " + cleaned_similar_word + " due to confidence level.")
         return list(results)
-    child_similar_word_associations = word2vec.most_similar(base_similar_word, topn=num_words_to_expand_to)
+    child_similar_word_associations = word2vec.most_similar(cleaned_similar_word, topn=num_words_to_expand_to)
     created_word_candidates = str(child_similar_word_associations)
-    logger.info("[Word Expansion] From " + base_similar_word + " discovered: " + str(created_word_candidates))
+    logger.info("[Word Expansion] From " + cleaned_similar_word + " discovered: " + str(created_word_candidates))
     for child_similar_word_association in child_similar_word_associations:
         child_similar_word = child_similar_word_association[0].lower()
         child_similar_word_confidence = child_similar_word_association[1]
         if child_similar_word_confidence < second_degree_confidence_threshold:
             logger.info("[Word Expansion] Child similar word " + child_similar_word + " discarded due to low confidence.")
             continue
-        logger.info("[Word Expansion] Derived " + child_similar_word + " from " + base_similar_word)
+        logger.info("[Word Expansion] Derived " + child_similar_word + " from " + cleaned_similar_word)
         results.add(child_similar_word)
     return list(results)
 
