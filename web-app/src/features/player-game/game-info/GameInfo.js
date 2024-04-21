@@ -1,8 +1,8 @@
 import { useContext } from 'react';
-import GameInfoDetails from './GameInfoDetails';
+import GameInfoDetails from '../GameInfoDetails';
 import { Stack } from '@mui/material';
-import GameStateContext from './GameStateContext';
-import './styles/GameInfo.scss';
+import GameStateContext from '../../../provider/game-state/GameStateContext';
+import './game-info.scss';
 
 export default function GameInfo() {
 

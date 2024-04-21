@@ -1,8 +1,8 @@
-import logo from './assets/wordlinkLogo-no-bg.webp'
+import logo from '../../assets/wordlinkLogo-no-bg.webp'
 import { IconButton, Modal, Box, Typography } from '@mui/material';
 import { Help } from '@mui/icons-material';
 import { useState } from 'react';
-import './styles/AppHeader.scss';
+import './app-header.scss';
 
 const style = {
     position: 'absolute',

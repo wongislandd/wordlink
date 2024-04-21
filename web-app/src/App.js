@@ -1,13 +1,13 @@
 import './App.scss';
-import AppHeader from './AppHeader';
-import Game from './Game';
-import GameInfo from './GameInfo';
+import AppHeader from './components/app-header/AppHeader';
+import Game from './features/player-game/game/Game';
+import GameInfo from './features/player-game/game-info/GameInfo';
 import { useState } from 'react';
 
 function App() {
   const [hint, setHint] = useState(null)
   return (
-    <div className="App">
+    <div className="app">
       <AppHeader />
       <div className='container'>
         <div className="main-content-wrapper">

@@ -1,0 +1,35 @@
+@import '../../../styles/main.scss';
+
+.game {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    &__actions {
+        display: flex;
+        flex-direction: row;
+        gap: 16px;
+
+        &-button:not(.Mui-disabled) {
+            background-color: $primaryBackground !important;
+        }
+    }
+
+    .loading-indicator {
+        height: 2vh;
+        max-width: 548px;
+        width: calc(75vw + 48px);
+    }
+
+    .header {
+        font-family: 'Comic Sans MS', cursive, sans-serif;
+        color: #000000;
+        font-size: 32px;
+        padding: 15px 25px;
+        margin-bottom: 25px;
+        display: inline-block;
+        transition: transform 0.2s ease-in-out;
+    }
+}
